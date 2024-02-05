@@ -1,0 +1,172 @@
+{
+  "seller": {
+    "user": {
+      "id": "159402943",
+      "name": "abbymerwin",
+      "isActivationCompleted": true,
+      "joinedAt": 1693912364,
+      "profile": {
+        "displayName": "Merwin"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/de59cd7557426490c2e11c69f1d9b97c-1697395152506/73c3d563-400f-435f-8b94-01c6d1b409de.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "EUR",
+    "rate": 0.9738633738,
+    "template": "€{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "€"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 159402943,
+      "seller_username": "abbymerwin",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 159402943,
+      "reviews": [
+        {
+          "id": "6586c5075c478900012db9bd",
+          "comment": "Thank you so much",
+          "comment_language": "en",
+          "username": "infinitygfx51",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/075ee31a2d757c244b73849b561d4c00-1638901410581/1345605e-2723-46a7-8a6f-33ae97964369.png",
+          "created_at": "2023-12-23T11:31:19",
+          "value": 5
+        },
+        {
+          "id": "65866c6b5c478900012d95e0",
+          "comment": "good buyer",
+          "comment_language": "en",
+          "username": "misi_seo",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9540045ad8815b62a358e8c0ebf8a540-1614721651676/0e523433-2dfc-45f8-9851-8f7d0d32ef5b.jpg",
+          "created_at": "2023-12-23T05:13:15",
+          "value": 5
+        },
+        {
+          "id": "6585efbe5c478900012d5c65",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "growthex1",
+          "reviewer_country_code": "PK",
+          "created_at": "2023-12-22T20:21:18",
+          "value": 5
+        },
+        {
+          "id": "65844ba35c478900012c3d07",
+          "comment": "Outstanding experience thank you ",
+          "comment_language": "en",
+          "username": "nasir_khan3",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/309f0a172630181db1a4593f068f3478-1673585541801/a07e4b00-2d2e-4dd8-92b7-748cb4a7f33c.png",
+          "created_at": "2023-12-21T14:28:52",
+          "value": 5
+        },
+        {
+          "id": "657c7e1adbf8680001ffecae",
+          "comment": "Great buyer",
+          "comment_language": "en",
+          "username": "sanadesignss",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8ce419b75b0d51adb7f0c0da7f14b1f3-1701444155026/a91b7955-4c04-428f-8fa5-b3e5d3be4308.jpg",
+          "created_at": "2023-12-15T16:26:02",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 159402943,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

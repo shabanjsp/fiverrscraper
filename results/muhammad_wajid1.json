@@ -1,0 +1,170 @@
+{
+  "seller": {
+    "user": {
+      "id": "162843937",
+      "name": "muhammad_wajid1",
+      "isActivationCompleted": true,
+      "joinedAt": 1698543266,
+      "profile": {
+        "displayName": "Muhammad Wajid"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/d2686e59e6aea38dcbce454f5aac04f4-1628439371702418665743/JPEG_20231213_030424_-974709072.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": false,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "24/7 freelancer with innovation and a deep understanding of data science, I can help you bring your ideas to life.\nI have completed a variety of projects using Python, one of the most powerful programming languages for data science. From predictive analytics to natural language processing",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6470565f07789005d57",
+        "name": "Deep learning",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Deep learning expert"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "EUR",
+    "rate": 0.9738633738,
+    "template": "€{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "€"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "659a3a3193c3a4007696aac8",
+          "comment": "The seller writing prowess not only met but exceeded my expectations, delivering a well-researched and articulate piece. Highly recommended for academic excellence.\"",
+          "comment_language": "en",
+          "username": "charlenewaren",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/53e8156d5382058924b331c20c837a06-1690785768382/541482a3-c1bd-4e98-afcf-5d3ac1122899.jpg",
+          "created_at": "2024-01-07T07:41:23",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO729C24041C7",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 356319203,
+          "gig_slug": "do-essay-writing-research-summary-case-study-reports-and-proof-reading-for-you",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2432,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 89,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 162843937,
+      "seller_username": "muhammad_wajid1",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 162843937,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162843937,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": []
+}
