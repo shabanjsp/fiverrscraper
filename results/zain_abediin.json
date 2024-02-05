@@ -1,0 +1,616 @@
+{
+  "seller": {
+    "user": {
+      "id": "141524047",
+      "name": "zain_abediin",
+      "isActivationCompleted": true,
+      "joinedAt": 1672774303,
+      "profile": {
+        "displayName": "Zain A."
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "HI",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/1e0c52a3ebd43d0a1d542094607863be-1688202768344/4ff7abb2-eec2-48bc-a75d-51bf2959598d.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "352337632"
+        },
+        {
+          "id": "352379861"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Experienced software engineer dedicated to delivering solutions",
+    "description": "Welcome! I’m Zain-ul-Abedin, a certified Full-Stack Developer. With a wealth of experience in the software engineering field, I am committed to providing top-notch services that drive positive outcomes for your business. Whether you’re interested in exploring my portfolio or discussing how my diverse expertise can benefit your business, I invite you to contact me. Rest assured, your satisfaction is my priority, and I’m committed to delivering excellence through my work.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Codecademy",
+        "certificationName": "Database Design",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Codecademy",
+        "certificationName": "Javascript",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Coursera",
+        "certificationName": "programming with C",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Codecademy",
+        "certificationName": "Graphic Design",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "software engineering",
+        "toYear": 2022,
+        "countryCode": "PK",
+        "school": "Punjab University college of information technology",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa6470565f07789005d3a",
+        "name": "Database design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Database designer"
+      },
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Full stack web developer"
+      },
+      {
+        "id": "617fa6650565f077890065fe",
+        "name": "Mobile apps development",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Mobile apps developer"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6720565f077890069db",
+        "name": "Software testing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Software tester"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65bbb1c8db5c2d0001622c1b",
+          "title": "Web Application For Real Estate ",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "65bbb1c8db5c2d0001622c1c",
+                "attachment": {
+                  "metadata": {
+                    "height": 900,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/a399df1c0acf59ba756881366d035d40-1706799331594/home_page.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65bbc4596c1afe0001967d1e",
+          "title": "Modern E-commerce Website",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65bbc4596c1afe0001967d1f",
+                "attachment": {
+                  "metadata": {
+                    "height": 675,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/93fe50e2a5c3015eadfb5c95256b3dd5-1706804268049/college.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65bbc6d66c1afe0001967e05",
+          "title": "Family Travel Blog Website",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65bbc6d66c1afe0001967e06",
+                "attachment": {
+                  "metadata": {
+                    "height": 564,
+                    "width": 752
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1d28e24f8e5cf963db021fbfdbb864c9-1706804833943/home_page.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 3
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 9
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65adec1b49d34f2171b3c8ff",
+          "comment": "this is my first collaboration with an expert on Fiverr and I am confident to happily state that the experience has been nothing short of a dream. Cooperative, polite, and passionate, just like me, Zain was awesome, and Fiverr ensured my delivery is done timely. Thank you Zain for your commitment and excellence!",
+          "comment_language": "en",
+          "username": "agnimita_c",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fd6e552e85cbc646df07c63e3a2491f6-1704791670497/796dc691-2031-42f3-8e32-6a1ce88c04d3.jpg",
+          "created_at": "2024-01-22T15:16:14",
+          "value": 5,
+          "reviewer_country": "India",
+          "encrypted_order_id": "FO423D6320AC8",
+          "score": 0.72119457,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 352337632,
+          "gig_slug": "do-wordpress-website-development",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 100,
+          "price_range_end": 200,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a65524bf4cff45b9f4d202",
+          "comment": "Outstanding work! Zain A successfully added video call functionality, allowing seamless user participation and meeting scheduling. Intuitive implementation, Great job!",
+          "comment_language": "en",
+          "username": "jill_charles11",
+          "reviewer_country_code": "DE",
+          "created_at": "2024-01-16T10:06:49",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO417E8236584",
+          "score": 0.6447555,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 352337632,
+          "gig_slug": "do-wordpress-website-development",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 39,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65bf5710f9a787374b918d5d",
+          "comment": "Very much delighted after working with this seller. His professionalism was beyond my expectations. ",
+          "comment_language": "en",
+          "username": "julie_faith",
+          "reviewer_country_code": "FR",
+          "created_at": "2024-02-04T09:26:30",
+          "value": 5,
+          "reviewer_country": "France",
+          "encrypted_order_id": "FO423F9C11EC8",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 352337632,
+          "gig_slug": "do-wordpress-website-development",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 50,
+          "price_range_end": 100,
+          "reviews_count_as_buyer": 55,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b29f1441e5c52d8c22f05d",
+          "comment": "He exhibit Deep understanding of my requirements and provided me with a work that Exceeded my expectations ",
+          "comment_language": "en",
+          "username": "freddie_highmor",
+          "reviewer_country_code": "FR",
+          "created_at": "2024-01-25T18:29:12",
+          "value": 5,
+          "reviewer_country": "France",
+          "encrypted_order_id": "FO723F497E3C5",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 352337632,
+          "gig_slug": "do-wordpress-website-development",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65aab63e1a9352505913543d",
+          "comment": "Thank you so much for your hard work you put on my work.",
+          "comment_language": "en",
+          "username": "arthur_miller74",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-20T06:53:23",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO117EDF29B87",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 352337632,
+          "gig_slug": "do-wordpress-website-development",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 22,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 9,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1,
+        "business": 1
+      },
+      "user_id": 141524047,
+      "seller_username": "zain_abediin",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 9
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 141524047,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 141524047,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 352337632,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-wordpress-website-development",
+      "title": "do clean and modern wordpress website development",
+      "seller_name": "zain_abediin",
+      "seller_id": 141524047,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1e0c52a3ebd43d0a1d542094607863be-1688202768344/4ff7abb2-eec2-48bc-a75d-51bf2959598d.jpg",
+      "seller_display_name": "Zain A.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/352337632/original/44e0692caeff274bde8c3669480c073190409b7a.png",
+          "type": "ImageAsset",
+          "id": "352337632_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6581b024d7fe6e0011a5150f",
+          "id": 9648861
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6581b024d7fe6e0011a5150f",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/jmnqb8kycwojwp840gvp",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_59.804998,PLACEHOLDER/jmnqb8kycwojwp840gvp.png"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "hi",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "65a8f118d499f0000187c2f3",
+          "discount_percentage": 10
+        },
+        {
+          "id": "65a8f118d499f0000187c2f4",
+          "discount_percentage": 20
+        }
+      ],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "forum",
+            "social_media",
+            "shipping",
+            "analytics",
+            "video",
+            "form",
+            "map",
+            "gallery",
+            "booking"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 9,
+      "buying_review_rating": 5,
+      "seller_url": "/zain_abediin",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/zain_abediin/do-wordpress-website-development",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 352379861,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-professional-senior-full-stack-web-developer",
+      "title": "be your professional senior full stack web developer",
+      "seller_name": "zain_abediin",
+      "seller_id": 141524047,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1e0c52a3ebd43d0a1d542094607863be-1688202768344/4ff7abb2-eec2-48bc-a75d-51bf2959598d.jpg",
+      "seller_display_name": "Zain A.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/352379861/original/375188c84ffc7e18c42d3b58530c752bbabcd08b.png",
+          "type": "ImageAsset",
+          "id": "352379861_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "hi",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "python",
+            "typescript",
+            "react"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "analytics",
+            "form",
+            "chat",
+            "booking",
+            "portfolio",
+            "dashboard"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/zain_abediin",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/zain_abediin/be-your-professional-senior-full-stack-web-developer",
+      "is_seller_unavailable": false,
+      "price_i": 180,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

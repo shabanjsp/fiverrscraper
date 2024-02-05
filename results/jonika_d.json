@@ -1,0 +1,321 @@
+{
+  "seller": {
+    "user": {
+      "id": "167787516",
+      "name": "jonika_d",
+      "isActivationCompleted": true,
+      "joinedAt": 1704899707,
+      "profile": {
+        "displayName": "Jonika D."
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/cdd0b3112c0530f7b63bcb7662962c9d-1704899910299/e8375ce6-e66f-4430-996a-9636a04cd3dd.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "359061293"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Professional Essay Writer!",
+    "description": "I am Jonika as a seasoned researcher, I specialize in digging deep into various topics to gather relevant and up to date information. Whether it's essay or urgent essay, I've got the research covered. Transforming research into compelling essays is my forte. I provide thorough editing and proofreading services to ensure your document is polished, error free, and ready to make a lasting impression. I work closely with clients, valuing your input throughout the process to ensure the final result aligns perfectly with your vision.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Head of department ",
+        "certificationName": "Best Writing Expert",
+        "year": 2017
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "literature",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "University of punjab",
+        "degreeTitle": "MA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66e0565f077890068ba",
+        "name": "Research analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Research analyst"
+      },
+      {
+        "id": "617fa6710565f07789006951",
+        "name": "SEO writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO writer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 2
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bcf206a37a1c2e1d4f2360",
+          "comment": "Reliable and talented! delivers high-quality essays. I've entrusted multiple projects, and each time, the results have been outstanding. Highly satisfied!",
+          "comment_language": "en",
+          "username": "mercywillaims",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-02-02T13:54:57",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO61E05CE5B84",
+          "score": 0.36901146,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 359061293,
+          "gig_slug": "write-article-case-study-and-essay-writing",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65bf2606f9a787374b918b2f",
+          "comment": "Great work from this seller. She delivered the work as agreed and met all the requirements as provided. She is excellent, competent and qualified to work with. I highly recommend her services.",
+          "comment_language": "en",
+          "username": "sebastian_jack1",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-04T06:31:14",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81E09A10282",
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 359061293,
+          "gig_slug": "write-article-case-study-and-essay-writing",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 15,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": false,
+      "total_count": 2,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 1
+      },
+      "user_id": 167787516,
+      "seller_username": "jonika_d",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 2
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 167787516,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 167787516,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 359061293,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-article-case-study-and-essay-writing",
+      "title": "do urgent essay writing an an essay writer",
+      "seller_name": "jonika_d",
+      "seller_id": 167787516,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/cdd0b3112c0530f7b63bcb7662962c9d-1704899910299/e8375ce6-e66f-4430-996a-9636a04cd3dd.jpg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/359061293/original/c4ce20cab5030dbd0b97a4ab7bec64376844d898.jpg",
+          "type": "ImageAsset",
+          "id": "359061293_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/359061293/original/a8f4b4ca6a9ef123d40420c67a031328e4075975.jpg",
+          "type": "ImageAsset",
+          "id": "359061293_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "french",
+            "german"
+          ]
+        },
+        {
+          "type": "topic",
+          "value": [
+            "business_finance_law",
+            "family_education"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "conversational",
+            "educational"
+          ]
+        },
+        {
+          "type": "article_type",
+          "value": [
+            "news_story",
+            "first_person_narrative",
+            "research_article"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/jonika_d",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/jonika_d/write-article-case-study-and-essay-writing",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

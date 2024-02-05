@@ -1,0 +1,595 @@
+{
+  "seller": {
+    "user": {
+      "id": "133786945",
+      "name": "shabananawaz569",
+      "isActivationCompleted": true,
+      "joinedAt": 1662567465,
+      "profile": {
+        "displayName": "Shabana N"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "UR",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/22100cc25e2ac07b0fbc1af53b9d171c-1706788292911/4d66eb29-acc5-40a3-9e11-c65b971856be.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "307490795"
+        },
+        {
+          "id": "311326611"
+        },
+        {
+          "id": "352149155"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello,\r\nI am Shabana Nawaz a professional web designer and developer.\r\nMy aim to satisfied my clients and do my work with professional way.\r\nclient satisfaction is more important to make money for me. \r\n\r\nThanks for coming on my profile.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Net Riders Multan",
+        "certificationName": "web development",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "bs software engineering",
+        "toYear": 2024,
+        "countryCode": "PK",
+        "school": "NCBA & E",
+        "degreeTitle": "MA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa6600565f07789006498",
+        "name": "Laravel development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Laravel developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 434,
+        "nestedCategoryId": 2393
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.6,
+      "count": 9
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bf2997f9a787374b918b56",
+          "comment": "Very fast response and very fast delivery very good communication thanks for helping me Highly recommend.",
+          "comment_language": "en",
+          "username": "jacob_amy",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-04T07:05:30",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO11203269645",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 352149155,
+          "gig_slug": "be-your-telegram-community-manager-moderator-admin-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 434,
+          "gig_nested_sub_category": 2393,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 285,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65ba0cd5da9df3104e85a3d3",
+          "comment": "Shabana was able to offer great advice in order to get better results and delivered everything as asked! Thank you for delivering a high quality product on time and on budget! Great job!",
+          "comment_language": "en",
+          "username": "nutnia_joseph",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-31T09:04:52",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO81E02E74F82",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 352149155,
+          "gig_slug": "be-your-telegram-community-manager-moderator-admin-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 434,
+          "gig_nested_sub_category": 2393,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 113,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "63f100534f7afa0001d49b52",
+          "comment": "Incredible service! Went above and beyond to fulfil the order. Communicated professionally and the projects were completed in an extremely timely manner. Will definitely be working with this seller again and would recommend to others looking for similar services. Thanks so much!",
+          "comment_language": "en",
+          "username": "mubashir1510",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/667367ddeb04b50f78299f7f0d4fd89d-1658400508232/0ab078de-e0d1-458d-b141-a2f8ab788f7c.jpeg",
+          "created_at": "2023-02-18T16:48:15",
+          "value": 5,
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO7264D5FCB47",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 292135852,
+          "gig_slug": "be-your-professional-youtube-video-editors",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 2
+        },
+        {
+          "id": "63cce83287253d00016e2fb5",
+          "comment": "Great work as always.",
+          "comment_language": "en",
+          "username": "purevideos",
+          "reviewer_country_code": "US",
+          "created_at": "2023-01-22T07:40:54",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO72055F6A8C5",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 292135852,
+          "gig_slug": "be-your-professional-youtube-video-editors",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 14
+        },
+        {
+          "id": "63c61356e42ca80001eaf561",
+          "comment": "good stuff",
+          "comment_language": "unknown",
+          "username": "runlifenick",
+          "reviewer_country_code": "US",
+          "created_at": "2023-01-17T03:27:40",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO61AE9307384",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 292135852,
+          "gig_slug": "be-your-professional-youtube-video-editors",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 12
+        }
+      ],
+      "has_next": true,
+      "total_count": 9,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 3,
+        "business": 1
+      },
+      "user_id": 133786945,
+      "seller_username": "shabananawaz569",
+      "star_summary": {
+        "communication_valuation": 4.6,
+        "recommend_valuation": 4.4,
+        "service_valuation": 4.4
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 8
+        }
+      ],
+      "average_valuation": 4.6
+    },
+    "selling_reviews": {
+      "user_id": 133786945,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 133786945,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 352149155,
+      "category_id": 2,
+      "sub_category_id": 434,
+      "nested_sub_category_id": 2393,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-telegram-community-manager-moderator-admin-promotion",
+      "title": "be your telegram community manager moderator admin promotion",
+      "seller_name": "shabananawaz569",
+      "seller_id": 133786945,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/22100cc25e2ac07b0fbc1af53b9d171c-1706788292911/4d66eb29-acc5-40a3-9e11-c65b971856be.jpg",
+      "seller_display_name": "Shabana N",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/352149155/original/122998465548c1792abdf119debc8c4ad5898e7f.png",
+          "type": "ImageAsset",
+          "id": "352149155_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/352149155/original/a33131c9ecb5f6303c9a3e526a34487eb97f1a89.png",
+          "type": "ImageAsset",
+          "id": "352149155_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/352149155/original/93089599685be7bd02eeb55a1d3abda8883f21c5.png",
+          "type": "ImageAsset",
+          "id": "352149155_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "ur",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry",
+          "value": [
+            "cryptocurrency_nft",
+            "gaming",
+            "marketing_and_advertising",
+            "media_and_entertainment",
+            "sports_fitness"
+          ]
+        },
+        {
+          "type": "community_presence",
+          "value": [
+            "online"
+          ]
+        },
+        {
+          "type": "digital_platform",
+          "value": [
+            "telegram_group"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/shabananawaz569",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 4.5555553
+      },
+      "gig_url": "/shabananawaz569/be-your-telegram-community-manager-moderator-admin-promotion",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 307490795,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-responsive-design-with-the-help-of-html-css-bootstrap",
+      "title": "convert your imagination in web form with responsive design",
+      "seller_name": "shabananawaz569",
+      "seller_id": 133786945,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/22100cc25e2ac07b0fbc1af53b9d171c-1706788292911/4d66eb29-acc5-40a3-9e11-c65b971856be.jpg",
+      "seller_display_name": "Shabana N",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/307490795/original/347c5b852f071cf04acd0868ffbca52f8a33fe41.png",
+          "type": "ImageAsset",
+          "id": "307490795_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/307490795/original/a0701090dd11c69bb62dc564675db4b413a3be99.png",
+          "type": "ImageAsset",
+          "id": "307490795_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/307490795/original/62f50c0275b600ae548fc6e648bb41c62306e684.png",
+          "type": "ImageAsset",
+          "id": "307490795_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "ur",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "landing_page"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "php",
+            "python",
+            "java",
+            "c"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "events",
+            "chat",
+            "map",
+            "gallery"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/shabananawaz569",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 4.5555553
+      },
+      "gig_url": "/shabananawaz569/create-responsive-design-with-the-help-of-html-css-bootstrap",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 311326611,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "creative-and-responsive-frontend-design-with-html-css-bootstrap",
+      "title": "creative and responsive frontend design with html, css, bootstrap",
+      "seller_name": "shabananawaz569",
+      "seller_id": 133786945,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/22100cc25e2ac07b0fbc1af53b9d171c-1706788292911/4d66eb29-acc5-40a3-9e11-c65b971856be.jpg",
+      "seller_display_name": "Shabana N",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/311326611/original/872a8d0e40e47ee702f32138216b2e7b3e1114e3.jpg",
+          "type": "ImageAsset",
+          "id": "311326611_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/311326611/original/bae6f424027c8b899ce3f0c773098daecbd8a8ba.jpg",
+          "type": "ImageAsset",
+          "id": "311326611_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/311326611/original/a58fb7d92d9e461cc320d257617a8400bf4dbd9e.jpg",
+          "type": "ImageAsset",
+          "id": "311326611_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "ur",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "php"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "inventory",
+            "form",
+            "events",
+            "music",
+            "gallery"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/shabananawaz569",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 4.5555553
+      },
+      "gig_url": "/shabananawaz569/creative-and-responsive-frontend-design-with-html-css-bootstrap",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "158458024",
+      "name": "adam_levine30",
+      "isActivationCompleted": true,
+      "joinedAt": 1692660006,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Greece",
+        "countryCode": "GR"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 158458024,
+      "seller_username": "adam_levine30",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 158458024,
+      "reviews": [
+        {
+          "id": "65b83fe7f760630001ea5072",
+          "comment": "Good experience ",
+          "comment_language": "en",
+          "username": "lubna_kanwal1",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f4974a4a34ee8938e02abe3ebf66d42b-1702793193012/64af421c-4c19-44d2-b357-0a5a0a032bda.png",
+          "created_at": "2024-01-30T00:16:39",
+          "value": 5
+        },
+        {
+          "id": "65b29ca3756b9d0001744908",
+          "comment": "Good experience ",
+          "comment_language": "en",
+          "username": "muskan_naila",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/18afe9f012cb6cb8c283b28042ed28e8-1702569293783/6564fafd-d7ae-442e-a7a3-8dac428d5c3d.png",
+          "created_at": "2024-01-25T17:38:43",
+          "value": 5
+        },
+        {
+          "id": "65b15dfd756b9d000173907e",
+          "comment": "Good experience ",
+          "comment_language": "en",
+          "username": "ulfat_2",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/057cd3e78860d24c07627f6dec61352c-1703784511625/b490f7a1-121c-42c0-b0bc-1d4b50ae75b5.png",
+          "created_at": "2024-01-24T18:59:09",
+          "value": 5
+        },
+        {
+          "id": "65b008cc756b9d000172c595",
+          "comment": "Good experience ",
+          "comment_language": "en",
+          "username": "maha_junaid",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7d80fe4afc637dbc15410389d7eee252-1702720742004/c809e181-ad4f-4231-b83c-44986a65a25f.png",
+          "created_at": "2024-01-23T18:43:24",
+          "value": 5
+        },
+        {
+          "id": "65ac272bf47f620001877a78",
+          "comment": "A very fine experience ",
+          "comment_language": "unknown",
+          "username": "owaiswaisi77",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/61c09e678b7341c7d3642b7a498bd680-878962441706517883279/JPEG_20240129_134441_4989098797567242160.jpg",
+          "created_at": "2024-01-20T20:03:55",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 158458024,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/Athens",
+    "recent_utc_offset": -120
+  },
+  "gigsData": []
+}

@@ -1,0 +1,377 @@
+{
+  "seller": {
+    "user": {
+      "id": "165831527",
+      "name": "maha_junaid",
+      "isActivationCompleted": true,
+      "joinedAt": 1702720539,
+      "profile": {
+        "displayName": "Maha Junaid"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/7d80fe4afc637dbc15410389d7eee252-1702720742004/c809e181-ad4f-4231-b83c-44986a65a25f.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "355701751"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Writer",
+    "description": " I am a professional writer with more then 6 years of experience in this freelance market place. I will do APA, MLA, HAVARD, CHICAGO, and IEEE. I will help you in these fields. Urgent essay, summary, research, case study, business management, human resource management.\r\n\r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "literature",
+        "toYear": 2019,
+        "countryCode": "PK",
+        "school": "govt college university faislabad",
+        "degreeTitle": "MA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66e0565f077890068b9",
+        "name": "Research & summaries writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Research & summaries writer"
+      },
+      {
+        "id": "617fa66e0565f077890068b6",
+        "name": "Report writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Report writer"
+      },
+      {
+        "id": "617fa63f0565f07789005afe",
+        "name": "Case study analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Case study analysis expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 169,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.7,
+      "count": 18
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b4a658756b9d0001756a2d",
+          "comment": "Absolutely horrid experience, seller did not finish the work that was agreed upon at all. Most definitely used AI to rewrite a sample I already provided, waited a day to send a document back to me, and hoped I wouldn't notice before accepting the order. Would not recommend, highly discourage you from using this service.",
+          "comment_language": "en",
+          "username": "masonramirez",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-27T06:44:40",
+          "value": 1,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO517FC996B83",
+          "score": 0.55,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 355701751,
+          "gig_slug": "write-urgent-essay-research-summary-paper-report-proposal-case-study",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 50,
+          "price_range_end": 100,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": true,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b83d914f44d322946309a5",
+          "comment": "great experience working with her. Very professional and very patient with the clients. Best experience so far working with her. I would love to work with her again! Thankyou so much for working with me! Thankyou",
+          "comment_language": "en",
+          "username": "olivia_hussey42",
+          "reviewer_country_code": "ES",
+          "created_at": "2024-01-30T00:17:39",
+          "value": 5,
+          "reviewer_country": "Spain",
+          "encrypted_order_id": "FO52400C0CCC7",
+          "score": 0.53989995,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 355701751,
+          "gig_slug": "write-urgent-essay-research-summary-paper-report-proposal-case-study",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 23,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65be2f0eca1ae9136cd6d4e4",
+          "comment": "Great Work! Your insights are spot-on, and your writing style is engaging. It's evident that you have a deep understanding of the subject matter. Keep up the excellent work!",
+          "comment_language": "en",
+          "username": "helen_keller44",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-02-03T15:23:12",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO4240A13A6C8",
+          "score": 0.37829357,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 355701751,
+          "gig_slug": "write-urgent-essay-research-summary-paper-report-proposal-case-study",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 16,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a67e7dbf4cff45b9f4d523",
+          "comment": "Excellent Work!!! I will continue to do business with the Seller! She is always available when I need her and does a great job!!! Thank you kindly!!!",
+          "comment_language": "en",
+          "username": "walter_roger1",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-16T13:03:44",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82FD45C3F08",
+          "score": 0.36303127,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 355701751,
+          "gig_slug": "write-urgent-essay-research-summary-paper-report-proposal-case-study",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 594,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659f97232fd40e0ad954b75f",
+          "comment": "She did an Amazing job. She followed all the instructions, did an excellent work and delivered on time. Thank you so much.",
+          "comment_language": "en",
+          "username": "samuel_david11",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fad4a8c9ffe444273114441788d2e800-1698840278786/431056bd-a955-426e-ab2b-585664c6ba0b.jpeg",
+          "created_at": "2024-01-11T07:26:22",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO523D677A0C7",
+          "score": 0.25835222,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 355701751,
+          "gig_slug": "write-urgent-essay-research-summary-paper-report-proposal-case-study",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 414,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 18,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 4
+      },
+      "user_id": 165831527,
+      "seller_username": "maha_junaid",
+      "star_summary": {
+        "communication_valuation": 4.7,
+        "recommend_valuation": 5,
+        "service_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 16
+        }
+      ],
+      "average_valuation": 4.7
+    },
+    "selling_reviews": {
+      "user_id": 165831527,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165831527,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 355701751,
+      "category_id": 5,
+      "sub_category_id": 169,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-urgent-essay-research-summary-paper-report-proposal-case-study",
+      "title": "write urgent essay, research and summaries, report, case study",
+      "seller_name": "maha_junaid",
+      "seller_id": 165831527,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/7d80fe4afc637dbc15410389d7eee252-1702720742004/c809e181-ad4f-4231-b83c-44986a65a25f.png",
+      "seller_display_name": "Maha Junaid",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/355701751/original/8c14798b6a159cf090c219fff3fc573c7b2d651d.png",
+          "type": "ImageAsset",
+          "id": "355701751_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "research"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "urdu"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 18,
+      "buying_review_rating": 4.7,
+      "seller_url": "/maha_junaid",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 18,
+        "score": 4.740741
+      },
+      "gig_url": "/maha_junaid/write-urgent-essay-research-summary-paper-report-proposal-case-study",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}
