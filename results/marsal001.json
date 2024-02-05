@@ -1,0 +1,364 @@
+{
+  "seller": {
+    "user": {
+      "id": "167614515",
+      "name": "marsal001",
+      "isActivationCompleted": true,
+      "joinedAt": 1704743751,
+      "profile": {
+        "displayName": "Muhammad Arsal"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/f1d3c6cc3db167228d34e30bf4858f17-1704744062237/fc077fa1-0b95-489c-b044-2453491f60e6.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "358739753"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I am a ppc specialist helping people to grow their business by running advertising for their private label products and maintain the organic rankings of the products.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66b0565f077890067d2",
+        "name": "PPC advertising",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PPC advertising expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 325,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 10
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bdda2423ed9a538a624a18",
+          "comment": "Arsal did a great job, He Ranked my newly launched product and we started getting organic sales. His strategy was very unique. Highly recommended!",
+          "comment_language": "en",
+          "username": "andrewjewelly",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-03T06:37:13",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41E0953EE06",
+          "score": 0.7269777,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358739753,
+          "gig_slug": "be-your-amazon-private-label-ppc-expert-helps-you-to-improve-sales",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 16,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b34f36860ab3469ec06669",
+          "comment": "Arsal helped with the advertising for  my product. It has only been a month and looks better then the previous months. I highly recommend his services.",
+          "comment_language": "en",
+          "username": "katharinaflore",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/db3cde5a766779de29f091b802de7cf9-1692354577157/45472094-d066-434c-aadf-e1c123b0fccd.jpg",
+          "created_at": "2024-01-26T06:20:57",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15FEC7D901",
+          "score": 0.7190986,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358739753,
+          "gig_slug": "be-your-amazon-private-label-ppc-expert-helps-you-to-improve-sales",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 208,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65bc85fde4010a34516726f7",
+          "comment": "Working with Arsal is a great experience. He optimized my ad campaigns lower the spend and improved ROI within a first month of working.Timely results.",
+          "comment_language": "en",
+          "username": "julessampson",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-02T06:10:21",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO412044F3C42",
+          "score": 0.69626236,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358739753,
+          "gig_slug": "be-your-amazon-private-label-ppc-expert-helps-you-to-improve-sales",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 17,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b49ff4da9df3104e853910",
+          "comment": "Arsal is very professional, He increased the sales and rankings of my product. Communication was very good and on point. Will definitely get back with a new project.",
+          "comment_language": "en",
+          "username": "jonathanmarsha",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3cc14f9d772f65cce058eb4ea257109-1695465756095/73b3ff66-8512-43fd-be71-c19655bd0db9.jpg",
+          "created_at": "2024-01-27T06:31",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO81DFBFBDB02",
+          "score": 0.40649712,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358739753,
+          "gig_slug": "be-your-amazon-private-label-ppc-expert-helps-you-to-improve-sales",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 213,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65bb32633a5ce44677668358",
+          "comment": "Arsal helped with highlighting my enabled PPC mistakes. I’m glad I choose this seller, and would definitely use her PPC services again.",
+          "comment_language": "en",
+          "username": "jeanhutchinson",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-01T06:01:13",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1120320A3C5",
+          "score": 0.34437618,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358739753,
+          "gig_slug": "be-your-amazon-private-label-ppc-expert-helps-you-to-improve-sales",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 12,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 10,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 167614515,
+      "seller_username": "marsal001",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 10
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 167614515,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 167614515,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 358739753,
+      "category_id": 2,
+      "sub_category_id": 325,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-amazon-private-label-ppc-expert-helps-you-to-improve-sales",
+      "title": "be your amazon private label PPC expert helps you to improve sales",
+      "seller_name": "marsal001",
+      "seller_id": 167614515,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f1d3c6cc3db167228d34e30bf4858f17-1704744062237/fc077fa1-0b95-489c-b044-2453491f60e6.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/358739753/original/524976ddd65ed85c7a95b37e18dc03090c85a149.png",
+          "type": "ImageAsset",
+          "id": "358739753_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/358739753/original/ea5bea1b30e119c27d1acd7123e4c26160f8c2d3.jpg",
+          "type": "ImageAsset",
+          "id": "358739753_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/358739753/original/51010670493d587acdd84832ba7eb638253cfded.jpg",
+          "type": "ImageAsset",
+          "id": "358739753_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "amazon",
+            "alibaba",
+            "facebook"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 10,
+      "buying_review_rating": 5,
+      "seller_url": "/marsal001",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 10,
+        "score": 5
+      },
+      "gig_url": "/marsal001/be-your-amazon-private-label-ppc-expert-helps-you-to-improve-sales",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

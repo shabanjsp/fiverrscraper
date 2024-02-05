@@ -1,0 +1,158 @@
+{
+  "seller": {
+    "user": {
+      "id": "95667068",
+      "name": "addysub",
+      "isActivationCompleted": true,
+      "joinedAt": 1602069810,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "India",
+        "countryCode": "IN"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/4bb59c02af4ad230fc1a69f7154b1ac7-1637817490384/688e012f-e044-4d5d-8c52-e8d1da36a6be.png"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.6810320029,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 95667068,
+      "seller_username": "addysub",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 95667068,
+      "reviews": [
+        {
+          "id": "65808ca94941970001c2a86d",
+          "comment": "Very nice person to work.\n",
+          "comment_language": "en",
+          "username": "zohaibabbasi57",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/41100c18d7551380f50165ee4b83406f-1699045594398/1d3220d5-f63f-42bf-af7c-811b95406ece.png",
+          "created_at": "2023-12-18T18:17:13",
+          "value": 5
+        },
+        {
+          "id": "62aeaad3f401e000018ca467",
+          "comment": "amazing person to work with...wish him the best of SEO world",
+          "comment_language": "en-US",
+          "username": "kamranktk123",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1bebd7400d3273e4f7a4d2896ee20baa-1567176122401/b40e9fce-846c-457e-9502-2e6e1cd253ab.jpg",
+          "created_at": "2022-06-19T04:49:23",
+          "value": 5
+        },
+        {
+          "id": "612c765c8d71020001179743",
+          "comment": "Amazing person I have ever seen. enjoyed the work",
+          "comment_language": "en-US",
+          "username": "mir_snigdho",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4c0dcfec6632dde31522d6f329ab7070-1589825078124/803d7af9-4cf0-4f99-aa5c-1d33ba8b81ee.jpg",
+          "created_at": "2021-08-30T06:10:36",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 95667068,
+    "currency": "INR",
+    "locale": "en-US",
+    "timezone": "America/Toronto",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

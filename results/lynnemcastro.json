@@ -1,0 +1,178 @@
+{
+  "seller": {
+    "user": {
+      "id": "144274707",
+      "name": "lynnemcastro",
+      "isActivationCompleted": true,
+      "joinedAt": 1675610010,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Costa Rica",
+        "countryCode": "CR"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 144274707,
+      "seller_username": "lynnemcastro",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 144274707,
+      "reviews": [
+        {
+          "id": "65acdb37e7303e0001823fdb",
+          "comment": "A pleasure to work with you. Thank you so much :)",
+          "comment_language": "en",
+          "username": "anchortech_",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/22cd1085970b74566388a2a7f3035b00-1698896275312/363b7ee6-0668-4a9b-80fd-649fd77b5da8.jpg",
+          "created_at": "2024-01-21T08:52:08",
+          "value": 5
+        },
+        {
+          "id": "65acccd7e7303e0001823ae3",
+          "comment": "Great buyer, amazing experience! Thank you so much.",
+          "comment_language": "en",
+          "username": "social_winning",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f64a775279173189b515f697f7644ead-1661944896148/400e4ecc-b7f4-4c54-bde4-ce2cceb093d5.png",
+          "created_at": "2024-01-21T07:50:47",
+          "value": 5
+        },
+        {
+          "id": "65ab74c5f47f620001871367",
+          "comment": "Great buyer! Communication skills were very good and very cooperative.",
+          "comment_language": "en",
+          "username": "wptech0",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3973d9fb5d6b753e241fe1562925f2d2-1703834322434/7398de3d-8186-4162-a57c-ff5e8f6e1bac.png",
+          "created_at": "2024-01-20T07:22:45",
+          "value": 5
+        },
+        {
+          "id": "65a8bf1f2f49060001a28723",
+          "comment": "Great communication with the buyer! Cool experience.",
+          "comment_language": "en",
+          "username": "musta022095",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2a3f061a3cb79f956622f6ff54c66b0a-1701785271323/a19319d9-4e82-41b7-a23d-f0eeaa6e3807.png",
+          "created_at": "2024-01-18T06:03:11",
+          "value": 5
+        },
+        {
+          "id": "65a8b4512f49060001a282ab",
+          "comment": "Great communication with the buyer! Cool experience.",
+          "comment_language": "en",
+          "username": "shakila_rmt2",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5f5fb9e759a84b8fea876dad280229ff-1689605718740/23256846-7d58-4614-9d27-eec6619fb561.png",
+          "created_at": "2024-01-18T05:17:05",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 144274707,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Los_Angeles",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}

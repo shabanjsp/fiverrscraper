@@ -1,0 +1,612 @@
+{
+  "seller": {
+    "user": {
+      "id": "165717480",
+      "name": "web_chrome",
+      "isActivationCompleted": true,
+      "joinedAt": 1702553258,
+      "profile": {
+        "displayName": "Towhidul"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ac9f409c4d58c1bb98895ddeaad1f807-1704227597555/79f8f247-9199-4a4a-816c-4ac3086fb02b.JPG"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "357751985"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Chromium web tech",
+    "description": "With five years of love for making websites, I'm a WordPress expert who can handle everything for your site, starting from the beginning to the advanced stages. I'm skilled at customizing themes and adding special features. I've helped lots of individuals and companies, creating more than 250+ websites for different types of businesses. Whether you run a small business or a big company, I've got you covered. Just drop me a message, and we can talk about your project. Let's make your website exactly how you want it!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Complete WordPress Developer Plugins & Themes",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "coursera.org",
+        "certificationName": "Build a Portfolio Website with HTML, CSS, and JavaScript",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "coursera.org",
+        "certificationName": "Build a Website using an API with HTML, JavaScript, and JSON",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "The Complete Web Developer Course 3.0",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Full Stack Web Developer",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer engineering",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "Jahangirnagar University",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "science",
+        "toYear": 2015,
+        "countryCode": "BD",
+        "school": "Dhaka College",
+        "degreeTitle": "OTHER"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c89",
+        "name": "Website migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website migration expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c87",
+        "name": "Website landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website landing page expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c8e",
+        "name": "Website redesign",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website redesign expert"
+      },
+      {
+        "id": "617fa6600565f0778900648c",
+        "name": "Landing page development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Front-end web developer"
+      },
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Full stack web developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c82",
+        "name": "Website creation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website creation expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      },
+      {
+        "id": "617fa67d0565f07789006d01",
+        "name": "WordPress website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress website developer"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress website developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress customization expert"
+      },
+      {
+        "id": "617fa65b0565f07789006348",
+        "name": "Install WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress instalation expert"
+      },
+      {
+        "id": "617fa6590565f07789006290",
+        "name": "HTML",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf8",
+        "name": "WordPress landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress landing page expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c60",
+        "name": "Web hosting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web host"
+      },
+      {
+        "id": "617fa67d0565f07789006cfd",
+        "name": "Wordpress theme customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress theme customization expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WooCommerce expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa6450565f07789005cbf",
+        "name": "CSS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c7d",
+        "name": "Website builders & CMS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website builders & cms expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1702759564
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 5
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.2689395813,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "659e8af25bdf715cbfdffb58",
+          "comment": "Towhidul works very professionally and patiently throughout the process of completing the project.\nHe used best practices and a collaborative approach to create a great working environment. I am very satisfied with my website.\nHe was attentive to my concerns and was able to troubleshoot each concern to my satisfaction.\nI would highly recommend and refer to his services.",
+          "comment_language": "en",
+          "username": "madisonricha684",
+          "reviewer_country_code": "BR",
+          "created_at": "2024-01-10T15:13:06",
+          "value": 5,
+          "reviewer_country": "Brazil",
+          "encrypted_order_id": "FO2BF03D6F42",
+          "score": 0.49467343,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357751985,
+          "gig_slug": "do-wordpress-website-development-design-redesign-duplicate-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 89,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a2a21cbe67470001ebf194",
+          "comment": "Excellent experience! Towhidul was very quick to respond to my questions and guided me along the way. Really cool website too, Thank You!",
+          "comment_language": "en",
+          "username": "robmashreky",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-13T14:51:41",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO111E9D86745",
+          "score": 0.4858057,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357751985,
+          "gig_slug": "do-wordpress-website-development-design-redesign-duplicate-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659979df369cc90001204148",
+          "comment": "Tawhid is a highly capable individual who demonstrated a deep understanding of our project. He created a website for us and the result was beyond our expectations! He has a bright future, it's my first order for him, very fast delivery, I highly recommend working with Tawhid.",
+          "comment_language": "en",
+          "username": "lourejuda",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-06T16:07:28",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO117DB193987",
+          "score": 0.47864494,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357751985,
+          "gig_slug": "do-wordpress-website-development-design-redesign-duplicate-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 33,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b095db7716c462529804d5",
+          "comment": "Thank you so so much for helping me with this project so quickly. Towhidul was such a pleasure to work with 😊",
+          "comment_language": "en",
+          "username": "donaldahardage",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/38229aad05b21aae67c0a82109aec221-1653381867095/ffdd687a-741b-4dc8-ac8d-ceb7faa8c122.jpg",
+          "created_at": "2024-01-24T10:59:15",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO317F523A785",
+          "score": 0.22042668,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357751985,
+          "gig_slug": "do-wordpress-website-development-design-redesign-duplicate-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 409,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659d3be3369cc90001229041",
+          "comment": "Very sincere, and is easy to work with...I highly recommend any day!",
+          "comment_language": "en",
+          "username": "ruanjaxon",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-09T12:34:17",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO723CDC39FC5",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357751985,
+          "gig_slug": "do-wordpress-website-development-design-redesign-duplicate-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 5,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 165717480,
+      "seller_username": "web_chrome",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 5
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 165717480,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165717480,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 357751985,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-wordpress-website-development-design-redesign-duplicate-wordpress-website",
+      "title": "do wordpress website development, design, redesign, duplicate, wordpress website",
+      "seller_name": "web_chrome",
+      "seller_id": 165717480,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ac9f409c4d58c1bb98895ddeaad1f807-1704227597555/79f8f247-9199-4a4a-816c-4ac3086fb02b.JPG",
+      "seller_display_name": "Towhidul",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357751985/original/a70e046ec6af6d9eb54da60d9cb993bee7d23064.png",
+          "type": "ImageAsset",
+          "id": "357751985_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "social_media",
+            "shipping",
+            "inventory",
+            "video",
+            "form",
+            "chat",
+            "membership",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/web_chrome",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/web_chrome/do-wordpress-website-development-design-redesign-duplicate-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 85,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

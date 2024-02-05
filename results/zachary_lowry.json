@@ -1,0 +1,143 @@
+{
+  "seller": {
+    "user": {
+      "id": "168204060",
+      "name": "zachary_lowry",
+      "isActivationCompleted": true,
+      "joinedAt": 1705387374,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/b4e1578611819824fe92e51618580424-1705477601353/d244ad84-38eb-4b3a-b0de-e068c2d0a801.png"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.6810320029,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 168204060,
+      "seller_username": "zachary_lowry",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 168204060,
+      "reviews": [
+        {
+          "id": "65b958e4f760630001eaf92f",
+          "comment": "Thank you for your order.",
+          "comment_language": "en",
+          "username": "calculator_web",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1a95d7c0212aa83eb98d915f82e1dc96-1610082515681/d0125562-1a6a-4304-b349-5060d6c6d7b7.png",
+          "created_at": "2024-01-30T20:15:32",
+          "value": 5
+        },
+        {
+          "id": "65afe07ca8e68f000113f2c0",
+          "comment": "I am happy to work , great buyer thank you so much",
+          "comment_language": "en",
+          "username": "sabina_akter01",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b7a1112139c6880f5d364e82e72d0563-1694447909344/5026aa74-24da-4203-89f7-54e451654b7b.jpg",
+          "created_at": "2024-01-23T15:51:25",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 168204060,
+    "currency": "EUR",
+    "locale": "en-US",
+    "timezone": "America/Mexico_City",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

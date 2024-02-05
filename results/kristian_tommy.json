@@ -1,0 +1,178 @@
+{
+  "seller": {
+    "user": {
+      "id": "153840776",
+      "name": "kristian_tommy",
+      "isActivationCompleted": true,
+      "joinedAt": 1686990227,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 153840776,
+      "seller_username": "kristian_tommy",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 153840776,
+      "reviews": [
+        {
+          "id": "65b902f6f760630001eaae8c",
+          "comment": "Great buyer, Amazing Experience!",
+          "comment_language": "en",
+          "username": "ulka_universe",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7c725fae3c27e1e10f5950d27a8f5639-1680788632636/50a99325-0344-45a3-91da-e8c50f459143.jpg",
+          "created_at": "2024-01-30T14:08:55",
+          "value": 5
+        },
+        {
+          "id": "65b7e330f760630001ea1223",
+          "comment": "Quick response to questions, and clear directions. I'm looking forward to working with you again.",
+          "comment_language": "en",
+          "username": "momenateam",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0d4eb7bbf7eb1390b6b7042e252f305e-1703941216067/b96dda8b-4c8d-44a0-872e-21b0c0738bd4.png",
+          "created_at": "2024-01-29T17:41:04",
+          "value": 5
+        },
+        {
+          "id": "65b7278d7b679300010e731e",
+          "comment": "Great buyer, Amazing Experience! Thanks so much.",
+          "comment_language": "en",
+          "username": "salesburst",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/70cab7e4326b4ac9c569f4bd5d1aca8f-1666526487446/d8b7cc56-10dd-447d-8f41-0b97f4470b18.jpg",
+          "created_at": "2024-01-29T04:20:29",
+          "value": 5
+        },
+        {
+          "id": "65b674ef7b679300010e159f",
+          "comment": "Great buyer and clear communication.",
+          "comment_language": "en",
+          "username": "rabbihasan775",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/06ea3c7533fd949587e0b1a54146b7ac-1704122742264/5e8b762f-d5be-445d-b76b-76d2a31f7b0d.jpg",
+          "created_at": "2024-01-28T15:38:23",
+          "value": 5
+        },
+        {
+          "id": "65b4b977756b9d0001757193",
+          "comment": "It was a great experience working with Tommy. Thanks for choosing my service.\n",
+          "comment_language": "en",
+          "username": "adsfrenzy",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9bf408283dd1bb74d1276629047cb115-1682868270925/13426284-2360-4501-8143-71fd6180bacf.png",
+          "created_at": "2024-01-27T08:06:15",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 153840776,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

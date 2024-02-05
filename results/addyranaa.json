@@ -1,0 +1,563 @@
+{
+  "seller": {
+    "user": {
+      "id": "164322505",
+      "name": "addyranaa",
+      "isActivationCompleted": true,
+      "joinedAt": 1700601471,
+      "profile": {
+        "displayName": "Adnan Rashid"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/81fffae47b7498b5126ed84232770b6e-1701304915397/f9ef4b91-fa09-4472-8438-8780259483fc.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "353196285"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Full Stack iOS and Android Mobile App Developer",
+    "description": "Adnan leads a team of passionate individuals committed to delivering excellence. He offers his services to businesses helping them achieve success which aligns to their goals and success. His expertise are; Android & iOS Mobile App Development, Full Stack Web Development, Flutter Developer, Taxi app. Fitness app, Dating app, React Native, Mobile App Design, Figma Design, Mobile App UI UX Design",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6370565f0778900587b",
+        "name": "Angular",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Angular expert"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Node.js expert"
+      },
+      {
+        "id": "617fa6650565f077890065fe",
+        "name": "Mobile apps development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps developer"
+      },
+      {
+        "id": "617fa66e0565f07789006880",
+        "name": "React Native",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "React Native expert"
+      },
+      {
+        "id": "617fa6510565f07789006036",
+        "name": "Flutter development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter developer"
+      },
+      {
+        "id": "617fa6650565f07789006607",
+        "name": "Mobile UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UI designer"
+      },
+      {
+        "id": "617fa65c0565f07789006391",
+        "name": "iOS app development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "iOS app developer"
+      },
+      {
+        "id": "617fa6370565f0778900586f",
+        "name": "Android app",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Android app expert"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP developer"
+      },
+      {
+        "id": "617fa6500565f07789005fff",
+        "name": "Firebase",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Firebase expert"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Full stack web developer"
+      },
+      {
+        "id": "617fa6750565f07789006a8e",
+        "name": "SWIFT",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SWIFT expert"
+      },
+      {
+        "id": "617fa6600565f07789006475",
+        "name": "Kotlin",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Kotlin expert"
+      },
+      {
+        "id": "617fa6600565f07789006497",
+        "name": "Laravel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Laravel expert"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa6590565f07789006290",
+        "name": "HTML",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html expert"
+      },
+      {
+        "id": "617fa6450565f07789005cbf",
+        "name": "CSS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS expert"
+      },
+      {
+        "id": "617fa6660565f0778900664c",
+        "name": "MySQL",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MySQL expert"
+      },
+      {
+        "id": "617fa6380565f077890058c2",
+        "name": "App design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App designer"
+      },
+      {
+        "id": "61a4d8a9758d756a25307bab",
+        "name": "Dart",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Dart developer"
+      },
+      {
+        "id": "617fa65c0565f0778900638e",
+        "name": "Ionic",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Ionic expert"
+      },
+      {
+        "id": "617fa67d0565f07789006d29",
+        "name": "Xcode",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Xcode expert"
+      },
+      {
+        "id": "617fa6370565f07789005878",
+        "name": "Android Studio",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Android Studio expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 13
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "658910cb08c715219260c497",
+          "comment": "Impressed with my fitness app designs I received! His team not only created visuals but also helped refine my ideas. Excited to get started with the app development phase",
+          "comment_language": "en",
+          "username": "faithdoley",
+          "reviewer_country_code": "FR",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/dc65c237005ec28200d7cf37dd001f01-1695466972259/cea7a578-f712-4b4f-a989-08111490d31b.jpg",
+          "created_at": "2023-12-25T06:26:06",
+          "value": 5,
+          "reviewer_country": "France",
+          "encrypted_order_id": "FO217CBEC2B86",
+          "score": 0.73476565,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 353196285,
+          "gig_slug": "be-your-android-app-developer-ios-app-developer-for-ios-android-app-development",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 241,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b898a34f44d32294630ed2",
+          "comment": "I am satisfied so far, we are still in development phase but designs look amazing. I love the communication all the process, excited for development phase. Highly recommended",
+          "comment_language": "en",
+          "username": "tanyahornehil",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a95c8ea8f12aff33311104d43267cf66-1695464570936/6bdbfd38-c595-4065-9f8e-d784ff8871a4.jpg",
+          "created_at": "2024-01-30T17:32:07",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO823FB36A7C4",
+          "score": 0.63855034,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 353196285,
+          "gig_slug": "be-your-android-app-developer-ios-app-developer-for-ios-android-app-development",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 257,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65bc6825e4010a345167259d",
+          "comment": "The app design is wonderful, I am loving the timely process so happy that we are already into developing the app in just one month, excited.",
+          "comment_language": "en",
+          "username": "willbairdy",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3244e2aa8dd002ea160b27d417d33c7-1692355404139/308b08e1-a442-437d-986e-316553b8c520.jpg",
+          "created_at": "2024-02-02T11:38:32",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41DFDC5EC06",
+          "score": 0.583726,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 353196285,
+          "gig_slug": "be-your-android-app-developer-ios-app-developer-for-ios-android-app-development",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 174,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6586983eaedd4320285f2f0b",
+          "comment": "He was extremely patient and excellent with walking me through this process. I would highly recommend using their service. They definitely know what they are doing.",
+          "comment_language": "en",
+          "username": "gracenormany",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e2b9a4e079933fb2bd5dd72742ac948d-1697631466191/1bd5f0c9-8488-48b7-b6b6-3f07ea7fe183.jpg",
+          "created_at": "2023-12-23T14:45:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO511D7E25441",
+          "score": 0.5261843,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 353196285,
+          "gig_slug": "be-your-android-app-developer-ios-app-developer-for-ios-android-app-development",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 155,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658ba5a7d628ec00018402eb",
+          "comment": "Impressive service! They have successfully incorporated graphs and calculations. I’m especially impressed by their understanding of technicalities, such as energy saving calculations, even though they’re primarily developers.",
+          "comment_language": "en",
+          "username": "shanonsams",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fec76106aef92f198ed49248848e498b-1695463470639/c2261102-04c7-489f-8000-44a78242ad7c.jpg",
+          "created_at": "2023-12-27T06:25:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO317CD216985",
+          "score": 0.52520216,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 353196285,
+          "gig_slug": "be-your-android-app-developer-ios-app-developer-for-ios-android-app-development",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 264,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 13,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 164322505,
+      "seller_username": "addyranaa",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 13
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 164322505,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 164322505,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 353196285,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-android-app-developer-ios-app-developer-for-ios-android-app-development",
+      "title": "be your mobile app developer for ios app and android mobile app development",
+      "seller_name": "addyranaa",
+      "seller_id": 164322505,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/81fffae47b7498b5126ed84232770b6e-1701304915397/f9ef4b91-fa09-4472-8438-8780259483fc.png",
+      "seller_display_name": "Adnan Rashid",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/353196285/original/e72fcfc12843531b97dedc49646242093702050b.jpg",
+          "type": "ImageAsset",
+          "id": "353196285_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "native"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "react_native",
+            "java",
+            "php",
+            "kotlin",
+            "javascript",
+            "dart",
+            "swift"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "laravel",
+            "jetpack_compose",
+            "swiftui",
+            "node_js",
+            "other"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "glide",
+            "flutterflow",
+            "android_studio",
+            "xcode",
+            "firebase",
+            "other"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "dating",
+            "delivery",
+            "restaurant",
+            "shopping",
+            "taxi",
+            "booking",
+            "social_networking",
+            "entertainment",
+            "health_fitness"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "performance",
+            "security",
+            "design",
+            "firebase",
+            "api_integration"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 13,
+      "buying_review_rating": 5,
+      "seller_url": "/addyranaa",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 13,
+        "score": 5
+      },
+      "gig_url": "/addyranaa/be-your-android-app-developer-ios-app-developer-for-ios-android-app-development",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

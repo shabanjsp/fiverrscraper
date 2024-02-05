@@ -1,0 +1,912 @@
+{
+  "seller": {
+    "user": {
+      "id": "137569787",
+      "name": "lunagraphix01",
+      "isActivationCompleted": true,
+      "joinedAt": 1667662717,
+      "profile": {
+        "displayName": "Luna Graphics"
+      },
+      "address": {
+        "countryName": "India",
+        "countryCode": "IN"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/d104fc3e45dcad225e4f51dea50b103f-1676294930970/6b8962ef-c7fb-4472-a94c-3908de349ddb.jpg"
+    },
+    "approvedGigsCount": 6,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "301216893"
+        },
+        {
+          "id": "301217743"
+        },
+        {
+          "id": "307668331"
+        },
+        {
+          "id": "310167015"
+        },
+        {
+          "id": "310947141"
+        },
+        {
+          "id": "315317376"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Your Best is just a click away",
+    "description": "Hello! My name is Saba. I am an experienced graphic designer . You will get quality, original and unique logo designs..\r\n\r\nThanks for visiting my site and don't hesitate for order or inquire .My client satisfaction is my priority so I will give you my best. I am excited to work together!  ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 56,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 150
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 2
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6555f3d3d1cd3b000126e72f",
+          "comment": "Whenever requested a revision there could go like one week without hearing anything. When I prompted and asked for a status the delivery came quick but with a disappointing result (looks like something created as a quick fix / created in minutes as I have been forgotten but now that I prompt something quick was made in order to deliver something).",
+          "comment_language": "en",
+          "username": "asndbk",
+          "reviewer_country_code": "DK",
+          "created_at": "2023-11-16T10:50:40",
+          "value": 2.7,
+          "reviewer_country": "Denmark",
+          "encrypted_order_id": "FO31198DEDF43",
+          "score": 0.55,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 301217743,
+          "gig_slug": "do-modern-minimalist-business-logo-design-8661",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ae040c49d34f2171b3ca12",
+          "comment": "Highly recommend! The seller is efficient, excellent communication, artistic and follows customer guidelines very well. I am incredibly satisfied and happy working with the seller. I will use this service again.",
+          "comment_language": "en",
+          "username": "juniorfornah",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-22T06:47:18",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/4d54f523b8e48db1fb27587b8d864df6-1705849264/white.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/4d54f523b8e48db1fb27587b8d864df6-1705849264/white.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO629EAA22648",
+          "score": 0.40065414,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 301217743,
+          "gig_slug": "do-modern-minimalist-business-logo-design-8661",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65b34bf641e5c52d8c22fde8",
+          "comment": "Awesome, nailed the concept. very happy - will be using for any future projects soon! thankyou for an exceptional work ",
+          "comment_language": "en",
+          "username": "barbaragard",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-26T06:28:20",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/fa7294ee09cca83bd2d0360c2664a456-1706232691/3D-2.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/fa7294ee09cca83bd2d0360c2664a456-1706232691/3D-2.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81DF9E3B902",
+          "score": 0.23526192,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 301217743,
+          "gig_slug": "do-modern-minimalist-business-logo-design-8661",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 12,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65bf3febf9a787374b918c59",
+          "comment": "Super easy! Service was straightforward and delivered a superb work. I'd use again this seller and highly recommend.",
+          "comment_language": "en",
+          "username": "jonathanmarsha",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3cc14f9d772f65cce058eb4ea257109-1695465756095/73b3ff66-8512-43fd-be71-c19655bd0db9.jpg",
+          "created_at": "2024-02-04T08:00:34",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/7d480987afa3a5e0a1e2ffda6d13200b-1706972861/3D.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/7d480987afa3a5e0a1e2ffda6d13200b-1706972861/3D.jpg",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO5240D7EC8C7",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 301217743,
+          "gig_slug": "do-modern-minimalist-business-logo-design-8661",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 213,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65acdf9649d34f2171b3b51e",
+          "comment": "Great work, thank you",
+          "comment_language": "en",
+          "username": "fafoldibela",
+          "reviewer_country_code": "HU",
+          "created_at": "2024-01-21T14:54:06",
+          "value": 5,
+          "reviewer_country": "Hungary",
+          "encrypted_order_id": "FO829CD2B0C46",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 301217743,
+          "gig_slug": "do-modern-minimalist-business-logo-design-8661",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 58,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 150,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 119,
+        "business": 3
+      },
+      "user_id": 137569787,
+      "seller_username": "lunagraphix01",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 11
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 134
+        }
+      ],
+      "average_valuation": 4.8,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 137569787,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 137569787,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Kolkata",
+    "recent_utc_offset": -330
+  },
+  "gigsData": [
+    {
+      "gig_id": 301217743,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-modern-minimalist-business-logo-design-8661",
+      "title": "do modern minimalist business logo design",
+      "seller_name": "lunagraphix01",
+      "seller_id": 137569787,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d104fc3e45dcad225e4f51dea50b103f-1676294930970/6b8962ef-c7fb-4472-a94c-3908de349ddb.jpg",
+      "seller_display_name": "Luna Graphics",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/301217743/original/a9414c218c98393a35dc4dfbc8f6ed676305751b.jpg",
+          "type": "ImageAsset",
+          "id": "301217743_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/301217743/original/4eec75594d35eadd77be63c0d208cee422eb0607.jpg",
+          "type": "ImageAsset",
+          "id": "301217743_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/301217743/original/799f203715aa7a5d773859777c7c1bd2a77b8b1a.jpg",
+          "type": "ImageAsset",
+          "id": "301217743_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176443624",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/7d480987afa3a5e0a1e2ffda6d13200b-1706972861/3D.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176079594",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/fa7294ee09cca83bd2d0360c2664a456-1706232691/3D-2.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175880715",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4d54f523b8e48db1fb27587b8d864df6-1705849264/white.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175764424",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/69f7e307b6d4940156e4bf34a85ca3e1-1705599663/TastyTrails%20Mockup.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "lettering"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "wordmark",
+            "abstract"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 146,
+      "buying_review_rating": 4.8,
+      "seller_url": "/lunagraphix01",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 150,
+        "score": 4.842222
+      },
+      "gig_url": "/lunagraphix01/do-modern-minimalist-business-logo-design-8661",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 307668331,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-modern-minimalist-and-luxury-logo-design",
+      "title": "create a modern minimalist and luxury logo design",
+      "seller_name": "lunagraphix01",
+      "seller_id": 137569787,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d104fc3e45dcad225e4f51dea50b103f-1676294930970/6b8962ef-c7fb-4472-a94c-3908de349ddb.jpg",
+      "seller_display_name": "Luna Graphics",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/307668331/original/131394a2ac55d0497ed51e7d19de5c26d95f33c9.jpg",
+          "type": "ImageAsset",
+          "id": "307668331_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/307668331/original/dfe17fca3b3aadd9df14bd11f9ec0c919dda0f55.jpg",
+          "type": "ImageAsset",
+          "id": "307668331_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/307668331/original/0abf61b61f46bbf7a7078f506a756c5e1b84ae5f.jpg",
+          "type": "ImageAsset",
+          "id": "307668331_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "166790986",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/dc0f4ad479d44fc9d90ea8b5e402cda3-1687359431/1-jeofi.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "166680179",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/860f236c7a0600ef9a00af2f868fa965-1687154169/gradwhiz-mockup-final.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "3d"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/lunagraphix01",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 150,
+        "score": 4.842222
+      },
+      "gig_url": "/lunagraphix01/create-a-modern-minimalist-and-luxury-logo-design",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 301216893,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-modern-minimalist-business-logo-design",
+      "title": "do modern minimalist business logo design",
+      "seller_name": "lunagraphix01",
+      "seller_id": 137569787,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d104fc3e45dcad225e4f51dea50b103f-1676294930970/6b8962ef-c7fb-4472-a94c-3908de349ddb.jpg",
+      "seller_display_name": "Luna Graphics",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/301216893/original/98b09d5a3e8fde28cec394e67055aac2a26e3acd.jpg",
+          "type": "ImageAsset",
+          "id": "301216893_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/301216893/original/ecc7f252a571d9b60cbc2436ec2b00792633d9c7.jpg",
+          "type": "ImageAsset",
+          "id": "301216893_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/301216893/original/66045b2108d17353ba9e61c9a60d43aad5673c94.png",
+          "type": "ImageAsset",
+          "id": "301216893_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "3d"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "wordmark",
+            "abstract"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/lunagraphix01",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 150,
+        "score": 4.842222
+      },
+      "gig_url": "/lunagraphix01/do-modern-minimalist-business-logo-design",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 310947141,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-professional-business-minimalist-logo-design",
+      "title": "do professional business minimalist logo design",
+      "seller_name": "lunagraphix01",
+      "seller_id": 137569787,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d104fc3e45dcad225e4f51dea50b103f-1676294930970/6b8962ef-c7fb-4472-a94c-3908de349ddb.jpg",
+      "seller_display_name": "Luna Graphics",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/310947141/original/b61d93ee85edc2f6f756ae4f143d76f5acfed2d3.jpg",
+          "type": "ImageAsset",
+          "id": "310947141_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/310947141/original/bfeaf974a357cc8ef77a91407731d443b61ec147.jpg",
+          "type": "ImageAsset",
+          "id": "310947141_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/310947141/original/7642529891c16774c3ee757ea3f8cfb2972fb1f4.jpg",
+          "type": "ImageAsset",
+          "id": "310947141_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "167895083",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/81a7ba6cdea89ec452910ff72c27c034-1689589133/3D-4.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "3d"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/lunagraphix01",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 150,
+        "score": 4.842222
+      },
+      "gig_url": "/lunagraphix01/do-professional-business-minimalist-logo-design",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 310167015,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-black-and-white-minimalist-logo-for-your-business",
+      "title": "design black and white minimalist logo for your business",
+      "seller_name": "lunagraphix01",
+      "seller_id": 137569787,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d104fc3e45dcad225e4f51dea50b103f-1676294930970/6b8962ef-c7fb-4472-a94c-3908de349ddb.jpg",
+      "seller_display_name": "Luna Graphics",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/310167015/original/b75ecbae626958f6efa26bf5379ad63539b23baf.jpg",
+          "type": "ImageAsset",
+          "id": "310167015_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/310167015/original/aec37c0e2a7489d5aaecd6f6266774c4598fdf01.jpg",
+          "type": "ImageAsset",
+          "id": "310167015_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/310167015/original/9ac7910c9c86170a840deea65ad36c58a58b1101.jpg",
+          "type": "ImageAsset",
+          "id": "310167015_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "3d"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/lunagraphix01",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 150,
+        "score": 4.842222
+      },
+      "gig_url": "/lunagraphix01/design-black-and-white-minimalist-logo-for-your-business",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 315317376,
+      "category_id": 3,
+      "sub_category_id": 56,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-professional-business-cards-within-24-hours",
+      "title": "design professional business cards within 24 hours",
+      "seller_name": "lunagraphix01",
+      "seller_id": 137569787,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d104fc3e45dcad225e4f51dea50b103f-1676294930970/6b8962ef-c7fb-4472-a94c-3908de349ddb.jpg",
+      "seller_display_name": "Luna Graphics",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/315317376/original/88ee0f3b3e22375c44444ebae69643e7b155992b.jpg",
+          "type": "ImageAsset",
+          "id": "315317376_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/315317376/original/29ff6def4db712322a81864cb9cae9f22fd1fe14.jpg",
+          "type": "ImageAsset",
+          "id": "315317376_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/315317376/original/3d9bf34d6d0094d5d31b12f056188aef7e8cd34c.jpg",
+          "type": "ImageAsset",
+          "id": "315317376_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "main_type",
+          "value": [
+            "business_cards"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/lunagraphix01",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 150,
+        "score": 4.842222
+      },
+      "gig_url": "/lunagraphix01/design-professional-business-cards-within-24-hours",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

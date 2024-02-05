@@ -1,0 +1,181 @@
+{
+  "seller": {
+    "user": {
+      "id": "163249439",
+      "name": "lyla41853",
+      "isActivationCompleted": true,
+      "joinedAt": 1699094799,
+      "profile": {
+        "displayName": "Lyla"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63f0565f07789005ae0",
+        "name": "Capital market",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Capital market expert"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 163249439,
+      "seller_username": "lyla41853",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 163249439,
+      "reviews": [
+        {
+          "id": "65a63241be67470001ee298a",
+          "comment": "Great Buyer...",
+          "comment_language": "en",
+          "username": "poppy_07",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fc62d9e4a5c9029d7842a6dca33063cd-1683627066395/cde20021-0381-4eb6-b832-5ec509e356a9.jpeg",
+          "created_at": "2024-01-16T07:37:37",
+          "value": 5
+        },
+        {
+          "id": "65a3942bbe67470001ec8491",
+          "comment": "Great Buyer....",
+          "comment_language": "en",
+          "username": "layla5548",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/79c53b48e729ee8a061944b9fb4a40df-1692665427477/0ba0f6d1-2164-4eb6-ad9b-b754bf77e621.jpg",
+          "created_at": "2024-01-14T07:58:35",
+          "value": 5
+        },
+        {
+          "id": "659f98152ffdc500015e3bac",
+          "comment": "Great Buyer........",
+          "comment_language": "en",
+          "username": "arham_mustakim",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/11d9e7acd6d526d697e28303a6d3c372-1684703368081/06f806ed-2772-4114-bee6-bc37e2437b59.png",
+          "created_at": "2024-01-11T07:26:13",
+          "value": 5
+        },
+        {
+          "id": "659bc798369cc90001219401",
+          "comment": "Outstanding Experience ",
+          "comment_language": "en",
+          "username": "arpa_ahmed",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3bd8b7057cbed7c33be9e9256f03f632-1693032353166/fe323b9c-2ec6-4b15-bcf9-0d4bd0359379.jpg",
+          "created_at": "2024-01-08T09:59:52",
+          "value": 5
+        },
+        {
+          "id": "658d69b8d628ec000184eace",
+          "comment": "Thank you ",
+          "comment_language": "en",
+          "username": "freya_islam",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1076579bfb391ca21f1b3ef950c53ade-1672907902386/4d41eb33-647d-4d72-a7d7-8b0a52a6420a.jpg",
+          "created_at": "2023-12-28T12:27:37",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 163249439,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

@@ -1,0 +1,326 @@
+{
+  "seller": {
+    "user": {
+      "id": "166414143",
+      "name": "chdaniyalali",
+      "isActivationCompleted": true,
+      "joinedAt": 1703574263,
+      "profile": {
+        "displayName": "Ch Daniyal Ali"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/9d0e3039bcf87f73b77d4ec1a4c37daf-1703574583486/1d7339d9-cca6-4d27-b179-1bf3ec858bb9.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "358581452"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Experienced SEO strategist with a decade of success in optimizing digital landscapes. Proven expertise in crafting tailored, data-driven strategies, boosting organic rankings, and navigating industry shifts. Committed to ethical practices, continual learning, and effective communication. Trusted advisor for diverse clientele, driving online success through a blend of creativity and analytical rigor.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "sEMRUSH ACADEMY",
+        "certificationName": " SEO CRASH EXAM",
+        "year": 2023
+      },
+      {
+        "receivedFrom": "SEMRUSH CERTIFICATIONS",
+        "certificationName": "SEO FUNDAMENTALS EXAM",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2019,
+        "countryCode": "PK",
+        "school": "smiu",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "SEO expert"
+      },
+      {
+        "id": "617fa6620565f0778900652f",
+        "name": "Local SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Local SEO expert"
+      },
+      {
+        "id": "617fa6700565f0778900694d",
+        "name": "SEO audit",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO audit expert"
+      },
+      {
+        "id": "617fa6550565f07789006191",
+        "name": "Google SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google SEO expert"
+      },
+      {
+        "id": "617fa6700565f0778900694e",
+        "name": "SEO consulting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO consultant"
+      },
+      {
+        "id": "617fa6550565f07789006187",
+        "name": "Google marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google marketer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 65,
+        "nestedCategoryId": 2153
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 4
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b741ccda9df3104e85640c",
+          "comment": "Thrilled with the exceptional service!  Highly recommend this professional for anyone looking to enhance their local online presence!",
+          "comment_language": "en",
+          "username": "torisylvester",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/020f7fa1635ccfbd8d736c741240a449-1692968051741/1ebec588-573e-4666-850b-d2a81d7025d4.jpg",
+          "created_at": "2024-01-30T18:29:37",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO1BFE76AE43",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358581452,
+          "gig_slug": "provide-monthly-seo-service-and-website-optimization",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2153,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 346,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 166414143,
+      "seller_username": "chdaniyalali",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 166414143,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 166414143,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 358581452,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2153,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "provide-monthly-seo-service-and-website-optimization",
+      "title": "do monthly SEO service and gmb ranking",
+      "seller_name": "chdaniyalali",
+      "seller_id": 166414143,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9d0e3039bcf87f73b77d4ec1a4c37daf-1703574583486/1d7339d9-cca6-4d27-b179-1bf3ec858bb9.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/358581452/original/f05ea3fa877ad8a7edb6fb8874f0427f03c20e62.jpg",
+          "type": "ImageAsset",
+          "id": "358581452_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/358581452/original/a46ea885d27abeb65bb3ab95dbc84dc96fde33c2.png",
+          "type": "ImageAsset",
+          "id": "358581452_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/358581452/original/61842e644f221a5b3f147b23138714bb5cdb08e3.png",
+          "type": "ImageAsset",
+          "id": "358581452_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "arts",
+            "beauty_cosmetics",
+            "dental_care",
+            "education",
+            "environmental",
+            "food_beverage",
+            "real_estate",
+            "services",
+            "technology_internet",
+            "travel_tourism"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/chdaniyalali",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/chdaniyalali/provide-monthly-seo-service-and-website-optimization",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "seller": {
+    "user": {
+      "id": "165792268",
+      "name": "ok_kro786",
+      "isActivationCompleted": true,
+      "joinedAt": 1702655850,
+      "profile": {
+        "displayName": "Awais Zain"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/12f8b0e6fe84fdbcf3eb2f36a6419717-1703053033593/7bd122b0-66c9-48d3-ac89-a95defc8cb35.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": false,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Client Satisfaction is my First Priority!",
+    "description": "Hello Buyers, Thank you for visiting my profile. I have completed my graduation in computer\r\nscience and have 4 years of professional working experience in excel data entry, pdf to excel, typing,\r\nweb research and copy paste job.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6540565f07789006120",
+        "name": "Geometric data",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Geometric data expert"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b0af807716c46252980636",
+          "comment": "I can't describe in words how much I'm happy with seller's work. Totally love it! Thank you so much!",
+          "comment_language": "en",
+          "username": "williamwebs",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-24T07:00:02",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO623F3BE15C6",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360372656,
+          "gig_slug": "do-channel-promotion-for-complete-youtube-channel-monetization-1853",
+          "gig_category": 2,
+          "gig_sub_category": 69,
+          "gig_nested_sub_category": 2084,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 12,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 165792268,
+      "seller_username": "ok_kro786",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 165792268,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165792268,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": []
+}

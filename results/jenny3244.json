@@ -1,0 +1,181 @@
+{
+  "seller": {
+    "user": {
+      "id": "163251006",
+      "name": "jenny3244",
+      "isActivationCompleted": true,
+      "joinedAt": 1699097114,
+      "profile": {
+        "displayName": "Jenny"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6700565f0778900694e",
+        "name": "SEO consulting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO consultant"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 163251006,
+      "seller_username": "jenny3244",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 163251006,
+      "reviews": [
+        {
+          "id": "65a521adbe67470001ed8246",
+          "comment": "Thank you ",
+          "comment_language": "en",
+          "username": "layla5548",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/79c53b48e729ee8a061944b9fb4a40df-1692665427477/0ba0f6d1-2164-4eb6-ad9b-b754bf77e621.jpg",
+          "created_at": "2024-01-15T12:14:37",
+          "value": 5
+        },
+        {
+          "id": "65a3a44cbe67470001ec8bcb",
+          "comment": "Amazing experience! ",
+          "comment_language": "unknown",
+          "username": "rahat_graphics",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9a9677cfb29b5c9326da7b1e8c451a6d-1376345051673723432035/JPEG_20230115_011030_1750139086266726687.jpg",
+          "created_at": "2024-01-14T09:07:25",
+          "value": 5
+        },
+        {
+          "id": "659e349f6020550001b64eb3",
+          "comment": "great buyer i am waiting for your next jobs ",
+          "comment_language": "en",
+          "username": "sisir_ahmed41",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/84147324c3f980946c1c38c30c3be084-1675706073366/1da5fe82-6b7d-46f6-a64a-288ab54a4ce2.jpg",
+          "created_at": "2024-01-10T06:09:35",
+          "value": 5
+        },
+        {
+          "id": "658d2733d628ec000184cbca",
+          "comment": "Thank you so much!!!",
+          "comment_language": "en",
+          "username": "rosemary758",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/370476c34ffb10c18421293ced869fd6-1692792948062/dceb5264-bb56-43d4-9362-3bd8968eb068.jpg",
+          "created_at": "2023-12-28T07:43:47",
+          "value": 5
+        },
+        {
+          "id": "6589157e3b629a000147dfe7",
+          "comment": "Great Buyer ",
+          "comment_language": "en",
+          "username": "cora35752",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/594075adc0f5cab33a1231a36cd7a388-1692524504861/c617f17c-77f8-47e7-8ad4-728eb03fd449.jpg",
+          "created_at": "2023-12-25T05:39:10",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 163251006,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Los_Angeles",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}

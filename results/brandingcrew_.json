@@ -1,0 +1,926 @@
+{
+  "seller": {
+    "user": {
+      "id": "136728593",
+      "name": "brandingcrew_",
+      "isActivationCompleted": true,
+      "joinedAt": 1666607179,
+      "profile": {
+        "displayName": "Sonia K."
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "HI",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/12f0c152f189dc1e097bbe034fd8cb38-1666848842950/0a0ba4eb-0991-416f-a9a7-63428bbb6498.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "339539375"
+        },
+        {
+          "id": "349387647"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Captivating video content that leaves a lasting impact",
+    "description": "Welcome to BrandingCrew, 👋\r\n\r\nOur team of experienced and passionate video editors is here to help you create custom video edits that will leave a lasting impact on your audience. We specialize in all types of video editing, from social media clips, ads, and shorts to corporate presentations.\r\n\r\nWe know every project is unique, so we work closely with our clients to create videos that meet their specific needs. \r\n\r\nWe stay up-to-date on the latest video editing trends and techniques to ensure that your videos are always on point.\r\n\r\nPlace your order today and let's take your videos to the next level!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Skillshare",
+        "certificationName": "The Branding Masterclass for Graphic Designers: The Entire Process",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "Userhub",
+        "certificationName": "Logo Design & Brand Identity",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "skillshare",
+        "certificationName": "Video Editing Techniques A Practical Guide to Creating Visually Appealing Edits",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "Ben Marriott",
+        "certificationName": "Motion Foundation With Ben Marriott",
+        "year": 2023
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "marketingmanagement",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "Comilla Victoria Government College",
+        "degreeTitle": "BA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63d0565f07789005a5e",
+        "name": "Branding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Branding expert"
+      },
+      {
+        "id": "617fa6430565f07789005bea",
+        "name": "Company branding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Company branding expert"
+      },
+      {
+        "id": "617fa6440565f07789005c94",
+        "name": "Creative design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Creative designer"
+      },
+      {
+        "id": "617fa6720565f077890069c3",
+        "name": "Social media design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media designer"
+      },
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      },
+      {
+        "id": "617fa6650565f0778900661b",
+        "name": "Motion graphics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Motion graphics designer"
+      },
+      {
+        "id": "617fa6370565f0778900588d",
+        "name": "Animation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Animator"
+      },
+      {
+        "id": "617fa6780565f07789006ba9",
+        "name": "Video ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video ads creator"
+      },
+      {
+        "id": "617fa66d0565f0778900682b",
+        "name": "Promotional videos",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Promotional video creator"
+      },
+      {
+        "id": "617fa6440565f07789005c6c",
+        "name": "Corporate video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Corporate video editor"
+      },
+      {
+        "id": "617fa67e0565f07789006d56",
+        "name": "YouTube video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "YouTube video editor"
+      },
+      {
+        "id": "617fa6720565f077890069ce",
+        "name": "Social media video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media video editor"
+      },
+      {
+        "id": "617fa66a0565f07789006793",
+        "name": "Podcast editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Podcast editor"
+      },
+      {
+        "id": "617fa6790565f07789006bfb",
+        "name": "Vlog editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Vlog editor"
+      },
+      {
+        "id": "617fa6500565f07789005fe1",
+        "name": "Final Cut Pro X",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Final Cut Pro X expert"
+      },
+      {
+        "id": "617fa6350565f077890057e1",
+        "name": "Adobe After Effects",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe After Effects expert"
+      },
+      {
+        "id": "617fa6350565f077890057f7",
+        "name": "Adobe Premiere Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Premiere Pro expert"
+      },
+      {
+        "id": "617fa6540565f077890060f9",
+        "name": "Gaming video montage editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Gaming video montage editor"
+      },
+      {
+        "id": "617fa6760565f07789006af2",
+        "name": "Thumbnails design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Thumbnails designer"
+      },
+      {
+        "id": "617fa67e0565f07789006d54",
+        "name": "YouTube thumbnail design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "YouTube thumbnail designer"
+      },
+      {
+        "id": "617fa6620565f07789006535",
+        "name": "Logo animation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo animator"
+      },
+      {
+        "id": "617fa6560565f077890061c8",
+        "name": "Green screen editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Green screen editor"
+      },
+      {
+        "id": "617fa6560565f077890061c9",
+        "name": "Green screen removal",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Green screen removal expert"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Customer service representative"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Social media marketer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 20,
+        "subCategoryId": 99,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 104,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "653f349539ffc1000192deb9",
+          "title": "Lensy Video Commercial",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6540ddfe1fe5f90001e2a58e",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/854f073c998b962b44096aa09bcc3a6b-1698749937759/Preview.gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65486e5b15b82e0001c29434",
+          "title": "Decto Video Commercial",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "65486e5b15b82e0001c29435",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/33726dd11b78f9e99f52d2d6698177c0-1699244851579/Preview.gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "654b71357e91b000019d1a13",
+          "title": "Backbencher Studio Logo",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "655d9423a2217f00012966c8",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c958afe908bb9009243e64fbf3e750e9-1700631579847/Backbencher-Logo-Animation.gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "653f3177a3ec42000167ecc2",
+          "title": "Tag.up Logo Animation",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6559e798312b4e0001392fc2",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/8141093eebb1a897803c19d236d139c5-1700390794066/Tagup-Logo-Animation-V2.gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "654b2a1cb68d85000104fade",
+          "title": "Fileasy Logo Animation",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6559e60f312b4e0001392f50",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/cbd8653e81feb11620f18c831269a20f-1700390404240/Logo-Animation-v2.gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65599097a43ca300018967f7",
+          "title": "Logo Animation",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6559920ac030af000101d032",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/9a26b0abd82d23e831348231a4539589-1700368900351/Preview.gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6572ec6c41df6a0001ca5552",
+          "title": "Video Stabilizer - Video Editing",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6572f01cc518bc00019e70b4",
+                "attachment": {
+                  "metadata": {
+                    "height": 383,
+                    "width": 681
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d308cd0cf9b25bd83f2efe665c8a1043-1702031379306/Final.gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65505963a07432000118c274",
+          "title": "Color Grading - Video Editing",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "65505afaad720700015f8fce",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/0671ee31a3ca2f53b5e25db28261e908-1699764966949/1st.gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "653f3a8839ffc1000192e000",
+          "title": "Shorts & Reels - Click For More",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "6550c97a9c4e9e0001fb57d5",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7b6f93c9547d8534858cc50cead11127-1699793246712/Burger-Preview.gif"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 9
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1668594138
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 51
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "659cf222369cc900012266dd",
+          "comment": "The service provider is always in communication with the customer and was able to meet all my requirements. He is very professional and provided me with high quality work. I am very satisfied with his work. He is also really available to the customer. I recommend!",
+          "comment_language": "en",
+          "username": "salairefoot",
+          "reviewer_country_code": "FR",
+          "created_at": "2024-01-09T08:19:20",
+          "value": 5,
+          "reviewer_country": "France",
+          "encrypted_order_id": "FO1BEB550D43",
+          "score": 0.34156117,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 339539375,
+          "gig_slug": "video-editing-for-youtube-instagram-reels-tik-tok-ads",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659e85352ffdc500015d6dbd",
+          "comment": "The animation order was efficiently handled with clear, polite communication. The delivery process matched the initial meeting brief, ensuring a timely and successful project completion.",
+          "comment_language": "en",
+          "username": "gregaskufca",
+          "reviewer_country_code": "SI",
+          "created_at": "2024-01-10T13:10:28",
+          "value": 5,
+          "reviewer_country": "Slovenia",
+          "encrypted_order_id": "FO717D36EF381",
+          "score": 0.32503366,
+          "reviewer_industry": [
+            "medical_or_pharmaceutical"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 339539375,
+          "gig_slug": "video-editing-for-youtube-instagram-reels-tik-tok-ads",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65baa7533a5ce446776678c6",
+          "comment": "Very good at editing content !!",
+          "comment_language": "en",
+          "username": "peterankin344",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e8a95f2bf94cec14adc6655f86b1729c-1698284325585/9b985987-b0ad-4ffb-a180-66a8715830a9.jpg",
+          "created_at": "2024-01-31T20:11:51",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO411FE6BF242",
+          "score": 0,
+          "reviewer_industry": [
+            "transportation_or_automotive"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 339539375,
+          "gig_slug": "video-editing-for-youtube-instagram-reels-tik-tok-ads",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 56,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b9b82d4f44d32294632a01",
+          "comment": "He did a great job with the projects! Nicely Done.",
+          "comment_language": "en",
+          "username": "lourejuda",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-31T03:02:54",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO523FEF79DC7",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 339539375,
+          "gig_slug": "video-editing-for-youtube-instagram-reels-tik-tok-ads",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 34,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b908434f44d322946317f1",
+          "comment": "Good seller and problem solver! Thanks for teh work!",
+          "comment_language": "en",
+          "username": "sakinatou",
+          "reviewer_country_code": "CH",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b3e79d04733c22e033e3db754315c28d-1555341763849/b88f8fb3-1003-414d-bee7-371d858c06aa.jpg",
+          "created_at": "2024-01-30T14:37:45",
+          "value": 4,
+          "reviewer_country": "Switzerland",
+          "encrypted_order_id": "FO317EF500D85",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 339539375,
+          "gig_slug": "video-editing-for-youtube-instagram-reels-tik-tok-ads",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 144,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 51,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 7,
+        "business": 0
+      },
+      "user_id": 136728593,
+      "seller_username": "brandingcrew_",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 49
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+        "transportation_or_automotive": "Transportation & Automotive"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 136728593,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 136728593,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 339539375,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "video-editing-for-youtube-instagram-reels-tik-tok-ads",
+      "title": "do reels editing, youtube shorts, instagram reels, travel reels, tik tok editor",
+      "seller_name": "brandingcrew_",
+      "seller_id": 136728593,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/12f0c152f189dc1e097bbe034fd8cb38-1666848842950/0a0ba4eb-0991-416f-a9a7-63428bbb6498.jpg",
+      "seller_display_name": "Sonia K.",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/339539375/original/c462994fd058411cdb385f678b26eed5528f5f26.png",
+          "type": "ImageAsset",
+          "id": "339539375_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "657058edbe8b90000edec2f4",
+          "id": 9579694
+        }
+      ],
+      "attachments": [
+        {
+          "id": "657058edbe8b90000edec2f4",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/nhibqglblhcrv0ojopdq",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_0.0,PLACEHOLDER/nhibqglblhcrv0ojopdq.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175829543",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/eevu5hlcvhnfptyixv9h",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/eevu5hlcvhnfptyixv9h.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "175351489",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/pwwszdbcr1rn0nrmgxza",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/pwwszdbcr1rn0nrmgxza.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "175175733",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/xq4p6v3psfhwlq7ystdw",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/xq4p6v3psfhwlq7ystdw.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "175057797",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ncvlh2rojtxqq02qrpaw",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/ncvlh2rojtxqq02qrpaw.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "174591931",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a92ffe2266dd2acf0d8473e36325175c-1702902726/Preview.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "hi",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "659a9f244201360001789b0d",
+          "discount_percentage": 5
+        },
+        {
+          "id": "659a9f244201360001789b0e",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "ads_social_media_videos"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 50,
+      "buying_review_rating": 4.9,
+      "seller_url": "/brandingcrew_",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 51,
+        "score": 4.95098
+      },
+      "gig_url": "/brandingcrew_/video-editing-for-youtube-instagram-reels-tik-tok-ads",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 349387647,
+      "category_id": 20,
+      "sub_category_id": 104,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-custom-logo-animation-gif-animation-for-your-brand",
+      "title": "create custom logo animation, intro video, gif animation or youtube intro",
+      "seller_name": "brandingcrew_",
+      "seller_id": 136728593,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/12f0c152f189dc1e097bbe034fd8cb38-1666848842950/0a0ba4eb-0991-416f-a9a7-63428bbb6498.jpg",
+      "seller_display_name": "Sonia K.",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/349387647/original/de639c6ae6eb56dd3f6b5e4fcc7ee475c8551be4.png",
+          "type": "ImageAsset",
+          "id": "349387647_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "655b3951bb2dab001a89a9ac",
+          "id": 9490720
+        }
+      ],
+      "attachments": [
+        {
+          "id": "655b3951bb2dab001a89a9ac",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/mc8keszmaafk13wslrfv",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_0.0,PLACEHOLDER/mc8keszmaafk13wslrfv.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "hi",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "659f8be6a7b0ad00015ee916",
+          "discount_percentage": 5
+        },
+        {
+          "id": "659f8be6a7b0ad00015ee917",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "animation_type",
+          "value": [
+            "flat"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "mp4",
+            "mov",
+            "gif",
+            "avi",
+            "m4v"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/brandingcrew_",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 51,
+        "score": 4.95098
+      },
+      "gig_url": "/brandingcrew_/create-custom-logo-animation-gif-animation-for-your-brand",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

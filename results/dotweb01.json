@@ -1,0 +1,602 @@
+{
+  "seller": {
+    "user": {
+      "id": "161045854",
+      "name": "dotweb01",
+      "isActivationCompleted": true,
+      "joinedAt": 1696145908,
+      "profile": {
+        "displayName": "Iftakhar"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/24cfb0dd7d4e2ede4f5f20afaeba2cdd-1696238903476/ac9b5d1c-14d5-4676-a607-038a35f57f45.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "343031015"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Certified WordPress Website Developer",
+    "description": "Hello Fiverr Community,\r\n\r\nI'm Iftikhar Hossain, a professional WordPress Website Design Expert. I can create a responsive WordPress website from scratch or redesign an existing WordPress website with Elementor Pro.\r\n\r\nI have built many user-friendly WordPress websites for various people and businesses.\r\n\r\nLet's get started with creating your dream website with my expertise.\r\n\r\nBest Regards,\r\nIftikhar",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "creative Shaper",
+        "certificationName": "Web Development",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "SoftTech-IT",
+        "certificationName": "Front-End Developer",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science  engineering cse",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "American International University - Bangladesh (AIUB)",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "computer science and engineering",
+        "toYear": 2022,
+        "countryCode": "BD",
+        "school": "American International University - Bangladesh (AIUB)",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf3",
+        "name": "WordPress consultation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress consultant"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c87",
+        "name": "Website landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website landing page expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c83",
+        "name": "Website customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website customization expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c82",
+        "name": "Website creation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website creation expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c7a",
+        "name": "Website audit",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website auditer"
+      },
+      {
+        "id": "617fa67b0565f07789006c7b",
+        "name": "Website backup",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website backup expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa6550565f07789006167",
+        "name": "Godaddy",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Godaddy expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf7",
+        "name": "Wordpress hosting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress host"
+      },
+      {
+        "id": "617fa67b0565f07789006c7d",
+        "name": "Website builders & CMS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website builders & cms expert"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Front-end web developer"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Customer service representative"
+      },
+      {
+        "id": "617fa67b0565f07789006c6c",
+        "name": "Webflow",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Webflow expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6555ec3243f49c0001adc16f",
+          "title": "Digital Marketing Agency Website",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6555ec3243f49c0001adc170",
+                "attachment": {
+                  "metadata": {
+                    "height": 720,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/5697f1b541966f57306d02f51eaa4066-1700129815773/0.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65bb3b09bbf2e30001faa67e",
+          "title": "Dental Website Design",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65bb3b09bbf2e30001faa67f",
+                "attachment": {
+                  "metadata": {
+                    "height": 770,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c3a6ae8795f722b4266bddc0731ae5e9-1706769115732/4.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1696223849
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 29
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "656c44ea740be000017acdb5",
+          "comment": "I am very happy with Iftakhar's service, he was so patient and a lovely person to work with, and built me a lovely website, I will be using Iftakhar services again.",
+          "comment_language": "en",
+          "username": "dianazallen",
+          "reviewer_country_code": "BG",
+          "created_at": "2023-12-03T09:10:25",
+          "value": 5,
+          "reviewer_country": "Bulgaria",
+          "encrypted_order_id": "FO2BD5271642",
+          "score": 0.5932859,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 343031015,
+          "gig_slug": "responsive-wordpress-website-or-redesign-wordpress-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 42,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65967295de307a0001ee1e9d",
+          "comment": "Iftakhar was an absolute pleasure to work with. I came to him with several designs that my website developers had produced and he was able to turn them into exactly what I wanted. I would definitely work with you on future projects!",
+          "comment_language": "en",
+          "username": "lourejuda",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-04T09:03:37",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO111E0F620C5",
+          "score": 0.40040413,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 343031015,
+          "gig_slug": "responsive-wordpress-website-or-redesign-wordpress-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 34,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a234b82ffdc500016016fe",
+          "comment": "Great job- accommodating my changes quickly and I am really happy with the website. I will continue to use him as the website develops. Highly recommended",
+          "comment_language": "en",
+          "username": "octaviarogers",
+          "reviewer_country_code": "SE",
+          "created_at": "2024-01-14T04:15:48",
+          "value": 5,
+          "reviewer_country": "Sweden",
+          "encrypted_order_id": "FO61DDF13BF84",
+          "score": 0.3593834,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 343031015,
+          "gig_slug": "responsive-wordpress-website-or-redesign-wordpress-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 81,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6551ca18163f3500012cfdbc",
+          "comment": "Very quickly and professionally. The work was excellent with adjustments made in a timely and efficient manner. Great comms and would definitely use Iftakhar services again.",
+          "comment_language": "en",
+          "username": "michaelijones05",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/33d1fad6f5427a4301a5e50678536be3-1648297513146/f87a31d9-0cd9-4d1c-a1fd-02146e440bc1.jpg",
+          "created_at": "2023-11-13T12:25:53",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO511AB985CC1",
+          "score": 0.31867683,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 343031015,
+          "gig_slug": "responsive-wordpress-website-or-redesign-wordpress-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 205,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a8a6c5d00c622ae3401f39",
+          "comment": "Iftakhar was brilliant, and so happy with my website. Very efficient and fully understood the brief. Would highly recommend it!",
+          "comment_language": "en",
+          "username": "robmashreky",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-18T04:20:22",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15FB580401",
+          "score": 0.2952854,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 343031015,
+          "gig_slug": "responsive-wordpress-website-or-redesign-wordpress-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 21,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 29,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 161045854,
+      "seller_username": "dotweb01",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 29
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 161045854,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161045854,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 343031015,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "responsive-wordpress-website-or-redesign-wordpress-with-elementor-pro",
+      "title": "create a responsive wordpress website or redesign wordpress with elementor pro",
+      "seller_name": "dotweb01",
+      "seller_id": 161045854,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/24cfb0dd7d4e2ede4f5f20afaeba2cdd-1696238903476/ac9b5d1c-14d5-4676-a607-038a35f57f45.png",
+      "seller_display_name": "Iftakhar",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/343031015/original/61aee342b9b68b78aa4610ac4e19e88919065f16.jpg",
+          "type": "ImageAsset",
+          "id": "343031015_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "inventory",
+            "chat",
+            "membership",
+            "map",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 29,
+      "buying_review_rating": 5,
+      "seller_url": "/dotweb01",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 29,
+        "score": 5
+      },
+      "gig_url": "/dotweb01/responsive-wordpress-website-or-redesign-wordpress-with-elementor-pro",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

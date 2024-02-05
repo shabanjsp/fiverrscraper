@@ -1,0 +1,835 @@
+{
+  "seller": {
+    "user": {
+      "id": "128282657",
+      "name": "greghype",
+      "isActivationCompleted": true,
+      "joinedAt": 1655136181,
+      "profile": {
+        "displayName": "Alve Ahmed"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/d9a9ac2e7b15362a33d16d4697ae1e44-1655136234427/b9d346b5-09ba-4763-b7de-33fadc5a8565.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "261230722"
+        },
+        {
+          "id": "283991541"
+        },
+        {
+          "id": "331810599"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/seller_intro_video/attachment/cbf7ec18c70b0d9289acd859a9d73319-1676925341727/lead%20video"
+    },
+    "oneLinerTitle": "Expert In Design, Redesign, Clone WordPress I Lead Generation",
+    "description": "Hello, This is ALVE, an Expert In WordPress Website Design and development, and B2B Lead Generation.\r\nI am a dedicated freelancer that is passionate and knowledgeable.\r\nMy work is guaranteed to meet your needs.\r\nI am a friendly person that takes my work very seriously.\r\nI am dedicated to providing quality and timely service with complete accuracy at all times.\r\n\r\nI make every effort to build long-term relationships with my clients. ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "admin support",
+        "certificationName": "CodersTrust",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "UDEMY",
+        "certificationName": "B2B Lead Generation",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "Creative IT",
+        "certificationName": "Website Design & Development ",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "Creative IT",
+        "certificationName": "Website Design & Development ",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "accountanc",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "Dhaka University",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6460565f07789005d06",
+        "name": "Data entry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data entry expert"
+      },
+      {
+        "id": "617fa6790565f07789006bdc",
+        "name": "Virtual assistance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Virtual assistant"
+      },
+      {
+        "id": "617fa65c0565f0778900636a",
+        "name": "Internet research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Internet researcher"
+      },
+      {
+        "id": "617fa67b0565f07789006c63",
+        "name": "Web research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web researcher"
+      },
+      {
+        "id": "617fa63a0565f07789005989",
+        "name": "B2B lead generation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "B2B lead generator"
+      },
+      {
+        "id": "617fa6600565f077890064ab",
+        "name": "Lead generation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Lead generation expert"
+      },
+      {
+        "id": "617fa66e0565f07789006890",
+        "name": "Real estate skip tracing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Real estate skip tracer"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress website developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c8e",
+        "name": "Website redesign",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website redesign expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa6450565f07789005cbf",
+        "name": "CSS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS expert"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 8,
+        "subCategoryId": 25,
+        "nestedCategoryId": 2003
+      },
+      {
+        "categoryId": 8,
+        "subCategoryId": 469,
+        "nestedCategoryId": 2505
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "63d1b618ed677a00015b9ad5",
+          "title": "Data Entry Services ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63d1b618ed677a00015b9ad6",
+                "attachment": {
+                  "metadata": {
+                    "height": 2480,
+                    "width": 3508
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/868eebe621fa9983c031dd24e8cb2b13-1674688017267/Data%20entry.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63d1b678e53c240001b870be",
+          "title": "Lead Generation ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63d1b678e53c240001b870bf",
+                "attachment": {
+                  "metadata": {
+                    "height": 2480,
+                    "width": 3508
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/b168b993d879a9110665d3b5ae0b4734-1674688116652/lead%20generation.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63d1b718ed677a00015b9b10",
+          "title": "Excel Data Entry ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63d1b718ed677a00015b9b11",
+                "attachment": {
+                  "metadata": {
+                    "height": 370,
+                    "width": 550
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/cc843ab50bcd58569aac5bdbe0bfdffd-1674688267222/Excel%20Dtat%20Entry.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63d1b76f00f1200001d2cfce",
+          "title": "Lead Generation ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63d1b76f00f1200001d2cfcf",
+                "attachment": {
+                  "metadata": {
+                    "height": 370,
+                    "width": 550
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7720dd6562a9f7d330039f2d7ffd21c4-1674688361994/b2b%20lead%20generation.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1684872417
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 53
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65504b92163f3500012c1927",
+          "comment": "Definitely Alvi is a great professional, very close person and has delivered a website greater than what was expected! Thanks for your professional work and your concern understanding my business needs.",
+          "comment_language": "en",
+          "username": "domarina222",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-12T03:51:21",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/695c1bd3a0193d1c693fdf1dfd7b9fa9-1699540846/th.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/695c1bd3a0193d1c693fdf1dfd7b9fa9-1699540846/th.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO72349330FC5",
+          "score": 0.59817994,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 331810599,
+          "gig_slug": "design-redesign-clone-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6575cf9ae0e98673f946fe0b",
+          "comment": "I am very satisfied with what Alve Ahmed done for me, he is professional and patient. I would choose him in my future projects. thanks",
+          "comment_language": "en",
+          "username": "xujin5",
+          "reviewer_country_code": "CN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3180cb83379b546595a2a16928e5a95c-1572936036797/8906a7ba-df0c-4b75-8798-ebf50e1e02c6.jpeg",
+          "created_at": "2023-12-10T14:49:59",
+          "value": 4.3,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/a012f88a64f6770a4d17e5f84a631d40-1702219493/hellobrandco%20%282%29.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/a012f88a64f6770a4d17e5f84a631d40-1702219493/hellobrandco%20%282%29.png",
+          "reviewer_country": "China",
+          "encrypted_order_id": "FO517A58E1D83",
+          "score": 0.44203806,
+          "reviewer_industry": [
+            "animals_and_pets"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 331810599,
+          "gig_slug": "design-redesign-clone-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "655ba17de4ce96000132f946",
+          "comment": "Excellent skills and communication; went above and above to make sure all was handled properly; will definitely purchase from their gig again",
+          "comment_language": "en",
+          "username": "rowandougla",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-20T18:13:01",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51788110983",
+          "score": 0.35581565,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 331810599,
+          "gig_slug": "design-redesign-clone-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a125412ffdc500015f5270",
+          "comment": "Very helpful and patient with me",
+          "comment_language": "en",
+          "username": "gaelbailey",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/018dce4a8e39c55ed1ae2df330600c6e-1698577524602/58a307f1-a7c2-4aa4-adb9-095b3b7cc600.jpg",
+          "created_at": "2024-01-12T11:41:50",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO523AC92F7C7",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 331810599,
+          "gig_slug": "design-redesign-clone-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "657b3449dbf8680001ff23c1",
+          "comment": "Awesome !! Love his work!!",
+          "comment_language": "en",
+          "username": "angelinajoli888",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-14T17:12:53",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/8d173ccea56d69024a55a2bb0814ccc2-1701971213/justlovecoffeecafe.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/8d173ccea56d69024a55a2bb0814ccc2-1701971213/justlovecoffeecafe.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO517AD493D83",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 331810599,
+          "gig_slug": "design-redesign-clone-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 53,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 26,
+        "business": 8
+      },
+      "user_id": 128282657,
+      "seller_username": "greghype",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 49
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "animals_and_pets": "Animals & Pets"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 128282657,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 128282657,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 261230722,
+      "category_id": 8,
+      "sub_category_id": 469,
+      "nested_sub_category_id": 2505,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-targeted-b2b-lead-generation-lead-prospecting-and-list-building-accurately",
+      "title": "do targeted b2b lead generation, lead prospecting, and list building accurately",
+      "seller_name": "greghype",
+      "seller_id": 128282657,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d9a9ac2e7b15362a33d16d4697ae1e44-1655136234427/b9d346b5-09ba-4763-b7de-33fadc5a8565.jpg",
+      "seller_display_name": "Alve Ahmed",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/261230722/original/c413ace3e2d416b229b9925f6b8be3552c46f396.png",
+          "type": "ImageAsset",
+          "id": "261230722_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "168681767",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b158ccf63ac7ce14e6be8d0f1d44a4a3-1691092403/gree.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "166334675",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3ef5a9fc7bf6f1aaa64e9ad6e41d4656-1686489693/revision.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "166325987",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4a7232d8a52ec3095a6c14d15a6b09b2-1686470542/revision.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "166228668",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/08b1f2fbfcbdb0b6072fe85138204754-1686272217/Screenshot_1.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "166155346",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/ea122e31e954b727ed67a49ddfde55b0-1686149296/100%20ddd.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "marketing_advertising",
+            "real_estate",
+            "technology"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 36,
+      "buying_review_rating": 4.8,
+      "seller_url": "/greghype",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 53,
+        "score": 4.8742137
+      },
+      "gig_url": "/greghype/do-targeted-b2b-lead-generation-lead-prospecting-and-list-building-accurately",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 331810599,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-redesign-clone-wordpress-website-with-elementor-pro",
+      "title": "design, redesign, clone wordpress website with elementor pro",
+      "seller_name": "greghype",
+      "seller_id": 128282657,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d9a9ac2e7b15362a33d16d4697ae1e44-1655136234427/b9d346b5-09ba-4763-b7de-33fadc5a8565.jpg",
+      "seller_display_name": "Alve Ahmed",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/331810599/original/f8cd2c08199abb41477274fcf22c00d3247faa57.png",
+          "type": "ImageAsset",
+          "id": "331810599_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176179090",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/38d0e614caf9a7404a3713548ce448ed-1706452910/theofficecoffeeshop.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174273396",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a012f88a64f6770a4d17e5f84a631d40-1702219493/hellobrandco%20(2).png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174160769",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/8d173ccea56d69024a55a2bb0814ccc2-1701971213/justlovecoffeecafe.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173960324",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/095597a910041d29243bbde0522136fa-1701560248/deleonrealty.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173635907",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/716f74f69fcf3b5ea1218a207d6c173b-1700869355/oakmontbuildingsolutions.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "65a43a9767a9e6000138bcfa",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "analytics",
+            "chat",
+            "membership",
+            "map",
+            "gallery"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 15,
+      "buying_review_rating": 5,
+      "seller_url": "/greghype",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 53,
+        "score": 4.8742137
+      },
+      "gig_url": "/greghype/design-redesign-clone-wordpress-website-with-elementor-pro",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 283991541,
+      "category_id": 8,
+      "sub_category_id": 25,
+      "nested_sub_category_id": 2003,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-mail-merge-avery-mailing-labels-letters-and-envelopes",
+      "title": "do mail merge, avery mailing labels, letters, and envelopes",
+      "seller_name": "greghype",
+      "seller_id": 128282657,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d9a9ac2e7b15362a33d16d4697ae1e44-1655136234427/b9d346b5-09ba-4763-b7de-33fadc5a8565.jpg",
+      "seller_display_name": "Alve Ahmed",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/283991541/original/452138c497d04c8abeb150f643b7aa699a2470e0.jpg",
+          "type": "ImageAsset",
+          "id": "283991541_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "german"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "business"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/greghype",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 53,
+        "score": 4.8742137
+      },
+      "gig_url": "/greghype/do-mail-merge-avery-mailing-labels-letters-and-envelopes",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,920 @@
+{
+  "seller": {
+    "user": {
+      "id": "136401710",
+      "name": "wpbuffing",
+      "isActivationCompleted": true,
+      "joinedAt": 1666150055,
+      "profile": {
+        "displayName": "Shahjalal"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ddab5b3306fb1789c6c485ea4feb3689-1666244409995/72346933-b220-4611-8f9d-f5237ecaef3c.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "299173056"
+        },
+        {
+          "id": "304588708"
+        },
+        {
+          "id": "329123756"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Professional UI UX Designer, CMS Expert",
+    "description": "We are an expert team with experience in custom UI/UX design, web development, e-commerce, and CMS platforms. We work to execute your creative idea to get a successful solution adequately. We have more than 5 years of experience with using these technologies: UI/UX: Figma, Sketch, Adobe XD, and Photoshop. We have also specialized in other CMS platforms, WordPress and Webflow. We are dedicated to delivering high-quality solutions for you.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Udemy.com",
+        "certificationName": "Completed Front End Web Development",
+        "year": 2017
+      },
+      {
+        "receivedFrom": "Creative Shaper",
+        "certificationName": "The Complete WordPress Website Course",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Complete Figma Megacourse: UI/UX Design Beginner to Expert",
+        "year": 2017
+      },
+      {
+        "receivedFrom": "Sikhbe Sobai",
+        "certificationName": "Complete UI/UX Design Masterclass",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2017,
+        "countryCode": "BD",
+        "school": "Eastern University",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "masters of computer science",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "Eastern University",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "61a4d8a8758d756a25307ba4",
+        "name": "Bootstrap 5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bootstrap 5 developer"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "jQuery expert"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Front-end web developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf3",
+        "name": "WordPress consultation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress consultant"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfa",
+        "name": "WordPress performance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress performance expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfb",
+        "name": "WordPress security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress security expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa67d0565f07789006cf8",
+        "name": "WordPress landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress landing page expert"
+      },
+      {
+        "id": "617fa6600565f0778900648c",
+        "name": "Landing page development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page developer"
+      },
+      {
+        "id": "617fa6770565f07789006b5a",
+        "name": "UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI designer"
+      },
+      {
+        "id": "617fa6650565f07789006608",
+        "name": "Mobile UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UX designer"
+      },
+      {
+        "id": "617fa6770565f07789006b58",
+        "name": "UI & UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI & UX designer"
+      },
+      {
+        "id": "617fa6770565f07789006b59",
+        "name": "UI animation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI animator"
+      },
+      {
+        "id": "617fa6650565f07789006607",
+        "name": "Mobile UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UI designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6650565f077890065fd",
+        "name": "Mobile apps design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps designer"
+      },
+      {
+        "id": "617fa66d0565f07789006837",
+        "name": "Prototype design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Prototype designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 151,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2613
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6540f904887ca10001b1cf22",
+          "title": "Banking Website Design",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6540f904887ca10001b1cf23",
+                "attachment": {
+                  "metadata": {
+                    "height": 900,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/59239208a1f398fc814c13ebaffd5cb8-1698756118990/I%20will%20do%20figma%20website_%20figma%20design_%20figma%20design%20website_%20website%20design%20ui%20ux%20figma.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6540faf5ec82c000011c7688",
+          "title": "FHOOD Website",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6540faf5ec82c000011c7689",
+                "attachment": {
+                  "metadata": {
+                    "height": 900,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/f5aca406148120da9a1ba2bbd0734b8f-1698757348216/03.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6540fbadec82c000011c76f7",
+          "title": "NFT Marketplace Website Design",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6540fbadec82c000011c76f8",
+                "attachment": {
+                  "metadata": {
+                    "height": 900,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/ad5e169b6bee64b742d5b6e8d92367aa-1698757500411/04.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6540fcc91fe5f90001e2b318",
+          "title": "Grocery Website Design UI",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6540fcc91fe5f90001e2b319",
+                "attachment": {
+                  "metadata": {
+                    "height": 900,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/58571b5231d2cad44c03edbcd6d17d75-1698757815779/02.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1666239506
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 128
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65a2c38cbe67470001ec0fba",
+          "comment": "As always, I can't imagine how I could be more satisfied with a designer.\n\nThe designs he makes are PHE-NOMENAL in terms of how they look—both the website & the logos. Everybody I show it to is impressed. \n\nThe revisions he makes based on my requests look stunning and are done very quickly.\n\nHe responds quickly to my questions.\n\nHe is a very kind human being.\n\nYou won't go wrong if you choose him.\n\nIf you do, I owe you my morning coffee 😆 And, I wouldn't risk my coffee unless I was very confident in what I was saying. \n\nCheers",
+          "comment_language": "en",
+          "username": "reidoliverbrown",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/58c02a11747cdc8cd1129eeac72d4c8b-1703192279939/6573953a-51c4-4301-8272-d54454a01d0b.jpeg",
+          "created_at": "2024-01-13T17:27:29",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO1BEC344343",
+          "score": 0.7303171,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 329123756,
+          "gig_slug": "do-figma-design-website-or-landing-page-in-figma-ui",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6590b819d628ec000186cf04",
+          "comment": "Guys, this is hands-down a gem of a designer to work with. Just a few benefits of working with Shah\n\n1). Respectful\n\n2). VERY quick to deliver the initial design & complete each set of revisions I gave him\n\n3). Has an amazing talent with design. Every revision idea I gave him, he turned into reality and added his own creativity to make sure it fit the design. I'm no designer, so I love when a designer can take my ideas, and modify them as needed to make it look good\n\n4). I truly found it easy to communicate with him. He has good English\n\n5). Just an over all pleasure to work with. I'm sure we've all had the feeling of working with people who don't want the best for you. That's not this guy.",
+          "comment_language": "en",
+          "username": "reidoliverbrown",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/58c02a11747cdc8cd1129eeac72d4c8b-1703192279939/6573953a-51c4-4301-8272-d54454a01d0b.jpeg",
+          "created_at": "2023-12-31T00:40:11",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO423B111F5C8",
+          "score": 0.68025213,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 329123756,
+          "gig_slug": "do-figma-design-website-or-landing-page-in-figma-ui",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "654a7197f8dffe00010debc3",
+          "comment": "We had very specific needs for updating our website.  It was a big job.  This Fiverr did a great job!  Was patient and worked through several revisions until the job was completed to our satisfaction.  Would definitely recommend.  Price was fair.  Would absolutely use again.  A+++",
+          "comment_language": "en",
+          "username": "scudatl",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/64046222/original/2299_46693149683_7128_n.jpg",
+          "created_at": "2023-11-07T18:37:19",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/b53e67b6524ca827f8c5b18a946ed7e9-1699345430/screencapture-atr-technology-2023-11-06-17_54_43.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/b53e67b6524ca827f8c5b18a946ed7e9-1699345430/screencapture-atr-technology-2023-11-06-17_54_43.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1BB0FA1843",
+          "score": 0.56111777,
+          "reviewer_industry": [
+            "technology"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 299173056,
+          "gig_slug": "build-develop-responsive-business-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "655994f8a97f51000107e191",
+          "comment": "I highly recommend him! He is one of the best people I have met in the design of platforms, he did it quite quickly, totally as I had it in mind and working. His talent is incredible!",
+          "comment_language": "en",
+          "username": "brynlee_berry",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-19T05:52:27",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/e2f4a485c3a6e4fbb650a71d9be53ba3-1700366487/photoshoot%20services%20UI.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/e2f4a485c3a6e4fbb650a71d9be53ba3-1700366487/photoshoot%20services%20UI.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51799AE9783",
+          "score": 0.5557279,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 329123756,
+          "gig_slug": "do-figma-design-website-or-landing-page-in-figma-ui",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 48,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "655a631625bcfb00013cab29",
+          "comment": "Wonderful job! Did everything we asked and was so easy to work with. We've worked with him in the past and these website changes with the rebranding of our company were complex. He did a masterful job.",
+          "comment_language": "en",
+          "username": "seaneubanks",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/6443149/original/CMP___005.jpg",
+          "created_at": "2023-11-19T19:34:34",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/6d6a326ca58691e7b49738e26741fe58-1700421701/seaneubanks%20website.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/6d6a326ca58691e7b49738e26741fe58-1700421701/seaneubanks%20website.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO511AE756941",
+          "score": 0.49282017,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 299173056,
+          "gig_slug": "build-develop-responsive-business-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 59,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 128,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 92,
+        "business": 3
+      },
+      "user_id": 136401710,
+      "seller_username": "wpbuffing",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 124
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "technology": "Technology"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 136401710,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 136401710,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 299173056,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-develop-responsive-business-wordpress-website-with-elementor-pro",
+      "title": "build responsive wordpress website design, redesign or website development",
+      "seller_name": "wpbuffing",
+      "seller_id": 136401710,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ddab5b3306fb1789c6c485ea4feb3689-1666244409995/72346933-b220-4611-8f9d-f5237ecaef3c.png",
+      "seller_display_name": "Shahjalal",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/299173056/original/da817645aa0e3f7f642ad5ce1de3fdbe60f95c16.png",
+          "type": "ImageAsset",
+          "id": "299173056_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175865735",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a9924a0eead8c61c7ad905d7280d111d-1705809870/screencapture--vivian-2024-01-21-10_02_52.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175646368",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e9cae76c19574fd0203b03ab9c6f3ad3-1705377359/screencapture-diyblindsandshutters-au-2024-01-16-09_54_47.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175568368",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/01c96300661ea9ef3493978d4f9c8fd2-1705205757/travel-photographer-london-2024-01-14-10_14_14.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175529904",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/eae9c5403d8a391fc4a8005df656ba26-1705120343/Mosleys_stephenakahgroup-2024-01-13-10_30_41.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175438570",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b12a018169e0e6922345b89761059a75-1704945537/screencapture-agiledevsolutions-au-2024-01-11-09_57_15.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "forum",
+            "customer_support",
+            "video",
+            "events",
+            "chat",
+            "map",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 86,
+      "buying_review_rating": 5,
+      "seller_url": "/wpbuffing",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 128,
+        "score": 4.9609375
+      },
+      "gig_url": "/wpbuffing/build-develop-responsive-business-wordpress-website-with-elementor-pro",
+      "is_seller_unavailable": false,
+      "price_i": 85,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 329123756,
+      "category_id": 3,
+      "sub_category_id": 151,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-figma-design-website-or-landing-page-in-figma-ui",
+      "title": "do figma website, figma design, figma design website, website design ui ux figma",
+      "seller_name": "wpbuffing",
+      "seller_id": 136401710,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ddab5b3306fb1789c6c485ea4feb3689-1666244409995/72346933-b220-4611-8f9d-f5237ecaef3c.png",
+      "seller_display_name": "Shahjalal",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/329123756/original/8aea5f8a27d46b8aba216e74a3439c1f6fbad660.jpg",
+          "type": "ImageAsset",
+          "id": "329123756_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "173927881",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d2437bae317fc8f35903533649d6ba74-1701492552/Landing%20Page%20UI%20Delivery%20File.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173514567",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d8e99bc17f58166944f22898ede037d6-1700626205/Alexa_thomas-car%20maintenance%20mobile%20app%20UI.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173424894",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f94893643e1e2b312539580d9cb06755-1700453587/Obie_g_predovic-landign%20page.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173389310",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e2f4a485c3a6e4fbb650a71d9be53ba3-1700366487/photoshoot%20services%20UI.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173257053",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/06baa7c3ff1cd8bfb356bc44b9c7520f-1700107392/Antwan_hodkiewi%20UI%20design.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business_promotion",
+            "portfolio"
+          ]
+        },
+        {
+          "type": "platform_and_tool",
+          "value": [
+            "adobe_xd",
+            "figma",
+            "adobe_photoshop"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 36,
+      "buying_review_rating": 4.9,
+      "seller_url": "/wpbuffing",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 128,
+        "score": 4.9609375
+      },
+      "gig_url": "/wpbuffing/do-figma-design-website-or-landing-page-in-figma-ui",
+      "is_seller_unavailable": false,
+      "price_i": 85,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 304588708,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2613,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "clone-transfer-or-convert-wix-squarespace-webflow-to-wordpress-website",
+      "title": "build webflow website, figma to webflow, webflow expert",
+      "seller_name": "wpbuffing",
+      "seller_id": 136401710,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ddab5b3306fb1789c6c485ea4feb3689-1666244409995/72346933-b220-4611-8f9d-f5237ecaef3c.png",
+      "seller_display_name": "Shahjalal",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/304588708/original/0c84fc45acc8870ccbabd71e74fb050db7e61576.png",
+          "type": "ImageAsset",
+          "id": "304588708_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "shipping",
+            "analytics",
+            "video",
+            "form",
+            "chat",
+            "gallery"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 6,
+      "buying_review_rating": 5,
+      "seller_url": "/wpbuffing",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 128,
+        "score": 4.9609375
+      },
+      "gig_url": "/wpbuffing/clone-transfer-or-convert-wix-squarespace-webflow-to-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 85,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

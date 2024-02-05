@@ -1,0 +1,175 @@
+{
+  "seller": {
+    "user": {
+      "id": "161397051",
+      "name": "kristimartins",
+      "isActivationCompleted": true,
+      "joinedAt": 1696600635,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 161397051,
+      "seller_username": "kristimartins",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 161397051,
+      "reviews": [
+        {
+          "id": "65be93a3b2f0e000014391ff",
+          "comment": "Kris Is Great Men!",
+          "comment_language": "en",
+          "username": "bella_seo3",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6ddab6c40304d2fb2e685f2c996211e1-1704033034927/808d0610-cb9c-4588-b63b-f4f322854569.jpg",
+          "created_at": "2024-02-03T19:27:32",
+          "value": 5
+        },
+        {
+          "id": "65be80d1b2f0e00001438487",
+          "comment": "Thank you",
+          "comment_language": "en",
+          "username": "jason_zampa",
+          "reviewer_country_code": "KE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a75f1458e29785c439ee181f5db9518e-1704229969314/1fbbac05-50bd-4fe7-80ed-3180d44e6e65.jpeg",
+          "created_at": "2024-02-03T18:07:13",
+          "value": 5
+        },
+        {
+          "id": "65bd4660b2f0e0000142e640",
+          "comment": "Good experience in working with you. thanks for your order",
+          "comment_language": "en",
+          "username": "najam1seo",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/357fdf2551e20c44aad16d3f1adf9b7e-1670594616938/240c2b8c-b3df-422e-bfd4-0e9ca4726490.jpg",
+          "created_at": "2024-02-02T19:45:37",
+          "value": 5
+        },
+        {
+          "id": "65ba1091f760630001eb4edc",
+          "comment": "Great Buyer",
+          "comment_language": "en",
+          "username": "bella_seo3",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6ddab6c40304d2fb2e685f2c996211e1-1704033034927/808d0610-cb9c-4588-b63b-f4f322854569.jpg",
+          "created_at": "2024-01-31T09:19:13",
+          "value": 5
+        },
+        {
+          "id": "65ba0805f760630001eb4adf",
+          "comment": "Great Experience With Kristimartins",
+          "comment_language": "en",
+          "username": "bella_seo2",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3c23a2e767b7130eaa8bc3b83cc2f54d-1703451633371/202516c0-d54c-42c7-a098-a77f37e84638.jpg",
+          "created_at": "2024-01-31T08:42:45",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161397051,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

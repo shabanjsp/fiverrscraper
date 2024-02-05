@@ -1,0 +1,931 @@
+{
+  "seller": {
+    "user": {
+      "id": "149502451",
+      "name": "webmunni",
+      "isActivationCompleted": true,
+      "joinedAt": 1681722414,
+      "profile": {
+        "displayName": "Webmunni"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/aaf494d5bdd8f845841f7875ee2ab2bb-1687176321621/3150c132-d5a2-498e-a735-353848289f6f.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "314616425"
+        },
+        {
+          "id": "323746439"
+        },
+        {
+          "id": "346265407"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Smart, Pixel Perfect, I'm WordPress Developer",
+    "description": "My name is Munni, I'm a professional web designer. I have been working in web designing and developing for the last 5+ years. I have expertise in WordPress websites. I have experience with Responsive Mobile Friendly, Pixel Perfect, user-friendly, and SEO-Friendly websites, whether business websites or online E-commerce stores. I can develop & design any kind of website as well as WordPress Theme Development. Let's start building your dream WordPress website.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Creative IT",
+        "certificationName": "WordPress Development",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computerengineering",
+        "toYear": 2022,
+        "countryCode": "BD",
+        "school": "Dhaka College",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa6480565f07789005db3",
+        "name": "Divi",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Divi expert"
+      },
+      {
+        "id": "617fa6760565f07789006aec",
+        "name": "Theme installation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Theme installation expert"
+      },
+      {
+        "id": "617fa6760565f07789006aea",
+        "name": "Theme & plugin installation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Theme & plugin installation expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa6600565f07789006490",
+        "name": "Landscape design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landscape designer"
+      },
+      {
+        "id": "617fa63c0565f07789005a07",
+        "name": "Blog design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blog designer"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WooCommerce expert"
+      },
+      {
+        "id": "617fa67d0565f07789006ce2",
+        "name": "WoodMart",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WoodMart expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cd3",
+        "name": "Wix",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wix expert"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP developer"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6480565f07789005dc6",
+        "name": "Domain & hosting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Domain & hosting expert"
+      },
+      {
+        "id": "617fa6600565f0778900648d",
+        "name": "Landing page optimization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page optimization expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress customization expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2615
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "648c479f19f2d3000105b2d6",
+          "title": "It consulting",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "648c479f19f2d3000105b2d7",
+                "attachment": {
+                  "metadata": {
+                    "height": 1790,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/25c2ab56e48f2dd0d3a57207b3791067-1686914947823/screencapture-dhanyahservices-contact-us-2023-06-16-17_21_25.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "648c4a03355c110001645375",
+          "title": "Woo-commerce site",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "648c4a03355c110001645376",
+                "attachment": {
+                  "metadata": {
+                    "height": 3055,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d8fbc1c09021a134ef01385bdc5501b0-1686915573808/screencapture-pickleballeffect-shop-2023-06-16-17_31_18.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64aab0f215ccc900015c71b6",
+          "title": "Shop Page Design",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64aab0f215ccc900015c71b7",
+                "attachment": {
+                  "metadata": {
+                    "height": 1711,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/83e78406c83e963988a9271e1339295b-1688908015585/screencapture-invinity-ca-sparkling-wine-my-2-2023-07-09-19_02_15.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64aab2266d4b1600012944a6",
+          "title": "Redesign Website",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "64aab2266d4b1600012944a7",
+                "attachment": {
+                  "metadata": {
+                    "height": 5069,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7403edd1f8505ac315bee3f0ef11a684-1688908318063/screencapture-sellr-hk-2023-07-09-19_07_54.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6563135d0c2fcd00011a8cbe",
+          "title": "Digital Marketing Website",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "6563135d0c2fcd00011a8cbf",
+                "attachment": {
+                  "metadata": {
+                    "height": 7600,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/6845ff61090b5f7dc8d238c30f8e2d2e-1700991817194/screencapture-trainormedianetwork-2023-11-26-15_34_40.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6563150641341d000143658e",
+          "title": "Wine Website",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "6563150641341d000143658f",
+                "attachment": {
+                  "metadata": {
+                    "height": 4266,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/edc507cbb4438aa88c34a593266af104-1700992224478/screencapture-cmjmwine-2023-11-26-15_45_46.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "656316449951a10001a944b2",
+          "title": "Car Website",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "656316449951a10001a944b3",
+                "attachment": {
+                  "metadata": {
+                    "height": 8248,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/00e5257ef35b4a5cf6cf421813f0b812-1700992558121/screencapture-exclusivedxb-2023-11-26-15_52_47.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 7
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1694728896
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 45
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6588977a3b629a000147b437",
+          "comment": "very nice and willing to put up with my stress....I have WAY to many clients which is a good thing although I am so busy that I can expect others to work just as long - well they do! AND they don't seem to get a bit angry with lack of sleep like I do so all in all: good work, they take my \"crap\" and they do not give \"crap\" back",
+          "comment_language": "en",
+          "username": "marketingtosg",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c63d0d4d7b12c27968af3a65a7e64367-1558028639031/1e38c100-f0cc-4d65-8ec5-cc94a12a1501.png",
+          "created_at": "2023-12-25T02:21:50",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/40c194677a710fa2c54c8f6c337fca66-1703267653/screencapture-trainormedianetwork-2023-12-22-23_52_32.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/40c194677a710fa2c54c8f6c337fca66-1703267653/screencapture-trainormedianetwork-2023-12-22-23_52_32.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO423B1243AC8",
+          "score": 0.81152517,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 314616425,
+          "gig_slug": "elementor-pro-wordpress-issues-wordpress-revamp-landing-page-build-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 16,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65562887d1cd3b00012714d8",
+          "comment": "i think munni has a lot of potential and she did very hard work for my website design. Finally got the result and nice looking now.",
+          "comment_language": "en",
+          "username": "katheringhamby",
+          "reviewer_country_code": "FR",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ade14ef20d8a2ff243e01020faf63069-1656851778553/c879452b-4543-4317-95c6-93490258f759.jpg",
+          "created_at": "2023-11-16T14:35:29",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/0b10cb66941bf0033783ee5f276c9030-1700117510/screencapture-teachertold-2023-11-16-12_47_53.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/0b10cb66941bf0033783ee5f276c9030-1700117510/screencapture-teachertold-2023-11-16-12_47_53.png",
+          "reviewer_country": "France",
+          "encrypted_order_id": "FO15E4258281",
+          "score": 0.5899429,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 314616425,
+          "gig_slug": "elementor-pro-wordpress-issues-wordpress-revamp-landing-page-build-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 80,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65491ba17cc0090001fcb026",
+          "comment": "Munni is very helpful and professional on website design work. She also give innovative solution on design. I recommend her.",
+          "comment_language": "en",
+          "username": "eduardohoward",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-11-06T17:01:55",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/e31effdad024e27a79696c2232fa891d-1699249941/screencapture-ed-aislinthemes-2023-11-06-11_51_52.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/e31effdad024e27a79696c2232fa891d-1699249941/screencapture-ed-aislinthemes-2023-11-06-11_51_52.png",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO3119B81CA43",
+          "score": 0.3978454,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 314616425,
+          "gig_slug": "elementor-pro-wordpress-issues-wordpress-revamp-landing-page-build-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 163,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65538a0c163f3500012e5e6f",
+          "comment": "Munni did excellent finishing of my website design with patience. She is a very good web developer. Thanks to her.",
+          "comment_language": "en",
+          "username": "madisonricha684",
+          "reviewer_country_code": "BR",
+          "created_at": "2023-11-14T15:40:46",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/294ee1931ea1f8e025a0a90a47aab8b9-1699960464/Screenshot_18.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/294ee1931ea1f8e025a0a90a47aab8b9-1699960464/Screenshot_18.png",
+          "reviewer_country": "Brazil",
+          "encrypted_order_id": "FO6292F07BCC8",
+          "score": 0.31375262,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 314616425,
+          "gig_slug": "elementor-pro-wordpress-issues-wordpress-revamp-landing-page-build-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 89,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "656f5353201d7e00015d9067",
+          "comment": "Munni is well professional to deliver my website work within committed timeline with poper design. She is very much cooperative as well.",
+          "comment_language": "en",
+          "username": "xzavierroberts",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-05T16:55:35",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/83e28166000122292c6e8d59ef251753-1701711030/screencapture-exclusivedxb-2023-12-04-23_29_14.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/83e28166000122292c6e8d59ef251753-1701711030/screencapture-exclusivedxb-2023-12-04-23_29_14.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO71D89C77803",
+          "score": 0.30534998,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 314616425,
+          "gig_slug": "elementor-pro-wordpress-issues-wordpress-revamp-landing-page-build-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 182,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 45,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 36,
+        "business": 0
+      },
+      "user_id": 149502451,
+      "seller_username": "webmunni",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 45
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 149502451,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 149502451,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 314616425,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "elementor-pro-wordpress-issues-wordpress-revamp-landing-page-build-website",
+      "title": "do revamp,responsive,copy,clone,design,redesign, update a wordpress website",
+      "seller_name": "webmunni",
+      "seller_id": 149502451,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/aaf494d5bdd8f845841f7875ee2ab2bb-1687176321621/3150c132-d5a2-498e-a735-353848289f6f.jpg",
+      "seller_display_name": "Webmunni",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/314616425/original/4a58047f3ff9ee3aa0ef57e97cc45f00d668d6ce.jpg",
+          "type": "ImageAsset",
+          "id": "314616425_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176279401",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c11416f6154f9ef152b614257bd63244-1706650571/screencapture-saleplanners-contact-2024-01-31-03_35_26.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175908198",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/6d1f76c3717f70126023a77ea9b5384a-1705916186/screencapture-theme-pixflow-net-massive-dynamic-business-agency-2024-01-22-15_34_07.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175798631",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b51d8894c89f4aa4e1a3c5bc4a9a5b0b-1705670681/screencapture-rtrsports-r2ait-net-2024-01-19-19_24_03.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175491629",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e6f264a789625a3bfd24d2e590e2bcbf-1705049870/screencapture-triumphwinehk-2024-01-12-14_55_13.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175393187",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d0e8463a431b9de3c3d4b7eb764c4999-1704856660/screencapture-conumaconsulting-2024-01-10-09_16_25.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "forum",
+            "social_media",
+            "form",
+            "events",
+            "map",
+            "faq",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "akismet",
+            "all_in_one_seo_pack",
+            "contact_form_7",
+            "facebook",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "paypal",
+            "twitter",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 44,
+      "buying_review_rating": 5,
+      "seller_url": "/webmunni",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 45,
+        "score": 5
+      },
+      "gig_url": "/webmunni/elementor-pro-wordpress-issues-wordpress-revamp-landing-page-build-website",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 323746439,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "convert-psd-xd-figma-html-to-wordpress-by-elementor-pro-and-crocoblock-7394",
+      "title": "convert psd xd figma html to wordpress by elementor pro and crocoblock",
+      "seller_name": "webmunni",
+      "seller_id": 149502451,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/aaf494d5bdd8f845841f7875ee2ab2bb-1687176321621/3150c132-d5a2-498e-a735-353848289f6f.jpg",
+      "seller_display_name": "Webmunni",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/323746439/original/3fb1cf052b31ed9a820233086df240a286089bf6.jpg",
+          "type": "ImageAsset",
+          "id": "323746439_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "form",
+            "map",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "contact_form_7",
+            "linkedin",
+            "paypal",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/webmunni",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 45,
+        "score": 5
+      },
+      "gig_url": "/webmunni/convert-psd-xd-figma-html-to-wordpress-by-elementor-pro-and-crocoblock-7394",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 346265407,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2615,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "upload-products-store-products-ecommerce-store-add-product-winning-products",
+      "title": "upload products to wordpress woocommerce, shopify, wix or any ecommerce online",
+      "seller_name": "webmunni",
+      "seller_id": 149502451,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/aaf494d5bdd8f845841f7875ee2ab2bb-1687176321621/3150c132-d5a2-498e-a735-353848289f6f.jpg",
+      "seller_display_name": "Webmunni",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/346265407/original/17e3697398db40b4e988ea55594934b0bdb3b747.jpg",
+          "type": "ImageAsset",
+          "id": "346265407_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "shipping",
+            "inventory",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "woocommerce_stripe_payment_gateway",
+            "woocommerce_wallet",
+            "woocommerce_multilingual",
+            "smart_manager_for_woocommerce",
+            "product_enquiry_for_woocommerce"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/webmunni",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 45,
+        "score": 5
+      },
+      "gig_url": "/webmunni/upload-products-store-products-ecommerce-store-add-product-winning-products",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

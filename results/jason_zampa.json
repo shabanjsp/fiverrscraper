@@ -1,0 +1,962 @@
+{
+  "seller": {
+    "user": {
+      "id": "164318783",
+      "name": "jason_zampa",
+      "isActivationCompleted": true,
+      "joinedAt": 1700596545,
+      "profile": {
+        "displayName": "Jason Z"
+      },
+      "address": {
+        "countryName": "Kenya",
+        "countryCode": "KE"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/a75f1458e29785c439ee181f5db9518e-1704229969314/1fbbac05-50bd-4fe7-80ed-3180d44e6e65.jpeg"
+    },
+    "approvedGigsCount": 7,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "357741197"
+        },
+        {
+          "id": "357743700"
+        },
+        {
+          "id": "357756085"
+        },
+        {
+          "id": "357757680"
+        },
+        {
+          "id": "357758738"
+        },
+        {
+          "id": "357760079"
+        },
+        {
+          "id": "357914296"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Data Analyst ",
+    "description": "Hi! I'm jason zampa a professional 2D motion designer & animator with extensive experience in 2D motion design, I will transform your ideas into dynamic visual stories by creating engaging explainer videos, memorable logo animations, and custom kinetic typography animations. Let's bring your ideas to life through motion. Contact me today to discuss your project!\n\n\n\n\n\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "businessmarketing",
+        "toYear": 2018,
+        "countryCode": "NL",
+        "school": "University of Groningen",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 23,
+        "subCategoryId": 453,
+        "nestedCategoryId": 2463
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 2
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bdf7acf9a787374b917759",
+          "comment": "The job is done perfectly. Amazing and very fast delivery before time. He is very professional and expert in rstudio. I will use his services again in future. Thank you jason!!",
+          "comment_language": "en",
+          "username": "kristimartins",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-03T18:07:13",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82A0EC0CB46",
+          "score": 0.35700387,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357757680,
+          "gig_slug": "do-statistical-data-analysis-machine-learning-and-r-programming",
+          "gig_category": 23,
+          "gig_sub_category": 453,
+          "gig_nested_sub_category": 2463,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 71,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a7e7f673dcef1ed6724ca7",
+          "comment": "Very fast and efficient delivery. Perfect rstudio expert. Recommended 10/10",
+          "comment_language": "en",
+          "username": "abbyperezgarc",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c4d2240494f36f1c0d666f344b7b1cdf-1697910489947/54ee9abf-92c9-4de8-8683-daef7165e702.jpg",
+          "created_at": "2024-01-17T18:06:37",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3BF70BCC41",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357757680,
+          "gig_slug": "do-statistical-data-analysis-machine-learning-and-r-programming",
+          "gig_category": 23,
+          "gig_sub_category": 453,
+          "gig_nested_sub_category": 2463,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 118,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 2,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 164318783,
+      "seller_username": "jason_zampa",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 2
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 164318783,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 164318783,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/London",
+    "recent_utc_offset": 0
+  },
+  "gigsData": [
+    {
+      "gig_id": 357757680,
+      "category_id": 23,
+      "sub_category_id": 453,
+      "nested_sub_category_id": 2463,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-statistical-data-analysis-machine-learning-and-r-programming",
+      "title": "do statistical data analysis, machine learning and r programming",
+      "seller_name": "jason_zampa",
+      "seller_id": 164318783,
+      "seller_country": "KE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a75f1458e29785c439ee181f5db9518e-1704229969314/1fbbac05-50bd-4fe7-80ed-3180d44e6e65.jpeg",
+      "seller_display_name": "Jason Z",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357757680/original/1dcb694efa3680497d8c0ab964997c2bbebedd59.png",
+          "type": "ImageAsset",
+          "id": "357757680_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6594abae7369930023e6f7a8",
+          "id": 9721640
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6594abae7369930023e6f7a8",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/qn74yd8s129kkt3jinw6",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/qn74yd8s129kkt3jinw6.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "technology",
+          "value": [
+            "excel",
+            "matlab",
+            "minitab",
+            "python",
+            "r",
+            "sas",
+            "spss",
+            "stata",
+            "tableau",
+            "sql"
+          ]
+        },
+        {
+          "type": "analysis_type",
+          "value": [
+            "quantitative_analysis",
+            "qualitative_analysis",
+            "statistical_analysis",
+            "descriptive_analysis",
+            "diagnostic_analysis"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "algorithms",
+            "prediction",
+            "forecasting",
+            "probability",
+            "churn_retention",
+            "statistics",
+            "cluster_analysis",
+            "factor_analysis",
+            "sentiment_analysis",
+            "time_series_analysis"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/jason_zampa",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/jason_zampa/do-statistical-data-analysis-machine-learning-and-r-programming",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 357741197,
+      "category_id": 23,
+      "sub_category_id": 453,
+      "nested_sub_category_id": 2463,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "help-you-in-r-coding-r-programming-and-data-visualization",
+      "title": "help you in r coding , r programming and data visualization",
+      "seller_name": "jason_zampa",
+      "seller_id": 164318783,
+      "seller_country": "KE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a75f1458e29785c439ee181f5db9518e-1704229969314/1fbbac05-50bd-4fe7-80ed-3180d44e6e65.jpeg",
+      "seller_display_name": "Jason Z",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357741197/original/80642b93d7c94cbacffd0dbabcf74c04daaf44a9.png",
+          "type": "ImageAsset",
+          "id": "357741197_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6594825264ae35001a7823f6",
+          "id": 9721064
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6594825264ae35001a7823f6",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/hw6g4qikgvtnh0pvuvug",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/hw6g4qikgvtnh0pvuvug.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "technology",
+          "value": [
+            "excel",
+            "minitab",
+            "python",
+            "r",
+            "sas",
+            "spss",
+            "stata",
+            "sql"
+          ]
+        },
+        {
+          "type": "analysis_type",
+          "value": [
+            "quantitative_analysis",
+            "qualitative_analysis",
+            "statistical_analysis",
+            "descriptive_analysis",
+            "diagnostic_analysis"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "algorithms",
+            "prediction",
+            "forecasting",
+            "probability",
+            "statistics",
+            "cluster_analysis",
+            "factor_analysis",
+            "regression_testing",
+            "sentiment_analysis",
+            "time_series_analysis"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/jason_zampa",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/jason_zampa/help-you-in-r-coding-r-programming-and-data-visualization",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 357743700,
+      "category_id": 23,
+      "sub_category_id": 453,
+      "nested_sub_category_id": 2463,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "help-you-in-r-coding-r-programming-and-data-visualization-using-rstudio",
+      "title": "help you in r coding, r programming and data visualization using rstudio",
+      "seller_name": "jason_zampa",
+      "seller_id": 164318783,
+      "seller_country": "KE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a75f1458e29785c439ee181f5db9518e-1704229969314/1fbbac05-50bd-4fe7-80ed-3180d44e6e65.jpeg",
+      "seller_display_name": "Jason Z",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357743700/original/af4f58502d49ad6f57ce5d589105713f95d2a36c.png",
+          "type": "ImageAsset",
+          "id": "357743700_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6594885fbf01f0001d7216d1",
+          "id": 9721160
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6594885fbf01f0001d7216d1",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/xwwpb1sycaksmiejgljl",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/xwwpb1sycaksmiejgljl.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "technology",
+          "value": [
+            "excel",
+            "matlab",
+            "minitab",
+            "python",
+            "r",
+            "sas",
+            "spss",
+            "stata",
+            "tableau",
+            "sql"
+          ]
+        },
+        {
+          "type": "analysis_type",
+          "value": [
+            "quantitative_analysis",
+            "qualitative_analysis",
+            "statistical_analysis",
+            "descriptive_analysis",
+            "diagnostic_analysis"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "algorithms",
+            "forecasting",
+            "probability",
+            "churn_retention",
+            "statistics",
+            "cluster_analysis",
+            "factor_analysis",
+            "regression_testing",
+            "sentiment_analysis",
+            "time_series_analysis"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/jason_zampa",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/jason_zampa/help-you-in-r-coding-r-programming-and-data-visualization-using-rstudio",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 357756085,
+      "category_id": 23,
+      "sub_category_id": 453,
+      "nested_sub_category_id": 2463,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-statistical-data-analysis-using-r-programming-language",
+      "title": "do statistical data analysis using r programming language",
+      "seller_name": "jason_zampa",
+      "seller_id": 164318783,
+      "seller_country": "KE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a75f1458e29785c439ee181f5db9518e-1704229969314/1fbbac05-50bd-4fe7-80ed-3180d44e6e65.jpeg",
+      "seller_display_name": "Jason Z",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357756085/original/fedd0684fdf24710d2a38fd18d81334a948581bb.png",
+          "type": "ImageAsset",
+          "id": "357756085_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6594a8712db6540020414198",
+          "id": 9721609
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6594a8712db6540020414198",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/it9g3fcqrrgaua9fidqc",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/it9g3fcqrrgaua9fidqc.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "technology",
+          "value": [
+            "excel",
+            "matlab",
+            "minitab",
+            "python",
+            "r",
+            "sas",
+            "spss",
+            "stata",
+            "tableau",
+            "sql"
+          ]
+        },
+        {
+          "type": "analysis_type",
+          "value": [
+            "quantitative_analysis",
+            "qualitative_analysis",
+            "statistical_analysis",
+            "descriptive_analysis",
+            "diagnostic_analysis"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "algorithms",
+            "prediction",
+            "forecasting",
+            "probability",
+            "churn_retention",
+            "statistics",
+            "cluster_analysis",
+            "factor_analysis",
+            "regression_testing",
+            "time_series_analysis"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/jason_zampa",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/jason_zampa/do-statistical-data-analysis-using-r-programming-language",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 357758738,
+      "category_id": 23,
+      "sub_category_id": 453,
+      "nested_sub_category_id": 2463,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-data-analytics-in-r-programming-r-studio-and-python",
+      "title": "do data analytics in r programming, r studio and python",
+      "seller_name": "jason_zampa",
+      "seller_id": 164318783,
+      "seller_country": "KE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a75f1458e29785c439ee181f5db9518e-1704229969314/1fbbac05-50bd-4fe7-80ed-3180d44e6e65.jpeg",
+      "seller_display_name": "Jason Z",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357758738/original/d12d005eaecbe88a209b11d5596e789a24ead2f1.png",
+          "type": "ImageAsset",
+          "id": "357758738_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6594afbe14094b000e1e9776",
+          "id": 9721686
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6594afbe14094b000e1e9776",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/e39grddlq4zpede3jpsq",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/e39grddlq4zpede3jpsq.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "technology",
+          "value": [
+            "excel",
+            "python",
+            "r",
+            "sas",
+            "spss"
+          ]
+        },
+        {
+          "type": "analysis_type",
+          "value": [
+            "quantitative_analysis",
+            "qualitative_analysis",
+            "statistical_analysis",
+            "descriptive_analysis",
+            "predictive_analysis"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "algorithms",
+            "prediction",
+            "forecasting",
+            "probability",
+            "statistics",
+            "cluster_analysis",
+            "factor_analysis",
+            "regression_testing",
+            "sentiment_analysis",
+            "time_series_analysis"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/jason_zampa",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/jason_zampa/do-data-analytics-in-r-programming-r-studio-and-python",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 357760079,
+      "category_id": 23,
+      "sub_category_id": 453,
+      "nested_sub_category_id": 2463,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-data-science-data-visualization-and-r-programming-using-rstudio",
+      "title": "do data science data visualization and r programming using rstudio",
+      "seller_name": "jason_zampa",
+      "seller_id": 164318783,
+      "seller_country": "KE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a75f1458e29785c439ee181f5db9518e-1704229969314/1fbbac05-50bd-4fe7-80ed-3180d44e6e65.jpeg",
+      "seller_display_name": "Jason Z",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357760079/original/717c10ecfa9b47ade6a81fb72f753a6612a6c89a.png",
+          "type": "ImageAsset",
+          "id": "357760079_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6594b2ffc255060023e3505e",
+          "id": 9721720
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6594b2ffc255060023e3505e",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/hgwvyrpl612xkpo57p3k",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/hgwvyrpl612xkpo57p3k.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "technology",
+          "value": [
+            "excel",
+            "matlab",
+            "minitab",
+            "python",
+            "r",
+            "sas",
+            "spss",
+            "stata",
+            "tableau",
+            "sql"
+          ]
+        },
+        {
+          "type": "analysis_type",
+          "value": [
+            "quantitative_analysis",
+            "qualitative_analysis",
+            "statistical_analysis",
+            "descriptive_analysis",
+            "diagnostic_analysis"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "algorithms",
+            "prediction",
+            "forecasting",
+            "probability",
+            "churn_retention",
+            "cluster_analysis",
+            "factor_analysis",
+            "regression_testing",
+            "sentiment_analysis",
+            "time_series_analysis"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/jason_zampa",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/jason_zampa/do-data-science-data-visualization-and-r-programming-using-rstudio",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 357914296,
+      "category_id": 23,
+      "sub_category_id": 453,
+      "nested_sub_category_id": 2463,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-statistical-data-analysis-r-programming-coding-using-rstudio-excel",
+      "title": "do statistical data analysis, r programming coding using rstudio, excel",
+      "seller_name": "jason_zampa",
+      "seller_id": 164318783,
+      "seller_country": "KE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a75f1458e29785c439ee181f5db9518e-1704229969314/1fbbac05-50bd-4fe7-80ed-3180d44e6e65.jpeg",
+      "seller_display_name": "Jason Z",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357914296/original/de03ca36380fc34f9dde08a0503e0f02ac4b963b.png",
+          "type": "ImageAsset",
+          "id": "357914296_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6595bf8fd437110023552700",
+          "id": 9726803
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6595bf8fd437110023552700",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/xaaesu7dhyxq4qwbbky3",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/xaaesu7dhyxq4qwbbky3.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "technology",
+          "value": [
+            "excel",
+            "matlab",
+            "minitab",
+            "python",
+            "r",
+            "sas",
+            "spss",
+            "stata",
+            "tableau",
+            "sql"
+          ]
+        },
+        {
+          "type": "analysis_type",
+          "value": [
+            "quantitative_analysis",
+            "qualitative_analysis",
+            "statistical_analysis",
+            "descriptive_analysis",
+            "diagnostic_analysis"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "algorithms",
+            "prediction",
+            "forecasting",
+            "churn_retention",
+            "statistics",
+            "cluster_analysis",
+            "factor_analysis",
+            "regression_testing",
+            "sentiment_analysis",
+            "time_series_analysis"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/jason_zampa",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/jason_zampa/do-statistical-data-analysis-r-programming-coding-using-rstudio-excel",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

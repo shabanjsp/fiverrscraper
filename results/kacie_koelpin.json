@@ -1,0 +1,178 @@
+{
+  "seller": {
+    "user": {
+      "id": "160089937",
+      "name": "kacie_koelpin",
+      "isActivationCompleted": true,
+      "joinedAt": 1694807221,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Germany",
+        "countryCode": "DE"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 160089937,
+      "seller_username": "kacie_koelpin",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 160089937,
+      "reviews": [
+        {
+          "id": "65b8a3d7f760630001ea7b40",
+          "comment": "Great buyer, Amazing Experience! Thank you so much.",
+          "comment_language": "en",
+          "username": "ecom_wizards",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/eca4ba17324bb3e91c981b516a1fe2bf-1671083705506/41b93b73-6dab-4203-869f-37d83cc15a3d.png",
+          "created_at": "2024-01-30T07:23:03",
+          "value": 5
+        },
+        {
+          "id": "65b21749756b9d000173ec78",
+          "comment": "Outstanding Experience! Thank you so much.",
+          "comment_language": "en",
+          "username": "webgenius0",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/262164f1e5ae888fe0652def6077c6a9-1706351291929/8025c51b-ef37-496a-b3f0-d67eb9f209e5.png",
+          "created_at": "2024-01-25T08:09:45",
+          "value": 5
+        },
+        {
+          "id": "65b0c6b6756b9d0001732649",
+          "comment": "Great buyer, Amazing experience!! Thanks so much.",
+          "comment_language": "en",
+          "username": "tech_weav",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f38b62747eef2eb7394e67b43a3d9c90-1703309283234/99ab0ad6-5610-4f50-99f8-a3db2e5c9b5c.png",
+          "created_at": "2024-01-24T08:13:42",
+          "value": 5
+        },
+        {
+          "id": "659ba27a369cc90001218142",
+          "comment": "Great buyer amazing experience! ",
+          "comment_language": "en",
+          "username": "swipewire_",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fdaff453ca5b00936df0c9254e799706-1672847756582/31386928-fb12-45a8-a726-faa50e44dce5.png",
+          "created_at": "2024-01-08T07:21:30",
+          "value": 5
+        },
+        {
+          "id": "6586f7635c478900012dd7a3",
+          "comment": "Best Client thank you very much",
+          "comment_language": "en",
+          "username": "rakibleadmaster",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/aaf80a7755e95250534381323330ed3a-1686989429766/4416723b-4a30-4070-b099-279f12bcdd0d.png",
+          "created_at": "2023-12-23T15:06:12",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 160089937,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Los_Angeles",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}

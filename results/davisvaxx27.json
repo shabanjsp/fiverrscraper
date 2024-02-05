@@ -1,0 +1,181 @@
+{
+  "seller": {
+    "user": {
+      "id": "163301741",
+      "name": "davisvaxx27",
+      "isActivationCompleted": true,
+      "joinedAt": 1699182177,
+      "profile": {
+        "displayName": "Davisvaxx"
+      },
+      "address": {
+        "countryName": "Chile",
+        "countryCode": "CL"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6550565f07789006152",
+        "name": "Global marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Global marketer"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 163301741,
+      "seller_username": "davisvaxx27",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 163301741,
+      "reviews": [
+        {
+          "id": "65aa4ad2ecc5110001c1ca72",
+          "comment": "Great Buyer..",
+          "comment_language": "en",
+          "username": "layla5548",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/79c53b48e729ee8a061944b9fb4a40df-1692665427477/0ba0f6d1-2164-4eb6-ad9b-b754bf77e621.jpg",
+          "created_at": "2024-01-19T10:11:31",
+          "value": 5
+        },
+        {
+          "id": "65a51fd4be67470001ed813a",
+          "comment": "Thank you ",
+          "comment_language": "en",
+          "username": "shamim_ahmed625",
+          "reviewer_country_code": "IT",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f977278e5f780e8e529f4ad6e63ec31f-1674839316852/af346d50-a884-4b90-b112-0697cdde8a80.jpeg",
+          "created_at": "2024-01-15T12:06:44",
+          "value": 5
+        },
+        {
+          "id": "659fde582ffdc500015e662c",
+          "comment": "Great Buyer ",
+          "comment_language": "en",
+          "username": "harper_121",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/efd4012bf18026ab388a1356e1ea5508-1692525263183/c1ba8199-6759-439b-8c97-4744c5f4af77.jpg",
+          "created_at": "2024-01-11T12:26",
+          "value": 5
+        },
+        {
+          "id": "659ce75d369cc900012261f3",
+          "comment": "Great Buyer ",
+          "comment_language": "en",
+          "username": "luna_417",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/42b3a7182ee25accee134921f374ea8b-1700435937243/9677925f-ee74-47c9-8611-96a41175dac5.jpg",
+          "created_at": "2024-01-09T06:27:41",
+          "value": 5
+        },
+        {
+          "id": "658d9abcd628ec0001850df6",
+          "comment": "great buyer",
+          "comment_language": "en",
+          "username": "sisir_ahmed41",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/84147324c3f980946c1c38c30c3be084-1675706073366/1da5fe82-6b7d-46f6-a64a-288ab54a4ce2.jpg",
+          "created_at": "2023-12-28T15:56:44",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 163301741,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Santiago",
+    "recent_utc_offset": 180
+  },
+  "gigsData": []
+}

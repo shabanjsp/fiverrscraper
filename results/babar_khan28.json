@@ -1,0 +1,298 @@
+{
+  "seller": {
+    "user": {
+      "id": "167749714",
+      "name": "babar_khan28",
+      "isActivationCompleted": true,
+      "joinedAt": 1704867163,
+      "profile": {
+        "displayName": "Babar K"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/e63e3464066e828d8cbec1cb0ce11a13-1677497141706639302034/JPEG_20240130_232820_4178881230432974651.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "358974663"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello am do the translation from english to french and french to english. am provide the items details and paragraphs topics with my professional ways",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "englishcommunications",
+        "toYear": 2020,
+        "countryCode": "GB",
+        "school": "Gcuf",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa64d0565f07789005ee6",
+        "name": "English translation",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "English translator"
+      },
+      {
+        "id": "617fa6520565f077890060a1",
+        "name": "French translation",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "French translator"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 341,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 2
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bd33fc23ed9a538a623e67",
+          "comment": "Great work and good information. I appreciate her attention to detail and wouldn't hesitate to recommend her",
+          "comment_language": "en",
+          "username": "rebeccabolt898",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-02T18:32:28",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO11203908AC5",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358974663,
+          "gig_slug": "do-translate-from-english-to-french-and-french-to-english",
+          "gig_category": 5,
+          "gig_sub_category": 341,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 28,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65ad4c3f49d34f2171b3bc79",
+          "comment": "This is very satisfying, I am really in love with your work. I will consider you in my future projects. Thank you for the fast delivery.",
+          "comment_language": "en",
+          "username": "tisha_campbell",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-21T16:55:14",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO629E948E848",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358974663,
+          "gig_slug": "do-translate-from-english-to-french-and-french-to-english",
+          "gig_category": 5,
+          "gig_sub_category": 341,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 2,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 167749714,
+      "seller_username": "babar_khan28",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 2
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 167749714,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 167749714,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 358974663,
+      "category_id": 5,
+      "sub_category_id": 341,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-translate-from-english-to-french-and-french-to-english",
+      "title": "do technical report,case study,essay writing, assignment,powerpoint presentation",
+      "seller_name": "babar_khan28",
+      "seller_id": 167749714,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e63e3464066e828d8cbec1cb0ce11a13-1677497141706639302034/JPEG_20240130_232820_4178881230432974651.jpg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/358974663/original/9630bf14356f35c4c612a092d43cdadd31e06bcf.png",
+          "type": "ImageAsset",
+          "id": "358974663_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "document_type",
+          "value": [
+            "documentation",
+            "scripts"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "business_finance"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/babar_khan28",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/babar_khan28/do-translate-from-english-to-french-and-french-to-english",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

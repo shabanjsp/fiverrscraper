@@ -1,0 +1,1375 @@
+{
+  "seller": {
+    "user": {
+      "id": "115605220",
+      "name": "ecom_wizards",
+      "isActivationCompleted": true,
+      "joinedAt": 1634301515,
+      "profile": {
+        "displayName": "Ecom Wizards"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/eca4ba17324bb3e91c981b516a1fe2bf-1671083705506/41b93b73-6dab-4203-869f-37d83cc15a3d.png"
+    },
+    "approvedGigsCount": 7,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "231380156"
+        },
+        {
+          "id": "263565953"
+        },
+        {
+          "id": "263568108"
+        },
+        {
+          "id": "277001512"
+        },
+        {
+          "id": "277006274"
+        },
+        {
+          "id": "277144236"
+        },
+        {
+          "id": "279714736"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "WordPress Website Designer, Ecommerce and CMS Expert",
+    "description": "This is Mominul Haque, an Experienced web developer committed to customer satisfaction.\r\n\r\nI've developed several websites on the WordPress platform. I have helped several organizations as well as individual contractors get their websites up and running and provided digital solutions which result in cost savings. I strongly believe that a good line open of communication is the key to success.\r\n\r\nI am specialized in:\r\n☛WordPress Website & Theme Customization\r\n☛Create eCommerce Website\r\n☛Business & Blog Website\r\n☛Magazine & News Website\r\n\r\nFeel free to message me with your query.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "CodersTrust Bangladesh",
+        "certificationName": "Web development",
+        "year": 2016
+      },
+      {
+        "receivedFrom": "graph-ai",
+        "certificationName": "The Complete Front-End Web Development Course!",
+        "year": 2014
+      },
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "Wordpress for Beginners - Master Wordpress Quickly",
+        "year": 2012
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "bechlor of computer science",
+        "toYear": 2004,
+        "countryCode": "BD",
+        "school": "Dhaka University of Engineering & Technology",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "masters of computer science",
+        "toYear": 2006,
+        "countryCode": "BD",
+        "school": "Dhaka University of Engineering & Technology",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress customization expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa6480565f07789005db3",
+        "name": "Divi",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Divi expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfd",
+        "name": "Wordpress theme customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress theme customization expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfe",
+        "name": "Wordpress theme development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress theme developer"
+      },
+      {
+        "id": "617fa65b0565f07789006348",
+        "name": "Install WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress instalation expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfb",
+        "name": "WordPress security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress security expert"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      },
+      {
+        "id": "617fa67d0565f07789006cf8",
+        "name": "WordPress landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress landing page expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WooCommerce expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfa",
+        "name": "WordPress performance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress performance expert"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress website developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6545fef3af8d3d0001f7ca31",
+          "title": "Digital marketing agency website",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "6545fef3af8d3d0001f7ca32",
+                "attachment": {
+                  "metadata": {
+                    "height": 900,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/e8a2c6e4457521b09d7f59401ed48966-1699086051725/001B.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6545ff91af8d3d0001f7ca77",
+          "title": "Travel & Event Agency Website",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "6545ff91af8d3d0001f7ca78",
+                "attachment": {
+                  "metadata": {
+                    "height": 900,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3928917bec2613190e93c87b3bc8a517-1699086215870/03.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6546001eaf8d3d0001f7caac",
+          "title": "Interior Design Agency Website",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "6546001eaf8d3d0001f7caad",
+                "attachment": {
+                  "metadata": {
+                    "height": 900,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1116b6d29ac2bd206beb91ce88b9d2e7-1699086361215/02.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "654600f65058380001a6ba3f",
+          "title": "Ecommerce Store Design",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "654600f65058380001a6ba40",
+                "attachment": {
+                  "metadata": {
+                    "height": 900,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c328897af0d7cea7c27c6d2f343f0715-1699086567278/04B.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1636660988
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 238
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6571b016d8116b00015ff2f2",
+          "comment": "I recently hired an Ecom Wizards on Fiverr, and I must say, he's truly number one when it comes to website optimizing. If you ever find yourself in doubt about who to choose, this is the guy to go for! Every penny spent is absolutely worth it, and the results are not only fast but also truly amazing. Highly recommend!",
+          "comment_language": "en",
+          "username": "kamillakristin",
+          "reviewer_country_code": "NO",
+          "created_at": "2023-12-07T12:08:47",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/dcf144af7d44c1d4d46ff84302c035a5-1701945255/home.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/dcf144af7d44c1d4d46ff84302c035a5-1701945255/home.png",
+          "reviewer_country": "Norway",
+          "encrypted_order_id": "FO317AE157D85",
+          "score": 0.8713967,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 231380156,
+          "gig_slug": "design-redesign-revamp-or-clone-wordpress-website-or-blog",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 12,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65554f6ed1cd3b0001268b39",
+          "comment": "Ecom Wizards were very competent in redesigning my website.\nThe seller's communication was prompt. \nThey were patient with the buyer's minimal tech experience and persistent questions. \nOverall I am happy with the quality of the order and their offer of continued support.",
+          "comment_language": "en",
+          "username": "anna_alphaearth",
+          "reviewer_country_code": "AU",
+          "created_at": "2023-11-15T23:13:45",
+          "value": 4.7,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/8143e758052368bf4faf4330539c8ca3-1700047078/Anna%20.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/8143e758052368bf4faf4330539c8ca3-1700047078/Anna%20.png",
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO7177E7CC581",
+          "score": 0.73096716,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 231380156,
+          "gig_slug": "design-redesign-revamp-or-clone-wordpress-website-or-blog",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "658e93e0d628ec0001859366",
+          "comment": "Ecom Wizards did a really good job for me. They were fast, worked with me to get what I wanted and really built a first class website.  Definitely worth every dollar. Happy customer here. ",
+          "comment_language": "en",
+          "username": "dumpsterratz",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-29T09:40:18",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO629A6C3A848",
+          "score": 0.64764816,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 231380156,
+          "gig_slug": "design-redesign-revamp-or-clone-wordpress-website-or-blog",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 48,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6570976a716114405c65f2c1",
+          "comment": "I continue to use these guys because they deliver exceptional work. \nEven though we had a few incidents with understanding what I was expecting, they went above and beyond to make up for the misunderstanding. \nThey are always ready to work and provide the best quality deliverables possible.\nI will continue to work with them and I vouch for their commitment to their craft.",
+          "comment_language": "en",
+          "username": "invictaworks",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/51dfebe94aa8b1ed1498c3d974f045d6-1682999070060/8b46f22c-f5bc-4057-8259-0557b48469a6.png",
+          "created_at": "2023-12-06T15:47:49",
+          "value": 4.7,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/a3485e5a4ac5624913bd3625d4ecbd81-1701836139/original-f2288814c20cc70e83aa96dee8a97279.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/a3485e5a4ac5624913bd3625d4ecbd81-1701836139/original-f2288814c20cc70e83aa96dee8a97279.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51D66A46905",
+          "score": 0.63661104,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 231380156,
+          "gig_slug": "design-redesign-revamp-or-clone-wordpress-website-or-blog",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 45,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "657ad13df28d2d76f0d4dc55",
+          "comment": "Ecom has shown exquisite effort in delivering the website as per my requirements and instructions, he was very dedicated and always available for any feedback and was patient and able to walk you through any steps needed without any problems. He went over and beyond to make sure we are always in agreement and giving high quality outcome. Will definitely re-order soon!",
+          "comment_language": "en",
+          "username": "fidastance",
+          "reviewer_country_code": "JO",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8078791c81cf5c0e74de3c694670124a-1552649358945/234b16a0-0c25-443f-990d-f9aede6702a3.jpg",
+          "created_at": "2023-12-14T09:56:55",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/69cca36cd3ee309ace576d7b1230655d-1702544631/screencapture-fidastance-wpvence-2023-12-14-15_02_12.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/69cca36cd3ee309ace576d7b1230655d-1702544631/screencapture-fidastance-wpvence-2023-12-14-15_02_12.png",
+          "reviewer_country": "Jordan",
+          "encrypted_order_id": "FO3BCF8CF041",
+          "score": 0.5943101,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 231380156,
+          "gig_slug": "design-redesign-revamp-or-clone-wordpress-website-or-blog",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 45,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 238,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 171,
+        "business": 15
+      },
+      "user_id": 115605220,
+      "seller_username": "ecom_wizards",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 6
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 225
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 115605220,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 115605220,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 231380156,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-redesign-revamp-or-clone-wordpress-website-or-blog",
+      "title": "design, redesign, revamp or clone wordpress website or blog superfast",
+      "seller_name": "ecom_wizards",
+      "seller_id": 115605220,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/eca4ba17324bb3e91c981b516a1fe2bf-1671083705506/41b93b73-6dab-4203-869f-37d83cc15a3d.png",
+      "seller_display_name": "Ecom Wizards",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/231380156/original/2a87d9c0bd9e92caaa0a8cf0d92b904e20d08068.png",
+          "type": "ImageAsset",
+          "id": "231380156_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176333955",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/08eb686068286b770dcc6b620b0bdce9-1706761670/screencapture-progressiveptpc-2024-02-01-10_27_29.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176242718",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/300d94261cb4b3a367fbac413454e4ae-1706589248/screencapture-fwwsod-2024-01-30-10_33_23.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176089599",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d6e6601136ab01c815777b794b53def2-1706260412/totalityplus-.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175990575",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b67c9e2590961d794ec928e2776216d6-1706070220/screencapture-theblogplanner-2024-01-24-10_23_12.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175989736",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/fedeccc094ad23e2e899d2886d597128-1706067598/caryncsmiles.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "blog"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "video",
+            "form"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 235,
+      "buying_review_rating": 4.9,
+      "seller_url": "/ecom_wizards",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 238,
+        "score": 4.8893557
+      },
+      "gig_url": "/ecom_wizards/design-redesign-revamp-or-clone-wordpress-website-or-blog",
+      "is_seller_unavailable": false,
+      "price_i": 95,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 263565953,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-responsive-wordpress-ecommerce-website-using-woocommerce",
+      "title": "create responsive wordpress ecommerce website using woocommerce",
+      "seller_name": "ecom_wizards",
+      "seller_id": 115605220,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/eca4ba17324bb3e91c981b516a1fe2bf-1671083705506/41b93b73-6dab-4203-869f-37d83cc15a3d.png",
+      "seller_display_name": "Ecom Wizards",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/263565953/original/9ac02c98936a97154e472f910d0b057c0f2f8e78.png",
+          "type": "ImageAsset",
+          "id": "263565953_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "video",
+            "form",
+            "events",
+            "music",
+            "chat",
+            "membership",
+            "map",
+            "faq",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/ecom_wizards",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 238,
+        "score": 4.8893557
+      },
+      "gig_url": "/ecom_wizards/create-responsive-wordpress-ecommerce-website-using-woocommerce",
+      "is_seller_unavailable": false,
+      "price_i": 95,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 279714736,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-wordpress-membership-website-or-subscription-website",
+      "title": "build wordpress membership website or subscription website",
+      "seller_name": "ecom_wizards",
+      "seller_id": 115605220,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/eca4ba17324bb3e91c981b516a1fe2bf-1671083705506/41b93b73-6dab-4203-869f-37d83cc15a3d.png",
+      "seller_display_name": "Ecom Wizards",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/279714736/original/bfdce13a2aee87c17d630fb7cd976b71480cbbe8.png",
+          "type": "ImageAsset",
+          "id": "279714736_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "portal"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "video",
+            "form",
+            "events",
+            "music",
+            "chat",
+            "membership",
+            "map",
+            "faq",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 4,
+      "seller_url": "/ecom_wizards",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 238,
+        "score": 4.8893557
+      },
+      "gig_url": "/ecom_wizards/build-wordpress-membership-website-or-subscription-website",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 263568108,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-responsive-wordpress-landing-page-elementor-landing-page-b54a",
+      "title": "design responsive wordpress landing page, elementor landing page",
+      "seller_name": "ecom_wizards",
+      "seller_id": 115605220,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/eca4ba17324bb3e91c981b516a1fe2bf-1671083705506/41b93b73-6dab-4203-869f-37d83cc15a3d.png",
+      "seller_display_name": "Ecom Wizards",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/263568108/original/ed8d349ef5249f24d8ca9ccba7496f472ec28fa6.png",
+          "type": "ImageAsset",
+          "id": "263568108_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "landing_page"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "video",
+            "form",
+            "events",
+            "music",
+            "chat",
+            "membership",
+            "map",
+            "faq",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/ecom_wizards",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 238,
+        "score": 4.8893557
+      },
+      "gig_url": "/ecom_wizards/design-responsive-wordpress-landing-page-elementor-landing-page-b54a",
+      "is_seller_unavailable": false,
+      "price_i": 90,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 277001512,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-restaurant-website-or-food-delivery-website-with-online-ordering",
+      "title": "design restaurant website or food delivery website with online ordering",
+      "seller_name": "ecom_wizards",
+      "seller_id": 115605220,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/eca4ba17324bb3e91c981b516a1fe2bf-1671083705506/41b93b73-6dab-4203-869f-37d83cc15a3d.png",
+      "seller_display_name": "Ecom Wizards",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/277001512/original/a0d6888b0fd92f71fb2d184dc672c6139deae182.png",
+          "type": "ImageAsset",
+          "id": "277001512_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "video",
+            "form",
+            "events",
+            "music",
+            "chat",
+            "membership",
+            "map",
+            "faq",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/ecom_wizards",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 238,
+        "score": 4.8893557
+      },
+      "gig_url": "/ecom_wizards/design-restaurant-website-or-food-delivery-website-with-online-ordering",
+      "is_seller_unavailable": false,
+      "price_i": 90,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 277006274,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-amazon-affiliate-website-or-amazon-affiliate-marketing-autopilot-website",
+      "title": "create amazon affiliate website or amazon affiliate marketing autopilot website",
+      "seller_name": "ecom_wizards",
+      "seller_id": 115605220,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/eca4ba17324bb3e91c981b516a1fe2bf-1671083705506/41b93b73-6dab-4203-869f-37d83cc15a3d.png",
+      "seller_display_name": "Ecom Wizards",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/277006274/original/ac8fe96beadba44e74614e29a8fdf13cf5bba2ad.png",
+          "type": "ImageAsset",
+          "id": "277006274_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "membership",
+            "gallery",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "travel",
+            "logistics",
+            "cleaning",
+            "fashion",
+            "construction"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/ecom_wizards",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 238,
+        "score": 4.8893557
+      },
+      "gig_url": "/ecom_wizards/create-amazon-affiliate-website-or-amazon-affiliate-marketing-autopilot-website",
+      "is_seller_unavailable": false,
+      "price_i": 90,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 277144236,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-wordpress-lms-website-using-learndash-learnpress-or-buddyboss",
+      "title": "create a wordpress lms website using learndash, learnpress or buddyboss",
+      "seller_name": "ecom_wizards",
+      "seller_id": 115605220,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/eca4ba17324bb3e91c981b516a1fe2bf-1671083705506/41b93b73-6dab-4203-869f-37d83cc15a3d.png",
+      "seller_display_name": "Ecom Wizards",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/277144236/original/6da04e6ee724daa61abfdde43863b2161f4460da.png",
+          "type": "ImageAsset",
+          "id": "277144236_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "education"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "video",
+            "form",
+            "events",
+            "music",
+            "chat",
+            "membership",
+            "map",
+            "faq",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/ecom_wizards",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 238,
+        "score": 4.8893557
+      },
+      "gig_url": "/ecom_wizards/create-a-wordpress-lms-website-using-learndash-learnpress-or-buddyboss",
+      "is_seller_unavailable": false,
+      "price_i": 90,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

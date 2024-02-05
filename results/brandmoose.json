@@ -1,0 +1,777 @@
+{
+  "seller": {
+    "user": {
+      "id": "106715562",
+      "name": "brandmoose",
+      "isActivationCompleted": true,
+      "joinedAt": 1620153540,
+      "profile": {
+        "displayName": "Brand Moose"
+      },
+      "address": {
+        "countryName": "Canada",
+        "countryCode": "CA"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/1881daa0a07605432d39f93c4c3ec641-1620229111369/3dc95718-1f3b-4db2-a4bd-df7f9b735884.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "205450602"
+        },
+        {
+          "id": "250378712"
+        },
+        {
+          "id": "307660343"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Independent graphic design studio",
+    "description": "Based in Toronto, Brand Moose is an independent graphic design studio. We take pride in our logo design, branding, graphic, and website design services.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": {
+      "type": "IMAGE",
+      "scanStatus": "PASSED",
+      "fileName": "BrandMoose cover-01.jpg",
+      "previewUrl": {
+        "transformation": "SELLER_PROFILE_COVER_WIDE_PREVIEW",
+        "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_seller_cover_wide/v1/attachments/seller/profile_background_image/774b235e9da679f4c754167dbaaf9130-1647625226922/BrandMoose%20cover-01.jpg"
+      }
+    },
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6510565f07789006037",
+        "name": "Flyer design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flyer designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa66c0565f077890067e3",
+        "name": "Print design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Print designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 56,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6214bb4a4cbdff000104f807",
+          "title": "Thats Poker",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6214bb4a4cbdff000104f808",
+                "attachment": {
+                  "metadata": {
+                    "height": 4443,
+                    "width": 3335
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/f2a17732b1131ef4c81d8b942cd09bc4-1645525814511/Thats%20Poker%20Rev-02.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6214bc0f7541a200019e73ac",
+          "title": "Hawk Servers ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6214bc0f7541a200019e73ad",
+                "attachment": {
+                  "metadata": {
+                    "height": 3842,
+                    "width": 6307
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/6b65923986a522a0bf96b9612a80857f-1645526016297/Social%20media%20kit-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6214bd2d3853be00012ba1e7",
+          "title": "Dragonforge Games",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6214bd2d3853be00012ba1e8",
+                "attachment": {
+                  "metadata": {
+                    "height": 2501,
+                    "width": 3335
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7a4f6e71a8993c092cd8f71fceb46324-1645526307515/Dragonforge%20Games-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6214be198ac779000128ad99",
+          "title": "SCYLLA CORPORATION TECHNOLOGY",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6214be198ac779000128ad9a",
+                "attachment": {
+                  "metadata": {
+                    "height": 4443,
+                    "width": 3335
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/6a01fe00beacfbc589b8ad828835bdae-1645526524660/SCYLLA%20CORPORATION%20TECHNOLOGY%20Rev-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6214c9b3e3490d000126dc1e",
+          "title": "Understanding Canadians ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6214c9b3e3490d000126dc1f",
+                "attachment": {
+                  "metadata": {
+                    "height": 3842,
+                    "width": 6307
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/55ff29a4a7228ea06bb6d4688fadf584-1645529509045/Social%20media%20kit-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6214c9f804266a0001da4ae5",
+          "title": "Bertram Advisory",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6214c9f804266a0001da4ae6",
+                "attachment": {
+                  "metadata": {
+                    "height": 2500,
+                    "width": 3334
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/92172e82aa3bfefcafe7b378dd203206-1645529585057/Sample-02.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 6
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1620600243
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 804
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "658a69a41347963434962740",
+          "comment": "Seller is amazing! My logo came out more beautiful than we ever could have imagined. Fantastic artist. You’re in excellent hands with him. He is worth every penny.",
+          "comment_language": "en",
+          "username": "ethanfaithfull",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b563dba4ffb477ed7d319d464a53a82c-1692963610667/29c2b113-f86a-4027-b73e-07c928f2c494.jpg",
+          "created_at": "2023-12-26T09:15:22",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/8ebdc451fb9b4510f24b6627dcc88e34-1703541376/Caster%20Master.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/8ebdc451fb9b4510f24b6627dcc88e34-1703541376/Caster%20Master.jpg",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO31DC286C107",
+          "score": 0.73592895,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 250378712,
+          "gig_slug": "design-custom-professional-logo",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 308,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65a226932ffdc5000160104d",
+          "comment": "Best designer I've ever worked with on Fiver! Seller is a very skillful person in logo designing, bringing what I'm looking for to life exactly the same way I imagined. Thanks.",
+          "comment_language": "en",
+          "username": "carterbrow",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-13T08:41:25",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/0c2cd35f82ffd7244cef21769d3ce252-1705088448/ChatChef.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/0c2cd35f82ffd7244cef21769d3ce252-1705088448/ChatChef.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO729D520C947",
+          "score": 0.6711277,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 250378712,
+          "gig_slug": "design-custom-professional-logo",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 31,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65a39a2abe67470001ec86f3",
+          "comment": "Brilliant result as always. Can't say anything more than best choice in terms of perfection. Very communicative , was east to work with, would like to use again in future.",
+          "comment_language": "en",
+          "username": "tiffanywoode",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e76234ef807834dd7181f55f8086335e-1695463058558/2851d602-473f-454b-9781-9d3c041fceac.jpg",
+          "created_at": "2024-01-14T09:45:33",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/2a926aeeb955d27f50fda505901a9443-1705182810/Chefly.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/2a926aeeb955d27f50fda505901a9443-1705182810/Chefly.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO823DD82D9C4",
+          "score": 0.61240757,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 250378712,
+          "gig_slug": "design-custom-professional-logo",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 280,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65765f97a206230001919790",
+          "comment": "I am reviewing low because he cared about finishing the job and not delivering a quality logo .. I know I paid only 15$ but I want delivered his ideas not mine ..  I wish I want included in the process of designing the logo .. I offered him more time to do so !",
+          "comment_language": "en",
+          "username": "thatbackdrop",
+          "reviewer_country_code": "AE",
+          "created_at": "2023-12-11T01:20:49",
+          "value": 2,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/9245f66a8e941997698cf58dbe3831dc-1701983769/That%20Backdrop-01.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/9245f66a8e941997698cf58dbe3831dc-1701983769/That%20Backdrop-01.jpg",
+          "reviewer_country": "United Arab Emirates",
+          "encrypted_order_id": "FO21DA3BBB788",
+          "score": 0.55,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 205450602,
+          "gig_slug": "design-a-modern-minimalist-logo-for-your-brand",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65a6c0ac2826e27af1dcb8ad",
+          "comment": "Brand Moose does great work and makes your dollar go further than with an agency! They are very responsive and the process as a whole was seamless and stress free! Thank you Brand Moose!",
+          "comment_language": "en",
+          "username": "lukesiman98",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8841ae1b031a606d9f5e968106e39f83-1704939951181/ec17daa3-941a-4105-96e1-b6828a1176f8.JPG",
+          "created_at": "2024-01-16T19:08:33",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/1278eac5ad1ceadbf9891d19ca5065be-1705408147/Siman%20Says%20Marketing-08.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/1278eac5ad1ceadbf9891d19ca5065be-1705408147/Siman%20Says%20Marketing-08.jpg",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO51DE21F5905",
+          "score": 0.5367637,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 250378712,
+          "gig_slug": "design-custom-professional-logo",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 804,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 567,
+        "business": 45
+      },
+      "user_id": 106715562,
+      "seller_username": "brandmoose",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 5
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 8
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 29
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 758
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 106715562,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 106715562,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Toronto",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 205450602,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-a-modern-minimalist-logo-for-your-brand",
+      "title": "design a modern minimalist logo for your brand",
+      "seller_name": "brandmoose",
+      "seller_id": 106715562,
+      "seller_country": "CA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1881daa0a07605432d39f93c4c3ec641-1620229111369/3dc95718-1f3b-4db2-a4bd-df7f9b735884.jpg",
+      "seller_display_name": "Brand Moose",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/205450602/original/80ebb0ddf5f711d7d496214ac79c784ebaefa41d.jpg",
+          "type": "ImageAsset",
+          "id": "205450602_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/205450602/original/3575f191311c7ed51be1f288010e1e5a048d3d5c.jpg",
+          "type": "ImageAsset",
+          "id": "205450602_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/205450602/original/46e747b9138e68fb44686abf8ac51733518536d0.jpg",
+          "type": "ImageAsset",
+          "id": "205450602_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175089600",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5e07802f4b8b69367bdb7a9cd262ddef-1704185859/Jason%20Coombss%20School-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174923567",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/1189f823d0694d72e17db77fd590e89c-1703712604/Lily%20Luxe-06.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": [],
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "flat_minimalist"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "pictorial",
+            "abstract"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 419,
+      "buying_review_rating": 4.9,
+      "seller_url": "/brandmoose",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 804,
+        "score": 4.89801
+      },
+      "gig_url": "/brandmoose/design-a-modern-minimalist-logo-for-your-brand",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 250378712,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-custom-professional-logo",
+      "title": "design custom professional logo",
+      "seller_name": "brandmoose",
+      "seller_id": 106715562,
+      "seller_country": "CA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1881daa0a07605432d39f93c4c3ec641-1620229111369/3dc95718-1f3b-4db2-a4bd-df7f9b735884.jpg",
+      "seller_display_name": "Brand Moose",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/250378712/original/f2ec7511cf0ec49885f5d6b1890b31a3acb77a81.png",
+          "type": "ImageAsset",
+          "id": "250378712_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/250378712/original/0639f96b46417e38ab142270548fa50900a6e01c.png",
+          "type": "ImageAsset",
+          "id": "250378712_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/250378712/original/5887ce8c480a7ac8ffd92d91d576b747792ede5e.png",
+          "type": "ImageAsset",
+          "id": "250378712_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176321308",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e03492407f8dc234be4d19f1e28b5b15-1706730468/OWKN-04.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176230461",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/0b6b03cd059b8b2edcf12944a2b96c3a-1706557971/Cleveland%20Classic%20Rovers.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176031130",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d347ff7714c7072778775b643c359615-1706138572/Christian%20Cathedral.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175996606",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/62c5e286f1328ff17e008b9f2705fc78-1706084712/Intuitive%20Raven-07.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175981413",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/935280a7f5f805f4bfe03f5138d2438b-1706044561/Choice%20Label%20Inc.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "flat_minimalist"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "wordmark",
+            "pictorial",
+            "abstract"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 381,
+      "buying_review_rating": 4.9,
+      "seller_url": "/brandmoose",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 804,
+        "score": 4.89801
+      },
+      "gig_url": "/brandmoose/design-custom-professional-logo",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 307660343,
+      "category_id": 3,
+      "sub_category_id": 56,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-business-card-letterhead-and-stationery-items",
+      "title": "design business card, letterhead, and stationery items",
+      "seller_name": "brandmoose",
+      "seller_id": 106715562,
+      "seller_country": "CA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1881daa0a07605432d39f93c4c3ec641-1620229111369/3dc95718-1f3b-4db2-a4bd-df7f9b735884.jpg",
+      "seller_display_name": "Brand Moose",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/307660343/original/fbb42c527abe06566f6ddf5594521a6417ff07e2.jpg",
+          "type": "ImageAsset",
+          "id": "307660343_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/307660343/original/381991c5149907e0bacff7755812f125f2bebd0a.jpg",
+          "type": "ImageAsset",
+          "id": "307660343_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/307660343/original/196e5880747a32ac4c4583e698dfa5765218d474.jpg",
+          "type": "ImageAsset",
+          "id": "307660343_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "170252639",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/aecde08687e60a955ec9af679c9b32de-1694179162/Power%20Vape-Banner%20R-1-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "168011751",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/eda86edf65d8b892ce002f413cd38ca4-1689793878/ruderebel-Logo-R-2-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "main_type",
+          "value": [
+            "stationery"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 4.4,
+      "seller_url": "/brandmoose",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 804,
+        "score": 4.89801
+      },
+      "gig_url": "/brandmoose/design-business-card-letterhead-and-stationery-items",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

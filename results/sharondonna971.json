@@ -1,0 +1,395 @@
+{
+  "seller": {
+    "user": {
+      "id": "147308587",
+      "name": "sharondonna971",
+      "isActivationCompleted": true,
+      "joinedAt": 1679142809,
+      "profile": {
+        "displayName": "Sharon D"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/cc47a0cc0ccdd736a5eed3228b65ac7e-1681690939765/92011498-4840-44e4-aebf-4fe212900d8b.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "360198665"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Designing for success",
+    "description": "I am a senior logo designer with more than six years of industry experience. In the fiercest market competition, I'll create designs that stand out, are easy to remember, and effectively draw in the target audience. You will LOVE the final output.\r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "adobe",
+        "certificationName": "Graphics Designing",
+        "year": 2016
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "international relations",
+        "toYear": 2012,
+        "countryCode": "PK",
+        "school": "Govt. National College",
+        "degreeTitle": "BA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6740565f07789006a3c",
+        "name": "Stationery design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Stationery designer"
+      },
+      {
+        "id": "617fa63e0565f07789005a8c",
+        "name": "Business card design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business card designer"
+      },
+      {
+        "id": "617fa6430565f07789005bea",
+        "name": "Company branding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Company branding expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 11
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b804c3da9df3104e8578f9",
+          "comment": "Bravo! Your service deserves a standing ovation! The product arrived promptly and in pristine condition, and your personalized touch in design made it feel like a special delivery. Thank you for making shopping an experience to remember.",
+          "comment_language": "en",
+          "username": "corasoper",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-29T21:15:20",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82A00FF57C6",
+          "score": 0.6725262,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360198665,
+          "gig_slug": "create-a-modern-minimalist-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 12,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b927904f44d32294631c44",
+          "comment": "Consider this comment a standing ovation for your outstanding service! Your attention to detail and commitment to ensuring I had a positive experience made all the difference. Thank you for being a true star!",
+          "comment_language": "en",
+          "username": "rondsharp",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-31T08:48:28",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1600967E01",
+          "score": 0.5025322,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360198665,
+          "gig_slug": "create-a-modern-minimalist-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 18,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b92632da9df3104e8590bf",
+          "comment": "Consider this comment a bouquet of flowers in honor of your outstanding service! Your attention to detail and commitment to ensuring I had a positive experience made all the difference. Thank you for being a true bloom of excellence! Superb.",
+          "comment_language": "en",
+          "username": "jeanhutchinson",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-31T08:48:39",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41802655384",
+          "score": 0.46848652,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360198665,
+          "gig_slug": "create-a-modern-minimalist-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 12,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b80656da9df3104e857933",
+          "comment": "Hats off to you for your exceptional service! The design arrived promptly, and the care you took in ensuring its safe delivery was impressive. Your commitment to customer happiness shines through, and I'm grateful for such a pleasant experience.",
+          "comment_language": "en",
+          "username": "bennmeriem",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-29T21:15:01",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO118009DE187",
+          "score": 0.44322833,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360198665,
+          "gig_slug": "create-a-modern-minimalist-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b80568da9df3104e857911",
+          "comment": "Your service is a breath of fresh air in the world of this service! The design not only met but exceeded my expectations, and your attention to detail didn't go unnoticed. Thank you for setting a new standard in customer satisfaction!",
+          "comment_language": "en",
+          "username": "richardwebery",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-29T21:15:14",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41800A31784",
+          "score": 0.42392325,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360198665,
+          "gig_slug": "create-a-modern-minimalist-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 11,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 147308587,
+      "seller_username": "sharondonna971",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 11
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 147308587,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 147308587,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Kuala_Lumpur",
+    "recent_utc_offset": -480
+  },
+  "gigsData": [
+    {
+      "gig_id": 360198665,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-modern-minimalist-business-logo-design",
+      "title": "do trendy business modern logo design in 24 hours",
+      "seller_name": "sharondonna971",
+      "seller_id": 147308587,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/cc47a0cc0ccdd736a5eed3228b65ac7e-1681690939765/92011498-4840-44e4-aebf-4fe212900d8b.png",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/360198665/original/2a612f6055bd23fce895373d58335ebfb67bcfb3.jpg",
+          "type": "ImageAsset",
+          "id": "360198665_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/360198665/original/4989ea61f9c1b5a99734c78c7f8122a880435f70.jpg",
+          "type": "ImageAsset",
+          "id": "360198665_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/360198665/original/b16d933cd441f6704e68dd1bf49ed7becb866561.jpg",
+          "type": "ImageAsset",
+          "id": "360198665_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "3d"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "wordmark",
+            "abstract"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "eps"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 11,
+      "buying_review_rating": 5,
+      "seller_url": "/sharondonna971",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 11,
+        "score": 5
+      },
+      "gig_url": "/sharondonna971/create-a-modern-minimalist-business-logo-design",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

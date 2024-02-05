@@ -1,0 +1,176 @@
+{
+  "seller": {
+    "user": {
+      "id": "118627733",
+      "name": "crampmarketing",
+      "isActivationCompleted": true,
+      "joinedAt": 1639923065,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.2689395813,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 118627733,
+      "seller_username": "crampmarketing",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 118627733,
+      "reviews": [
+        {
+          "id": "65b6b4147b679300010e4248",
+          "comment": "great experience",
+          "comment_language": "en",
+          "username": "sophie_khaan",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9f51e617b9202c7aeb115c48e8cb7c8b-1691748494180/50b3c2f6-ab6c-4ff8-9020-ae784b0eae82.jpg",
+          "created_at": "2024-01-28T20:07:48",
+          "value": 5
+        },
+        {
+          "id": "65b691f17b679300010e2a51",
+          "comment": "outstanding experience",
+          "comment_language": "en",
+          "username": "dawoodnazir02",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/91785930d7eb8a7e28cb62766b1cdc15-1678571226498/4388cd17-1f7b-42f2-8994-b7c6b8c5d12b.JPG",
+          "created_at": "2024-01-28T17:42:09",
+          "value": 5
+        },
+        {
+          "id": "65b21317756b9d000173ea91",
+          "comment": "Good experience ",
+          "comment_language": "en",
+          "username": "farazdesign111",
+          "reviewer_country_code": "PK",
+          "created_at": "2024-01-25T07:51:51",
+          "value": 5
+        },
+        {
+          "id": "65b0e7cb756b9d00017335f8",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "salwa_hassan1",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/061d345022dc68ba735975d1da8f7c2a-1698306487690/2d6c9382-41fe-4a08-8fab-744fa3c6eb1c.jfif",
+          "created_at": "2024-01-24T10:34:51",
+          "value": 5
+        },
+        {
+          "id": "65ae7c17a8e68f0001131c96",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "logostudio109",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/228bc1924cc3dbaf3ad77c83f000d685-1633668656615/0da05880-bf65-43a8-981d-e9574eaff7d6.jpg",
+          "created_at": "2024-01-22T14:30:47",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 118627733,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

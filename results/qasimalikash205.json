@@ -1,0 +1,163 @@
+{
+  "seller": {
+    "user": {
+      "id": "159332408",
+      "name": "qasimalikash205",
+      "isActivationCompleted": true,
+      "joinedAt": 1693824898,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United Arab Emirates",
+        "countryCode": "AE"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 159332408,
+      "seller_username": "qasimalikash205",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 159332408,
+      "reviews": [
+        {
+          "id": "65b4929e756b9d000175628a",
+          "comment": "Good Buyer",
+          "comment_language": "en",
+          "username": "nayyar275",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3c3f7f455366cf3a9c2fe77218137f5a-1327419671697863975606/JPEG_20231021_095254_7088377159232013483.jpg",
+          "created_at": "2024-01-27T05:20:30",
+          "value": 5
+        },
+        {
+          "id": "6594321cbf277e000121e29e",
+          "comment": "Excellent Buyer ",
+          "comment_language": "nl",
+          "username": "funnydot",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b41b44eb812981d378d5e0e86b35b551-1698473536315/d502a1e4-7d1d-40cf-8449-a35c8c7ca132.jpg",
+          "created_at": "2024-01-02T15:56:12",
+          "value": 5
+        },
+        {
+          "id": "658aecb9d628ec0001839ebb",
+          "comment": "Good Experience ",
+          "comment_language": "en",
+          "username": "funnydot",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b41b44eb812981d378d5e0e86b35b551-1698473536315/d502a1e4-7d1d-40cf-8449-a35c8c7ca132.jpg",
+          "created_at": "2023-12-26T15:09:45",
+          "value": 5
+        },
+        {
+          "id": "658962723b629a000147fb2d",
+          "comment": "Excellent Experience ",
+          "comment_language": "en",
+          "username": "funnydot",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b41b44eb812981d378d5e0e86b35b551-1698473536315/d502a1e4-7d1d-40cf-8449-a35c8c7ca132.jpg",
+          "created_at": "2023-12-25T11:07:31",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 159332408,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dubai",
+    "recent_utc_offset": -240
+  },
+  "gigsData": []
+}

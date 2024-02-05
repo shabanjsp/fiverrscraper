@@ -1,0 +1,575 @@
+{
+  "seller": {
+    "user": {
+      "id": "162005319",
+      "name": "mep_shahid",
+      "isActivationCompleted": true,
+      "joinedAt": 1697445110,
+      "profile": {
+        "displayName": "Shahid Khan"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/1389533ab0bbbf6272daccab7ca3cea0-1697449955124/ae846cf5-7f45-49b6-8032-f506f6bd8a12.jpeg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "346644871"
+        },
+        {
+          "id": "361209726"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I am a highly skilled and experienced MEP designer with over 8 years of experience in the construction industry. I am proficient in all aspects of MEP design, from conceptualization to construction administration. I have a proven track record of delivering high-quality designs on time and within budget. I work on Electrical,HVAC, Plumbing, Firefighting, Plans as per codes. \r\n\r\nI specialize in 3D interior design and photorealistic renderings, bringing your vision to life before a single paintbrush touches the wall. ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "autodesk",
+        "certificationName": "AutoCAD Mechanical ",
+        "year": 2014
+      },
+      {
+        "receivedFrom": "Autodesk ",
+        "certificationName": "Revit MEP",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "mechanicalengineering",
+        "toYear": 2018,
+        "countryCode": "PK",
+        "school": "UET",
+        "degreeTitle": "MSC"
+      },
+      {
+        "degree": "electrical engineering",
+        "toYear": 2014,
+        "countryCode": "PK",
+        "school": "UET",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6640565f077890065b9",
+        "name": "MEP design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MEP designer"
+      },
+      {
+        "id": "617fa6640565f077890065ba",
+        "name": "MEP engineering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MEP engineer"
+      },
+      {
+        "id": "617fa63a0565f0778900595d",
+        "name": "AutoCAD MEP",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AutoCAD MEP expert"
+      },
+      {
+        "id": "617fa64a0565f07789005e5b",
+        "name": "Electrical engineering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Electrical engineer"
+      },
+      {
+        "id": "617fa63a0565f0778900595b",
+        "name": "AutoCAD Electrical",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AutoCAD Electrical expert"
+      },
+      {
+        "id": "617fa64a0565f07789005e5a",
+        "name": "Electrical drawing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Electrical drawing artist"
+      },
+      {
+        "id": "617fa6610565f077890064f1",
+        "name": "Lighting design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Lighting designer"
+      },
+      {
+        "id": "617fa64a0565f07789005e5e",
+        "name": "Electrical wiring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Electrical wiring expert"
+      },
+      {
+        "id": "617fa66a0565f0778900678e",
+        "name": "Plumbing design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Plumbing designer"
+      },
+      {
+        "id": "617fa6590565f077890062a7",
+        "name": "HVAC design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "HVAC designer"
+      },
+      {
+        "id": "617fa63a0565f0778900595c",
+        "name": "AutoCAD Mechanical",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AutoCAD Mechanical expert"
+      },
+      {
+        "id": "617fa63a0565f0778900595b",
+        "name": "AutoCAD Electrical",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AutoCAD Electrical expert"
+      },
+      {
+        "id": "617fa6400565f07789005b11",
+        "name": "CCTV installation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CCTV installation expert"
+      },
+      {
+        "id": "617fa6500565f07789006001",
+        "name": "Firefighting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Firefighting expert"
+      },
+      {
+        "id": "617fa6510565f07789006027",
+        "name": "Floor plan design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Floor plan designer"
+      },
+      {
+        "id": "617fa65c0565f0778900635a",
+        "name": "Interior design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Interior designer"
+      },
+      {
+        "id": "617fa65c0565f0778900635c",
+        "name": "Interior design rendering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Interior design 3D rendering expert"
+      },
+      {
+        "id": "617fa6340565f077890057b5",
+        "name": "3D visualization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "3D visualization expert"
+      },
+      {
+        "id": "617fa6340565f077890057ae",
+        "name": "3D rendering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "3D rendering expert"
+      },
+      {
+        "id": "617fa63a0565f0778900595e",
+        "name": "Autodesk 3ds Max",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Autodesk 3ds Max expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 150,
+        "nestedCategoryId": 2277
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 479,
+        "nestedCategoryId": 2526
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 3
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 4
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6561d4c6644f4e0001d88f38",
+          "comment": "I reviewed the HVAC drawings, and I must say, the work is exceptional. It was professionally drafted with a high level of professionalism. I highly recommend this seller for HVAC design projects.",
+          "comment_language": "en",
+          "username": "mujeebullah367",
+          "reviewer_country_code": "EU",
+          "created_at": "2023-11-25T11:21:54",
+          "value": 5,
+          "reviewer_country": "Europe",
+          "encrypted_order_id": "FO3179F4E1B85",
+          "score": 0.64634556,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 346644871,
+          "gig_slug": "design-electrical-drawings-mep-plans-in-cad",
+          "gig_category": 3,
+          "gig_sub_category": 479,
+          "gig_nested_sub_category": 2526,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b541b5da9df3104e85438c",
+          "comment": "I got the city permit's electrical plan, and it's well-planned. Happy to be working with you.",
+          "comment_language": "en",
+          "username": "tammyweigel91",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-30T05:01:41",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/5ba4eaece67458ed1d554d89e4442902-1706263242/402-el.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/5ba4eaece67458ed1d554d89e4442902-1706263242/402-el.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82FF7769F08",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346644871,
+          "gig_slug": "design-electrical-drawings-mep-plans-in-cad",
+          "gig_category": 3,
+          "gig_sub_category": 479,
+          "gig_nested_sub_category": 2526,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 13,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6589754b3b629a0001480235",
+          "comment": "The drawing plan is really good! It includes all the details I asked for, and the work is impressive.",
+          "comment_language": "en",
+          "username": "thomaswright19",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b61157e63da0e15c5a061975708eae01-1702145623594/d9b6e6e9-11ab-445b-8b0b-a0ffceece0e5.jpeg",
+          "created_at": "2023-12-25T12:38:54",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3BE6947841",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346644871,
+          "gig_slug": "design-electrical-drawings-mep-plans-in-cad",
+          "gig_category": 3,
+          "gig_sub_category": 479,
+          "gig_nested_sub_category": 2526,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 33,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 3,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1,
+        "business": 1
+      },
+      "user_id": 162005319,
+      "seller_username": "mep_shahid",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 3
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 162005319,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162005319,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 346644871,
+      "category_id": 3,
+      "sub_category_id": 479,
+      "nested_sub_category_id": 2526,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-electrical-drawings-mep-plans-in-cad",
+      "title": "design electrical drawings, mep plans in cad",
+      "seller_name": "mep_shahid",
+      "seller_id": 162005319,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1389533ab0bbbf6272daccab7ca3cea0-1697449955124/ae846cf5-7f45-49b6-8032-f506f6bd8a12.jpeg",
+      "seller_display_name": "Shahid Khan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/346644871/original/94b1ea9c95f1ced6e1cecbeecd51d2209e916c53.jpg",
+          "type": "ImageAsset",
+          "id": "346644871_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/346644871/original/7c9e287dff4aeefa991a594281375a0c56706172.jpg",
+          "type": "ImageAsset",
+          "id": "346644871_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/346644871/original/f4fbefc499837c6e734e0c2d8e6254a6d426da16.jpg",
+          "type": "ImageAsset",
+          "id": "346644871_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176091057",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5ba4eaece67458ed1d554d89e4442902-1706263242/402-el.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "project_scale",
+          "value": [
+            "house"
+          ]
+        },
+        {
+          "type": "building_type",
+          "value": [
+            "residential",
+            "commercial",
+            "office_workspace"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/mep_shahid",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/mep_shahid/design-electrical-drawings-mep-plans-in-cad",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 361209726,
+      "category_id": 3,
+      "sub_category_id": 150,
+      "nested_sub_category_id": 2277,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-cozy-bedroom-and-living-room-interior-designs-3d-renders",
+      "title": "create cozy bedroom and living room interior designs 3d renders",
+      "seller_name": "mep_shahid",
+      "seller_id": 162005319,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1389533ab0bbbf6272daccab7ca3cea0-1697449955124/ae846cf5-7f45-49b6-8032-f506f6bd8a12.jpeg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/361209726/original/0f27aa7c36de7b8d74f6a2daa6924622612cd7cc.jpg",
+          "type": "ImageAsset",
+          "id": "361209726_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/361209726/original/70fcec2f5ee4869df6293c97de22c7ff3a9ed45a.jpg",
+          "type": "ImageAsset",
+          "id": "361209726_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "building_type",
+          "value": [
+            "residential",
+            "commercial",
+            "office_workspace"
+          ]
+        },
+        {
+          "type": "image_file_format",
+          "value": [
+            "jpg",
+            "pdf"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/mep_shahid",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/mep_shahid/create-cozy-bedroom-and-living-room-interior-designs-3d-renders",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

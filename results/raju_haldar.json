@@ -1,0 +1,360 @@
+{
+  "seller": {
+    "user": {
+      "id": "123415757",
+      "name": "raju_haldar",
+      "isActivationCompleted": true,
+      "joinedAt": 1647154170,
+      "profile": {
+        "displayName": "Raju"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/08dcc8bfd4f5724d13bd5acc938f2565-1703082915855/98e6be60-e926-4b29-9ff4-123814a462d3.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "248175988"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "i am a professional graphic designer",
+    "description": "Hi there!!!\r\nI'm Raju haldar a professional logo/graphic designer 7 year+ experience. I can do any kind of Logo Design. I can do also Branding design, Business card design, Stationery design social media banner design Etc.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "graphic design",
+        "certificationName": "Future training center",
+        "year": 2013
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "english",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "National University of Bangladesh",
+        "degreeTitle": "BA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa63e0565f07789005a8c",
+        "name": "Business card design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business card designer"
+      },
+      {
+        "id": "617fa6740565f07789006a3c",
+        "name": "Stationery design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Stationery designer"
+      },
+      {
+        "id": "617fa63c0565f07789005a21",
+        "name": "Book cover design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book cover designer"
+      },
+      {
+        "id": "617fa6610565f077890064da",
+        "name": "Letterhead design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Letterhead designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 2
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "628299a37bd2ce0001bb0d61",
+          "comment": "wow this seller did an great job that i couldn't imagine. he is really excceded my expectation.\nhighly recommended!",
+          "comment_language": "en",
+          "username": "tanjiasheng",
+          "reviewer_country_code": "MY",
+          "created_at": "2022-05-16T18:53:35",
+          "value": 5,
+          "reviewer_country": "Malaysia",
+          "encrypted_order_id": "FO512EFE1C983",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 248175988,
+          "gig_slug": "do-beautiful-logo-for-your-brand",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 595
+        },
+        {
+          "id": "65b49b4c41e5c52d8c231a01",
+          "comment": "Raju, I am thoroughly impressed with the logo design you've created. Your ability to blend creativity with functionality is remarkable. The color scheme is both eye-catching and perfectly aligned with our brand identity, and the design is unique and memorable. Your attention to detail and understanding of our brand's needs is evident in every aspect of the logo. This design not only meets but exceeds my expectations. Your professionalism and artistic talent have made this process enjoyable and exciting. Thank you for your exceptional work",
+          "comment_language": "en",
+          "username": "mnor95998",
+          "reviewer_country_code": "IT",
+          "created_at": "2024-01-30T16:22:48",
+          "value": 5,
+          "reviewer_country": "Italy",
+          "encrypted_order_id": "FO61DF5942104",
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 248175988,
+          "gig_slug": "do-beautiful-logo-for-your-brand",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 29,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": false,
+      "total_count": 2,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 1
+      },
+      "user_id": 123415757,
+      "seller_username": "raju_haldar",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 2
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 123415757,
+      "reviews": [
+        {
+          "id": "64b6d34e4cabe700012d3820",
+          "comment": "Great experience!!",
+          "comment_language": "en",
+          "username": "mim215",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/739d6612acab1d89b9ee7b35cf5c5439-1671656597525/6cf85801-48b9-494c-a554-656f5295c872.jpg",
+          "created_at": "2023-07-18T18:00:46",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 123415757,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 248175988,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-beautiful-logo-for-your-brand",
+      "title": "do beautiful logo for your brand",
+      "seller_name": "raju_haldar",
+      "seller_id": 123415757,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/08dcc8bfd4f5724d13bd5acc938f2565-1703082915855/98e6be60-e926-4b29-9ff4-123814a462d3.jpg",
+      "seller_display_name": "Raju",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/248175988/original/5a61b0961dd4ab80f15fc65ffc7492385f4e81f0.jpg",
+          "type": "ImageAsset",
+          "id": "248175988_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/248175988/original/8b75fd5e31a0503daa27129ff70fe3fc4592f7fa.jpg",
+          "type": "ImageAsset",
+          "id": "248175988_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/248175988/original/01cb214a9ddecdfee86036d03ca000cae761327c.jpg",
+          "type": "ImageAsset",
+          "id": "248175988_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "flat_minimalist"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "wordmark",
+            "emblem"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/raju_haldar",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/raju_haldar/do-beautiful-logo-for-your-brand",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

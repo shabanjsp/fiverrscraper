@@ -1,0 +1,981 @@
+{
+  "seller": {
+    "user": {
+      "id": "152171775",
+      "name": "earleen_art",
+      "isActivationCompleted": true,
+      "joinedAt": 1685002767,
+      "profile": {
+        "displayName": "Alisha Parvin"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "RU",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/074c5aa1f8c95be65d426ccd5035926c-1695132590635/1bf9649a-08a0-41b9-afd4-2e97853f97c8.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "340714748"
+        },
+        {
+          "id": "341611844"
+        },
+        {
+          "id": "343106423"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Drawing your dreams into reality",
+    "description": "Hello! I'm Alisha, and I'm an artist with more than 4 years of experience. I really enjoy making pictures that tell stories and show ideas. I can help with drawings for kids' books, covers for books you want to publish on KDP, fun books with activities for people of all ages, and attractive covers for coloring books. If you're working on a creative project and need someone to draw pictures for it, feel free to get in touch.\r\nI'd love to be a part of your creative adventure!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "ADOBE",
+        "certificationName": "GRAPHIC DESIGNER",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "english",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "Islamic University, Kushtia",
+        "degreeTitle": "BA"
+      },
+      {
+        "degree": "english",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "Islamic University",
+        "degreeTitle": "MA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63c0565f07789005a21",
+        "name": "Book cover design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book cover designer"
+      },
+      {
+        "id": "617fa6400565f07789005b48",
+        "name": "Children's book illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Children's book illustrator"
+      },
+      {
+        "id": "617fa6440565f07789005c86",
+        "name": "Cover page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cover page designer"
+      },
+      {
+        "id": "617fa63f0565f07789005afc",
+        "name": "Cartoons illustartion",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cartoons illustrator"
+      },
+      {
+        "id": "617fa6400565f07789005b49",
+        "name": "Children's illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Children's illustrator"
+      },
+      {
+        "id": "617fa6400565f07789005b47",
+        "name": "Children's book & eBook writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Children's book & eBook writer"
+      },
+      {
+        "id": "617fa6400565f07789005b2e",
+        "name": "Character design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Character designer"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6420565f07789005bd2",
+        "name": "Coloring book illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Coloring book illustrator"
+      },
+      {
+        "id": "617fa6610565f077890064f6",
+        "name": "Line art",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Line artist"
+      },
+      {
+        "id": "617fa6610565f077890064f8",
+        "name": "Line drawing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Line drawing artist"
+      },
+      {
+        "id": "617fa6780565f07789006b89",
+        "name": "Vector illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Vector illustrator"
+      },
+      {
+        "id": "617fa6780565f07789006b88",
+        "name": "Vector art illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Vector art illustrator"
+      },
+      {
+        "id": "617fa65f0565f0778900643e",
+        "name": "KDP",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "KDP expert"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa63d0565f07789005a24",
+        "name": "Book formatting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book formatting expert"
+      },
+      {
+        "id": "617fa6680565f077890066e8",
+        "name": "Paperback formatting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Paperback formatting expert"
+      },
+      {
+        "id": "617fa6520565f07789006065",
+        "name": "Formatting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Formatting expert"
+      },
+      {
+        "id": "617fa6370565f07789005889",
+        "name": "Animals illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Animals illustrator"
+      },
+      {
+        "id": "617fa65a0565f077890062d0",
+        "name": "Illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Illustrator"
+      },
+      {
+        "id": "617fa6420565f07789005bd7",
+        "name": "Comics illustartion",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Comics Illustartor"
+      },
+      {
+        "id": "61a4d8ad758d756a25307bbc",
+        "name": "Kindle cover design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Kindle cover designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 51,
+        "nestedCategoryId": 2318
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 536,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "658488b9987831000113ba8b",
+          "title": "Neighborwood Friends",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "658488b9987831000113ba8e",
+                "attachment": {
+                  "metadata": {
+                    "height": 815,
+                    "width": 1000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1996377a3fc8729c2a57c60d357d1f81-1703184561038/page-6.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65848a87987831000113bb02",
+          "title": "Tommy's Adventure in Listening",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65848a87987831000113bb04",
+                "attachment": {
+                  "metadata": {
+                    "height": 2625,
+                    "width": 2588
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7382019c19f93057702c03ffaea08030-1703184987797/interior-04.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65848ce6c7f3a90001661d3b",
+          "title": "My Super Powers",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65848ce6c7f3a90001661d3d",
+                "attachment": {
+                  "metadata": {
+                    "height": 2626,
+                    "width": 2588
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/39024b7433bc56911cfe7cfb437bdf7f-1703185618687/INTERIOR-09.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "656257d8fedeb5000195ec66",
+          "title": "Christmas Coloring Book",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "656257d8fedeb5000195ec68",
+                "attachment": {
+                  "metadata": {
+                    "height": 810,
+                    "width": 1259
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3063af2a372c0fdcd566f5b3257894d4-1700943815268/book-cover.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6548a8ebd2e80d0001f94f0f",
+          "title": "Book cover",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6549264bf1572a000193f512",
+                "attachment": {
+                  "metadata": {
+                    "height": 612,
+                    "width": 612
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1e8ea2275c2962d8a673b16908d62604-1699292733586/front-cover-3.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "655fa8b0fedeb5000195234e",
+          "title": "children book illustration",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "655fa8b0fedeb5000195234f",
+                "attachment": {
+                  "metadata": {
+                    "height": 2551,
+                    "width": 2551
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/b981ef42871fac6d423b3ccb088ffcf2-1700767860431/book%20cover.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "654928b2f1572a000193f642",
+          "title": "Children story book illustration",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "654928b2f1572a000193f643",
+                "attachment": {
+                  "metadata": {
+                    "height": 630,
+                    "width": 1247
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/99052a32939f97b3399bedbabc30c398-1699293205309/cover-2.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 7
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1695150071
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 23
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65aead1149d34f2171b3dbdb",
+          "comment": "I really love your work and the time you put in your work to make everything look amazing. You did amazing job with my daughter book she really love it. You turn her dream into reality. I want to Thank you from the bottom of my heart I appreciate..",
+          "comment_language": "en",
+          "username": "brittanyrobi190",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-22T18:03:37",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO117D4630F87",
+          "score": 0.6739608,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 341611844,
+          "gig_slug": "do-children-story-book-illustration-and-attractive-book-cover",
+          "gig_category": 3,
+          "gig_sub_category": 536,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 33,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65711929d8116b00015fab6e",
+          "comment": "Alisha exceeded my expectations. I had issues with two other illustrators and she made sure I received what I asked for. A pdf drawing was sent to her and she illustrated the drawings exactly as pictured. I am so pleased and will be booking with her again. ",
+          "comment_language": "en",
+          "username": "thedancingmuva",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5ab58ea3533d23341a12f9f019793fb8-1206656521672715758.973849/9E776FD3-30AF-4374-AA8E-9E7326DF35E9",
+          "created_at": "2023-12-07T06:24:32",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/acf648539822d704d63b4061b035cc23-1701872010/mokeup.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/acf648539822d704d63b4061b035cc23-1701872010/mokeup.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81D7FBD7302",
+          "score": 0.6648264,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 341611844,
+          "gig_slug": "do-children-story-book-illustration-and-attractive-book-cover",
+          "gig_category": 3,
+          "gig_sub_category": 536,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "658253d312ef4a0001cb1782",
+          "comment": "She was absolutely great! I love the book and will 100% be back. Communication was great and time was impeccable! I appreciate her diligence in this gift! Its very special to me",
+          "comment_language": "en",
+          "username": "sashanoelleudom",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-20T02:41:50",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO7297A6815C7",
+          "score": 0.59402925,
+          "reviewer_industry": [
+            "medical_or_pharmaceutical"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 341611844,
+          "gig_slug": "do-children-story-book-illustration-and-attractive-book-cover",
+          "gig_category": 3,
+          "gig_sub_category": 536,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655fa7561ed21300014d6561",
+          "comment": "This Illustrator demonstrated exceptional creativity and skills throughout the project, bringing my vision to life. Working with her was a pleasure, and the final results truly speak to her talents and dedication. Highly recommend for anyone seeking a top-tier illustrator. ",
+          "comment_language": "en",
+          "username": "momohsafety",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-23T19:27:01",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO5178242CB83",
+          "score": 0.58341306,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 341611844,
+          "gig_slug": "do-children-story-book-illustration-and-attractive-book-cover",
+          "gig_category": 3,
+          "gig_sub_category": 536,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a15a4c2ffdc500015f81a9",
+          "comment": "Alisha is very patience and talented digital artist. She always try her best to understand and perfect our project. We work well together and certainly will continue to work with her in future projects. Thank you!\n ",
+          "comment_language": "en",
+          "username": "tanhuileng262",
+          "reviewer_country_code": "SG",
+          "created_at": "2024-01-12T15:29:11",
+          "value": 5,
+          "reviewer_country": "Singapore",
+          "encrypted_order_id": "FO15F13B6E01",
+          "score": 0.3777551,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 341611844,
+          "gig_slug": "do-children-story-book-illustration-and-attractive-book-cover",
+          "gig_category": 3,
+          "gig_sub_category": 536,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 23,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 7,
+        "business": 1
+      },
+      "user_id": 152171775,
+      "seller_username": "earleen_art",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 22
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "medical_or_pharmaceutical": "Medical & Pharmaceutical"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 152171775,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 152171775,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 341611844,
+      "category_id": 3,
+      "sub_category_id": 536,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-children-story-book-illustration-and-attractive-book-cover",
+      "title": "do children story book illustration and attractive book cover",
+      "seller_name": "earleen_art",
+      "seller_id": 152171775,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/074c5aa1f8c95be65d426ccd5035926c-1695132590635/1bf9649a-08a0-41b9-afd4-2e97853f97c8.jpg",
+      "seller_display_name": "Alisha Parvin",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/341611844/original/4a17e91c709da5f8e0081b66bd4ef152943eff04.jpg",
+          "type": "ImageAsset",
+          "id": "341611844_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/341611844/original/182afe232cb2e602c0835f8ceed4f3566a9c5357.jpg",
+          "type": "ImageAsset",
+          "id": "341611844_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/341611844/original/f8ecf40057c352631ed781917f32580972363b42.jpg",
+          "type": "ImageAsset",
+          "id": "341611844_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175159577",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/905e20b191a41ef2d9e45405e9075f9a-1704350023/mokeup.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174105063",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/acf648539822d704d63b4061b035cc23-1701872010/mokeup.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171847605",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/ab65a61270d42f9e2101f1662840a41a-1697289310/mokeup.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171617930",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/80b630f38944f420cdc98666c3db24f7-1696857024/mokeup.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171501376",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/adbb5fd571c77bf5f7b5d37f5216da9a-1696601713/illustration.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "ru",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "illustration_style",
+          "value": [
+            "cartoon_and_comic"
+          ]
+        },
+        {
+          "type": "artistic_technique",
+          "value": [
+            "vector_art"
+          ]
+        },
+        {
+          "type": "age",
+          "value": [
+            "babies_toddlers_0_3_years",
+            "early_readers_3_7_years",
+            "older_kids_7_12_years"
+          ]
+        },
+        {
+          "type": "genre",
+          "value": [
+            "action_and_adventure",
+            "animal_and_pet",
+            "fairy_tales"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 22,
+      "buying_review_rating": 4.9,
+      "seller_url": "/earleen_art",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 23,
+        "score": 4.884058
+      },
+      "gig_url": "/earleen_art/do-children-story-book-illustration-and-attractive-book-cover",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 343106423,
+      "category_id": 3,
+      "sub_category_id": 536,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-cute-children-story-book-illustration-kids-book-illustration-and-cover",
+      "title": "do children book illustration, kids book illustration and cover",
+      "seller_name": "earleen_art",
+      "seller_id": 152171775,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/074c5aa1f8c95be65d426ccd5035926c-1695132590635/1bf9649a-08a0-41b9-afd4-2e97853f97c8.jpg",
+      "seller_display_name": "Alisha Parvin",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/343106423/original/1a3aa66e5bdcbcbab9e453f8e86c407695b1b7b9.jpg",
+          "type": "ImageAsset",
+          "id": "343106423_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/343106423/original/fc15a3426c5e0f42dcc11d7e8f7db02268e1c187.jpg",
+          "type": "ImageAsset",
+          "id": "343106423_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/343106423/original/2313aa845d8ea6a36d57669d1946cc264b2d9d82.jpg",
+          "type": "ImageAsset",
+          "id": "343106423_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "172362893",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/095331290e243e38480716b9b170c32a-1698328785/illustration.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "ru",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "illustration_style",
+          "value": [
+            "cartoon_and_comic"
+          ]
+        },
+        {
+          "type": "artistic_technique",
+          "value": [
+            "vector_art"
+          ]
+        },
+        {
+          "type": "age",
+          "value": [
+            "babies_toddlers_0_3_years",
+            "early_readers_3_7_years",
+            "older_kids_7_12_years"
+          ]
+        },
+        {
+          "type": "genre",
+          "value": [
+            "action_and_adventure",
+            "animal_and_pet",
+            "fairy_tales"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/earleen_art",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 23,
+        "score": 4.884058
+      },
+      "gig_url": "/earleen_art/do-cute-children-story-book-illustration-kids-book-illustration-and-cover",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 340714748,
+      "category_id": 3,
+      "sub_category_id": 51,
+      "nested_sub_category_id": 2318,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-kids-activity-book-coloring-book-for-amazon-kdp",
+      "title": "design kids activity book, coloring book for amazon KDP",
+      "seller_name": "earleen_art",
+      "seller_id": 152171775,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/074c5aa1f8c95be65d426ccd5035926c-1695132590635/1bf9649a-08a0-41b9-afd4-2e97853f97c8.jpg",
+      "seller_display_name": "Alisha Parvin",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/340714748/original/db03886f373fdfc5672adce1dbd528cfde5e864a.jpg",
+          "type": "ImageAsset",
+          "id": "340714748_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/340714748/original/f8bf7b56c6333c0e35f16002393bb343a8a8e2aa.jpg",
+          "type": "ImageAsset",
+          "id": "340714748_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/340714748/original/60842cef8c3b4e475a2ac002467cf2f524bcfb70.jpg",
+          "type": "ImageAsset",
+          "id": "340714748_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "650b3f41fde2bf0023956c8f",
+          "id": 9145167
+        }
+      ],
+      "attachments": [
+        {
+          "id": "650b3f41fde2bf0023956c8f",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/uo4dl98bwwxfadm2ykpt",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/uo4dl98bwwxfadm2ykpt.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "ru",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "design_style",
+          "value": [
+            "illustrative"
+          ]
+        },
+        {
+          "type": "genre",
+          "value": [
+            "arts",
+            "academics",
+            "business",
+            "children_s_books",
+            "comic"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "mobi",
+            "epub"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/earleen_art",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 23,
+        "score": 4.884058
+      },
+      "gig_url": "/earleen_art/design-kids-activity-book-coloring-book-for-amazon-kdp",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

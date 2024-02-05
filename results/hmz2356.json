@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "159969205",
+      "name": "hmz2356",
+      "isActivationCompleted": true,
+      "joinedAt": 1694636330,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Australia",
+        "countryCode": "AU"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.6810320029,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 159969205,
+      "seller_username": "hmz2356",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 159969205,
+      "reviews": [
+        {
+          "id": "65884c453b629a00014782a1",
+          "comment": "I had a Great Experience with him!",
+          "comment_language": "en",
+          "username": "kaleem_abbasi",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1780a9895fa6ee7c811c8ca236d34da2-1700104102681/a2a98352-7bb1-473d-bddf-70b27b5bff62.jpg",
+          "created_at": "2023-12-24T15:20:37",
+          "value": 5
+        },
+        {
+          "id": "658481175c478900012c70f6",
+          "comment": "Great Experience",
+          "comment_language": "en",
+          "username": "rabail__abbasi",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/424bf8bf83ec3584782bab6beea50b11-1701525754852/d4f43b7f-8772-423e-b264-56aa1eb1a0e5.png",
+          "created_at": "2023-12-21T18:16:55",
+          "value": 5
+        },
+        {
+          "id": "6553b5566d1dcd0001137dfd",
+          "comment": "Great Expereince",
+          "comment_language": "en",
+          "username": "gull_muhamad",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fe48ade61b78f8caefcc767a2402d230-1687095251305/63d459cf-1851-4185-9d2b-0a36ce1c52c2.png",
+          "created_at": "2023-11-14T17:58:46",
+          "value": 5
+        },
+        {
+          "id": "654e561e3023ba0001a67e76",
+          "comment": "Great Experience",
+          "comment_language": "en",
+          "username": "rabail__abbasi",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/424bf8bf83ec3584782bab6beea50b11-1701525754852/d4f43b7f-8772-423e-b264-56aa1eb1a0e5.png",
+          "created_at": "2023-11-10T16:11:10",
+          "value": 5
+        },
+        {
+          "id": "65494cfe7cc0090001fce72f",
+          "comment": "Great Experience",
+          "comment_language": "en",
+          "username": "gull_muhamad",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fe48ade61b78f8caefcc767a2402d230-1687095251305/63d459cf-1851-4185-9d2b-0a36ce1c52c2.png",
+          "created_at": "2023-11-06T20:30:54",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 159969205,
+    "currency": "AUD",
+    "locale": "en-US",
+    "timezone": "Australia/Perth",
+    "recent_utc_offset": -480
+  },
+  "gigsData": []
+}

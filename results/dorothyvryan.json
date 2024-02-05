@@ -1,0 +1,178 @@
+{
+  "seller": {
+    "user": {
+      "id": "136489764",
+      "name": "dorothyvryan",
+      "isActivationCompleted": true,
+      "joinedAt": 1666264381,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 136489764,
+      "seller_username": "dorothyvryan",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 136489764,
+      "reviews": [
+        {
+          "id": "65b8a26af760630001ea7a86",
+          "comment": "Quick response to questions, and clear directions.",
+          "comment_language": "en",
+          "username": "fivegrid_ui",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1965a66835cc2fd73aec8ed9c6765f68-1664951505113/5071814b-e918-4634-96a5-8f95edc39378.png",
+          "created_at": "2024-01-30T07:16:58",
+          "value": 5
+        },
+        {
+          "id": "65b33984756b9d000174a009",
+          "comment": "Thanks for choosing us for the project. Thank you so much for your valuable feedback, A pleasure to work with you ",
+          "comment_language": "en",
+          "username": "opsori_studio",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d6418611ef8588262eb3e610fca1bb52-1656932829825/24c65d02-97b9-4b7c-812b-7c3fab443a05.jpg",
+          "created_at": "2024-01-26T04:48:04",
+          "value": 5
+        },
+        {
+          "id": "65b283c2756b9d00017431f3",
+          "comment": "Great Buyer",
+          "comment_language": "en",
+          "username": "webarif",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4b77d2c2ec68ac02ce9d7479a24ead50-1687795318263/39a55fdc-4b0c-427f-a3b3-e26dc9b19af9.png",
+          "created_at": "2024-01-25T15:52:34",
+          "value": 5
+        },
+        {
+          "id": "65b279d4756b9d000174291f",
+          "comment": "It was a pleasure working with you, thank you.",
+          "comment_language": "en",
+          "username": "b2b_hunting_",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/682b11223e759235dda525de0b6d732f-1688652920266/c7e37f5d-33f7-4a68-bed0-883cafcb3048.jpg",
+          "created_at": "2024-01-25T15:10:12",
+          "value": 5
+        },
+        {
+          "id": "65af6de5a8e68f000113adfc",
+          "comment": " I would like to work more for people like you :).Great Buyer!",
+          "comment_language": "en",
+          "username": "godev_",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5332117b02b2794cee16843a2fdd7da8-1706606252865/689f5779-8dd0-4a7d-b756-c9ca04122c0b.png",
+          "created_at": "2024-01-23T07:42:30",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 136489764,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

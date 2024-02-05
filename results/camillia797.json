@@ -1,0 +1,181 @@
+{
+  "seller": {
+    "user": {
+      "id": "163248632",
+      "name": "camillia797",
+      "isActivationCompleted": true,
+      "joinedAt": 1699093654,
+      "profile": {
+        "displayName": "Camillia"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6630565f07789006577",
+        "name": "Market intelligence",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Market intelligence expert"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 163248632,
+      "seller_username": "camillia797",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 163248632,
+      "reviews": [
+        {
+          "id": "65aa5c1fecc5110001c1d2f2",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "lily_42",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f5720936477b27c5232a9f1dfc09cf1d-1677275175092/fb6e9586-32a5-4adf-8cd7-303709529bc4.jpg",
+          "created_at": "2024-01-19T11:25:19",
+          "value": 5
+        },
+        {
+          "id": "659fab662ffdc500015e4662",
+          "comment": "Great client ",
+          "comment_language": "en",
+          "username": "sahin_miah2017",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3aa653b4f69d40dd58e33d8c30eb68cd-1689882390402/f7a012da-c072-4305-b50b-da88f642f41d.jpg",
+          "created_at": "2024-01-11T08:48:38",
+          "value": 5
+        },
+        {
+          "id": "659d0cf7369cc90001227461",
+          "comment": "Great buyer ",
+          "comment_language": "en",
+          "username": "harper_121",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/efd4012bf18026ab388a1356e1ea5508-1692525263183/c1ba8199-6759-439b-8c97-4744c5f4af77.jpg",
+          "created_at": "2024-01-09T09:08:08",
+          "value": 5
+        },
+        {
+          "id": "658d1e01d628ec000184c78c",
+          "comment": "the requirements and everything he explains is easily understanding.",
+          "comment_language": "en",
+          "username": "esad_soudagar",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0135f3a0a7661dbb7fcfdd2d4d7e020c-1641453683313/ba7bfb10-3558-4867-b051-17aaddae6657.jpg",
+          "created_at": "2023-12-28T07:04:33",
+          "value": 5
+        },
+        {
+          "id": "658922c23b629a000147e4b8",
+          "comment": "Great Experience..........",
+          "comment_language": "en",
+          "username": "rosemary758",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/370476c34ffb10c18421293ced869fd6-1692792948062/dceb5264-bb56-43d4-9362-3bd8968eb068.jpg",
+          "created_at": "2023-12-25T06:35:46",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 163248632,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

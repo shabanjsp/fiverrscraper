@@ -1,0 +1,495 @@
+{
+  "seller": {
+    "user": {
+      "id": "154240484",
+      "name": "webarif",
+      "isActivationCompleted": true,
+      "joinedAt": 1687445103,
+      "profile": {
+        "displayName": "Webarif"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "AR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/4b77d2c2ec68ac02ce9d7479a24ead50-1687795318263/39a55fdc-4b0c-427f-a3b3-e26dc9b19af9.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "324623434"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Myself Webarif, I am a Lead Generation Expert. I have lot of experience in this sector. I am good at specializing in B2B Lead Generation, Targeted E-mail collection, E-mail list building, Data entry, Web search services, LinkedIn scraping Etc. I have a very skilled team. We have earned a lot of reputation by teamwork. Applies a critical approach to solving problems, and inspires teams to deliver projects on time and within budget. I will generate more sales for your business. of course, you will get success. ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2009,
+        "countryCode": "BD",
+        "school": "National University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6460565f07789005d06",
+        "name": "Data entry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data entry expert"
+      },
+      {
+        "id": "617fa6620565f07789006508",
+        "name": "Linkedin lead generation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Linkedin lead geneator"
+      },
+      {
+        "id": "617fa63a0565f07789005989",
+        "name": "B2B lead generation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "B2B lead generator"
+      },
+      {
+        "id": "617fa6750565f07789006aa6",
+        "name": "Targeted email list",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Targeted email list expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e7e",
+        "name": "Email lead generation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email lead generator"
+      },
+      {
+        "id": "617fa6460565f07789005cf9",
+        "name": "Data analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data analyst"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 8,
+        "subCategoryId": 469,
+        "nestedCategoryId": 2505
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64b17aaf1ec4320001efa29f",
+          "title": "Digital Agency 100 Verified Lead",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64b17aaf1ec4320001efa2a0",
+                "attachment": {
+                  "metadata": {
+                    "height": 892,
+                    "width": 1344
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/177ef2702a3f9833054cdb51c6336ca1-1689352682620/Digital%20agency%20100%20leads.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64b17b3c84d99200013ad23e",
+          "title": "Facebook and YouTube 100 lead",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64b17b3c84d99200013ad23f",
+                "attachment": {
+                  "metadata": {
+                    "height": 891,
+                    "width": 1507
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/dbd4ca53a3e0ac0041debfb0a326e4ca-1689352919156/Facebook%20Page%20and%20YouTube%20Channel%20names%20From%20%20100%20%20verify%20leads.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 65
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "656095751ed21300014de5be",
+          "comment": "Fantastic support with professional delivery received from arif. Also ensured with proper sample before order which was impressive to me. Well done Arif!",
+          "comment_language": "en",
+          "username": "johncwhitfield",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d4fd0ec8ca8ad8cb07248befb9b5f248-1655711519731/0436ecf8-bcc2-41fb-98b0-af79762cfda3.jpg",
+          "created_at": "2023-11-24T12:32:41",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO729500C3947",
+          "score": 0.3322541,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 324623434,
+          "gig_slug": "b2b-lead-generation-and-linkedin-lead-generation-for-any-industry",
+          "gig_category": 8,
+          "gig_sub_category": 469,
+          "gig_nested_sub_category": 2505,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 180,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6565f54af40cc90001670afc",
+          "comment": "I recommend a lot working with Webarif! The work has been delivered correctly on time, just as I asked for it. ",
+          "comment_language": "en",
+          "username": "zdoychinova",
+          "reviewer_country_code": "ES",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2e579b889e0bb1957a47f1d9ab2eb87e-1498228461701358618.0935369/88BD4FE8-1DDF-4B8F-9A61-BAE836B34A12",
+          "created_at": "2023-11-28T14:14:04",
+          "value": 5,
+          "reviewer_country": "Spain",
+          "encrypted_order_id": "FO729625A45C7",
+          "score": 0.33017296,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 324623434,
+          "gig_slug": "b2b-lead-generation-and-linkedin-lead-generation-for-any-industry",
+          "gig_category": 8,
+          "gig_sub_category": 469,
+          "gig_nested_sub_category": 2505,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a6b1f1be67470001ee79e1",
+          "comment": "I like the outcome and quick delivery. I look forward to doing or working more with him in the future. Excellent work.",
+          "comment_language": "en",
+          "username": "tishavee",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-16T16:44:08",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3BF615CA41",
+          "score": 0.28207234,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 324623434,
+          "gig_slug": "b2b-lead-generation-and-linkedin-lead-generation-for-any-industry",
+          "gig_category": 8,
+          "gig_sub_category": 469,
+          "gig_nested_sub_category": 2505,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ba49424af5a425f917292f",
+          "comment": "Superb job arif.",
+          "comment_language": "en",
+          "username": "gregoryhbyrn",
+          "reviewer_country_code": "NL",
+          "created_at": "2024-01-31T13:25:06",
+          "value": 5,
+          "reviewer_country": "Netherlands",
+          "encrypted_order_id": "FO3BF9FAFB41",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 324623434,
+          "gig_slug": "b2b-lead-generation-and-linkedin-lead-generation-for-any-industry",
+          "gig_category": 8,
+          "gig_sub_category": 469,
+          "gig_nested_sub_category": 2505,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 40,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b28312500eff518645dd4e",
+          "comment": "Faster delivery by arif and perfect leads.",
+          "comment_language": "en",
+          "username": "dorothyvryan",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-25T15:52:34",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO211F4BC6F44",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 324623434,
+          "gig_slug": "b2b-lead-generation-and-linkedin-lead-generation-for-any-industry",
+          "gig_category": 8,
+          "gig_sub_category": 469,
+          "gig_nested_sub_category": 2505,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 67,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 65,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 10,
+        "business": 0
+      },
+      "user_id": 154240484,
+      "seller_username": "webarif",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 65
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design",
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 154240484,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 154240484,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 324623434,
+      "category_id": 8,
+      "sub_category_id": 469,
+      "nested_sub_category_id": 2505,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "b2b-lead-generation-and-linkedin-lead-generation-for-any-industry",
+      "title": "do b2b lead generation, linkedin lead generation data entry,copy, paste",
+      "seller_name": "webarif",
+      "seller_id": 154240484,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4b77d2c2ec68ac02ce9d7479a24ead50-1687795318263/39a55fdc-4b0c-427f-a3b3-e26dc9b19af9.png",
+      "seller_display_name": "Webarif",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/324623434/original/de885eb8ec12a55f725562775c12042b27b4966a.png",
+          "type": "ImageAsset",
+          "id": "324623434_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175358762",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/219d26b03919eadb22716a10e20cb4f2-1704794239/screencapture-docs-google-spreadsheets-d-1kCNoR54B9IPczmRQbedWvFM68rRSpfu4ZTPN-JD5Egw-edit-2024-01-09-15_56_39.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174791002",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/38c8649a7db6ff6a739eb99d50b39562-1703324271/elliotsimp.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174671268",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/ae772a3a56cc20b80f6d3648d307317a-1703068374/jeromemabrams.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174521958",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/7ffdc9223599dcb81cd9f5889e79c34d-1702724313/johnmfoster.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174354167",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/25e2f83000c86866dd0be089d9d48174-1702391495/kacie_koelpin.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 65,
+      "buying_review_rating": 5,
+      "seller_url": "/webarif",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 65,
+        "score": 4.9948716
+      },
+      "gig_url": "/webarif/b2b-lead-generation-and-linkedin-lead-generation-for-any-industry",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

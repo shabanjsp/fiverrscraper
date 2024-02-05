@@ -1,0 +1,645 @@
+{
+  "seller": {
+    "user": {
+      "id": "162016348",
+      "name": "woow_geeky",
+      "isActivationCompleted": true,
+      "joinedAt": 1697458673,
+      "profile": {
+        "displayName": "Helal Uddin"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/bb790d9466b31888ef4f1e445a9b7d92-1706520705039/6769d4a5-ff9f-425c-a329-d52b430c7498.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "346826327"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Expert WordPress Developer and Elementor Specialist",
+    "description": "Hi! I'm a professional WordPress designer and developer with 7+ years of experience and a proven track record of designing and developing WordPress websites that fulfill your business goal. My expertise in PHP, HTML, CSS, JS, jQuery, WooCommerce, Responsive Layouts, eCommerce Solutions, etc. Client satisfaction is my main goal. So I always prioritize all my client's requirements and give my best effort to achieve their success. Contact me today for a free consultation. Let's get in touch and start working on your dream website to bring your business to the next level!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Become A WordPress Developer :: Unlocking Power With Code",
+        "year": 2015
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "WordPress E-Commerce Development With WooCommerce",
+        "year": 2016
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science and engineering",
+        "toYear": 2016,
+        "countryCode": "BD",
+        "school": "North South University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6740565f07789006a4a",
+        "name": "Store design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Store designer"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e69",
+        "name": "Elementor",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WooCommerce expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf1",
+        "name": "WordPress bug fixes",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress bug fixes expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf3",
+        "name": "WordPress consultation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress consultant"
+      },
+      {
+        "id": "617fa67d0565f07789006cfb",
+        "name": "WordPress security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress security expert"
+      },
+      {
+        "id": "617fa65b0565f07789006348",
+        "name": "Install WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress instalation expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf7",
+        "name": "Wordpress hosting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress host"
+      },
+      {
+        "id": "617fa67d0565f07789006cfa",
+        "name": "WordPress performance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress performance expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress SEO expert"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress website developer"
+      },
+      {
+        "id": "617fa67d0565f07789006d01",
+        "name": "WordPress website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress website developer"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa6600565f0778900648c",
+        "name": "Landing page development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cf8",
+        "name": "WordPress landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress landing page expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c87",
+        "name": "Website landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website landing page expert"
+      },
+      {
+        "id": "617fa6600565f0778900648a",
+        "name": "Landing page copy",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page copywriter"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c8e",
+        "name": "Website redesign",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website redesign expert"
+      },
+      {
+        "id": "617fa6600565f0778900648d",
+        "name": "Landing page optimization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page optimization expert"
+      },
+      {
+        "id": "617fa6710565f0778900698b",
+        "name": "Single page application",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Single page application expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6554483ab08c72000122751a",
+          "title": "Clothing Store Design WordPress",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "6554483ab08c72000122751b",
+                "attachment": {
+                  "metadata": {
+                    "height": 1200,
+                    "width": 1600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/409d1c0e4c30ab86fe72d15ae54ccea7-1700022308289/3.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65544969b08c720001227555",
+          "title": "Accessories Selling Website",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "65544969b08c720001227556",
+                "attachment": {
+                  "metadata": {
+                    "height": 1200,
+                    "width": 1600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c91b164f7e27559b63abd9c0da9e3a85-1700022406372/asdasd.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1697523040
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 23
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65697167f32ad8000151c7a4",
+          "comment": "Really nice work, took a while shorter than I had hoped but was trustworthy, and changed the site to suit my hosting a lot at the end as was a little complex. Good design, solid work with some good ideas.",
+          "comment_language": "en",
+          "username": "scarlett_wong10",
+          "reviewer_country_code": "PT",
+          "created_at": "2023-12-01T07:33:40",
+          "value": 5,
+          "reviewer_country": "Portugal",
+          "encrypted_order_id": "FO211BE580EC4",
+          "score": 0.6034666,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346826327,
+          "gig_slug": "design-redesign-revamp-or-customize-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 40,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65af552b49d34f2171b3e9c7",
+          "comment": "He did a great job in a short amount of time, shared progress as he was moving forward, and was receptive to opportunities for improvement I suggested for the work. I am very satisfied with his work.",
+          "comment_language": "en",
+          "username": "collinsviolet",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-23T07:12:43",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO111F6CD4D45",
+          "score": 0.46730092,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346826327,
+          "gig_slug": "design-redesign-revamp-or-customize-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 33,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655e36a44a2e4b0001738e70",
+          "comment": "Great job and completed the tasks ahead of schedule! Immediately grasped the concept of the tasking and quickly completed a complex problem.",
+          "comment_language": "en",
+          "username": "thurmans_mulle",
+          "reviewer_country_code": "IL",
+          "created_at": "2023-11-22T19:33",
+          "value": 5,
+          "reviewer_country": "Israel",
+          "encrypted_order_id": "FO211B6156144",
+          "score": 0.41120613,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346826327,
+          "gig_slug": "design-redesign-revamp-or-customize-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 32,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655842441cde5f0001c95369",
+          "comment": "I'm thrilled to leave this positive review for him. He delivered an outstanding website and the final delivery exceeded our expectations.",
+          "comment_language": "en",
+          "username": "louisa_w_heiden",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-18T07:12:04",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO61D7DB5A284",
+          "score": 0.35862422,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346826327,
+          "gig_slug": "design-redesign-revamp-or-customize-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 39,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6548976e5af47b0001781dbb",
+          "comment": "He is excellent at website design. He followed my instructions perfectly and came up with some brilliant ideas. I would recommend him every time and will be sure to use him again.",
+          "comment_language": "en",
+          "username": "elwyn_a_schaden",
+          "reviewer_country_code": "DE",
+          "created_at": "2023-11-06T08:16:28",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO15E154BA81",
+          "score": 0.34386814,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346826327,
+          "gig_slug": "design-redesign-revamp-or-customize-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 39,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 23,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 162016348,
+      "seller_username": "woow_geeky",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 23
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 162016348,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162016348,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 346826327,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-redesign-revamp-or-customize-wordpress-website",
+      "title": "design, redesign, revamp or customize wordpress website",
+      "seller_name": "woow_geeky",
+      "seller_id": 162016348,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/bb790d9466b31888ef4f1e445a9b7d92-1706520705039/6769d4a5-ff9f-425c-a329-d52b430c7498.jpg",
+      "seller_display_name": "Helal Uddin",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/346826327/original/cd60343baaa4e4d57ce53ac565207f87e68563c0.png",
+          "type": "ImageAsset",
+          "id": "346826327_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "forum",
+            "social_media",
+            "form",
+            "chat",
+            "membership",
+            "map",
+            "faq",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 23,
+      "buying_review_rating": 5,
+      "seller_url": "/woow_geeky",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 23,
+        "score": 5
+      },
+      "gig_url": "/woow_geeky/design-redesign-revamp-or-customize-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 85,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

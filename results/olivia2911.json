@@ -1,0 +1,977 @@
+{
+  "seller": {
+    "user": {
+      "id": "73944401",
+      "name": "olivia2911",
+      "isActivationCompleted": true,
+      "joinedAt": 1546461675,
+      "profile": {
+        "displayName": "Olivia White"
+      },
+      "address": {
+        "countryName": "Canada",
+        "countryCode": "CA"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "IT",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/82bce7d23b738025b3847f6d839adbb8-1640796096509/4d4fe708-d248-442b-bd7c-ce212e9cc0a4.jpeg"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "122902170"
+        },
+        {
+          "id": "122905296"
+        },
+        {
+          "id": "122903854"
+        },
+        {
+          "id": "122676518"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "A creative and unique designer!!",
+    "description": "As a self-employed, reliable, and highly experienced Freelancer with expertise in web/graphic design, social media, and brand messaging, I am certain you will find my skills and talents to be of value.\n\nI have more than 3 years of excellent freelancing experience supporting a range of clients in visual identity/branding, web and graphic design, social media consulting, copywriting, and editing.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Arena Multimedia",
+        "certificationName": "diploma in graphic and web development",
+        "year": 2016
+      }
+    ],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cbf",
+        "name": "CSS",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "CSS expert"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6350565f077890057ea",
+        "name": "Adobe Dreamweaver",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "Adobe Dreamweaver expert"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Bootstrap expert"
+      },
+      {
+        "id": "617fa6770565f07789006b54",
+        "name": "Typing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Typist"
+      },
+      {
+        "id": "617fa6620565f07789006539",
+        "name": "Logo redesign",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo redesign expert"
+      },
+      {
+        "id": "617fa6340565f07789005795",
+        "name": "2D logo design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "2D logo designer"
+      },
+      {
+        "id": "617fa6340565f077890057a7",
+        "name": "3D logo design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "3D logo designer"
+      },
+      {
+        "id": "617fa6560565f077890061b7",
+        "name": "Graphic logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic logo designer"
+      },
+      {
+        "id": "617fa6620565f07789006535",
+        "name": "Logo animation",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Logo animator"
+      },
+      {
+        "id": "617fa6340565f0778900578b",
+        "name": "2D animation",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "2D animator"
+      },
+      {
+        "id": "617fa6340565f0778900579c",
+        "name": "3D animation",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "3D animator"
+      },
+      {
+        "id": "617fa6790565f07789006bd0",
+        "name": "Vintage logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Vintage logo designer"
+      },
+      {
+        "id": "617fa6650565f0778900660f",
+        "name": "Modern logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Modern logo designer"
+      },
+      {
+        "id": "617fa6710565f0778900697d",
+        "name": "Signature logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Signature logo designer"
+      },
+      {
+        "id": "617fa63c0565f07789005a21",
+        "name": "Book cover design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book cover designer"
+      },
+      {
+        "id": "617fa6750565f07789006a9a",
+        "name": "T-shirt design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "T-shirt designer"
+      },
+      {
+        "id": "617fa6720565f077890069c7",
+        "name": "Social media kit",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media kit expert"
+      },
+      {
+        "id": "617fa6740565f07789006a3c",
+        "name": "Stationery design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Stationery designer"
+      },
+      {
+        "id": "617fa63e0565f07789005a8c",
+        "name": "Business card design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business card designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 629
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b63cd041e5c52d8c23330e",
+          "comment": "Straight to the point, amazing artwork, and did exactly as requested! Honestly, you will not find a better artist at this price. AMAZING.",
+          "comment_language": "en",
+          "username": "lewisorgan",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/22c4aa12eb9bcaad03e25b024f38a6d1-1697629278993/3e631063-7cce-4047-b981-5b38b6cc4ca1.jpg",
+          "created_at": "2024-01-28T12:02:56",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/482e139c5246f350a3cd4c3e43ec9157-1706438815/Rosebud-01.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/482e139c5246f350a3cd4c3e43ec9157-1706438815/Rosebud-01.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO423FD5127C8",
+          "score": 0.63581645,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 122905296,
+          "gig_slug": "do-vintage-logo-design-for-your-business-or-organization",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 119,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6577e003332f047f79da68f9",
+          "comment": "Olivia was very responsive. I tend to be very demanding with a lot of attention to detail.  She didn't seem to understand all of my requests so I didn't receive what I was after. ",
+          "comment_language": "en",
+          "username": "heziooh",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-12T06:33:46",
+          "value": 3.3,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/419027faffeeb42cdda822e66039dfa3-1702162612/Heziooh-Chicago%20SunnySide%20-%20R-01.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/419027faffeeb42cdda822e66039dfa3-1702162612/Heziooh-Chicago%20SunnySide%20-%20R-01.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41DA30A5086",
+          "score": 0.6185792,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 122905296,
+          "gig_slug": "do-vintage-logo-design-for-your-business-or-organization",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "659dd3aa6020550001b61f84",
+          "comment": "Olivia came up with three very different concepts from the beginning, providing us with the ability to explore different possibilities. She was very responsive and provided answers and revisions very quickly. We are very happy with her work!",
+          "comment_language": "en",
+          "username": "marc_suys",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-09T23:49:11",
+          "value": 4.7,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/c814c912ce63eaa364bc011f8194124e-1704751698/Marc_suys-La%20Halte%20Ludique%20-%20R2-01.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/c814c912ce63eaa364bc011f8194124e-1704751698/Marc_suys-La%20Halte%20Ludique%20-%20R2-01.jpg",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO71DD2603703",
+          "score": 0.5581881,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 122905296,
+          "gig_slug": "do-vintage-logo-design-for-your-business-or-organization",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65ba54db4af5a425f9172a96",
+          "comment": "Olivia was very prompt and easy to work with. I left the creativity to her and wanted to see what she came up with and she hit it perfectly on the mark. I highly recommend her in the future for my brand and others.",
+          "comment_language": "en",
+          "username": "john330inv",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-31T14:17:21",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/1cf71d8f11b6f3ff43069c1cc3b4283b-1706673241/John330inv-John%20330%20Trade%20Group-01.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/1cf71d8f11b6f3ff43069c1cc3b4283b-1706673241/John330inv-John%20330%20Trade%20Group-01.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3C01936D41",
+          "score": 0.54277337,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 122905296,
+          "gig_slug": "do-vintage-logo-design-for-your-business-or-organization",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6568139f9246fb00018cf093",
+          "comment": "olivia2911 did a great job, she could proceed and made very good logo for my business. Good and nice communication and recognition of the clients needs/expectations.",
+          "comment_language": "en",
+          "username": "shanonsams",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fec76106aef92f198ed49248848e498b-1695463470639/c2261102-04c7-489f-8000-44a78242ad7c.jpg",
+          "created_at": "2023-11-30T10:01:49",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/419d8ed952a814a58ec810bd292ae44c-1701300948/Sharp%20Core-01.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/419d8ed952a814a58ec810bd292ae44c-1701300948/Sharp%20Core-01.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217AA83D586",
+          "score": 0.48204,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 122905296,
+          "gig_slug": "do-vintage-logo-design-for-your-business-or-organization",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 264,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 629,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 432,
+        "business": 13
+      },
+      "user_id": 73944401,
+      "seller_username": "olivia2911",
+      "star_summary": {
+        "communication_valuation": 4.8,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 5
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 10
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 48
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 562
+        }
+      ],
+      "average_valuation": 4.8
+    },
+    "selling_reviews": {
+      "user_id": 73944401,
+      "reviews": [
+        {
+          "id": "5e23aeae75bb6a0001ee85e1",
+          "comment": "Outstanding Experience!",
+          "comment_language": "en-US",
+          "username": "kssdesigns",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/623287274fe4c9c8150f847ed41601ea-1590686041504/39b88123-3975-439c-a6fc-9d73a306616b.jpg",
+          "created_at": "2020-01-19T01:19:42",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 73944401,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Toronto",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 122905296,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-vintage-logo-design-for-your-business-or-organization",
+      "title": "do vintage retro logo design for your business",
+      "seller_name": "olivia2911",
+      "seller_id": 73944401,
+      "seller_country": "CA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/82bce7d23b738025b3847f6d839adbb8-1640796096509/4d4fe708-d248-442b-bd7c-ce212e9cc0a4.jpeg",
+      "seller_display_name": "Olivia White",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/122905296/original/30017ea6ef3b8539ca9fd447ee165214a95af71e.jpg",
+          "type": "ImageAsset",
+          "id": "122905296_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/122905296/original/87479e44428fa6b1fad73f81d1845fc3b9d4d38a.jpg",
+          "type": "ImageAsset",
+          "id": "122905296_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/122905296/original/f8276feb6b781d882221344ee956b46aa5bc3b06.jpg",
+          "type": "ImageAsset",
+          "id": "122905296_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176420117",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/6ee8f12c9f07f192269fe134182b2373-1706917281/Feather%20Home%20Inspection-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176329199",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/478d9c4984f402553caa8fb9e002ab41-1706746581/logo%20(2).jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176329161",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/63d9a63d4ed1bf8b1db76a9bba0c4a42-1706746453/logo%20(1).jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176287373",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/1cf71d8f11b6f3ff43069c1cc3b4283b-1706673241/John330inv-John%20330%20Trade%20Group-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176261607",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/ffd9d05748c2be3c532b96fc7ed840da-1706626353/Logo-04.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "retro"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "pictorial",
+            "emblem"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "eps"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 464,
+      "buying_review_rating": 4.8,
+      "seller_url": "/olivia2911",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 629,
+        "score": 4.8325386
+      },
+      "gig_url": "/olivia2911/do-vintage-logo-design-for-your-business-or-organization",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 122676518,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-a-minimalist-logo-for-your-business",
+      "title": "design a minimalist logo for your business",
+      "seller_name": "olivia2911",
+      "seller_id": 73944401,
+      "seller_country": "CA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/82bce7d23b738025b3847f6d839adbb8-1640796096509/4d4fe708-d248-442b-bd7c-ce212e9cc0a4.jpeg",
+      "seller_display_name": "Olivia White",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/122676518/original/31044e19120f328da7c7b1b79d629dfe325c69f0.jpg",
+          "type": "ImageAsset",
+          "id": "122676518_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/122676518/original/aaae47b84b16a881eae3ce66816199e95b895503.jpg",
+          "type": "ImageAsset",
+          "id": "122676518_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/122676518/original/1d42c017bbf8f1b3409e9b9a2294829cbfcfe756.jpg",
+          "type": "ImageAsset",
+          "id": "122676518_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "142044113",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/6ab02b9c11f49cde5fe52fa3308e6c59-1643217364/skinkara-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "flat_minimalist"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "pictorial",
+            "abstract"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "eps"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 140,
+      "buying_review_rating": 4.8,
+      "seller_url": "/olivia2911",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 629,
+        "score": 4.8325386
+      },
+      "gig_url": "/olivia2911/do-a-minimalist-logo-for-your-business",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 122902170,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-a-luxury-logo-for-your-business-or-organization",
+      "title": "design a luxury logo for your business",
+      "seller_name": "olivia2911",
+      "seller_id": 73944401,
+      "seller_country": "CA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/82bce7d23b738025b3847f6d839adbb8-1640796096509/4d4fe708-d248-442b-bd7c-ce212e9cc0a4.jpeg",
+      "seller_display_name": "Olivia White",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/122902170/original/6a3cbd49603b30aaf19e157c53688c6992f90b08.jpg",
+          "type": "ImageAsset",
+          "id": "122902170_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/122902170/original/b287efec8370db2f801beb296611903d7e942ba5.jpg",
+          "type": "ImageAsset",
+          "id": "122902170_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/122902170/original/360176ca85afd7e33a6acd96ffcfe323decadfee.jpg",
+          "type": "ImageAsset",
+          "id": "122902170_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "173784270",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/6b838699f90dc2d9e5a01c52b629a657-1701209759/Affordable%20Lighting%20and%20Electrical%20Inc%20-%20business%20card-03.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173736910",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/709b62671177d670535ee622d8928c76-1701115632/Affordable%20Lighting%20and%20Electrical%20Inc%20rev1-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "141461335",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c28a8f395c656ab41c2e3a770d738332-1642090399/Luce%20Bianca-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "141175602",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/bcf976982f0260879cbe3992b32808fc-1641515644/ASPEN%20FOX%20JEWELRY-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "126231024",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/dabe5acba6cbcb2375fefdac1e8d1dba-1613607886/Valric%20Technology%20Consulting%20Inc.-02.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "hand_drawn"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "wordmark",
+            "abstract",
+            "emblem"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "eps"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 13,
+      "buying_review_rating": 4.8,
+      "seller_url": "/olivia2911",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 629,
+        "score": 4.8325386
+      },
+      "gig_url": "/olivia2911/do-a-luxury-logo-for-your-business-or-organization",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 122903854,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-signature-logo-for-your-business-or-orgatization",
+      "title": "design a signature logo for your business",
+      "seller_name": "olivia2911",
+      "seller_id": 73944401,
+      "seller_country": "CA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/82bce7d23b738025b3847f6d839adbb8-1640796096509/4d4fe708-d248-442b-bd7c-ce212e9cc0a4.jpeg",
+      "seller_display_name": "Olivia White",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/122903854/original/571ede558310dcda847d1107fa290119939a118f.jpg",
+          "type": "ImageAsset",
+          "id": "122903854_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/122903854/original/f6d103d419c74b38714bc2d0c33d6161685a83e1.jpg",
+          "type": "ImageAsset",
+          "id": "122903854_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/122903854/original/fea6474bf5fee5579ca2a5a8fafca8f34dcf5ad0.jpg",
+          "type": "ImageAsset",
+          "id": "122903854_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "140908846",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/2d1f2fa3c19ce31780acb9cf2ce94146-1640891197/Love%20Population-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "129203403",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/924f04f55cee6b4da57dc18cb88d9c8d-1618621297/Artsy%20Beauty%20Bar-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "127704282",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a28c75eec5d8e3c8570a924ae521b817-1616095712/rev%201-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "120232126",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/aae8eacc951258175fda65a0046a6b8d-1602175484/Mira%20Life%20Co%20_Recovered_-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "signature"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "wordmark"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "eps"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 12,
+      "buying_review_rating": 5,
+      "seller_url": "/olivia2911",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 629,
+        "score": 4.8325386
+      },
+      "gig_url": "/olivia2911/design-signature-logo-for-your-business-or-orgatization",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

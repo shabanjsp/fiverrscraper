@@ -1,0 +1,261 @@
+{
+  "seller": {
+    "user": {
+      "id": "161095041",
+      "name": "nabiha_zahid",
+      "isActivationCompleted": true,
+      "joinedAt": 1696217806,
+      "profile": {
+        "displayName": "Nabiha Z"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "AR",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/e26d83424982bb188c700affde5d88b3-1696352253641/3d7208a3-1c29-42c7-b39e-b5948f9024ed.jpeg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "343558552"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Preferred Quality Work!",
+    "description": "Hey i am nabiha. i have large agency of different tasks. i provide all services to my all customers. client satisfaction is my first priorty. thank you so much. ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "weg",
+        "certificationName": "chemistry",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "chemistry",
+        "toYear": 2019,
+        "countryCode": "PK",
+        "school": "Islamia University bahawalpur",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6470565f07789005d44",
+        "name": "DataLife entry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "DataLife entry expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 69,
+        "nestedCategoryId": 2084
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 289.3963675926,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b0abdb500eff518645b2c5",
+          "comment": "Responsive, communication, talented and highly skilled seller. Would highly recommend.",
+          "comment_language": "en",
+          "username": "erasophia",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-24T07:07:39",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO823F3B2DEC4",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 343558552,
+          "gig_slug": "do-youtube-channel-promotion-for-monetization-organically",
+          "gig_category": 2,
+          "gig_sub_category": 69,
+          "gig_nested_sub_category": 2084,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 161095041,
+      "seller_username": "nabiha_zahid",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 161095041,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161095041,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 343558552,
+      "category_id": 2,
+      "sub_category_id": 69,
+      "nested_sub_category_id": 2084,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-youtube-channel-promotion-for-monetization-organically",
+      "title": "do youtube channel promotion for monetization organically",
+      "seller_name": "nabiha_zahid",
+      "seller_id": 161095041,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e26d83424982bb188c700affde5d88b3-1696352253641/3d7208a3-1c29-42c7-b39e-b5948f9024ed.jpeg",
+      "seller_display_name": "Nabiha Z",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/343558552/original/d7d40b76642f5c735bdd118acbf8760b02e60668.jpg",
+          "type": "ImageAsset",
+          "id": "343558552_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ar",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "video_platform",
+          "value": [
+            "youtube"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/nabiha_zahid",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/nabiha_zahid/do-youtube-channel-promotion-for-monetization-organically",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

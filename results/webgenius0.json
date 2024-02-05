@@ -1,0 +1,813 @@
+{
+  "seller": {
+    "user": {
+      "id": "162811848",
+      "name": "webgenius0",
+      "isActivationCompleted": true,
+      "joinedAt": 1698495884,
+      "profile": {
+        "displayName": "Md. Mahmodul"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/262164f1e5ae888fe0652def6077c6a9-1706351291929/8025c51b-ef37-496a-b3f0-d67eb9f209e5.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "353533806"
+        },
+        {
+          "id": "354959390"
+        },
+        {
+          "id": "358828828"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "UI UX Specialist Website, Mobile App, SaaS",
+    "description": "Hi! We're a team of Flutter mobile app developers and UI/UX designers. We also have expertise in the Webflow CMS platform. We specialize in creating user-friendly digital products and crafting visually stunning websites, apps, and software interfaces. Our approach involves design thinking, thorough user research, prototyping, and usability testing. Here, you will get solutions to meet your unique needs and preferences. Count on us for timely delivery, clear communication, and professional quality.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "careerfoundry",
+        "certificationName": "Develop in-demand UX/UI",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "User Experience Design Essentials - Adobe XD UI UX Design",
+        "year": 2017
+      },
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "Figma UI UX Design Essentials",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "bachelor of computer science and engineering",
+        "toYear": 2017,
+        "countryCode": "BD",
+        "school": "American International University-Bangladesh",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "computer science and engineering",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "American International University-Bangladesh",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6770565f07789006b5a",
+        "name": "UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI designer"
+      },
+      {
+        "id": "617fa6650565f07789006607",
+        "name": "Mobile UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UI designer"
+      },
+      {
+        "id": "617fa6770565f07789006b58",
+        "name": "UI & UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI & UX designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6350565f077890057fc",
+        "name": "Adobe XD",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe XD expert"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      },
+      {
+        "id": "617fa6650565f07789006608",
+        "name": "Mobile UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UX designer"
+      },
+      {
+        "id": "617fa66d0565f07789006837",
+        "name": "Prototype design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Prototype designer"
+      },
+      {
+        "id": "617fa6780565f07789006b76",
+        "name": "User experience design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "User experience designer"
+      },
+      {
+        "id": "617fa6650565f077890065fd",
+        "name": "Mobile apps design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps designer"
+      },
+      {
+        "id": "617fa66a0565f07789006756",
+        "name": "Photoshop design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photoshop designer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6650565f0778900660c",
+        "name": "Mockup design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mockup designer"
+      },
+      {
+        "id": "617fa6770565f07789006b59",
+        "name": "UI animation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI animator"
+      },
+      {
+        "id": "617fa67b0565f07789006c87",
+        "name": "Website landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website landing page expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c66",
+        "name": "Web template design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web template designer"
+      },
+      {
+        "id": "617fa67c0565f07789006ccf",
+        "name": "Wireframing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wireframing expert"
+      },
+      {
+        "id": "617fa6530565f077890060d2",
+        "name": "Game art UI & UX",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Game art UI & UX designer"
+      },
+      {
+        "id": "617fa6510565f07789006035",
+        "name": "Flutter",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter expert"
+      },
+      {
+        "id": "617fa6510565f07789006036",
+        "name": "Flutter development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter developer"
+      },
+      {
+        "id": "617fa6370565f0778900586f",
+        "name": "Android app",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Android app expert"
+      },
+      {
+        "id": "617fa65c0565f07789006392",
+        "name": "iOS design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "iOS designer"
+      },
+      {
+        "id": "617fa65c0565f07789006393",
+        "name": "iOS development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "iOS developer"
+      },
+      {
+        "id": "61a4d8a9758d756a25307bab",
+        "name": "Dart",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Dart developer"
+      },
+      {
+        "id": "617fa6660565f0778900664d",
+        "name": "MySQL database",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MySQL database developer"
+      },
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Full stack web developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 151,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2613
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1701669910
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 17
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "658bac11d628ec0001840587",
+          "comment": "VERY VERY Patient, kind, and highly talented. I was a challenging client. But he stuck with me throughout the entire project. I cannot say enough good about him. I am already planning another project with him.",
+          "comment_language": "en",
+          "username": "denniskstowers",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/dcd675c5c9f476d00a9e5298a9dcf3b4-1654625547613/28796e95-68c7-4c9b-821b-50d9a7e8220d.jpg",
+          "created_at": "2023-12-27T04:57:58",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO311DA8D7DC3",
+          "score": 0.61668956,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354959390,
+          "gig_slug": "do-flutter-mobile-app-development-android-ios-app-building-mobile-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 271,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658719915c478900012df253",
+          "comment": "The project was rather large and gnarly, and he delivered it well, way ahead of schedule, and at a more than fair price. Highly recommended.",
+          "comment_language": "en",
+          "username": "gracie07hamilto",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-12-23T17:57:18",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO829A2097A46",
+          "score": 0.531558,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354959390,
+          "gig_slug": "do-flutter-mobile-app-development-android-ios-app-building-mobile-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 30,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658280ba12ef4a0001cb2a02",
+          "comment": "He was able to develop my app within a few days! I am super thankful to him for getting our app so quickly. Easy and painless. Thank you!",
+          "comment_language": "en",
+          "username": "luna_hopkins",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-20T09:21:59",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO111D48E1545",
+          "score": 0.49966678,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354959390,
+          "gig_slug": "do-flutter-mobile-app-development-android-ios-app-building-mobile-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 32,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a22f0cdf0698140a16af19",
+          "comment": "His dedication and professionalism were exemplary throughout the project. Despite minor delays, he persevered, ensuring a thorough and precise outcome. His courteous and timely responses, coupled with his expertise in iOS and Android app development, make him highly recommendable.",
+          "comment_language": "en",
+          "username": "geary_f_mitchel",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-13T06:35:57",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217E3EB0B86",
+          "score": 0.3963475,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354959390,
+          "gig_slug": "do-flutter-mobile-app-development-android-ios-app-building-mobile-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 21,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a75b7c2826e27af1dcc666",
+          "comment": "He was amazing! Super communicative, helpful, kind, and respectful. I will be recommending everyone to use him, as he is professional and friendly!",
+          "comment_language": "en",
+          "username": "manaeli",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-17T04:49:19",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO317EBC9D785",
+          "score": 0.39502433,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358828828,
+          "gig_slug": "be-expert-webflow-designer-developer-webflow-website-convert-figma-to-webflow",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2613,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 14,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 17,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 162811848,
+      "seller_username": "webgenius0",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5,
+        "quality_of_delivery_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 17
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 162811848,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162811848,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 354959390,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-flutter-mobile-app-development-android-ios-app-building-mobile-app",
+      "title": "do flutter mobile app development android ios app, building mobile app",
+      "seller_name": "webgenius0",
+      "seller_id": 162811848,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/262164f1e5ae888fe0652def6077c6a9-1706351291929/8025c51b-ef37-496a-b3f0-d67eb9f209e5.png",
+      "seller_display_name": "Md. Mahmodul",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354959390/original/7ca9ec2a081a414a7881b0910e02300977f39cfb.jpg",
+          "type": "ImageAsset",
+          "id": "354959390_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "react_native",
+            "java",
+            "kotlin",
+            "javascript",
+            "html",
+            "dart",
+            "swift"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "laravel",
+            "angular",
+            "swiftui",
+            "node_js"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "bubble",
+            "flutterflow",
+            "android_studio",
+            "xcode",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "delivery",
+            "restaurant",
+            "shopping",
+            "taxi",
+            "booking",
+            "social_networking",
+            "entertainment",
+            "health_fitness",
+            "maps_navigation"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "localization",
+            "performance",
+            "security",
+            "design",
+            "firebase"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 10,
+      "buying_review_rating": 5,
+      "seller_url": "/webgenius0",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 17,
+        "score": 5
+      },
+      "gig_url": "/webgenius0/do-flutter-mobile-app-development-android-ios-app-building-mobile-app",
+      "is_seller_unavailable": false,
+      "price_i": 120,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 358828828,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2613,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-expert-webflow-designer-developer-webflow-website-convert-figma-to-webflow",
+      "title": "be expert webflow designer, developer, webflow website, convert figma to webflow",
+      "seller_name": "webgenius0",
+      "seller_id": 162811848,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/262164f1e5ae888fe0652def6077c6a9-1706351291929/8025c51b-ef37-496a-b3f0-d67eb9f209e5.png",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/358828828/original/ad801141753610595d412816098d921357a8b056.jpg",
+          "type": "ImageAsset",
+          "id": "358828828_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "forum",
+            "form",
+            "events",
+            "chat",
+            "membership",
+            "map",
+            "faq",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "before_after_slider",
+            "charts_graphs",
+            "pricing_tables",
+            "audio_player",
+            "image_hotspot",
+            "notification_bar",
+            "animated_number_counter"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 7,
+      "buying_review_rating": 5,
+      "seller_url": "/webgenius0",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 17,
+        "score": 5
+      },
+      "gig_url": "/webgenius0/be-expert-webflow-designer-developer-webflow-website-convert-figma-to-webflow",
+      "is_seller_unavailable": false,
+      "price_i": 85,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 353533806,
+      "category_id": 3,
+      "sub_category_id": 151,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-figma-website-figma-design-website-ui-figma-landing-page-design-6140",
+      "title": "do figma website, figma design, website ui, figma landing page design",
+      "seller_name": "webgenius0",
+      "seller_id": 162811848,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/262164f1e5ae888fe0652def6077c6a9-1706351291929/8025c51b-ef37-496a-b3f0-d67eb9f209e5.png",
+      "seller_display_name": "Md. Mahmodul",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/353533806/original/f49674cf1a9293b633a56c5b16960c4b26846bb7.png",
+          "type": "ImageAsset",
+          "id": "353533806_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business_promotion",
+            "portfolio"
+          ]
+        },
+        {
+          "type": "platform_and_tool",
+          "value": [
+            "figma",
+            "sketch"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/webgenius0",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 17,
+        "score": 5
+      },
+      "gig_url": "/webgenius0/do-figma-website-figma-design-website-ui-figma-landing-page-design-6140",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

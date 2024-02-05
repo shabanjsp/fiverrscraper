@@ -1,0 +1,596 @@
+{
+  "seller": {
+    "user": {
+      "id": "87248144",
+      "name": "saijidbashir",
+      "isActivationCompleted": true,
+      "joinedAt": 1587749351,
+      "profile": {
+        "displayName": "Saijid Bashir"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/c9b6e92557ff8534d4c1514cea777f5e-1587751440356/7dab2baf-8c86-4f57-8227-94f1805b1c39.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": false,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Professional Virtual Assistant",
+    "description": "Welcome to Brisk Virtual Services (BVS)! I'm Sajid Bashir, a dedicated full-time Virtual Assistant with five years of expertise. Achieving Level 2 on Fiverr and having served 200 global clients, BVS is renowned for unmatched speed and quality. Our services include Virtual Assistance, Data Entry, CRM Management, Product Listing, Invoicing/Bookkeeping (QuickBooks & Xero), Business/Financial Consultancy, Leads Generation, Investor-Ready Business Plans, and Admin Support. Join our satisfied clients and experience BVS's commitment to excellence for efficient and reliable business solutions.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "MS Word, Excel, Power Point",
+        "certificationName": "Certificate in Computer Application",
+        "year": 2005
+      },
+      {
+        "receivedFrom": "Certified in Quickbooks Online",
+        "certificationName": "QUICKBOOKS Online",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "chartered accountant",
+        "toYear": 2011,
+        "countryCode": "GB",
+        "school": "Association Of Chartered Certified Accountant",
+        "degreeTitle": "CERTIFICATE"
+      },
+      {
+        "degree": "financial management",
+        "toYear": 2008,
+        "countryCode": "PK",
+        "school": "B.Z.U",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63d0565f07789005a30",
+        "name": "Bookkeeping",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bookkeeper"
+      },
+      {
+        "id": "617fa6460565f07789005d06",
+        "name": "Data entry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data entry expert"
+      },
+      {
+        "id": "617fa6500565f07789005fe6",
+        "name": "Financial analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Financial analyst"
+      },
+      {
+        "id": "617fa6500565f07789005ff4",
+        "name": "Financial statements",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Financial statements expert"
+      },
+      {
+        "id": "617fa6500565f07789005fe9",
+        "name": "Financial consulting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Financial consultant"
+      },
+      {
+        "id": "617fa6770565f07789006b54",
+        "name": "Typing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Typist"
+      },
+      {
+        "id": "617fa6640565f077890065cc",
+        "name": "Microsoft Excel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Microsoft Excel expert"
+      },
+      {
+        "id": "617fa6640565f077890065d0",
+        "name": "Microsoft Office",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Microsoft Office expert"
+      },
+      {
+        "id": "617fa6460565f07789005d29",
+        "name": "Data scraping",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data scraper"
+      },
+      {
+        "id": "617fa6690565f07789006709",
+        "name": "PDF conversion",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PDF conversion expert"
+      },
+      {
+        "id": "617fa6500565f07789005fd1",
+        "name": "Fillable PDF forms",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Fillable PDF forms expert"
+      },
+      {
+        "id": "617fa66d0565f07789006864",
+        "name": "QuickBooks",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "QuickBooks expert"
+      },
+      {
+        "id": "617fa67d0565f07789006d2d",
+        "name": "Xero",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Xero expert"
+      },
+      {
+        "id": "617fa63b0565f077890059ab",
+        "name": "Bank reconciliation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bank reconciliation expert"
+      },
+      {
+        "id": "617fa67a0565f07789006c46",
+        "name": "Wave accounting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wave accounting expert"
+      },
+      {
+        "id": "617fa6350565f077890057db",
+        "name": "Administrative assistance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Administrative assistant"
+      },
+      {
+        "id": "617fa6350565f077890057dc",
+        "name": "Administrative support",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Administrative support expert"
+      },
+      {
+        "id": "617fa63a0565f07789005989",
+        "name": "B2B lead generation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "B2B lead generator"
+      },
+      {
+        "id": "617fa63a0565f0778900598c",
+        "name": "B2C lead generation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "B2C lead generator"
+      },
+      {
+        "id": "617fa63c0565f07789005a0c",
+        "name": "Blog writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blog writer"
+      },
+      {
+        "id": "617fa6790565f07789006bdc",
+        "name": "Virtual assistance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Virtual assistant"
+      },
+      {
+        "id": "617fa63e0565f07789005aa4",
+        "name": "Business startup",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business startup expert"
+      },
+      {
+        "id": "617fa66d0565f07789006829",
+        "name": "Project management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Project manager"
+      },
+      {
+        "id": "617fa63e0565f07789005a9a",
+        "name": "Business plans",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business planner"
+      },
+      {
+        "id": "617fa6450565f07789005ca5",
+        "name": "CRM data entry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CRM data entry expert"
+      },
+      {
+        "id": "617fa67e0565f07789006d65",
+        "name": "Zoho CRM",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Zoho CRM expert"
+      },
+      {
+        "id": "617fa6590565f0778900629a",
+        "name": "HubSpot CRM",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "HubSpot CRM expert"
+      },
+      {
+        "id": "617fa6440565f07789005c44",
+        "name": "Convert to a fillable form",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Convert to a fillable form expert"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "650eb717f00f0d000147c6be",
+          "title": "Business Plan for FARLA Medical ",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "650eb717f00f0d000147c6bf",
+                "attachment": {
+                  "metadata": {
+                    "height": 1600,
+                    "width": 720
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/8203a5642be99f545874c3c277254ad3-1695462223197/Cover%20Page.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "650ec0995f178f0001c02b6d",
+          "title": "Trinity Way Enrichment Center",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "650ec0995f178f0001c02b6e",
+                "attachment": {
+                  "metadata": {
+                    "height": 457,
+                    "width": 1341
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/dd969c2e333f28f1ce3fc34f67c4aeba-1695465530953/Procare.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "650ecc7cecab8300013beb62",
+          "title": "WixPowered Blog Creation Project",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "650ecc7cecab8300013beb63",
+                "attachment": {
+                  "metadata": {
+                    "height": 551,
+                    "width": 1360
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/f63f1ffd789b660dd178994cc759ff4f-1695468645887/Invitation.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "650ecfdff00f0d000147d158",
+          "title": "Squarespace Course & Shop Setup",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "650ecfdff00f0d000147d159",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/4400eb642076f8ac74e11df5a3c66bda-1695469524442/Square.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1627202480
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 107
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65ac3c4bf47f62000187874e",
+          "comment": "This guys know what he is doing, I have 3 business and need some help with cleaning emails and spam. Amazing job this is my go to VaA ",
+          "comment_language": "en",
+          "username": "zachbtb",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/65453001/original/1506018723466_facebook20170921-15577-n7tvy5.jpg",
+          "created_at": "2024-01-20T21:35:24",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO317F1CBB985",
+          "score": 0.67259234,
+          "reviewer_industry": [
+            "travel_or_tourism"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 154264874,
+          "gig_slug": "be-your-virtual-assistant-for-admin-work",
+          "gig_category": 8,
+          "gig_sub_category": 25,
+          "gig_nested_sub_category": 2003,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 18,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "656ee5256ca161000191119c",
+          "comment": "Great delivery, very efficient.\n\nOn point and as promised.\n\nIts the third time I have ordered something - and will be ordering again soon",
+          "comment_language": "en",
+          "username": "lydia_kl",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6b78be6277708d04d5cd021a79e693ad-1692531076991/55bcd928-8783-434f-a69d-aae988e9370e.JPG",
+          "created_at": "2023-12-05T09:59:05",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO15EC228E81",
+          "score": 0.57288253,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 154264874,
+          "gig_slug": "be-your-virtual-assistant-for-admin-work",
+          "gig_category": 8,
+          "gig_sub_category": 25,
+          "gig_nested_sub_category": 2003,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65962a73de307a0001edfd64",
+          "comment": "Saijid is the best. He's the most reliable person i've ever worked with! His service is fast and accurate with great attention to detail.",
+          "comment_language": "en",
+          "username": "isaiahchrist",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-04T03:52:26",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO517D9945983",
+          "score": 0.46330738,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 154264874,
+          "gig_slug": "be-your-virtual-assistant-for-admin-work",
+          "gig_category": 8,
+          "gig_sub_category": 25,
+          "gig_nested_sub_category": 2003,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 31,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a71b0c8fefc71572d7e0a1",
+          "comment": "Thank you awesome  job thank you so much for understanding what i asked you to do. You did a amazing job!!! looking forward to our next project I will always choose you for my projects going forward it was amazing working with you.... ",
+          "comment_language": "en",
+          "username": "skyline312",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-17T00:27:04",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO829DF67F746",
+          "score": 0.41109562,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 154264874,
+          "gig_slug": "be-your-virtual-assistant-for-admin-work",
+          "gig_category": 8,
+          "gig_sub_category": 25,
+          "gig_nested_sub_category": 2003,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 108,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65958decde307a0001ed9924",
+          "comment": "Prompt service, great communication - will absolutely continue to use Saijid for virtual assistance services! A must here on FIVERR. 😊",
+          "comment_language": "en",
+          "username": "strongwork23",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/af6008b6918ac80005a877505ad2f408-1585367251697039908.330038/85DE5C00-CCBD-471A-8B36-4EE55B37C478",
+          "created_at": "2024-01-03T17:04:41",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO629B8A15D48",
+          "score": 0.34195188,
+          "reviewer_industry": [
+            "food_and_beverage"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 154264874,
+          "gig_slug": "be-your-virtual-assistant-for-admin-work",
+          "gig_category": 8,
+          "gig_sub_category": 25,
+          "gig_nested_sub_category": 2003,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 13,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 107,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 5,
+        "business": 7
+      },
+      "user_id": 87248144,
+      "seller_username": "saijidbashir",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 107
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "travel_or_tourism": "Travel & Tourism",
+        "food_and_beverage": "Food & Beverage"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 87248144,
+      "reviews": [
+        {
+          "id": "62615f33017e2d0001aadb9a",
+          "comment": "Great experience,his way of communication and conversation is very concise and to the point",
+          "comment_language": "en-US",
+          "username": "fai_007",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/77907f265a0e5cb37aca9fdbebe47b8c-1643544314375/08093216-df2e-4a8b-a71b-40369b9bf5cb.png",
+          "created_at": "2022-04-21T13:42:11",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 87248144,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": []
+}

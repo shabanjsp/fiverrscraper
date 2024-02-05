@@ -1,0 +1,682 @@
+{
+  "seller": {
+    "user": {
+      "id": "161260223",
+      "name": "sm_techno",
+      "isActivationCompleted": true,
+      "joinedAt": 1696424204,
+      "profile": {
+        "displayName": "Sohely Towhid"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/94e3269d77bf6f72418281f021012757-1696498553804/3c10a677-b0fc-4535-801f-975400dab012.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "344776966"
+        },
+        {
+          "id": "353256632"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Certified Website Designer and Developer",
+    "description": "Hello! I'm Sohely Towhid, a professional Web Developer with 03 years of experience in web Development.\r\n\r\nI specialize in designing and developing WordPress and Webflow-based websites that \r\nlooks professional, responsive with fast loading speed, & SEO friendly.\r\n\r\nReady to get started to build your website? Feel free to reach out with any questions or simply place an order to experience my top-notch services!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Creative It Institute",
+        "certificationName": "Web Development",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "WordPress Developer",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "Code Icons",
+        "certificationName": "Webflow Expert",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science  engineering",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "East-West University",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "computer science  engineering cse",
+        "toYear": 2022,
+        "countryCode": "BD",
+        "school": "East-West University",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c6c",
+        "name": "Webflow",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Webflow expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress website developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c7d",
+        "name": "Website builders & CMS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website builders & cms expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c8e",
+        "name": "Website redesign",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website redesign expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6350565f077890057fc",
+        "name": "Adobe XD",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe XD expert"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2613
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "655db8407949890001316fb8",
+          "title": "WordPress Website Design",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "659e7be0b9db720001c93f4b",
+                "attachment": {
+                  "metadata": {
+                    "height": 616,
+                    "width": 1024
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/da76468c5dae497f03a8c3871d4a75f3-1704885177206/New%20%20Gif%20Updated%20(6F%20).gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "654b17d5d2e80d0001fa23ac",
+          "title": "Agency Website",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "654b17d5d2e80d0001fa23ad",
+                "attachment": {
+                  "metadata": {
+                    "height": 769,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/75cf214185b8ea2103d9d477111e3f19-1699420090130/New-1-Fiverr.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1696495363
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 41
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6597f845369cc900011f4e13",
+          "comment": "We needed a redesign of our old, outdated website, Sohely Towhid, immediately took initiative, and made a few basic designs, we chose one, and in a few day's the new website was up and running, lot faster dan expected.\n\nShe writes fluent English, Sohely Towhid, work is excellent A++++\nRecommend her excellent work !\n\nKind regards\nTim Vanheukelom",
+          "comment_language": "en",
+          "username": "timwoodheating",
+          "reviewer_country_code": "BE",
+          "created_at": "2024-01-05T12:39:21",
+          "value": 5,
+          "reviewer_country": "Belgium",
+          "encrypted_order_id": "FO217D4FCE586",
+          "score": 0.7930996,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 344776966,
+          "gig_slug": "design-redesign-or-revamp-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655afee325bcfb00013d01ad",
+          "comment": "Sohely Towhid and his team are excellent. They deserve a rating higher than 5 stars. His web development is outstanding. I would highly recommend",
+          "comment_language": "en",
+          "username": "elwyn_a_schaden",
+          "reviewer_country_code": "DE",
+          "created_at": "2023-11-20T06:56:08",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO111B2009CC5",
+          "score": 0.59465504,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 344776966,
+          "gig_slug": "design-redesign-or-revamp-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 39,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ac7c69f47f62000187a0e3",
+          "comment": "I am disappointed on the multiple repeats of what I needed, multiple extensions of delivery dates, and the constant errors. Seller finally pulled through at the end, but the entire process was mentally exhausting. ",
+          "comment_language": "en",
+          "username": "kimxsou",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d47cd6aae3a3f76b0867bee546086381-1609143031699048660.545007/DFD09DBB-4154-4735-9F66-F794926DF80B",
+          "created_at": "2024-01-21T02:15:08",
+          "value": 1,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81DB186A282",
+          "score": 0.55,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 344776966,
+          "gig_slug": "design-redesign-or-revamp-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658873d4e090545fd3ddb27f",
+          "comment": " I'm completely new to AdWords, so I was looking for some help getting started, and He delivered early and with quality.",
+          "comment_language": "en",
+          "username": "jessekmelton",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bf00ff5d408525ab9a554f9285f411ec-1650695846977/61791c40-2267-4769-b503-7cd069ada0f1.jpg",
+          "created_at": "2023-12-24T18:49:50",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217CAA0EB86",
+          "score": 0.50348794,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 344776966,
+          "gig_slug": "design-redesign-or-revamp-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 257,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b5865e756b9d000175e472",
+          "comment": "Sohely  understood what I was trying to explain and provided the service quickly. I was able to review the project before it went live and request changes which she adjusted right away. Thank you!! ",
+          "comment_language": "en",
+          "username": "lewiscarl999",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-27T22:42:43",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO629DF757CC8",
+          "score": 0.47058472,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 344776966,
+          "gig_slug": "design-redesign-or-revamp-wordpress-website-with-elementor-pro",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 41,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 161260223,
+      "seller_username": "sm_techno",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 40
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 161260223,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161260223,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 344776966,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-redesign-or-revamp-wordpress-website-with-elementor-pro",
+      "title": "design, redesign or revamp wordpress website with elementor pro",
+      "seller_name": "sm_techno",
+      "seller_id": 161260223,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/94e3269d77bf6f72418281f021012757-1696498553804/3c10a677-b0fc-4535-801f-975400dab012.jpg",
+      "seller_display_name": "Sohely Towhid",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/344776966/original/1637ab592fd7af5ce986078a2ccf89afa3a6f90d.jpg",
+          "type": "ImageAsset",
+          "id": "344776966_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "form",
+            "map",
+            "gallery"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 31,
+      "buying_review_rating": 4.9,
+      "seller_url": "/sm_techno",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 41,
+        "score": 4.902439
+      },
+      "gig_url": "/sm_techno/design-redesign-or-revamp-wordpress-website-with-elementor-pro",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 353256632,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2613,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-redesign-or-develop-webflow-website-figma-to-webflow-webflow-expert",
+      "title": "design, redesign or develop webflow website, figma to webflow, webflow expert",
+      "seller_name": "sm_techno",
+      "seller_id": 161260223,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/94e3269d77bf6f72418281f021012757-1696498553804/3c10a677-b0fc-4535-801f-975400dab012.jpg",
+      "seller_display_name": "Sohely Towhid",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/353256632/original/f6a40c86db1a069ed401443c3560301d72ce9063.jpg",
+          "type": "ImageAsset",
+          "id": "353256632_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "brackets_tournaments",
+            "comparison_tables",
+            "before_after_slider",
+            "charts_graphs",
+            "pricing_tables",
+            "image_hotspot",
+            "social_media_rss_feeds"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 10,
+      "buying_review_rating": 5,
+      "seller_url": "/sm_techno",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 41,
+        "score": 4.902439
+      },
+      "gig_url": "/sm_techno/design-redesign-or-develop-webflow-website-figma-to-webflow-webflow-expert",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

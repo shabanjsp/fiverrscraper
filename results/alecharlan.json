@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "165165986",
+      "name": "alecharlan",
+      "isActivationCompleted": true,
+      "joinedAt": 1701779502,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Canada",
+        "countryCode": "CA"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 165165986,
+      "seller_username": "alecharlan",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 165165986,
+      "reviews": [
+        {
+          "id": "65a74202be67470001eed35b",
+          "comment": "Great communication with the buyer! Cool experience.",
+          "comment_language": "en",
+          "username": "bizmaxdesign",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0f8b6c914f0526030e5dc402a1e3c876-1705922127791/c7751571-9e4c-49ad-8800-2726df3c6145.jpg",
+          "created_at": "2024-01-17T02:57:06",
+          "value": 5
+        },
+        {
+          "id": "65a051f52ffdc500015edcef",
+          "comment": "Thank you. Hope we can establish a long-term business relationship.",
+          "comment_language": "en",
+          "username": "dataxport",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/16b906fccf0e97474e445e27b01e3cd6-1666614702279/eb16018f-96c1-43ea-b522-e26adeb0fcf4.jpg",
+          "created_at": "2024-01-11T20:39:17",
+          "value": 5
+        },
+        {
+          "id": "659cb8fe369cc90001224ce5",
+          "comment": "Great buyer, Amazing Experience! Thanks so much.",
+          "comment_language": "en",
+          "username": "bdcalling",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e4d66c997c6269cbd7e1e3ff6c567424-1551094556359/7cd4af27-5478-4e8c-89b8-4da530b6efa3.jpg",
+          "created_at": "2024-01-09T03:09:50",
+          "value": 5
+        },
+        {
+          "id": "659a2b9e369cc9000120ac6d",
+          "comment": "Great Buyer! Cool experience to work with him.",
+          "comment_language": "en",
+          "username": "tech_weav",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f38b62747eef2eb7394e67b43a3d9c90-1703309283234/99ab0ad6-5610-4f50-99f8-a3db2e5c9b5c.png",
+          "created_at": "2024-01-07T04:42:06",
+          "value": 5
+        },
+        {
+          "id": "6598de83369cc900011fee80",
+          "comment": "Great buyer, Amazing Experience! Thanks so much.",
+          "comment_language": "en",
+          "username": "innosight",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4ae053a753882ab764feed8aa615a57b-1691101525455/a4ccf8ff-769a-45ca-a93e-87748093cb93.jpg",
+          "created_at": "2024-01-06T05:00:51",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165165986,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Los_Angeles",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}

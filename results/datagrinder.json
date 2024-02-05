@@ -1,0 +1,614 @@
+{
+  "seller": {
+    "user": {
+      "id": "136665095",
+      "name": "datagrinder",
+      "isActivationCompleted": true,
+      "joinedAt": 1666517119,
+      "profile": {
+        "displayName": "Johirul Islam"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/a42ec7b1dfcc620eee11cb4d7d2851e7-1667212453830/f3fa9838-3386-4a51-b219-fd04ef01d59d.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "357078052"
+        },
+        {
+          "id": "357472543"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Seamless Design With Endless Possibilities",
+    "description": "Welcome to DataGrinder,\r\n\r\nI am a dynamic and passionate full-time freelancer specializing in UI/UX design.\r\n\r\nMy expertise lies not only in completing projects efficiently but also in ensuring quality work and client satisfaction as my top priorities. I am eager to take on new professional challenges and always available to address any questions you may have. So? What's stopping you? Together, let's design your dream website.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Creative IT Institute",
+        "certificationName": "Advanced Graphic Design",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "Creative IT Institute",
+        "certificationName": "UX/UI Design",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Nurency Academy",
+        "certificationName": "Advance UI/UX Design",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "graduate",
+        "toYear": 2017,
+        "countryCode": "BD",
+        "school": "Bangladesh University of Business and Technology",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "graduate",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "Bangladesh University of Business and Technology",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Customer service representative"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6770565f07789006b5a",
+        "name": "UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI designer"
+      },
+      {
+        "id": "617fa6650565f07789006608",
+        "name": "Mobile UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UX designer"
+      },
+      {
+        "id": "617fa67c0565f07789006ccf",
+        "name": "Wireframing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wireframing expert"
+      },
+      {
+        "id": "617fa66d0565f07789006837",
+        "name": "Prototype design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Prototype designer"
+      },
+      {
+        "id": "617fa6650565f0778900660c",
+        "name": "Mockup design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mockup designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c66",
+        "name": "Web template design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web template designer"
+      },
+      {
+        "id": "617fa6780565f07789006b76",
+        "name": "User experience design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "User experience designer"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c87",
+        "name": "Website landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website landing page expert"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 151,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 466,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1666586994
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 9
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b8a0bf4f44d32294630f5a",
+          "comment": "The quality of work is very high and the communication is smooth and open.",
+          "comment_language": "en",
+          "username": "jessekmelton",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bf00ff5d408525ab9a554f9285f411ec-1650695846977/61791c40-2267-4769-b503-7cd069ada0f1.jpg",
+          "created_at": "2024-01-30T07:18:55",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51DFF70A405",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357078052,
+          "gig_slug": "do-figma-design-website-ui-design-website-mockup-or-figma-website-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 257,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65ae713e08246e65371f05f2",
+          "comment": "Thank you for listening and above all, completing my project successfully.",
+          "comment_language": "en",
+          "username": "octaviarogers",
+          "reviewer_country_code": "SE",
+          "created_at": "2024-01-22T13:47:23",
+          "value": 5,
+          "reviewer_country": "Sweden",
+          "encrypted_order_id": "FO617F3C88382",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357078052,
+          "gig_slug": "do-figma-design-website-ui-design-website-mockup-or-figma-website-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 81,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65aa2e053fe84f1e441444aa",
+          "comment": "Really appreciate your work. Keep doing the good work.",
+          "comment_language": "en",
+          "username": "sharielehman",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9318ed022429b1e0bf6f9321089cba5c-1657982287457/d6a8274f-5db8-442f-9e72-273bed94b83a.jpg",
+          "created_at": "2024-01-19T08:31:41",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217ED57DD86",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357078052,
+          "gig_slug": "do-figma-design-website-ui-design-website-mockup-or-figma-website-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 191,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65a639f1153b6e7b15cf51b4",
+          "comment": "Thank you for listening and above all, completing my project successfully.",
+          "comment_language": "en",
+          "username": "samuelzane",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-23T12:39:41",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO729D9F293C7",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357078052,
+          "gig_slug": "do-figma-design-website-ui-design-website-mockup-or-figma-website-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65a26b5d2ffdc50001603159",
+          "comment": "They are very responsive, professional and they easily adapt to new requests",
+          "comment_language": "en",
+          "username": "johncwhitfield",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d4fd0ec8ca8ad8cb07248befb9b5f248-1655711519731/0436ecf8-bcc2-41fb-98b0-af79762cfda3.jpg",
+          "created_at": "2024-01-13T13:54:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3BF3BE5441",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357078052,
+          "gig_slug": "do-figma-design-website-ui-design-website-mockup-or-figma-website-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 180,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 9,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 136665095,
+      "seller_username": "datagrinder",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 9
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 136665095,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 136665095,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 357078052,
+      "category_id": 3,
+      "sub_category_id": 151,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-figma-design-website-ui-design-website-mockup-or-figma-website-design",
+      "title": "do figma design, website ui design, website mockup or figma website design",
+      "seller_name": "datagrinder",
+      "seller_id": 136665095,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a42ec7b1dfcc620eee11cb4d7d2851e7-1667212453830/f3fa9838-3386-4a51-b219-fd04ef01d59d.jpg",
+      "seller_display_name": "Johirul Islam",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357078052/original/21cb1f12c5415468d8b1386b1996050230b34d0a.jpg",
+          "type": "ImageAsset",
+          "id": "357078052_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/357078052/original/7320f756ecc0b109d3ca8d036c7184d9af9a183c.jpg",
+          "type": "ImageAsset",
+          "id": "357078052_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/357078052/original/502e8c340342e0d0480675ce3d95272e65aa06cb.jpg",
+          "type": "ImageAsset",
+          "id": "357078052_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "portfolio",
+            "educational"
+          ]
+        },
+        {
+          "type": "platform_and_tool",
+          "value": [
+            "figma"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 9,
+      "buying_review_rating": 5,
+      "seller_url": "/datagrinder",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/datagrinder/do-figma-design-website-ui-design-website-mockup-or-figma-website-design",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 357472543,
+      "category_id": 3,
+      "sub_category_id": 466,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-app-ui-ux-mobile-app-design-or-website-to-app-in-figma-0e53",
+      "title": "do app ui ux, mobile app design or website to app in figma",
+      "seller_name": "datagrinder",
+      "seller_id": 136665095,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a42ec7b1dfcc620eee11cb4d7d2851e7-1667212453830/f3fa9838-3386-4a51-b219-fd04ef01d59d.jpg",
+      "seller_display_name": "Johirul Islam",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357472543/original/14ffe12de0228d6e6ab9ca5a27e5483600b2c7be.png",
+          "type": "ImageAsset",
+          "id": "357472543_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/357472543/original/522947789c6225e694a2775784dd5ebb6dc5fd09.jpg",
+          "type": "ImageAsset",
+          "id": "357472543_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "education",
+            "productivity",
+            "shopping_e_commerce"
+          ]
+        },
+        {
+          "type": "design_tool",
+          "value": [
+            "figma",
+            "adobe_illustrator",
+            "adobe_photoshop"
+          ]
+        },
+        {
+          "type": "device",
+          "value": [
+            "mobile",
+            "tablet"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/datagrinder",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/datagrinder/do-app-ui-ux-mobile-app-design-or-website-to-app-in-figma-0e53",
+      "is_seller_unavailable": false,
+      "price_i": 35,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,900 @@
+{
+  "seller": {
+    "user": {
+      "id": "62416191",
+      "name": "zoe_design",
+      "isActivationCompleted": true,
+      "joinedAt": 1491307401,
+      "profile": {
+        "displayName": "Feary Providers"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/2c9efb77862035243d97dd0ba0892322-1691864192381/abeff214-3c0c-473f-8e96-0905a74f46ea.jpg"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "316054414"
+        },
+        {
+          "id": "316394558"
+        },
+        {
+          "id": "327809771"
+        },
+        {
+          "id": "337854315"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "With over 7 years of experience as a mobile app developer and the proud founder of Feary Providers, I have built multiple applications in various industries. I offer comprehensive services for iOS and Android app development, focusing on delivering exceptional results. My expertise includes e-commerce, social networking, gaming, health and fitness, reservation systems, and utility tools.  I am committed to professionalism, clear communication, and exceeding client expectations. Let's collaborate to transform your app idea into a remarkable reality. \r\n\r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "National University of Computer and Emerging Sciences",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa66e0565f07789006880",
+        "name": "React Native",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "React Native expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa6770565f07789006b51",
+        "name": "TypeScript",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "TypeScript expert"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Bootstrap expert"
+      },
+      {
+        "id": "617fa6630565f07789006593",
+        "name": "Material Design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Material Design expert"
+      },
+      {
+        "id": "617fa6650565f077890065fe",
+        "name": "Mobile apps development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64f17ce0c5c8480001269f2c",
+          "title": "Finance App",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64f17ce0c5c8480001269f2d",
+                "attachment": {
+                  "metadata": {
+                    "height": 788,
+                    "width": 940
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/6c567727a47eadafdf2124ad147cdab6-1693547506028/App%20development.gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64f1853c4dc5b600018736da",
+          "title": "Health and Fitness App",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64f1853c4dc5b600018736db",
+                "attachment": {
+                  "metadata": {
+                    "height": 945,
+                    "width": 1128
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/52953e19030e983c815578fb004d39ea-1693549766761/Iphone%20app.gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64f199e64dc5b60001873e24",
+          "title": "Hotel Booking App",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64f199e64dc5b60001873e25",
+                "attachment": {
+                  "metadata": {
+                    "height": 788,
+                    "width": 940
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d6b3f7a70229922a9a8e7966586f283f-1693555106150/Building%20Mobile%20app.gif"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 3
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 117
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b8735af760630001ea6627",
+          "comment": "Excellent team. Nothing but good things to say about them. They are patient, professional, and always prompt to respond to queries or concerns. Recommended highly.",
+          "comment_language": "en",
+          "username": "sydorado",
+          "reviewer_country_code": "SL",
+          "created_at": "2024-01-30T05:02:10",
+          "value": 5,
+          "reviewer_country": "Sierra Leone",
+          "encrypted_order_id": "FO71D5838F703",
+          "score": 0.53081715,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 327809771,
+          "gig_slug": "mobile-app-development-ios-app-development-android-mobile-app-building-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6559ff5ac92e4700017574b1",
+          "comment": "The entire experience with this team has been amazing throughout the entire process!  The communication has been excellent and I am very happy with the product they have delivered from my vision.",
+          "comment_language": "en",
+          "username": "cloud9travel",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-19T12:44:06",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO7290D67A347",
+          "score": 0.5255218,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 327809771,
+          "gig_slug": "mobile-app-development-ios-app-development-android-mobile-app-building-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659e86352ffdc500015d6e5b",
+          "comment": "zoe_design did an excellent job to develop mobile app for me! I enjoyed working with zoe_design and definitely recommend services.",
+          "comment_language": "en",
+          "username": "edwardkinsley",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6109ea771647d8e13ed1cfb851082fa4-1697630278088/f80e4e95-4e42-4331-9c30-364ad0f42146.jpg",
+          "created_at": "2024-01-10T12:04:04",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217E24C6F86",
+          "score": 0.32381874,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 327809771,
+          "gig_slug": "mobile-app-development-ios-app-development-android-mobile-app-building-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 125,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655f2da91ed21300014cf9a5",
+          "comment": "I am very pleased with the final product that was delivered to me. The communication was very easy. And delivery was superb. Highly Recommend.",
+          "comment_language": "en",
+          "username": "lesterrobe",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f01bc91a759630b97e6c0795c7ce9c13-1695897397137/b975d043-3ff5-4582-86e2-1f29d087596f.jpg",
+          "created_at": "2023-11-23T14:24:34",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1BD0590543",
+          "score": 0.28921843,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 327809771,
+          "gig_slug": "mobile-app-development-ios-app-development-android-mobile-app-building-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 283,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a2284d2ffdc50001601112",
+          "comment": "Wonderful experience! Thank you for the perfect service!",
+          "comment_language": "en",
+          "username": "brianstrouse",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-13T08:01:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1BF20D2143",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 327809771,
+          "gig_slug": "mobile-app-development-ios-app-development-android-mobile-app-building-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 28,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 117,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 45,
+        "business": 11
+      },
+      "user_id": 62416191,
+      "seller_username": "zoe_design",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 111
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 62416191,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 62416191,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 327809771,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "mobile-app-development-ios-app-development-android-mobile-app-building-app",
+      "title": "do mobile app development ios app development android app",
+      "seller_name": "zoe_design",
+      "seller_id": 62416191,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2c9efb77862035243d97dd0ba0892322-1691864192381/abeff214-3c0c-473f-8e96-0905a74f46ea.jpg",
+      "seller_display_name": "Feary Providers",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/327809771/original/f51e1cc34ced9d0a06e9d94993632c6bcedb252f.jpeg",
+          "type": "ImageAsset",
+          "id": "327809771_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "170916470",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a9671145d849d72fe0d561a3f01a0468-1695460083/building%20mobile%20app.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170025207",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/062cca38216414edc89b436b17346bc9-1693733554/IPhone%20Mobile%20app.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "169934276",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/29a704b1e86f961b95daff4fb2ae5a54-1693541050/Building%20app.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "168329293",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/9ac1b8bda2d6caa6d31699c8e424dd5e-1690410084/Android%20app%20development.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "168280700",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/45d8e91e4dc056408cae3685f8f18881-1690323532/Ios%20app%20development.jpeg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "typescript",
+            "react_native",
+            "java",
+            "php",
+            "kotlin",
+            "dart",
+            "swift"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "ionic",
+            "kivy",
+            "laravel",
+            "angular",
+            "swiftui",
+            "node_js"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "thunkable",
+            "power_apps",
+            "bubble",
+            "flutterflow",
+            "adalo",
+            "passion_io",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "delivery",
+            "music",
+            "restaurant",
+            "shopping",
+            "taxi",
+            "booking",
+            "social_networking",
+            "entertainment",
+            "health_fitness"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "performance",
+            "security",
+            "design",
+            "ads_monetization",
+            "firebase"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 39,
+      "buying_review_rating": 4.9,
+      "seller_url": "/zoe_design",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 117,
+        "score": 4.883191
+      },
+      "gig_url": "/zoe_design/mobile-app-development-ios-app-development-android-mobile-app-building-app",
+      "is_seller_unavailable": false,
+      "price_i": 110,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 337854315,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "ios-app-development-mobile-app-development-android-app-developer-iphone-app",
+      "title": "create ios app development mobile app development android app developer iphone",
+      "seller_name": "zoe_design",
+      "seller_id": 62416191,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2c9efb77862035243d97dd0ba0892322-1691864192381/abeff214-3c0c-473f-8e96-0905a74f46ea.jpg",
+      "seller_display_name": "Feary Providers",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/337854315/original/fd8b0c02d076d1415aa237d0f83daef577776f94.png",
+          "type": "ImageAsset",
+          "id": "337854315_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "171672946",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b56143d671c9e6b2733a0d90ad112f30-1696957611/SPOTAsset%2017_2x-100.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171263637",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5de4cdb1d69aba1413edab4bacaf3aa8-1696146310/Mobile%20App.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171174682",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b148482eac960dc96ed8365682a2509f-1695963632/IOS%20app%20development.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170605622",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/fda2fe432f70ea21782be0ce397d236a-1694858745/Mobile%20app%20development.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170552165",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/162cdf60b32044b9924d0719d8869da1-1694756758/Building%20Mobile%20app.jpeg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "ios_android_dual"
+          ]
+        },
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "typescript",
+            "react_native",
+            "java",
+            "php",
+            "kotlin",
+            "javascript",
+            "swift"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "ionic",
+            "kivy",
+            "laravel",
+            "angular",
+            "cordova",
+            "node_js"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "thunkable",
+            "power_apps",
+            "bubble",
+            "flutterflow",
+            "adalo",
+            "passion_io",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "delivery",
+            "music",
+            "restaurant",
+            "shopping",
+            "taxi",
+            "booking",
+            "social_networking",
+            "entertainment",
+            "health_fitness"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "performance",
+            "security",
+            "design",
+            "ads_monetization",
+            "firebase"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 26,
+      "buying_review_rating": 5,
+      "seller_url": "/zoe_design",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 117,
+        "score": 4.883191
+      },
+      "gig_url": "/zoe_design/ios-app-development-mobile-app-development-android-app-developer-iphone-app",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 316054414,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-website-for-you-in-react-js-and-next-js",
+      "title": "create website for you in react js and next js",
+      "seller_name": "zoe_design",
+      "seller_id": 62416191,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2c9efb77862035243d97dd0ba0892322-1691864192381/abeff214-3c0c-473f-8e96-0905a74f46ea.jpg",
+      "seller_display_name": "Feary Providers",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/316054414/original/78b54f0d81ffd20d71c33133b87800ed186d2d55.png",
+          "type": "ImageAsset",
+          "id": "316054414_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "typescript"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "social_media",
+            "video",
+            "chat",
+            "map",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/zoe_design",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 117,
+        "score": 4.883191
+      },
+      "gig_url": "/zoe_design/create-website-for-you-in-react-js-and-next-js",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 316394558,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "develop-your-admin-panel-in-react-js-and-next-js",
+      "title": "develop your admin panel in react js and next js",
+      "seller_name": "zoe_design",
+      "seller_id": 62416191,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2c9efb77862035243d97dd0ba0892322-1691864192381/abeff214-3c0c-473f-8e96-0905a74f46ea.jpg",
+      "seller_display_name": "Feary Providers",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/316394558/original/f71dee5b79faddf88c15ea9720e06a6ef14dfd0d.png",
+          "type": "ImageAsset",
+          "id": "316394558_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/316394558/original/ed9547f53ce987c820c022f89ad7605325d3419c.png",
+          "type": "ImageAsset",
+          "id": "316394558_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "python",
+            "typescript"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "form",
+            "chat",
+            "booking"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/zoe_design",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 117,
+        "score": 4.883191
+      },
+      "gig_url": "/zoe_design/develop-your-admin-panel-in-react-js-and-next-js",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}
