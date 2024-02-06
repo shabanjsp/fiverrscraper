@@ -1,0 +1,163 @@
+{
+  "seller": {
+    "user": {
+      "id": "135151314",
+      "name": "desacera",
+      "isActivationCompleted": true,
+      "joinedAt": 1664452403,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "SGD",
+    "rate": 1.4122632309,
+    "template": "S${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "S$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 135151314,
+      "seller_username": "desacera",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 135151314,
+      "reviews": [
+        {
+          "id": "65494ad17cc0090001fce51a",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "sarahtaylor01",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1a3e1aeea0abfc429ae98fb09deefa8e-1681642862510/ebce850c-8805-4401-8e1f-1072570f9635.jpg",
+          "created_at": "2023-11-06T20:21:37",
+          "value": 5
+        },
+        {
+          "id": "653c0b905a47a50001b1c38b",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "kureshii",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ddc015dc75b56319a07554a1c44f9e2f-1696069359568/d4a89106-5ac0-4124-94b3-1def7a924059.jpg",
+          "created_at": "2023-10-27T19:12:16",
+          "value": 5
+        },
+        {
+          "id": "652ae61e4f5ac900018be3e3",
+          "comment": "Great working",
+          "comment_language": "en",
+          "username": "sharonharris37",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7a52f152432f59f53407f5652585f7e8-1701331858687/f3e86465-4c31-4994-8625-3d87b7017a84.png",
+          "created_at": "2023-10-14T19:03:58",
+          "value": 5
+        },
+        {
+          "id": "652a9a69e64916000184b37b",
+          "comment": "It was a pleasure managing your social media accounts.",
+          "comment_language": "en",
+          "username": "ahmadraza12",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a5d99f1fef4921d365dafe5173e87fa1-1689205017647/0d204846-dabb-4899-a313-1120c2042a19.png",
+          "created_at": "2023-10-14T13:40:58",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 135151314,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Los_Angeles",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}

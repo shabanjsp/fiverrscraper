@@ -1,0 +1,750 @@
+{
+  "seller": {
+    "user": {
+      "id": "161242477",
+      "name": "app_oreo",
+      "isActivationCompleted": true,
+      "joinedAt": 1696403314,
+      "profile": {
+        "displayName": "Fozle"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/bb0a2d86fcdb127fd1b01759c77bcdc7-1704836165562/fa3c1b00-216d-4728-9fd8-8fb92d8b82ef.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "344555422"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Get in touch with professionals mobile app developer ",
+    "description": "I'm a mobile app developer who loves turning ideas into easy-to-use and creative apps. I'm skilled in various programming languages and platforms, and my goal is to make mobile experiences that look great and work smoothly. I'm always keeping up with the latest tech trends to provide top-notch solutions that users will love.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Flutter & Dart - The Complete Guide",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Complete React Native Zero to Mastery (with Hooks)",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "coursera.org",
+        "certificationName": "Advanced React",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "coursera.org",
+        "certificationName": "Landing Page Design Masterclass - High Conversion WIX Pages",
+        "year": 2023
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "bachelor of computer engineering",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "Jagannath University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6650565f077890065fe",
+        "name": "Mobile apps development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps developer"
+      },
+      {
+        "id": "617fa6650565f077890065fd",
+        "name": "Mobile apps design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps designer"
+      },
+      {
+        "id": "617fa6380565f077890058c3",
+        "name": "App development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App developer"
+      },
+      {
+        "id": "617fa6590565f077890062a8",
+        "name": "Hybrid app",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Hybrid app expert"
+      },
+      {
+        "id": "617fa6510565f07789006036",
+        "name": "Flutter development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter developer"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6370565f0778900586f",
+        "name": "Android app",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Android app expert"
+      },
+      {
+        "id": "617fa65c0565f07789006393",
+        "name": "iOS development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "iOS developer"
+      },
+      {
+        "id": "617fa65c0565f07789006391",
+        "name": "iOS app development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "iOS app developer"
+      },
+      {
+        "id": "617fa6650565f07789006608",
+        "name": "Mobile UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UX designer"
+      },
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Full stack web developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa6450565f07789005cd0",
+        "name": "Custom website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Custom website developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c8e",
+        "name": "Website redesign",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website redesign expert"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "React expert"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Front-end web developer"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Node.js expert"
+      },
+      {
+        "id": "617fa64e0565f07789005f60",
+        "name": "Express.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Express.js expert"
+      },
+      {
+        "id": "617fa63e0565f07789005aae",
+        "name": "Business website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business website developer"
+      },
+      {
+        "id": "617fa6490565f07789005e07",
+        "name": "E-commerce development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "E-commerce developer"
+      },
+      {
+        "id": "617fa63b0565f07789005990",
+        "name": "Back-end development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Back-end developer"
+      },
+      {
+        "id": "617fa6380565f077890058c2",
+        "name": "App design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App designer"
+      },
+      {
+        "id": "617fa67c0565f07789006c92",
+        "name": "Website to app",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website to app converter"
+      },
+      {
+        "id": "617fa67b0565f07789006c87",
+        "name": "Website landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website landing page expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress website developer"
+      },
+      {
+        "id": "617fa67c0565f07789006cd6",
+        "name": "Wix website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wix website designer"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6549175393b3b40001c22d2c",
+          "title": "Wallet App",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "6549175393b3b40001c22d2d",
+                "attachment": {
+                  "metadata": {
+                    "height": 2985,
+                    "width": 2085
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3847fd5242bb863f73019b25c0775b5c-1699288886451/blue-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6549182293b3b40001c22d9b",
+          "title": "Food App",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "6549182293b3b40001c22d9c",
+                "attachment": {
+                  "metadata": {
+                    "height": 2743,
+                    "width": 2085
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/91a82fde276426bc435a8edf61b0450e-1699289095260/Untitled-1-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "659019f932389a00017d9206",
+          "title": "Movie Ticket Booking App",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "659019f932389a00017d9207",
+                "attachment": {
+                  "metadata": {
+                    "height": 4500,
+                    "width": 3182
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3e4493ef673acc7f4d4eaa1f33bfbc0b-1703942620012/Frame%2012.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6590663e5f96e600014d73ff",
+          "title": "Fitness App Development",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6590663e5f96e600014d7400",
+                "attachment": {
+                  "metadata": {
+                    "height": 4500,
+                    "width": 3182
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/857f1834f6ce55939ed2637961617116-1703961861213/Artboard.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65906dec32389a00017db0d0",
+          "title": "Pizza Freak Mobile App",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65906dec32389a00017db0d1",
+                "attachment": {
+                  "metadata": {
+                    "height": 4500,
+                    "width": 3182
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/0b5132eae3b39df0103cbfb441338120-1703962397818/Artboard-1.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 5
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1696963815
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 12
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "SGD",
+    "rate": 1.4122632309,
+    "template": "S${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "S$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "658a92346fc708262bc69fab",
+          "comment": "I am having a pleasant experience in the project with her. Good communication, professional work and she put all effort to bring the best service and results to our mobile app, definitely recommended.\n\n\n",
+          "comment_language": "en",
+          "username": "ferminaseppalak",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4f376a670f65cb994d9ad4f0f4716705-1637696805869/2c481151-a65b-4c77-a388-04c00fbae778.jpg",
+          "created_at": "2023-12-26T08:53:18",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO617B4DAF982",
+          "score": 0.5043589,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 344555422,
+          "gig_slug": "build-mobile-app-android-ios-with-flutter-and-website-to-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 200,
+          "price_range_end": 400,
+          "reviews_count_as_buyer": 97,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659e73492ffdc500015d6275",
+          "comment": "I am delighted with the exceptional communication and service provided throughout the development of my application. \nThe progress of my app has exceeded my expectations.\nI highly recommend this service to anyone seeking a superior and efficient app development experience.",
+          "comment_language": "en",
+          "username": "lourejuda",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-10T11:07:10",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO623CD9870C6",
+          "score": 0.4208324,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 344555422,
+          "gig_slug": "build-mobile-app-android-ios-with-flutter-and-website-to-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 100,
+          "price_range_end": 200,
+          "reviews_count_as_buyer": 34,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a5549f153b6e7b15cf3d18",
+          "comment": "Fazle was very professional and friendly. You can tell that he cares and is knowledgeable in his field. Highly recommend!!",
+          "comment_language": "en",
+          "username": "samuelzane",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-15T15:57:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO117E90ECB87",
+          "score": 0.30976808,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 344555422,
+          "gig_slug": "build-mobile-app-android-ios-with-flutter-and-website-to-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 100,
+          "price_range_end": 200,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6586502c5c478900012d8b97",
+          "comment": "Was a great experience with app_oreo, very fast work and communication is really good honest and humble. Thank you so much for your such a great delivery.",
+          "comment_language": "en",
+          "username": "julionfernandez",
+          "reviewer_country_code": "",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/05e496a48f0d5dce10eae7f7990b2da9-1655838565659/e0188a02-3215-45f6-9f01-7362949ad393.jpg",
+          "created_at": "2023-12-23T03:32:16",
+          "value": 5,
+          "reviewer_country": "",
+          "encrypted_order_id": "FO41D9C3F2006",
+          "score": 0.3095997,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 344555422,
+          "gig_slug": "build-mobile-app-android-ios-with-flutter-and-website-to-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 200,
+          "price_range_end": 400,
+          "reviews_count_as_buyer": 163,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65bbc0c4e4010a345167150d",
+          "comment": "Outstanding performance and exceptional results. Looking forward to collaborating on future projects. Will definitely rehire for upcoming endeavors.",
+          "comment_language": "en",
+          "username": "seanharison",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-01T16:57:37",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1BF599BC43",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 344555422,
+          "gig_slug": "build-mobile-app-android-ios-with-flutter-and-website-to-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0,
+          "price_range_start": 100,
+          "price_range_end": 200,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 12,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 161242477,
+      "seller_username": "app_oreo",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 12
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 161242477,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161242477,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 344555422,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-mobile-app-android-ios-with-flutter-and-website-to-app",
+      "title": "build mobile app android ios with flutter and website to app",
+      "seller_name": "app_oreo",
+      "seller_id": 161242477,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/bb0a2d86fcdb127fd1b01759c77bcdc7-1704836165562/fa3c1b00-216d-4728-9fd8-8fb92d8b82ef.png",
+      "seller_display_name": "Fozle",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/344555422/original/e058f95616c50e9ea75ff20378091e3e7b8d5f5d.png",
+          "type": "ImageAsset",
+          "id": "344555422_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "dart"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "laravel",
+            "node_js"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "flutterflow",
+            "android_studio",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "delivery",
+            "restaurant",
+            "booking",
+            "medical",
+            "health_fitness",
+            "maps_navigation",
+            "education",
+            "travel",
+            "custom",
+            "ecommerce"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "localization",
+            "design",
+            "firebase",
+            "instant_app_app_clip",
+            "api_integration"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 12,
+      "buying_review_rating": 5,
+      "seller_url": "/app_oreo",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/app_oreo/build-mobile-app-android-ios-with-flutter-and-website-to-app",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

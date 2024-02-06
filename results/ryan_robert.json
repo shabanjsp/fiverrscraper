@@ -1,0 +1,175 @@
+{
+  "seller": {
+    "user": {
+      "id": "128797240",
+      "name": "ryan_robert",
+      "isActivationCompleted": true,
+      "joinedAt": 1655878213,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "SGD",
+    "rate": 1.4122632309,
+    "template": "S${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "S$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 128797240,
+      "seller_username": "ryan_robert",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 128797240,
+      "reviews": [
+        {
+          "id": "65bf9a8ec23f2d00013fe323",
+          "comment": "great buyer, very friendly to work with",
+          "comment_language": "en",
+          "username": "lyon_precious",
+          "reviewer_country_code": "NG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e0f5be2d8747e4127b551b2a49440543-1678924140312/d87e9bf4-567b-4e66-9c92-c374fc168ec9.jpg",
+          "created_at": "2024-02-04T14:09:18",
+          "value": 5
+        },
+        {
+          "id": "65bf8e01c23f2d00013fdc94",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "katharina020",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/55e6c40deafb7d18155bde2104835023-1702134882167/276e02a8-f2ab-4dc8-b468-a0bb72807008.png",
+          "created_at": "2024-02-04T13:15:45",
+          "value": 5
+        },
+        {
+          "id": "65bf8b1203f0b900017d7af4",
+          "comment": "Such Great Buyer",
+          "comment_language": "en",
+          "username": "steve_dave7",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bd2ce29f0a3a0aec4c1127dff1f38727-1678964194158/f5c204ee-e560-497f-8c37-f36aacade842.jpg",
+          "created_at": "2024-02-04T13:03:14",
+          "value": 5
+        },
+        {
+          "id": "65bf8a8803f0b900017d7ab4",
+          "comment": "thank you Ryan for using my service",
+          "comment_language": "en",
+          "username": "ben_brewster",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cf664e62dea11c506311ef409c7d7c58-1667994807419/95520c4d-ebf7-4fed-bf65-f6754a1bb106.jpg",
+          "created_at": "2024-02-04T13:00:56",
+          "value": 5
+        },
+        {
+          "id": "65bf88ea03f0b900017d79e0",
+          "comment": "Great working with Robert, very sincere",
+          "comment_language": "en",
+          "username": "melanie0004",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9a693aa3b6f4d986c68eef540e8577c8-1700147843788/396f18ce-2bf2-4526-8201-fb3deda7b2c1.png",
+          "created_at": "2024-02-04T12:54:02",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 128797240,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Denver",
+    "recent_utc_offset": 420
+  },
+  "gigsData": []
+}

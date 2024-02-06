@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "165896574",
+      "name": "nehatech_9",
+      "isActivationCompleted": true,
+      "joinedAt": 1702823461,
+      "profile": {
+        "displayName": "Neha"
+      },
+      "address": {
+        "countryName": "Poland",
+        "countryCode": "PL"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "SGD",
+    "rate": 1.4122632309,
+    "template": "S${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "S$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 165896574,
+      "seller_username": "nehatech_9",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 165896574,
+      "reviews": [
+        {
+          "id": "65b4d93d756b9d0001757e3d",
+          "comment": "Great Experience With you Thank you",
+          "comment_language": "en",
+          "username": "zarastudios_",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/169324a7acc648a9ec9e4d0c5a06827f-1706952400819/97011d45-b8cb-4a81-8ecc-41d8e7523353.png",
+          "created_at": "2024-01-27T10:21:49",
+          "value": 5
+        },
+        {
+          "id": "65b102a6756b9d000173457c",
+          "comment": "Amazing Experience With you Thank you so much ",
+          "comment_language": "en",
+          "username": "alia_studios",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4058fc93b2d33c97435f5ce85882b79e-1707050918458/80db0bb5-cdae-495f-a55c-7dd87d53c612.png",
+          "created_at": "2024-01-24T12:29:26",
+          "value": 5
+        },
+        {
+          "id": "65ad7fffe7303e000182a01d",
+          "comment": "Great Experience With you Thank you so much for choosing me. ",
+          "comment_language": "en",
+          "username": "zoya_web",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/03daecb328a4e498b9df29605bbafaa1-1705135759377/d742fbe4-aa94-4540-9025-a8018b189433.jpg",
+          "created_at": "2024-01-21T20:35:11",
+          "value": 5
+        },
+        {
+          "id": "6592b00c1134730001347a79",
+          "comment": "Thank you for appreciating my work, It was a great experience with you ",
+          "comment_language": "en",
+          "username": "ft_developer",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/605e99a0b1646bf91c3718cf129bcac4-1691121914219/1613b5d3-f867-4bc1-9c85-7534ce2b09d5.png",
+          "created_at": "2024-01-01T12:29",
+          "value": 5
+        },
+        {
+          "id": "659197bae981f90001b40b75",
+          "comment": "Amazing Experience with you ",
+          "comment_language": "en",
+          "username": "mariadev_",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/434da8e66ee73afaee501af54f386a34-1706951426419/21309e64-8d44-4fde-9b8e-9e6e45b7fc97.png",
+          "created_at": "2023-12-31T16:32:58",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165896574,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

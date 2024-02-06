@@ -1,0 +1,846 @@
+{
+  "seller": {
+    "user": {
+      "id": "162639140",
+      "name": "amelia_ameli43",
+      "isActivationCompleted": true,
+      "joinedAt": 1698259276,
+      "profile": {
+        "displayName": "Amelia A"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/868c294bfcf2a4d34349d649f737aa2a-1706470796279/fa0ddb18-6a06-4847-8f7f-b7f499f67279.png"
+    },
+    "approvedGigsCount": 5,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "352125449"
+        },
+        {
+          "id": "352696986"
+        },
+        {
+          "id": "352706777"
+        },
+        {
+          "id": "360378071"
+        },
+        {
+          "id": "362664866"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Welcome to a world where imagination meets artistry! My name is Amelia, a dedicated Script writer, Ebook writer,  children book Illustrator, and a complete Publisher. Experiences for young readers through captivating illustrations and expert books with the scripts services.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Mr Daniel ",
+        "certificationName": "best student of the year ",
+        "year": 2014
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "businessmarketing",
+        "toYear": 2014,
+        "countryCode": "GB",
+        "school": "University of Leeds",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa65a0565f077890062d0",
+        "name": "Illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Illustrator"
+      },
+      {
+        "id": "617fa6400565f07789005b49",
+        "name": "Children's illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Children's illustrator"
+      },
+      {
+        "id": "617fa6400565f07789005b48",
+        "name": "Children's book illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Children's book illustrator"
+      },
+      {
+        "id": "617fa6400565f07789005b47",
+        "name": "Children's book & eBook writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Children's book & eBook writer"
+      },
+      {
+        "id": "617fa64a0565f07789005e2c",
+        "name": "eBook cover design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "eBook  cover designer"
+      },
+      {
+        "id": "617fa67a0565f07789006c3f",
+        "name": "Watercolor illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Watercolor illustrator"
+      },
+      {
+        "id": "617fa67a0565f07789006c41",
+        "name": "Watercolor painting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Watercolor painter"
+      },
+      {
+        "id": "617fa6700565f0778900691e",
+        "name": "Satirical illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Satirical illustrator"
+      },
+      {
+        "id": "617fa63d0565f07789005a24",
+        "name": "Book formatting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book formatting expert"
+      },
+      {
+        "id": "617fa6500565f07789005fbf",
+        "name": "Fiction ghostwriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Fiction ghostwriter"
+      },
+      {
+        "id": "617fa63d0565f07789005a29",
+        "name": "Book publishing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book publishing expert"
+      },
+      {
+        "id": "617fa6360565f0778900584b",
+        "name": "Amazon Kindle",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Amazon Kindle expert"
+      },
+      {
+        "id": "61a4d8a8758d756a25307ba6",
+        "name": "Cartoons illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cartoons illustrator"
+      },
+      {
+        "id": "617fa66e0565f07789006895",
+        "name": "Realistic drawing illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Realistic drawing illustrator"
+      },
+      {
+        "id": "617fa63d0565f07789005a25",
+        "name": "Book illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book illustrator"
+      },
+      {
+        "id": "617fa6420565f07789005bd2",
+        "name": "Coloring book illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Coloring book illustrator"
+      },
+      {
+        "id": "617fa63c0565f07789005a1f",
+        "name": "Book & eBook writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book & eBook writer"
+      },
+      {
+        "id": "617fa6770565f07789006b1c",
+        "name": "Travel book & eBook writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Travel book & eBook writer"
+      },
+      {
+        "id": "617fa6750565f07789006ac8",
+        "name": "Technology book & eBook writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Technology book & eBook writer"
+      },
+      {
+        "id": "617fa6700565f07789006943",
+        "name": "Self help",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Self help expert"
+      },
+      {
+        "id": "617fa6700565f07789006934",
+        "name": "Script editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Script editor"
+      },
+      {
+        "id": "617fa6500565f07789005fd2",
+        "name": "Film & tv screenplays scriptwriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Film & tv screenplays scriptwriter"
+      },
+      {
+        "id": "617fa65f0565f0778900645f",
+        "name": "Kindle formatting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Kindle formatting expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 536,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 430,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1701277426
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "SGD",
+    "rate": 1.4122632309,
+    "template": "S${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "S$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c10ae37b1c502f9afe61cf",
+          "comment": "\"Professional and creative illustrator. Easy to work with, understood my requirements, and delivered exceptional artwork. Highly recommend!\"",
+          "comment_language": "en",
+          "username": "feli_eiffel",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e53b693bbb4f43498ee43f63042d58dd-1693306826736/85a89dc4-9a31-469c-a2b7-3a4bf81ce1fc.jpg",
+          "created_at": "2024-02-05T16:24:47",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/a5fc36facf2b80a9df2a735a89132622-1707080280/Leonardo_Diffusion_XL_Tatum_is_a_round_face_blue_eyes_happy_b_2%20%281%29.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/a5fc36facf2b80a9df2a735a89132622-1707080280/Leonardo_Diffusion_XL_Tatum_is_a_round_face_blue_eyes_happy_b_2%20%281%29.jpg",
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO312051C33C3",
+          "score": 0,
+          "reviewer_industry": [
+            "non_profit"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 352125449,
+          "gig_slug": "draw-watercolor-illustration-realistic-drawing-children-book-illustration",
+          "gig_category": 3,
+          "gig_sub_category": 536,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 418,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1,
+        "business": 0
+      },
+      "user_id": 162639140,
+      "seller_username": "amelia_ameli43",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "non_profit": "Non Profit"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 162639140,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162639140,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": [
+    {
+      "gig_id": 352125449,
+      "category_id": 3,
+      "sub_category_id": 536,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "draw-watercolor-illustration-realistic-drawing-children-book-illustration",
+      "title": "draw watercolor illustration, realistic drawing, children book illustration",
+      "seller_name": "amelia_ameli43",
+      "seller_id": 162639140,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/868c294bfcf2a4d34349d649f737aa2a-1706470796279/fa0ddb18-6a06-4847-8f7f-b7f499f67279.png",
+      "seller_display_name": "Amelia A",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/352125449/original/e20735dd6938b2dcb23706ce77002e2124b99461.jpg",
+          "type": "ImageAsset",
+          "id": "352125449_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6562d3f763dcfe00205aa6b5",
+          "id": 9523305
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/352125449/original/d6534b5ff5bb888070af838b7b0b4f315ea77dbc.jpg",
+          "type": "ImageAsset",
+          "id": "352125449_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/352125449/original/4668f10b3ccfb0526a6f24ea95fed6215fd94385.jpg",
+          "type": "ImageAsset",
+          "id": "352125449_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6562d3f763dcfe00205aa6b5",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/lriuj0axkveq0da5uo7h",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/lriuj0axkveq0da5uo7h.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176491930",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a5fc36facf2b80a9df2a735a89132622-1707080280/Leonardo_Diffusion_XL_Tatum_is_a_round_face_blue_eyes_happy_b_2%20(1).jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "illustration_style",
+          "value": [
+            "realistic"
+          ]
+        },
+        {
+          "type": "artistic_technique",
+          "value": [
+            "watercolor"
+          ]
+        },
+        {
+          "type": "age",
+          "value": [
+            "babies_toddlers_0_3_years",
+            "early_readers_3_7_years",
+            "older_kids_7_12_years"
+          ]
+        },
+        {
+          "type": "genre",
+          "value": [
+            "action_and_adventure",
+            "graphic_novels_and_comics",
+            "sports"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/amelia_ameli43",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/amelia_ameli43/draw-watercolor-illustration-realistic-drawing-children-book-illustration",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 352696986,
+      "category_id": 3,
+      "sub_category_id": 536,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-children-story-book-illustration-kids-illustration-watercolor-illustration",
+      "title": "do children book illustration, kids book illustration, watercolor illustration",
+      "seller_name": "amelia_ameli43",
+      "seller_id": 162639140,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/868c294bfcf2a4d34349d649f737aa2a-1706470796279/fa0ddb18-6a06-4847-8f7f-b7f499f67279.png",
+      "seller_display_name": "Amelia A",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/352696986/original/ca9fbc9653f076b01d78991d133e1b210b5b9ad9.jpg",
+          "type": "ImageAsset",
+          "id": "352696986_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/352696986/original/ced87a9dff52894f8d81a1c154355d77e05dbb97.jpg",
+          "type": "ImageAsset",
+          "id": "352696986_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/352696986/original/930dcaf2994a4fd559042029053a6c742425f29a.jpg",
+          "type": "ImageAsset",
+          "id": "352696986_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "illustration_style",
+          "value": [
+            "cartoon_and_comic"
+          ]
+        },
+        {
+          "type": "artistic_technique",
+          "value": [
+            "3d_graphic"
+          ]
+        },
+        {
+          "type": "age",
+          "value": [
+            "early_readers_3_7_years",
+            "older_kids_7_12_years",
+            "young_adults_12_18"
+          ]
+        },
+        {
+          "type": "genre",
+          "value": [
+            "animal_and_pet",
+            "fairy_tales",
+            "short_stories"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/amelia_ameli43",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/amelia_ameli43/do-children-story-book-illustration-kids-illustration-watercolor-illustration",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 352706777,
+      "category_id": 3,
+      "sub_category_id": 536,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-children-book-illustration-formatting-and-upload-it-on-amazon-kindle",
+      "title": "do manuscript formatting, book upload on amazon kindle, children book formatting",
+      "seller_name": "amelia_ameli43",
+      "seller_id": 162639140,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/868c294bfcf2a4d34349d649f737aa2a-1706470796279/fa0ddb18-6a06-4847-8f7f-b7f499f67279.png",
+      "seller_display_name": "Amelia A",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/352706777/original/940502490a8d091198188ee3f00415aa3d19348d.jpg",
+          "type": "ImageAsset",
+          "id": "352706777_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/352706777/original/23f95e601c89d0b0cf809e5e149fa7223ffb3dae.jpg",
+          "type": "ImageAsset",
+          "id": "352706777_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/352706777/original/c0ce17b1c114ea35f83c9e6f54e5006d51b932d0.jpg",
+          "type": "ImageAsset",
+          "id": "352706777_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "illustration_style",
+          "value": [
+            "anime_and_manga"
+          ]
+        },
+        {
+          "type": "artistic_technique",
+          "value": [
+            "3d_graphic"
+          ]
+        },
+        {
+          "type": "age",
+          "value": [
+            "early_readers_3_7_years",
+            "older_kids_7_12_years",
+            "young_adults_12_18"
+          ]
+        },
+        {
+          "type": "genre",
+          "value": [
+            "animal_and_pet",
+            "fairy_tales",
+            "mystery"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/amelia_ameli43",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/amelia_ameli43/do-children-book-illustration-formatting-and-upload-it-on-amazon-kindle",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 360378071,
+      "category_id": 5,
+      "sub_category_id": 430,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-self-help-ebook-writer-amazon-kdp-book-publishing-ebook-ghostwriter",
+      "title": "ghostwrite 30k words self help book, ebook writer, amazon kdp book publishing",
+      "seller_name": "amelia_ameli43",
+      "seller_id": 162639140,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/868c294bfcf2a4d34349d649f737aa2a-1706470796279/fa0ddb18-6a06-4847-8f7f-b7f499f67279.png",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/360378071/original/be91803d8b64dd8b711ccad9501212ad0663184a.png",
+          "type": "ImageAsset",
+          "id": "360378071_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/360378071/original/e8f296eb5706eb4afe7a9e58db2227804ada2902.png",
+          "type": "ImageAsset",
+          "id": "360378071_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/360378071/original/3d56c810532e3edd0dfb2dd11e5d0e562cde015f.png",
+          "type": "ImageAsset",
+          "id": "360378071_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "business",
+            "self_help_wellness",
+            "travel"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/amelia_ameli43",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/amelia_ameli43/be-your-self-help-ebook-writer-amazon-kdp-book-publishing-ebook-ghostwriter",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 362664866,
+      "category_id": 5,
+      "sub_category_id": 430,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "format-your-book-manuscript-manuscript-editing-kdp-manuscript-book-formatting",
+      "title": "be your book editor, proofreader and format your fiction or nonfiction book",
+      "seller_name": "amelia_ameli43",
+      "seller_id": 162639140,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/868c294bfcf2a4d34349d649f737aa2a-1706470796279/fa0ddb18-6a06-4847-8f7f-b7f499f67279.png",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/362664866/original/23aa739e61178ae3b2e24b198594d3f62b6a14bf.jpg",
+          "type": "ImageAsset",
+          "id": "362664866_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/362664866/original/65c854c00045534471024681038f106de2634611.jpg",
+          "type": "ImageAsset",
+          "id": "362664866_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/362664866/original/9117d4106f5f923deaffc403f7adf46dbf3643b4.jpg",
+          "type": "ImageAsset",
+          "id": "362664866_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "children_s_books",
+            "science_fiction_fantasy",
+            "self_help_wellness"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/amelia_ameli43",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/amelia_ameli43/format-your-book-manuscript-manuscript-editing-kdp-manuscript-book-formatting",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

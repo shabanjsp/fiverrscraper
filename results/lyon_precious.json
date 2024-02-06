@@ -1,0 +1,515 @@
+{
+  "seller": {
+    "user": {
+      "id": "147138572",
+      "name": "lyon_precious",
+      "isActivationCompleted": true,
+      "joinedAt": 1678922639,
+      "profile": {
+        "displayName": "Precious Sale"
+      },
+      "address": {
+        "countryName": "Nigeria",
+        "countryCode": "NG"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "IG",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/e0f5be2d8747e4127b551b2a49440543-1678924140312/d87e9bf4-567b-4e66-9c92-c374fc168ec9.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "309085620"
+        },
+        {
+          "id": "362518145"
+        },
+        {
+          "id": "363388872"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "\"Products are made in the factory, but brands are created in the mind\"",
+    "description": "Hello there, My name is Lyon Precious, a professional ecommerce store developer and digital marketing Expert. having intensive knowledge on both ecommerce marketing such as social media ads setup, SEO optimization, Email marketing campaign, Google sitemapping to boost your store visibility etc, I will list out your online store and promote it to reach wide range of online users for conversion purposes.\n\nExcellent Communication and High-Quality Services are My Top Priority. REACH OUT TO ME TODAY TO FILL THE REAL MARKETING REALM WITH MY RECOMMENDED STRATEGIES.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Google",
+        "certificationName": "ecommerce marketing",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "degree",
+        "toYear": 2017,
+        "countryCode": "NG",
+        "school": "university of jos",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "master degree",
+        "toYear": 2019,
+        "countryCode": "NG",
+        "school": "University of Port Harcourt",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      },
+      {
+        "id": "617fa6710565f0778900696f",
+        "name": "Shopify marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify marketing expert"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media marketer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 325,
+        "nestedCategoryId": 2405
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2623
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2627
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 2
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "SGD",
+    "rate": 1.4122632309,
+    "template": "S${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "S$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bb756fe4010a3451670caf",
+          "comment": "Precious was amazing and well responsive, his professionalism was top notch as seller knows what needs to be done to expand my conversions, highly recommend him",
+          "comment_language": "en",
+          "username": "nicholas232",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-01T11:05:37",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31804316F85",
+          "score": 0.46766824,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 309085620,
+          "gig_slug": "shopify-sales-marketing-shopify-store-promotion-setup-fb-ads-for-shopify-store",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "gig_nested_sub_category": 2405,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 579,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65bf8bc4f9a787374b919020",
+          "comment": "perfect delivery made, seller professionalism was great and outstanding as seller understood my store mission, very trusted and hardworking young man, will highly recommend him",
+          "comment_language": "en",
+          "username": "ryan_robert",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-04T14:09:18",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO524093456C7",
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 309085620,
+          "gig_slug": "shopify-sales-marketing-shopify-store-promotion-setup-fb-ads-for-shopify-store",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "gig_nested_sub_category": 2405,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 1124,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": false,
+      "total_count": 2,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 2
+      },
+      "user_id": 147138572,
+      "seller_username": "lyon_precious",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 2
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 147138572,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 147138572,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Lagos",
+    "recent_utc_offset": -60
+  },
+  "gigsData": [
+    {
+      "gig_id": 309085620,
+      "category_id": 2,
+      "sub_category_id": 325,
+      "nested_sub_category_id": 2405,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "shopify-sales-marketing-shopify-store-promotion-setup-fb-ads-for-shopify-store",
+      "title": "do complete shopify marketing, shopify store manager, shopify store promotion",
+      "seller_name": "lyon_precious",
+      "seller_id": 147138572,
+      "seller_country": "NG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e0f5be2d8747e4127b551b2a49440543-1678924140312/d87e9bf4-567b-4e66-9c92-c374fc168ec9.jpg",
+      "seller_display_name": "Precious Sale",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/309085620/original/3817bb63585ff5940c3e11fde199e239be1e3387.png",
+          "type": "ImageAsset",
+          "id": "309085620_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/309085620/original/a5bc6a65a0ebbf4e69c3a37f80201d9bc8fbcd0d.png",
+          "type": "ImageAsset",
+          "id": "309085620_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ig",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "aliexpress",
+            "facebook_shops",
+            "shopify"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "animals_pets",
+            "beauty_cosmetics",
+            "fashion_apparel",
+            "marketing_and_advertising",
+            "sports_fitness"
+          ]
+        },
+        {
+          "type": "promotion_method",
+          "value": [
+            "off_page_seo",
+            "social_media_shoutout"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/lyon_precious",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/lyon_precious/shopify-sales-marketing-shopify-store-promotion-setup-fb-ads-for-shopify-store",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 362518145,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2627,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-automated-shopify-dropshipping-store-shopify-website-design-or-redesign",
+      "title": "create automated shopify dropshipping store, shopify website design or redesign",
+      "seller_name": "lyon_precious",
+      "seller_id": 147138572,
+      "seller_country": "NG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e0f5be2d8747e4127b551b2a49440543-1678924140312/d87e9bf4-567b-4e66-9c92-c374fc168ec9.jpg",
+      "seller_display_name": "Precious Sale",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/362518145/original/7e390da8daf657fd5f1464e326dae6ec6c9e660c.png",
+          "type": "ImageAsset",
+          "id": "362518145_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/362518145/original/0b66063d6e9679721be2b32a10718fc4bff604bc.png",
+          "type": "ImageAsset",
+          "id": "362518145_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ig",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "shopify"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "landing_page",
+            "dropshipping"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "java"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/lyon_precious",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/lyon_precious/create-automated-shopify-dropshipping-store-shopify-website-design-or-redesign",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 363388872,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2623,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "review-shopify-website-audit-shopify-store-to-improve-conversion-rate",
+      "title": "review shopify website, audit shopify store to improve conversion rate",
+      "seller_name": "lyon_precious",
+      "seller_id": 147138572,
+      "seller_country": "NG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e0f5be2d8747e4127b551b2a49440543-1678924140312/d87e9bf4-567b-4e66-9c92-c374fc168ec9.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/363388872/original/80b8df4c4377ff7a41db3c03db5e23a8d40ad964.png",
+          "type": "ImageAsset",
+          "id": "363388872_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/363388872/original/2dca9940bcc25542abcac610f38657e6f6c18b09.png",
+          "type": "ImageAsset",
+          "id": "363388872_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ig",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "shopify"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "landing_page",
+            "forms",
+            "dropshipping"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/lyon_precious",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 0,
+        "score": 0
+      },
+      "gig_url": "/lyon_precious/review-shopify-website-audit-shopify-store-to-improve-conversion-rate",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

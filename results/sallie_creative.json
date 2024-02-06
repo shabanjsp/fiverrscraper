@@ -1,0 +1,497 @@
+{
+  "seller": {
+    "user": {
+      "id": "157027433",
+      "name": "sallie_creative",
+      "isActivationCompleted": true,
+      "joinedAt": 1690822265,
+      "profile": {
+        "displayName": "Sallie D."
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "ES",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/124d0fa9ef531e54107396003914eb47-1690822902222/408fb11b-74c1-4114-bed4-e724152ca92a.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "331134038"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Pro Logo Designer and Brand Specialist",
+    "description": "Hi! I am Sallie - a branding specialist and creative art Director. I'm focused on creating clean and timeless brand identities that will take your company to the next level.\n\nIf you are looking for someone willing to work along with you in order to create professional and custom logo design in the highly unprofessional world that we live in, I look forward to being a part of your team. Don't hesitate to contact with me.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Brads IT Academy",
+        "certificationName": "Graphic Design",
+        "year": 2012
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2012,
+        "countryCode": "US",
+        "school": "University of Louisville",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6440565f07789005c5f",
+        "name": "Corporate branding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Corporate branding expert"
+      },
+      {
+        "id": "617fa6650565f077890065e7",
+        "name": "Minimalist logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Minimalist logo designer"
+      },
+      {
+        "id": "617fa63d0565f07789005a55",
+        "name": "Brand identity design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Brand identity designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64fb48cbb16c5c0001bd14da",
+          "title": "Florence",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64fb48cbb16c5c0001bd14db",
+                "attachment": {
+                  "metadata": {
+                    "height": 2040,
+                    "width": 2040
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/8de3cba213add9db38ade162ec02587f-1694189728421/Florence.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64fb4a505cafa900018e8daf",
+          "title": "Beatrix_meetings_and_events",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64fb4a505cafa900018e8db0",
+                "attachment": {
+                  "metadata": {
+                    "height": 2000,
+                    "width": 2000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7259c5ffd1092a53c1db55e03941dd30-1694190151733/Beatrix_meetings_and_events.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64fb4bbeb16c5c0001bd166a",
+          "title": "Celeste_cosmetic",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64fb4bbeb16c5c0001bd166b",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1080
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/4c02ae1f0d8a69d15227cc2f1cdbb849-1694190509840/Celeste_cosmetic.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64fb4ec827205c0001e34950",
+          "title": "THEORA",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64fb4ec827205c0001e34951",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1080
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/09dce634accd48e34b6ca6a863b3a7d4-1694191265076/THEORA.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.7,
+      "count": 106
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 3
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "SGD",
+    "rate": 1.4122632309,
+    "template": "S${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "S$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6565974efe2b880001917da9",
+          "comment": "I needed to improve an existing logo for an existing brand and also create a new logo for a new brand.\nI am very happy with both results.\nI got the first proposals within two days. Then selected the ones I liked best. Then Sallie worked on these implementing my ideas. And that is where she is really super: Getting your own ideas into a design which is your idea come to life. Such results were excellent and are used now.",
+          "comment_language": "en",
+          "username": "dandd1998",
+          "reviewer_country_code": "DE",
+          "created_at": "2023-11-28T08:42:10",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO411AE1D6742",
+          "score": 0.8460388,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 331134038,
+          "gig_slug": "do-highly-immaculate-modern-and-creative-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 100,
+          "price_range_end": 200,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6552231a163f3500012d3c72",
+          "comment": "Very easy communication with Sallie and extremely responsive.   This was my first-time using Fiverr and didn't know what to expect but everything went smoothly, and I am pleased with the outcome.   I would definitely use Sallie again for my next project.",
+          "comment_language": "en",
+          "username": "guenbe",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-13T13:25:41",
+          "value": 4,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO617765A4782",
+          "score": 0.7778348,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 331134038,
+          "gig_slug": "do-highly-immaculate-modern-and-creative-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 100,
+          "price_range_end": 200,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6556a9aedeb3cb00017ca6ed",
+          "comment": "Sallie is phenomenal. Not only does she deliver incredible results, but she is so much fun to work with. I was a bit skeptical reaching out to an unknown person, but Sallie really made it worthwhile. I highly recommend hiring her. I trusted her with my business logo and she did not disappoint. I am very grateful for her services.",
+          "comment_language": "en",
+          "username": "extra94",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-17T03:27:48",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO523279F70C7",
+          "score": 0.72824144,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 331134038,
+          "gig_slug": "do-highly-immaculate-modern-and-creative-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 100,
+          "price_range_end": 200,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655305fc163f3500012df994",
+          "comment": "Sallie was incredible to work with. I was apprehensive to place my first order on Fiverr but working with Sallie was an amazing experience. Beautiful product, very responsive, prompt in her delivery and overall a great person to work with. Thank you Sallie !!!!!",
+          "comment_language": "en",
+          "username": "mariawue",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-14T05:33:08",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41D6DB9C006",
+          "score": 0.6760962,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 331134038,
+          "gig_slug": "do-highly-immaculate-modern-and-creative-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 100,
+          "price_range_end": 200,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b43435756b9d0001753e5e",
+          "comment": "Sallie did an amazing job in bringing my vision to life. I gave little direction but she delivered on what I was looking for & in a quick timeframe. She also provided revisions in a quick manner as well. I will definitely be requesting her services again in the future!",
+          "comment_language": "en",
+          "username": "dragonmango",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-27T05:59:32",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2BFC6B0142",
+          "score": 0.63620996,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 331134038,
+          "gig_slug": "do-highly-immaculate-modern-and-creative-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 200,
+          "price_range_end": 400,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 106,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 11,
+        "business": 4
+      },
+      "user_id": 157027433,
+      "seller_username": "sallie_creative",
+      "star_summary": {
+        "communication_valuation": 4.8,
+        "recommend_valuation": 4.7,
+        "service_valuation": 4.7
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 12
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 87
+        }
+      ],
+      "average_valuation": 4.7
+    },
+    "selling_reviews": {
+      "user_id": 157027433,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 157027433,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 331134038,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-highly-immaculate-modern-and-creative-business-logo-design",
+      "title": "do highly modern luxury and creative business logo design",
+      "seller_name": "sallie_creative",
+      "seller_id": 157027433,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/124d0fa9ef531e54107396003914eb47-1690822902222/408fb11b-74c1-4114-bed4-e724152ca92a.jpg",
+      "seller_display_name": "Sallie D.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/331134038/original/1370228837b7e36393525367cc42f17f20fcfaee.jpg",
+          "type": "ImageAsset",
+          "id": "331134038_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/331134038/original/1b996792d89c3c7bd079ef098c3a792274b2619e.jpg",
+          "type": "ImageAsset",
+          "id": "331134038_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/331134038/original/98c780a24694129f18b00fbf3d9e6c703c88fe3c.jpg",
+          "type": "ImageAsset",
+          "id": "331134038_3"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "64f70745e890c10001b22bb2",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "hand_drawn"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "wordmark",
+            "abstract"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 106,
+      "buying_review_rating": 4.7,
+      "seller_url": "/sallie_creative",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 106,
+        "score": 4.7138367
+      },
+      "gig_url": "/sallie_creative/do-highly-immaculate-modern-and-creative-business-logo-design",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}
