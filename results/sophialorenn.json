@@ -1,0 +1,170 @@
+{
+  "seller": {
+    "user": {
+      "id": "161286553",
+      "name": "sophialorenn",
+      "isActivationCompleted": true,
+      "joinedAt": 1696449908,
+      "profile": {
+        "displayName": "Sophia"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/c26b2bf5506e279dec0391652692efe1-1696491623939/4faf7b76-01c6-48ec-a8d9-8782fbd15a28.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "WordPress Developer, Elementor, and eCommerce expert",
+    "description": "I'm Sophia, a certified Web Developer with over 5+ years of experience. I’m an expert in WordPress Website Development and Motion graphic explainer video .I've developed 500+ websites in the last five years. I also have a skilled and experienced team for doing all kinds of websites. Client satisfaction is my main goal. So I always prioritize all my client's requirements and give my best effort to achieve their success. Send me a message if you have any questions.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa65f0565f07789006463",
+        "name": "Kinetic typography",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Kinetic typography expert"
+      },
+      {
+        "id": "617fa64e0565f07789005f5a",
+        "name": "Explainer video",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Explainer video creator"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 161286553,
+      "seller_username": "sophialorenn",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 161286553,
+      "reviews": [
+        {
+          "id": "652aa16fdcd88800018c2d18",
+          "comment": "It was great working with you .I'm looking forward to working with you again in the Future. Thank you ",
+          "comment_language": "en",
+          "username": "saradeveloper_",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/67534136576182c78688c4a77fa809f4-1707030967076/7d51b98f-052f-42a6-b7e2-914c2679f55f.png",
+          "created_at": "2023-10-14T14:10:55",
+          "value": 5
+        },
+        {
+          "id": "652a2a09e64916000184725c",
+          "comment": "Amazing Experience ",
+          "comment_language": "unknown",
+          "username": "ft_developer",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/605e99a0b1646bf91c3718cf129bcac4-1691121914219/1613b5d3-f867-4bc1-9c85-7534ce2b09d5.png",
+          "created_at": "2023-10-14T05:41:29",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161286553,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

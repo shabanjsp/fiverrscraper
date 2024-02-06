@@ -1,0 +1,853 @@
+{
+  "seller": {
+    "user": {
+      "id": "140233535",
+      "name": "andynamic",
+      "isActivationCompleted": true,
+      "joinedAt": 1671144640,
+      "profile": {
+        "displayName": "Andy"
+      },
+      "address": {
+        "countryName": "Germany",
+        "countryCode": "DE"
+      },
+      "languages": [
+        {
+          "code": "DE",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/f1921ed9e37a9552dc45d1cd8e55bda8-1671144936757/267016a5-4464-4a92-a35f-aef010d4d1e9.jpeg"
+    },
+    "approvedGigsCount": 6,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "291263507"
+        },
+        {
+          "id": "291919408"
+        },
+        {
+          "id": "291925498"
+        },
+        {
+          "id": "292083290"
+        },
+        {
+          "id": "305919250"
+        },
+        {
+          "id": "308054723"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hey, my name is Andy!  I finished my Masters in Mathematics and I work at our local German newspaper in my free time. Since I travel a lot and want to pursue my hobby, writing, I offer a few services here. \nIf you have any questions, please text me!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "applied mathematics",
+        "toYear": 2022,
+        "countryCode": "DE",
+        "school": "Goethe University",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6390565f0778900591c",
+        "name": "Articles writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Articles writer"
+      },
+      {
+        "id": "617fa6760565f07789006b12",
+        "name": "Translation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Translator"
+      },
+      {
+        "id": "617fa67d0565f07789006d19",
+        "name": "Writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Writer"
+      },
+      {
+        "id": "617fa6710565f07789006951",
+        "name": "SEO writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO writer"
+      },
+      {
+        "id": "617fa6350565f077890057d8",
+        "name": "Ad copy",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Ad copywriter"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 109,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 112,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": 2767
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 435,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 7,
+        "subCategoryId": 522,
+        "nestedCategoryId": 2660
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.7,
+      "count": 27
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.4457364994,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bff78fc23f2d0001401f0e",
+          "comment": "Super Nett und Freundlich nur weiter zu empfehlen. Arbeit ging auch sehr schnell",
+          "comment_language": "de",
+          "username": "aydin1704",
+          "reviewer_country_code": "DE",
+          "created_at": "2024-02-04T20:46:37",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO2C03E16742",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 291925498,
+          "gig_slug": "write-your-german-english-french-cover-letter-letter-of-application",
+          "gig_category": 5,
+          "gig_sub_category": 112,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65ba1cdfda9df3104e85a535",
+          "comment": "Lösungsorientiert und tolle Arbeit! Nicht strikt nach Angebot, sondern auch nach individuellen Wünschen - immer wieder gerne.",
+          "comment_language": "de",
+          "username": "niguchi",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/919ce277d33576b39f882afb107745ed-1686554661705953102.370102/B9C1F74B-95EA-4B33-AD7C-8AC24B824311",
+          "created_at": "2024-01-31T10:13:48",
+          "value": 4,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO15FEDB9681",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 291925498,
+          "gig_slug": "write-your-german-english-french-cover-letter-letter-of-application",
+          "gig_category": 5,
+          "gig_sub_category": 112,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b108d3756b9d000173499b",
+          "comment": "1A sehr schnell und fix",
+          "comment_language": "de",
+          "username": "arbi2018",
+          "reviewer_country_code": "RS",
+          "created_at": "2024-01-24T12:56:27",
+          "value": 5,
+          "reviewer_country": "Serbia",
+          "encrypted_order_id": "FO111EEB3C045",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 291925498,
+          "gig_slug": "write-your-german-english-french-cover-letter-letter-of-application",
+          "gig_category": 5,
+          "gig_sub_category": 112,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 37,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65a41ed3f41e8d56bb30b05f",
+          "comment": "alles war optimal und perfekt",
+          "comment_language": "en",
+          "username": "davoodtorkzad",
+          "reviewer_country_code": "DE",
+          "created_at": "2024-01-14T18:57:18",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO617E89DDB82",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 308054723,
+          "gig_slug": "write-commercial-or-ad-texts-in-german",
+          "gig_category": 5,
+          "gig_sub_category": 435,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6576f4445485e04ba6ac4f3b",
+          "comment": "alles war ganz gut, ich bin sehr zufrieden ",
+          "comment_language": "de",
+          "username": "davoodtorkzad",
+          "reviewer_country_code": "DE",
+          "created_at": "2023-12-18T11:33:12",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO717AA549781",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 291925498,
+          "gig_slug": "write-your-german-english-french-cover-letter-letter-of-application",
+          "gig_category": 5,
+          "gig_sub_category": 112,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 27,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 140233535,
+      "seller_username": "andynamic",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.6,
+        "service_valuation": 4.7
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 23
+        }
+      ],
+      "average_valuation": 4.7,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 140233535,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 140233535,
+    "currency": "EUR",
+    "locale": "de-DE",
+    "timezone": "Europe/Berlin",
+    "recent_utc_offset": -60
+  },
+  "gigsData": [
+    {
+      "gig_id": 291925498,
+      "category_id": 5,
+      "sub_category_id": 112,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-your-german-english-french-cover-letter-letter-of-application",
+      "title": "write your german english french cover letter, letter of application",
+      "seller_name": "andynamic",
+      "seller_id": 140233535,
+      "seller_country": "DE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f1921ed9e37a9552dc45d1cd8e55bda8-1671144936757/267016a5-4464-4a92-a35f-aef010d4d1e9.jpeg",
+      "seller_display_name": "Andy",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/291925498/original/0e08c6d2129623330bae12a5e69b8bff4ef6a5f7.jpg",
+          "type": "ImageAsset",
+          "id": "291925498_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "de",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "french",
+            "german"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "financial_services_banking",
+            "real_estate",
+            "marketing"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 21,
+      "buying_review_rating": 4.8,
+      "seller_url": "/andynamic",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 27,
+        "score": 4.740741
+      },
+      "gig_url": "/andynamic/write-your-german-english-french-cover-letter-letter-of-application",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 292083290,
+      "category_id": 5,
+      "sub_category_id": 109,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "transcribe-video-or-do-audio-to-text-transcription-in-12-hours",
+      "title": "transcribe video or do audio to text transcription in 12 hours",
+      "seller_name": "andynamic",
+      "seller_id": 140233535,
+      "seller_country": "DE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f1921ed9e37a9552dc45d1cd8e55bda8-1671144936757/267016a5-4464-4a92-a35f-aef010d4d1e9.jpeg",
+      "seller_display_name": "Andy",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/292083290/original/9ee8cba5d5a913fa164eccc46bbd86f0ccf4b3e8.jpg",
+          "type": "ImageAsset",
+          "id": "292083290_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "de",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "french",
+            "german"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 4.8,
+      "seller_url": "/andynamic",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 27,
+        "score": 4.740741
+      },
+      "gig_url": "/andynamic/transcribe-video-or-do-audio-to-text-transcription-in-12-hours",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 308054723,
+      "category_id": 5,
+      "sub_category_id": 435,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-commercial-or-ad-texts-in-german",
+      "title": "write commercial or ad texts in german",
+      "seller_name": "andynamic",
+      "seller_id": 140233535,
+      "seller_country": "DE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f1921ed9e37a9552dc45d1cd8e55bda8-1671144936757/267016a5-4464-4a92-a35f-aef010d4d1e9.jpeg",
+      "seller_display_name": "Andy",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/308054723/original/9493a6904095d222079fab4cf1b9a188caef5033.png",
+          "type": "ImageAsset",
+          "id": "308054723_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/308054723/original/f47edfa37fb8fbdc8b95787198123fb591c4f99a.png",
+          "type": "ImageAsset",
+          "id": "308054723_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/308054723/original/db16598405dd57906092b076e021a4fc21a54ef6.png",
+          "type": "ImageAsset",
+          "id": "308054723_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "de",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "german"
+          ]
+        },
+        {
+          "type": "advertising_medium",
+          "value": [
+            "social_media_ads",
+            "video",
+            "flyers_brochures"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 4.2,
+      "seller_url": "/andynamic",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 27,
+        "score": 4.740741
+      },
+      "gig_url": "/andynamic/write-commercial-or-ad-texts-in-german",
+      "is_seller_unavailable": false,
+      "price_i": 35,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 291263507,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2767,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-blog-and-seo-articles-on-any-topic-12-hours",
+      "title": "write blog and SEO articles on any topic 12 hours",
+      "seller_name": "andynamic",
+      "seller_id": 140233535,
+      "seller_country": "DE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f1921ed9e37a9552dc45d1cd8e55bda8-1671144936757/267016a5-4464-4a92-a35f-aef010d4d1e9.jpeg",
+      "seller_display_name": "Andy",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/291263507/original/984c05c3635792ed7c0267f8849217ee24bfbc49.jpg",
+          "type": "ImageAsset",
+          "id": "291263507_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "de",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "german"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "education",
+            "fashion_apparel",
+            "lifestyle",
+            "marketing_advertising",
+            "services"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "persuasive",
+            "professional_formal",
+            "informative"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 4.7,
+      "seller_url": "/andynamic",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 27,
+        "score": 4.740741
+      },
+      "gig_url": "/andynamic/write-blog-and-seo-articles-on-any-topic-12-hours",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 291919408,
+      "category_id": 5,
+      "sub_category_id": 112,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-a-professional-resume-cv-and-cover-letter",
+      "title": "write a professional resume, CV and cover letter",
+      "seller_name": "andynamic",
+      "seller_id": 140233535,
+      "seller_country": "DE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f1921ed9e37a9552dc45d1cd8e55bda8-1671144936757/267016a5-4464-4a92-a35f-aef010d4d1e9.jpeg",
+      "seller_display_name": "Andy",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/291919408/original/4f0c545a4978c29b76a1acd14e9ec2a6f49fc798.jpg",
+          "type": "ImageAsset",
+          "id": "291919408_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "de",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "french",
+            "german"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "business",
+            "financial_services_banking",
+            "marketing"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/andynamic",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 27,
+        "score": 4.740741
+      },
+      "gig_url": "/andynamic/write-a-professional-resume-cv-and-cover-letter",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 305919250,
+      "category_id": 7,
+      "sub_category_id": 522,
+      "nested_sub_category_id": 2660,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "coach-you-with-my-personalised-training-plan",
+      "title": "coach you with my personalised training plan",
+      "seller_name": "andynamic",
+      "seller_id": 140233535,
+      "seller_country": "DE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f1921ed9e37a9552dc45d1cd8e55bda8-1671144936757/267016a5-4464-4a92-a35f-aef010d4d1e9.jpeg",
+      "seller_display_name": "Andy",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/305919250/original/a39d930e003ea08d8ee0a8e9111be2c3e77e9419.jpg",
+          "type": "ImageAsset",
+          "id": "305919250_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "de",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "goals",
+          "value": [
+            "lose_weight",
+            "get_stronger",
+            "maintain_fitness"
+          ]
+        },
+        {
+          "type": "equipment",
+          "value": [
+            "full_gym"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/andynamic",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 27,
+        "score": 4.740741
+      },
+      "gig_url": "/andynamic/coach-you-with-my-personalised-training-plan",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

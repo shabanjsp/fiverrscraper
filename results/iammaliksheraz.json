@@ -1,0 +1,718 @@
+{
+  "seller": {
+    "user": {
+      "id": "148974920",
+      "name": "iammaliksheraz",
+      "isActivationCompleted": true,
+      "joinedAt": 1681068395,
+      "profile": {
+        "displayName": "Sheraz"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/bd1a28a5d0892b5df379ac4008a26e9a-1688568673098/f064b1fb-4fe1-4860-9c6a-ae253624746a.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "326094325"
+        },
+        {
+          "id": "326770796"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Empowering Businesses through TailorMade Development!",
+    "description": "With 7 years of experience as an expert website developer, I excel in creating visually stunning and highly functional websites. I specialize in responsive designs, custom web applications, and e-commerce platforms. Meticulous attention to detail, a keen eye for aesthetics, and a client-centric approach define my work. I optimize websites for search engines, integrate social media, and implement effective marketing strategies. Timely delivery, open communication, and a commitment to excellence are my hallmarks. Let's collaborate and bring your web development projects to life!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "software engineering",
+        "toYear": 2016,
+        "countryCode": "PK",
+        "school": "superior University",
+        "degreeTitle": "OTHER"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa66a0565f0778900675d",
+        "name": "PHP Laravel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP Laravel developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c83",
+        "name": "Website customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website customization expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c6c",
+        "name": "Webflow",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Webflow expert"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6590565f07789006299",
+        "name": "HubSpot",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Hubspot expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e69",
+        "name": "Elementor",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress customization expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf7",
+        "name": "Wordpress hosting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress host"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfa",
+        "name": "WordPress performance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress performance expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfb",
+        "name": "WordPress security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress security expert"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      },
+      {
+        "id": "617fa6710565f07789006971",
+        "name": "Shopify store design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify store designer"
+      },
+      {
+        "id": "617fa6710565f07789006970",
+        "name": "Shopify product listing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify product listing expert"
+      },
+      {
+        "id": "61a4d8b4758d756a25307be9",
+        "name": "Shopify SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify SEO expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa63c0565f07789005a06",
+        "name": "Blockchain development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blockchain developer"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6590565f07789006295",
+        "name": "HTML5 banner development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 banner developer"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WooCommerce expert"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP developer"
+      },
+      {
+        "id": "617fa66a0565f0778900675c",
+        "name": "PHP development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP developer"
+      },
+      {
+        "id": "617fa66d0565f07789006849",
+        "name": "Python",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Python developer"
+      },
+      {
+        "id": "617fa66d0565f0778900684b",
+        "name": "Python Django",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Python Django developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 5
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "64f2d719e9410700019f1e7d",
+          "comment": "I recently hired Sheraz for website development, and it was a fantastic experience. Sheraz delivered a sleek, modern website that perfectly matched my brand, and his technical skills ensured a fast, responsive, and error-free site. He met deadlines with precision and communicated effectively throughout the project. In short, Sheraz is a web development pro, and I highly recommend his services. Thanks for an outstanding job!",
+          "comment_language": "en",
+          "username": "adolfinegalland",
+          "reviewer_country_code": "DE",
+          "created_at": "2023-09-02T06:35:20",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/c90a41f25377f73684d7639fbb461363-1693634361/Screenshot_20230902-105759_Fiverr.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/c90a41f25377f73684d7639fbb461363-1693634361/Screenshot_20230902-105759_Fiverr.jpg",
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO31CE8D11007",
+          "score": 0,
+          "reviewer_industry": [
+            "medical_or_pharmaceutical"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 326094325,
+          "gig_slug": "design-and-develop-custom-websites-for-your-business",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 191,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "64ef801fa112ab00014efbad",
+          "comment": "What can I say, Sheraz is an All-Star! I would recommend him to anyone looking to have a website done in a professional manner and with an eye for detail. It's the little things that matter, and Sheraz was on point with ALL of our requests. We are extremely satisfied with his work. Definitely a Pro! Thank you again Sheraz!",
+          "comment_language": "en",
+          "username": "irenejsmith",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8bdd509e9358913bdf8b8932c57cd027-1660631877806/77a8d8c3-d529-4c28-ac4e-cd846c53f259.jpg",
+          "created_at": "2023-08-30T17:45:38",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/d32398012f378c71d0dbd5f890d2e7e8-1693417347/Screenshot_20230830-224143_Chrome.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/d32398012f378c71d0dbd5f890d2e7e8-1693417347/Screenshot_20230830-224143_Chrome.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82873225946",
+          "score": 0,
+          "reviewer_industry": [
+            "medical_or_pharmaceutical"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 326094325,
+          "gig_slug": "design-and-develop-custom-websites-for-your-business",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 323,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "64eee3f3a112ab00014e7336",
+          "comment": "I'm extremely pleased with Sheraz's OnPage SEO service! His expertise improved my website's visibility and rankings. From optimizing meta tags to enhancing site speed, Sheraz's approach showed great results. Thanks to him, my website now attracts more organic traffic. Highly recommended!",
+          "comment_language": "en",
+          "username": "kevinjwray",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9739100634423986d515977d3ce6dbe8-1660632689342/5628578d-dd4b-4c14-b32d-0a39efb4ad13.jpg",
+          "created_at": "2023-08-30T06:38:48",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/db5bdc9cbb7b20e507fec00b3ed8257a-1693376576/20230830_112206.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/db5bdc9cbb7b20e507fec00b3ed8257a-1693376576/20230830_112206.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41154DDA642",
+          "score": 0,
+          "reviewer_industry": [
+            "technology"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 326094325,
+          "gig_slug": "design-and-develop-custom-websites-for-your-business",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 189,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "64ece3f3a112ab00014d0582",
+          "comment": "Was very impressed! He takes pride in his work and is very professional. You can ask him anything and he will always look into it for you! I will use him again in the future! Not only did he do the work, but he helped me understand my site a bit better when it comes to SEO and all the other technicalities. Thank you for all your work and help. I would fully recommend his services to anyone!",
+          "comment_language": "en",
+          "username": "hankabbey18",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-08-28T18:40:06",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/472d53f401052f39333b712290a03efb-1693238309/Screenshot_20230828-205631_Chrome.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/472d53f401052f39333b712290a03efb-1693238309/Screenshot_20230828-205631_Chrome.jpg",
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO317195DF185",
+          "score": 0,
+          "reviewer_industry": [
+            "technology",
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 326094325,
+          "gig_slug": "design-and-develop-custom-websites-for-your-business",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 354,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "64e9f56c7da64000017a2b80",
+          "comment": "Excellent work",
+          "comment_language": "unknown",
+          "username": "malikshahzad89",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/27b52f75e5856128e2b1e933ef2ba0c2-1684079548484/d0d9efa5-847e-40d9-a78b-cb7931195fbb.jpeg",
+          "created_at": "2023-08-26T12:53:21",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/e3fbb8aa929e27257cb3455fac7ee8ba-1692972827/20230825_191130.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/e3fbb8aa929e27257cb3455fac7ee8ba-1692972827/20230825_191130.jpg",
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO1114F4D4E45",
+          "score": 0,
+          "reviewer_industry": [
+            "technology"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 326094325,
+          "gig_slug": "design-and-develop-custom-websites-for-your-business",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 5,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 5,
+        "business": 0
+      },
+      "user_id": 148974920,
+      "seller_username": "iammaliksheraz",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 5
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+        "technology": "Technology",
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 148974920,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 148974920,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 326094325,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-and-develop-custom-websites-for-your-business",
+      "title": "create perfect stunning business website",
+      "seller_name": "iammaliksheraz",
+      "seller_id": 148974920,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/bd1a28a5d0892b5df379ac4008a26e9a-1688568673098/f064b1fb-4fe1-4860-9c6a-ae253624746a.jpg",
+      "seller_display_name": "Sheraz",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/326094325/original/ad8477a03aa556f25ab1744219464184bcc931f1.png",
+          "type": "ImageAsset",
+          "id": "326094325_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "landing_page"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "php",
+            "python",
+            "java",
+            "kotlin"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "analytics",
+            "form",
+            "chat",
+            "membership",
+            "faq",
+            "booking"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/iammaliksheraz",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/iammaliksheraz/design-and-develop-custom-websites-for-your-business",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 326770796,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "wordpress-website-design-customization-blog-site-landing-page",
+      "title": "create responsive wordpress website design",
+      "seller_name": "iammaliksheraz",
+      "seller_id": 148974920,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/bd1a28a5d0892b5df379ac4008a26e9a-1688568673098/f064b1fb-4fe1-4860-9c6a-ae253624746a.jpg",
+      "seller_display_name": "Sheraz",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/326770796/original/67788c0ec61e208e570672aec80f74007bfb91d9.jpg",
+          "type": "ImageAsset",
+          "id": "326770796_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/326770796/original/2cf83e2187c0dcb2634e05c1973091bb5207fd65.jpg",
+          "type": "ImageAsset",
+          "id": "326770796_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/326770796/original/89c1c221fdcc8f9fffdabdbc9f86e757843a2f2c.jpg",
+          "type": "ImageAsset",
+          "id": "326770796_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "shipping",
+            "inventory",
+            "form",
+            "chat",
+            "map",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "all_in_one_seo_pack",
+            "amazon",
+            "contact_form_7",
+            "facebook",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "woocommerce",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/iammaliksheraz",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/iammaliksheraz/wordpress-website-design-customization-blog-site-landing-page",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

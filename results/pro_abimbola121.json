@@ -1,0 +1,784 @@
+{
+  "seller": {
+    "user": {
+      "id": "162016018",
+      "name": "pro_abimbola121",
+      "isActivationCompleted": true,
+      "joinedAt": 1697458344,
+      "profile": {
+        "displayName": "Abimbola"
+      },
+      "address": {
+        "countryName": "Nigeria",
+        "countryCode": "NG"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/4f25cd49b9498ecdee5f72d825872961-1697462539645/03e1ca2d-1a9b-456a-b613-5bda33f0dcf5.png"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "345564703"
+        },
+        {
+          "id": "345569168"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "A Seasoned Ecommerce Developer and Shopify Marketing Expert!",
+    "description": "Hello there! I'm Abimbola, a seasoned e-commerce marketing specialist with a passion for helping businesses thrive in the digital world. With over 3 years of experience, I've successfully boosted the online presence and sales of numerous clients across various niches. My expertise lies in crafting tailored strategies for e-commerce platforms, including SEO, engaging social media campaigns, and targeted email marketing. Whether you're just starting your brand or you want to boost sales of an existing brand, I'm here to provide the necessary tools and guidance to achieve success. Contact me now.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Coursera",
+        "certificationName": "Introduction to search Engine Optimization",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Facebook",
+        "certificationName": "Facebook marketing",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Digital Marketing",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "urban and regional planning",
+        "toYear": 2021,
+        "countryCode": "NG",
+        "school": "Olabisi Onabanjo University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      },
+      {
+        "id": "617fa6710565f0778900696f",
+        "name": "Shopify marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify marketing expert"
+      },
+      {
+        "id": "61a4d8b4758d756a25307be9",
+        "name": "Shopify SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify SEO expert"
+      },
+      {
+        "id": "617fa6710565f0778900696d",
+        "name": "Shopify dropshipping",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify dropshipping expert"
+      },
+      {
+        "id": "617fa6710565f07789006970",
+        "name": "Shopify product listing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify product listing expert"
+      },
+      {
+        "id": "617fa6710565f07789006971",
+        "name": "Shopify store design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify store designer"
+      },
+      {
+        "id": "617fa66f0565f07789006903",
+        "name": "Sales funnel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Sales funnel expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e82",
+        "name": "Email marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email marketer"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Social media marketer"
+      },
+      {
+        "id": "617fa64f0565f07789005f72",
+        "name": "Facebook ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook ads expert"
+      },
+      {
+        "id": "617fa6760565f07789006afa",
+        "name": "TikTok marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "TikTok marketer"
+      },
+      {
+        "id": "617fa6720565f077890069af",
+        "name": "Snapchat ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Snapchat ads expert"
+      },
+      {
+        "id": "617fa6550565f07789006172",
+        "name": "Google ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google ad manager"
+      },
+      {
+        "id": "617fa6550565f07789006175",
+        "name": "Google analytics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google analytics expert"
+      },
+      {
+        "id": "617fa6550565f07789006190",
+        "name": "Google Search Console",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google Search Console expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f82",
+        "name": "Facebook shop",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook shop expert"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Customer service representative"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 325,
+        "nestedCategoryId": 2405
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2610
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65b0f93f270b3b0001eab88f",
+          "title": "Email Campaign",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "65b0f93f270b3b0001eab890",
+                "attachment": {
+                  "metadata": {
+                    "height": 1200,
+                    "width": 600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/2b7d4c12d01f1b8023966dd19497e709-1706096809941/Add%20a%20heading%20(2).gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "657a1d02909b8600014ee86d",
+          "title": "Shopify Store Redesign",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65b560bd65004c000184ab8b",
+                "attachment": {
+                  "metadata": {
+                    "height": 7060,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/da5f00e2f921253aa210970d33fc6ece-1706385486789/FM.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6565ba7f660c320001fc12a9",
+          "title": "Product SEO",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "6565ba7f660c320001fc12aa",
+                "attachment": {
+                  "metadata": {
+                    "height": 1461,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/6273ffcbeb93e58873079eb6eafc209c-1701165678583/WindfallCo-%C2%B7-StoreSEO-%C2%B7-Shopify1After.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65787577488bd700018b1274",
+          "title": "Facebook Ads Setup",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65787577488bd700018b1275",
+                "attachment": {
+                  "metadata": {
+                    "height": 651,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/e128c70f2bcd5a43db5e316ee930be49-1702393199191/Ads-Manager-Manage-ads-Campaigns.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6565baf62d78240001c4f7e1",
+          "title": "Domain Submission",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "6565baf62d78240001c4f7e2",
+                "attachment": {
+                  "metadata": {
+                    "height": 587,
+                    "width": 1365
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/8f8087243db14466c19b060d38af4323-1701165798887/code%20integration.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6581bd4e1b049e00014e26b8",
+          "title": "POP-UP FORM",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6581bd4e1b049e00014e26b9",
+                "attachment": {
+                  "metadata": {
+                    "height": 1600,
+                    "width": 720
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/6953793ee2525e98e3d32f366238ed85-1703001368474/Screenshot_20230310-173633.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6593ede239649200012c0174",
+          "title": "TikTok Page & Business Page",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6593ede239649200012c0175",
+                "attachment": {
+                  "metadata": {
+                    "height": 607,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/8fc92b41d7e026e4d2ed2db84f668fa2-1704193392253/Dekiv.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 7
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1697461901
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 29
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65a7d43456ae57000181e53f",
+          "comment": "Traffic boost success! Thanks to Abimbola, our Shopify store experienced a significant increase in visitors. His targeted strategies and keen understanding of online marketing were instrumental in driving results.",
+          "comment_language": "en",
+          "username": "b_khloe",
+          "reviewer_country_code": "AU",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/249e461fe170ed68604b0e34fc0f13a0-1701206232015/987d6ab7-a804-4e68-ab6c-7f07179c5dd2.jpg",
+          "created_at": "2024-01-17T13:23:19",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO411F20F6BC2",
+          "score": 0.6716176,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 345569168,
+          "gig_slug": "promote-shopify-store-boost-shopify-sales-shopify-marketing-shopify-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "gig_nested_sub_category": 2405,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 59,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "656b21789b6e4000017cce56",
+          "comment": "Dennis has delivered on what we agreed upon. My entire experience was phenomenal from start to finish. Not only would I recommend him for your projects, but I plan on contacting him again for my future projects as well! ",
+          "comment_language": "en",
+          "username": "parkerlewis243",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/63562884/original/photo.jpg",
+          "created_at": "2023-12-02T12:23:46",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO7296BDAD047",
+          "score": 0.64917475,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 345569168,
+          "gig_slug": "promote-shopify-store-boost-shopify-sales-shopify-marketing-shopify-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "gig_nested_sub_category": 2405,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b2b2a6756b9d0001745b69",
+          "comment": "Abimbola is a marketing and web development pro, crafting creative campaigns and websites that engage audiences and drive sales. Their expertise and passion shine through in every project.",
+          "comment_language": "en",
+          "username": "casadepaulo",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ae7bfa08baf8948093a47b3c5c33d3bb-1634567471706388884.202822/4813EAE3-E0C7-43B3-A894-0AA92E2AB5BE",
+          "created_at": "2024-01-25T19:13:58",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO829F466AE46",
+          "score": 0.5725609,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 345569168,
+          "gig_slug": "promote-shopify-store-boost-shopify-sales-shopify-marketing-shopify-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "gig_nested_sub_category": 2405,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6563f229b4b7f1000143124f",
+          "comment": "Fantastic results, Abimbola went above and beyond what I expected. Communication was easy and the end result is exactly what I wanted. \nHighly recommend for your Shopify SEO and verifications. ",
+          "comment_language": "en",
+          "username": "windfallco",
+          "reviewer_country_code": "AU",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3a1392e52aaea5740d30978e6a8c2b11-1644038591700722119.499779/5D6B70CD-D337-4A46-A206-2B24CF53BAFB",
+          "created_at": "2023-11-27T01:35:19",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO511B99B1141",
+          "score": 0.544266,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 345569168,
+          "gig_slug": "promote-shopify-store-boost-shopify-sales-shopify-marketing-shopify-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "gig_nested_sub_category": 2405,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b0efdf500eff518645b722",
+          "comment": "Abimbola paid meticulous attention to detail, ensuring every aspect of our email campaigns was visually stunning. The results spoke for themselves - a project executed flawlessly!",
+          "comment_language": "en",
+          "username": "aitana_be",
+          "reviewer_country_code": "ES",
+          "created_at": "2024-01-24T11:13:49",
+          "value": 5,
+          "reviewer_country": "Spain",
+          "encrypted_order_id": "FO523F04612C7",
+          "score": 0.43450534,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 345569168,
+          "gig_slug": "promote-shopify-store-boost-shopify-sales-shopify-marketing-shopify-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "gig_nested_sub_category": 2405,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 70,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 29,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 4,
+        "business": 12
+      },
+      "user_id": 162016018,
+      "seller_username": "pro_abimbola121",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 28
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 162016018,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162016018,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Lagos",
+    "recent_utc_offset": -60
+  },
+  "gigsData": [
+    {
+      "gig_id": 345569168,
+      "category_id": 2,
+      "sub_category_id": 325,
+      "nested_sub_category_id": 2405,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "promote-shopify-store-boost-shopify-sales-shopify-marketing-shopify-promotion",
+      "title": "boost shopify store sales with complete shopify marketing, or website promotion",
+      "seller_name": "pro_abimbola121",
+      "seller_id": 162016018,
+      "seller_country": "NG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f25cd49b9498ecdee5f72d825872961-1697462539645/03e1ca2d-1a9b-456a-b613-5bda33f0dcf5.png",
+      "seller_display_name": "Abimbola",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/345569168/original/8663450d3c9af202cf8715468b590ff3465cb9d6.png",
+          "type": "ImageAsset",
+          "id": "345569168_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/345569168/original/6681cb4886301fe548374973b3a2600a788f7342.png",
+          "type": "ImageAsset",
+          "id": "345569168_2"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "etsy",
+            "shopify",
+            "wix"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "animals_pets",
+            "beauty_cosmetics",
+            "fashion_apparel",
+            "gaming",
+            "sports_fitness"
+          ]
+        },
+        {
+          "type": "promotion_method",
+          "value": [
+            "paid_ads",
+            "classified_ads"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 29,
+      "buying_review_rating": 5,
+      "seller_url": "/pro_abimbola121",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 29,
+        "score": 4.954023
+      },
+      "gig_url": "/pro_abimbola121/promote-shopify-store-boost-shopify-sales-shopify-marketing-shopify-promotion",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 345564703,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2610,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-shopify-dropshipping-store-shopify-store-or-shopify-website-development",
+      "title": "create shopify dropshipping store, shopify store, or shopify website development",
+      "seller_name": "pro_abimbola121",
+      "seller_id": 162016018,
+      "seller_country": "NG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f25cd49b9498ecdee5f72d825872961-1697462539645/03e1ca2d-1a9b-456a-b613-5bda33f0dcf5.png",
+      "seller_display_name": "Abimbola",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/345564703/original/02e69d91bb5ea3504cd360fb5a9095e9fc70b834.png",
+          "type": "ImageAsset",
+          "id": "345564703_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/345564703/original/2ce1f2a28adf1d1e1132dd215675af24e9582ac1.png",
+          "type": "ImageAsset",
+          "id": "345564703_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "inventory",
+            "chat",
+            "gallery"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "free_shipping_bar",
+            "product_reviews",
+            "product_filter_search",
+            "smart_seo"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/pro_abimbola121",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 29,
+        "score": 4.954023
+      },
+      "gig_url": "/pro_abimbola121/create-shopify-dropshipping-store-shopify-store-or-shopify-website-development",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

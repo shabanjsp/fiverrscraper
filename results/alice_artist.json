@@ -1,0 +1,554 @@
+{
+  "seller": {
+    "user": {
+      "id": "158238138",
+      "name": "alice_artist",
+      "isActivationCompleted": true,
+      "joinedAt": 1692367082,
+      "profile": {
+        "displayName": "Alice L."
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ea6d75e803df47e81b885de3ec3ba5e5-1692379000890/59aa87b0-7217-4390-ba00-780848a56f67.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "334711558"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Lets find the right solution for your business!",
+    "description": "Hi, I'm Alice, as an accomplished graphic designer, brand consultant, and digital marketer, I bring over a decade of experience to the table. My main services are logo design and branding. My design approach is characterized by its simplicity, recognizability, and minimalism.\n\nMy goal is to provide every client with meaningful work that helps them accomplish their business goals. So come on, let’s create amazing work together with Positive Attitude!!!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "visual communications",
+        "toYear": 2015,
+        "countryCode": "US",
+        "school": "University of Central Florida",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa63d0565f07789005a55",
+        "name": "Brand identity design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Brand identity designer"
+      },
+      {
+        "id": "617fa6650565f077890065e7",
+        "name": "Minimalist logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Minimalist logo designer"
+      },
+      {
+        "id": "617fa6650565f0778900660f",
+        "name": "Modern logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Modern logo designer"
+      },
+      {
+        "id": "617fa6780565f07789006b65",
+        "name": "Unique logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Unique logo designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64fcd26ef680e700013eeb67",
+          "title": "Project_1",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64fcd26ef680e700013eeb68",
+                "attachment": {
+                  "metadata": {
+                    "height": 794,
+                    "width": 794
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1dffc039a7676b52241c132a3cd4906b-1694290534730/Portfolio1.JPG"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64fcd2bcdd540c00010280cd",
+          "title": "Project_2",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64fcd2e05cafa900018f172c",
+                "attachment": {
+                  "metadata": {
+                    "height": 758,
+                    "width": 1024
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/e9ef806ec44337a205ed3dc49af609ee-1694290652333/Portfolio2.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64fcd34a4f0ce90001c3642e",
+          "title": "Project_3",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64fcd34a4f0ce90001c3642f",
+                "attachment": {
+                  "metadata": {
+                    "height": 584,
+                    "width": 888
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/a731747a4158cb209b1e5f38fb84eb98-1694290753254/Portfolio3.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64fcd5e74f0ce90001c364cd",
+          "title": "Project_4",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64fcd5e74f0ce90001c364ce",
+                "attachment": {
+                  "metadata": {
+                    "height": 744,
+                    "width": 1032
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/e34ff528059c695db199298c9be3b795-1694291427210/Portfolio4.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "653549f1a1ba2b00017125ad",
+          "title": "Project_05",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65354a624a15b40001108401",
+                "attachment": {
+                  "metadata": {
+                    "height": 622,
+                    "width": 1000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1d749da20668d4cd756b7c1bf43dc612-1697991245706/portfolio.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 5
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 18
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 15
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65aa154749d34f2171b37f0d",
+          "comment": "The designer's attention to detail in the logo's scalability is commendable. It ensures that the design maintains its integrity whether viewed on a small business card or a large billboard.\n",
+          "comment_language": "en",
+          "username": "janelori47",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-19T09:55:34",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217EED6A986",
+          "score": 0.539264,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 334711558,
+          "gig_slug": "create-modern-minimal-and-highly-unique-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 313,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ab7c041a93525059136283",
+          "comment": "Olivia is an incredibly talented and gifted designer. She effortlessly transformed our initial ideas into brilliant concepts with remarkable speed. The overall positive experience is heightened by her pleasant demeanor and swift response times. Working with Olivia was a pleasure, and we wholeheartedly recommend her. Without a doubt, we'll be booking her again in the future.",
+          "comment_language": "en",
+          "username": "madalyn_barnes",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/286852d9f49d83f4635a7073c9bc5fd9-1680498612476/270e7e98-7240-4d86-96b1-89689cf76552.jpg",
+          "created_at": "2024-01-21T17:31:41",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/a09fa014fc9471651cbbcfd15476c086-1705675370/Skeleton%20Logo.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/a09fa014fc9471651cbbcfd15476c086-1705675370/Skeleton%20Logo.jpg",
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO411F495A3C2",
+          "score": 0.5256286,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 334711558,
+          "gig_slug": "create-modern-minimal-and-highly-unique-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 246,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "659d26dc3645fb37f83f3ceb",
+          "comment": "Designed by this talent, boasts a dynamic visual impact that commands attention. It's not static; it's a living, breathing representation of our brand's energy. The ability to infuse dynamism into design elements showcases their understanding of the evolving nature of brands in a dynamic market.",
+          "comment_language": "en",
+          "username": "janelori47",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-09T17:04:38",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/d4d7db39b04cb550cd40e76549e55b91-1704732269/CRISP%20Logo.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/d4d7db39b04cb550cd40e76549e55b91-1704732269/CRISP%20Logo.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO111E86E1545",
+          "score": 0.4981088,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 334711558,
+          "gig_slug": "create-modern-minimal-and-highly-unique-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 313,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65b4d38441e5c52d8c231cae",
+          "comment": "Working with this logo expert was like witnessing a design ballet – graceful, precise, and breathtaking. Each element seamlessly danced into place, creating a visual performance that left an indelible mark.\n",
+          "comment_language": "en",
+          "username": "johnwilliams031",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-28T17:10:07",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51DF5A9E085",
+          "score": 0.44463596,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 334711558,
+          "gig_slug": "create-modern-minimal-and-highly-unique-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 17,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65afc2bc7716c4625297ef13",
+          "comment": "From the first draft to the final revision, the designer showcased a dedication to perfection. Their commitment to refining details until they reached excellence was evident in the polished final deliverables.\n",
+          "comment_language": "en",
+          "username": "leonlambert1",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-23T17:56:05",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/85ae933967364c859d09ddae1064053b-1705676052/stel%20eye%20logo.JPG",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/85ae933967364c859d09ddae1064053b-1705676052/stel%20eye%20logo.JPG",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO71DEF123383",
+          "score": 0.39800638,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 334711558,
+          "gig_slug": "create-modern-minimal-and-highly-unique-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 18,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 15,
+        "business": 1
+      },
+      "user_id": 158238138,
+      "seller_username": "alice_artist",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 18
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 158238138,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 158238138,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 334711558,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-modern-minimal-and-highly-unique-business-logo-design",
+      "title": "create modern minimal and highly unique business logo design",
+      "seller_name": "alice_artist",
+      "seller_id": 158238138,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ea6d75e803df47e81b885de3ec3ba5e5-1692379000890/59aa87b0-7217-4390-ba00-780848a56f67.jpg",
+      "seller_display_name": "Alice L.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/334711558/original/860500764b0fe881dc8e25ebd9aa42fd54e818c3.jpg",
+          "type": "ImageAsset",
+          "id": "334711558_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/334711558/original/4e7257d0cd64b8bf82389c31027f93a1342b1820.jpg",
+          "type": "ImageAsset",
+          "id": "334711558_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/334711558/original/e79a6c343d9c6a7d08fa6c6e712ffad9394a99e9.jpg",
+          "type": "ImageAsset",
+          "id": "334711558_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175802287",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/85ae933967364c859d09ddae1064053b-1705676052/stel%20eye%20logo.JPG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175801850",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a09fa014fc9471651cbbcfd15476c086-1705675370/Skeleton%20Logo.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175675538",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/aa20d9003016eaeb073f6287139a4a22-1705429778/Zith%20logo.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175330785",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d4d7db39b04cb550cd40e76549e55b91-1704732269/CRISP%20Logo.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170312435",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/de23781fa1be30009c13959a2423c538-1694291213/WaveRide%20Adventures%20logo.JPG",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "64fca951175a0000011932a6",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "hand_drawn"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "wordmark",
+            "abstract"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 18,
+      "buying_review_rating": 5,
+      "seller_url": "/alice_artist",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 18,
+        "score": 5
+      },
+      "gig_url": "/alice_artist/create-modern-minimal-and-highly-unique-business-logo-design",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "seller": {
+    "user": {
+      "id": "23156318",
+      "name": "dizzyfoxx",
+      "isActivationCompleted": true,
+      "joinedAt": 1453027841,
+      "profile": {
+        "displayName": "Sarthakx"
+      },
+      "address": {
+        "countryName": "India",
+        "countryCode": "IN"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ac30419f64555cf2beb89f7636fd246c-1704192168248/1d1f2544-3d08-4842-b74b-88139e71ad59.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "306511818"
+        },
+        {
+          "id": "321152367"
+        },
+        {
+          "id": "355831787"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Happy New Year! ",
+    "description": "My Name is Sarthak, a Motion designer, and a 3D artist. Here to help you with Motion, Cg, Ar. ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "vfx and animation",
+        "toYear": 2015,
+        "countryCode": "IN",
+        "school": "MAAC",
+        "degreeTitle": "CERTIFICATE"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6350565f077890057e1",
+        "name": "Adobe After Effects",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe After Effects expert"
+      },
+      {
+        "id": "617fa63c0565f07789005a05",
+        "name": "Blender",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blender expert"
+      },
+      {
+        "id": "617fa6410565f07789005b61",
+        "name": "Cinema 4D",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cinema 4D expert"
+      },
+      {
+        "id": "617fa6780565f07789006b6b",
+        "name": "Unreal Engine",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Unreal Engine expert"
+      },
+      {
+        "id": "617fa6630565f0778900658b",
+        "name": "Marvelous Designer",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Marvelous Designer expert"
+      },
+      {
+        "id": "617fa6340565f077890057a9",
+        "name": "3D modelling",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "3D modeler"
+      },
+      {
+        "id": "617fa6430565f07789005bfa",
+        "name": "Compositing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Composer"
+      },
+      {
+        "id": "617fa67e0565f07789006d59",
+        "name": "ZBrush",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "ZBrush expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 333,
+        "nestedCategoryId": 2337
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 411,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 234,
+        "nestedCategoryId": 2328
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "653f34ae39ffc1000192dec0",
+          "title": "CADMIUM HERO. ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "653f34ae39ffc1000192dec1",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/jtlokav143wlsbuziefr.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "653f35c9a3ec42000167ed99",
+          "title": "Parah Dice & Brianna",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "653f35c9a3ec42000167ed9a",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/kdpfjibxrxkv1grk7bdv.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6594fef34042c200011a4eb0",
+          "title": "Visualizer ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6594fef34042c200011a4eb1",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/kmy42crehrarf1mwmao9.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6594ff9ceca3df0001f523f9",
+          "title": "No Road Ahead! ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6594ff9ceca3df0001f523fa",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/avupmxjgbthbdyx9rmvu.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6595002b39649200012c5cd5",
+          "title": "Broken!~",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6595002b39649200012c5cd6",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/pwcdhc27hxsw7eiv9dt3.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "659503667d03630001f62692",
+          "title": "3D animation.",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "659503667d03630001f62693",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/ueevqrfapzcsp7cpmyu5.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 6
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 55
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 4
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "652e6a00a7a0f80001669b39",
+          "comment": "Well done again, Dizzy! Thank you so much.",
+          "comment_language": "en",
+          "username": "henry6678",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/48cef725625fbe0cf33d7691ca45c6f2-1676792714967/a970d309-ff0a-4def-ba28-76f097c055b3.jpg",
+          "created_at": "2023-10-17T11:04:10",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/wzqnwoqtiamo6p7mrvem.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/wzqnwoqtiamo6p7mrvem.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51765CEFF83",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 306511818,
+          "gig_slug": "do-visuals-for-your-music",
+          "gig_category": 20,
+          "gig_sub_category": 234,
+          "gig_nested_sub_category": 2328,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 71,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65263a63d4cefb0001b757e8",
+          "comment": "Everything was smooth, communication was fast, and the completed project was exactly what I was looking for. I highly recommend and will be using again. Thank you so much.",
+          "comment_language": "en",
+          "username": "eddieman897",
+          "reviewer_country_code": "US",
+          "created_at": "2023-10-11T06:12:57",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/dmscsabn1nerxboccbyb.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/dmscsabn1nerxboccbyb.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO5230BC09BC7",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 306511818,
+          "gig_slug": "do-visuals-for-your-music",
+          "gig_category": 20,
+          "gig_sub_category": 234,
+          "gig_nested_sub_category": 2328,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 216,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6320358fed465c0001191916",
+          "comment": "Seller communicated well and was fast! Loved the final video thank you!",
+          "comment_language": "en",
+          "username": "fix133",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3b1de5abf6c31fc0eafe6635ea3060a0-1617293801077/b232b100-e94a-41f6-9502-bca2d15dc363.jpg",
+          "created_at": "2022-09-13T07:47:44",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/qpmnfn5pwmrvqptupnnv.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/qpmnfn5pwmrvqptupnnv.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO4ECE5948C2",
+          "score": 0,
+          "reviewer_industry": [
+            "agriculture"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 146324316,
+          "gig_slug": "create-an-animated-lyric-video",
+          "gig_category": 20,
+          "gig_sub_category": 234,
+          "gig_nested_sub_category": 2328,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 177
+        },
+        {
+          "id": "6320323e6be09800012d3d18",
+          "comment": "Amazing, talented and one of the best!",
+          "comment_language": "en",
+          "username": "werner_jeans",
+          "reviewer_country_code": "US",
+          "created_at": "2022-09-13T07:40:27",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1ECE5EF4C5",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 146324316,
+          "gig_slug": "create-an-animated-lyric-video",
+          "gig_category": 20,
+          "gig_sub_category": 234,
+          "gig_nested_sub_category": 2328,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 62
+        },
+        {
+          "id": "6320318ded465c000119187b",
+          "comment": "Very very cool to work with Sarthak. He offers maximum involving to achieve what you are looking for. Brilliant, fast and continuous communication. Amazing and very professional result. Absolutely recommended seller!",
+          "comment_language": "en",
+          "username": "michael_768",
+          "reviewer_country_code": "US",
+          "created_at": "2022-09-13T07:30:44",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO113BE034D87",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 146324316,
+          "gig_slug": "create-an-animated-lyric-video",
+          "gig_category": 20,
+          "gig_sub_category": 234,
+          "gig_nested_sub_category": 2328,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 31
+        }
+      ],
+      "has_next": true,
+      "total_count": 55,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 27,
+        "business": 9
+      },
+      "user_id": 23156318,
+      "seller_username": "dizzyfoxx",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 53
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "agriculture": "Agriculture"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 23156318,
+      "reviews": [
+        {
+          "id": "60b90ee8b9a769000130b330",
+          "comment": "Thank you very much :)",
+          "comment_language": "en-US",
+          "username": "faith_159",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b0bc17bba561dee5a537892b4ddd5420-1657449732550/b79e6761-a398-417c-9d3e-727f1ff77951.jpg",
+          "created_at": "2021-06-03T17:18:32",
+          "value": 5
+        },
+        {
+          "id": "5ebcaf73240618000169b2a5",
+          "comment": "Great working with this buyer.  Easy to communicate with.  Enjoyed working with and look forward to serving again.",
+          "comment_language": "en-US",
+          "username": "trevor_seo",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a035444bf6da56bfc3d202d647b1fbd7-855390451584832371109/JPEG_20200321_191250_1798797034759624851.jpg",
+          "created_at": "2020-05-14T02:39:47",
+          "value": 5
+        },
+        {
+          "id": "5eb6e5b2240618000168fdbf",
+          "comment": "very bad fraud",
+          "comment_language": "en-US",
+          "username": "amirulislamminh",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d1148d700502f5301ca3fe15618ca2ec-1588758355728/ff7c3998-13aa-4f06-add2-333372c29257.jpg",
+          "created_at": "2020-05-09T17:17:39",
+          "value": 1
+        },
+        {
+          "id": "5e657bac4db13200016f7e63",
+          "comment": "Awesome buyer",
+          "comment_language": "en-US",
+          "username": "glory120",
+          "reviewer_country_code": "NG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bd0bea84a9418bbbe7e317a2debff995-1570558659015/f07800d1-ce6b-4322-bc68-c6e11f50fd51.jpg",
+          "created_at": "2020-03-08T23:11:40",
+          "value": 5
+        },
+        {
+          "id": "5e635a5b78c08e000163bca7",
+          "comment": "Outstanding Experience!",
+          "comment_language": "en-US",
+          "username": "kamchiefs",
+          "reviewer_country_code": "NG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2c31455da314b52bf58d8980e60691cd-787358841586825212406/JPEG_20200414_014648_967760548171791477.jpg",
+          "created_at": "2020-03-07T08:24:59",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 23156318,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Kolkata",
+    "recent_utc_offset": -330
+  },
+  "gigsData": [
+    {
+      "gig_id": 306511818,
+      "category_id": 20,
+      "sub_category_id": 234,
+      "nested_sub_category_id": 2328,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-visuals-for-your-music",
+      "title": "create an animated lyric video for your song",
+      "seller_name": "dizzyfoxx",
+      "seller_id": 23156318,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ac30419f64555cf2beb89f7636fd246c-1704192168248/1d1f2544-3d08-4842-b74b-88139e71ad59.png",
+      "seller_display_name": "Sarthakx",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/306511818/original/651b11feb782d0c8f5b28ada5a7e148c25d1c7ce.png",
+          "type": "ImageAsset",
+          "id": "306511818_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/306511818/original/d1b14c79edf1afa077a8310fc6b73e75a118ef72.png",
+          "type": "ImageAsset",
+          "id": "306511818_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/306511818/original/d4ba1e848c12461150de26e6f6029cb6e2d10872.jpg",
+          "type": "ImageAsset",
+          "id": "306511818_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6596af1b826ac00020d85391",
+          "id": 9730441
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6596af1b826ac00020d85391",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/djvh3ajqxh1ll9oyskuh",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_3.928487,PLACEHOLDER/djvh3ajqxh1ll9oyskuh.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "171952956",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/wzqnwoqtiamo6p7mrvem",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/wzqnwoqtiamo6p7mrvem.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "171663462",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/dmscsabn1nerxboccbyb",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/dmscsabn1nerxboccbyb.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "653cfc37c200580001f25a99",
+          "discount_percentage": 10
+        },
+        {
+          "id": "653cfc37c200580001f25a9a",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "video_type",
+          "value": [
+            "animated"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/dizzyfoxx",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 55,
+        "score": 4.969697
+      },
+      "gig_url": "/dizzyfoxx/do-visuals-for-your-music",
+      "is_seller_unavailable": false,
+      "price_i": 295,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 321152367,
+      "category_id": 3,
+      "sub_category_id": 411,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-simple-custom-artwork",
+      "title": "create a 3d animated music video",
+      "seller_name": "dizzyfoxx",
+      "seller_id": 23156318,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ac30419f64555cf2beb89f7636fd246c-1704192168248/1d1f2544-3d08-4842-b74b-88139e71ad59.png",
+      "seller_display_name": "Sarthakx",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/321152367/original/f6245420ae786d4f8bfeb2a5af059b0d3401432d.png",
+          "type": "ImageAsset",
+          "id": "321152367_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/321152367/original/b44d880006cb29ba0033260226fd71c1088da2e5.png",
+          "type": "ImageAsset",
+          "id": "321152367_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/321152367/original/fa52c7f849bc1802aff07a56579c8ec6874f1b14.png",
+          "type": "ImageAsset",
+          "id": "321152367_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6596472d7ebc2b00117d82af",
+          "id": 9728591
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6596472d7ebc2b00117d82af",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/niu5ztaa60uxursu9nt5",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_2.253683,PLACEHOLDER/niu5ztaa60uxursu9nt5.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "design_style",
+          "value": [
+            "3d_art"
+          ]
+        },
+        {
+          "type": "musical_genre",
+          "value": [
+            "electronic",
+            "hip_hop",
+            "pop",
+            "rock"
+          ]
+        },
+        {
+          "type": "album_type",
+          "value": [
+            "album",
+            "ep",
+            "single",
+            "mixtape"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/dizzyfoxx",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 55,
+        "score": 4.969697
+      },
+      "gig_url": "/dizzyfoxx/create-a-simple-custom-artwork",
+      "is_seller_unavailable": false,
+      "price_i": 250,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 355831787,
+      "category_id": 3,
+      "sub_category_id": 333,
+      "nested_sub_category_id": 2337,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-photorealistic-3d-product-renders",
+      "title": "create artistic 3d product renders",
+      "seller_name": "dizzyfoxx",
+      "seller_id": 23156318,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ac30419f64555cf2beb89f7636fd246c-1704192168248/1d1f2544-3d08-4842-b74b-88139e71ad59.png",
+      "seller_display_name": "Sarthakx",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/355831787/original/020acd62784a88a48d1c45c74752378c3b219f93.png",
+          "type": "ImageAsset",
+          "id": "355831787_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/355831787/original/7a35780c9e12c42680cca67a5b0ff25876adaee8.png",
+          "type": "ImageAsset",
+          "id": "355831787_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/355831787/original/c15d84eb238f814aa0ee495968759ec2021b0676.png",
+          "type": "ImageAsset",
+          "id": "355831787_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "field_of_expertise",
+          "value": [
+            "appliances",
+            "consumer_electronics",
+            "sustainable_products"
+          ]
+        },
+        {
+          "type": "design_software",
+          "value": [
+            "adobe_cc",
+            "blender"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/dizzyfoxx",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 55,
+        "score": 4.969697
+      },
+      "gig_url": "/dizzyfoxx/create-photorealistic-3d-product-renders",
+      "is_seller_unavailable": false,
+      "price_i": 95,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

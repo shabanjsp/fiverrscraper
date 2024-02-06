@@ -1,0 +1,545 @@
+{
+  "seller": {
+    "user": {
+      "id": "138536880",
+      "name": "sarahtaylor01",
+      "isActivationCompleted": true,
+      "joinedAt": 1668929274,
+      "profile": {
+        "displayName": "Sarah"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/1a3e1aeea0abfc429ae98fb09deefa8e-1681642862510/ebce850c-8805-4401-8e1f-1072570f9635.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "286466760"
+        },
+        {
+          "id": "294549788"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Certified and Professional Resume Writer",
+    "description": "Hi, my name is Sarah Taylor. I am a Certified Career Development Practitioner who has helped 2000's of people to secure their dream jobs. I specialize in writing top notch professional resumes, cover letters, and provide LinkedIn profile optimization services.\r\n\r\nNeed to tidy up and update your resume, cover letter or even optimize your LinkedIn profile, I am just a message away!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Standford University",
+        "certificationName": "Creative Writing",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "english",
+        "toYear": 2018,
+        "countryCode": "US",
+        "school": "standford",
+        "degreeTitle": "MA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66f0565f077890068c5",
+        "name": "Resume design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Resume designer"
+      },
+      {
+        "id": "617fa6450565f07789005cd7",
+        "name": "CV design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Resume designer"
+      },
+      {
+        "id": "617fa6450565f07789005cd8",
+        "name": "CV editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Resume editor"
+      },
+      {
+        "id": "617fa6450565f07789005cd9",
+        "name": "CV writing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Resume writer"
+      },
+      {
+        "id": "617fa6440565f07789005c85",
+        "name": "Cover letter writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cover letters writer"
+      },
+      {
+        "id": "617fa6620565f07789006507",
+        "name": "Linkedin full profile creation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Linkedin full profile creation expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 112,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 105
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.4457364994,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b67d4dda9df3104e8555f0",
+          "comment": "Sarah did an amazing job on my resume/cover letter. I gave her two half done documents and she gave them back in high quality and completed. I am very excited to apply for jobs given these documents! She also gave them back to me a whole day earlier than expected.",
+          "comment_language": "en",
+          "username": "joseph_austin4",
+          "reviewer_country_code": "AU",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0305832af242b565a623fc6be636c4c9-1659289651821/d47c0fee-f206-4df2-a824-19c4f1236978.jpg",
+          "created_at": "2024-01-28T16:16:49",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO623F71C6EC6",
+          "score": 0.8444885,
+          "reviewer_industry": [
+            "beauty_and_cosmetics",
+            "food_and_beverage"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 294549788,
+          "gig_slug": "do-medical-and-nursing-resume-writing-service-for-healthcare-professionals",
+          "gig_category": 5,
+          "gig_sub_category": 112,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 21,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65672b17f40cc9000167e901",
+          "comment": "The seller provided good feedback on my current CV and rewrote the resume to really stand out. I have struggled with producing quality resumes and have always just ended up listing out my job duties. Having an experienced seller who can tailor a resume to your career goal and rewrite your experience to achievement-based and tie-in metrics? absolutely invaluable, and highly recommend anyone works with her. Job well done!! A++",
+          "comment_language": "en",
+          "username": "hogerholen",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/edb1c8b6a39f511edee436554356a643-1686396005074/a8418395-6608-475c-9199-d54630fc126b.png",
+          "created_at": "2023-11-30T08:14:37",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15E7EC4D81",
+          "score": 0.78950906,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 294549788,
+          "gig_slug": "do-medical-and-nursing-resume-writing-service-for-healthcare-professionals",
+          "gig_category": 5,
+          "gig_sub_category": 112,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b7ddc141e5c52d8c235540",
+          "comment": "Easy to communicate with. The seller was very quick with delivery. I have not seen what results I will get with potential employers yet, but from what I've seen, my resume looks the best that it has ever been. Highly recommended",
+          "comment_language": "en",
+          "username": "leman1",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0fb0c35ee8ede9cfa3340dac13d36968-1667757161115/47778abe-fbbb-48c6-ba37-bfacfc57b4a5.jpg",
+          "created_at": "2024-01-29T17:29:05",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217FBD1FB86",
+          "score": 0.7886747,
+          "reviewer_industry": [
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 294549788,
+          "gig_slug": "do-medical-and-nursing-resume-writing-service-for-healthcare-professionals",
+          "gig_category": 5,
+          "gig_sub_category": 112,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 16,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a88469d00c622ae3401d67",
+          "comment": "Sarah was a pleasure to work with. I am a career changer and she updated my resume and capitalized on the key ATS words that I needed to get recruiters attention. My LinkedIn looks great as well. My husband also hired Sarah recently and he's gotten a few interview request. We will definitely use her again.",
+          "comment_language": "en",
+          "username": "tpt0307",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/26928578/original/success.jpg",
+          "created_at": "2024-01-18T04:16:34",
+          "value": 4.7,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO823DE064FC4",
+          "score": 0.67301875,
+          "reviewer_industry": [
+            "fashion_and_apparel"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 294549788,
+          "gig_slug": "do-medical-and-nursing-resume-writing-service-for-healthcare-professionals",
+          "gig_category": 5,
+          "gig_sub_category": 112,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 37,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a7fb3f73dcef1ed6724f52",
+          "comment": "Was a pleasure to work with this Fiverr and would recommend her for a quick turn around on a resume and cover letter.",
+          "comment_language": "en",
+          "username": "benjamindunn278",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/7709660/original/photo.jpg",
+          "created_at": "2024-01-17T16:16:22",
+          "value": 4,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO211EE984244",
+          "score": 0.64568675,
+          "reviewer_industry": [
+            "education"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 286466760,
+          "gig_slug": "do-professional-resume-writing-cv-editing-cover-letter-and-linkedin-service-4b47",
+          "gig_category": 5,
+          "gig_sub_category": 112,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 13,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 105,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 8
+      },
+      "user_id": 138536880,
+      "seller_username": "sarahtaylor01",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 98
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "beauty_and_cosmetics": "Beauty & Cosmetics",
+        "food_and_beverage": "Food & Beverage",
+        "financial_services_or_banking": "Financial & Business Services ",
+        "fashion_and_apparel": "Fashion & Apparel",
+        "education": "Education"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 138536880,
+      "reviews": [
+        {
+          "id": "64098bd7158bea00011f986b",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "afaq05mehdi",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a6f30e27917521ff92e4c61f730c022b-1639843739780/2f63aff7-ddda-4866-943a-fa7cec4bd26e.jpg",
+          "created_at": "2023-03-09T07:33:43",
+          "value": 5
+        },
+        {
+          "id": "63e8ab4996285d0001ef0e58",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "afaq05mehdi",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a6f30e27917521ff92e4c61f730c022b-1639843739780/2f63aff7-ddda-4866-943a-fa7cec4bd26e.jpg",
+          "created_at": "2023-02-12T09:03:05",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 138536880,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 286466760,
+      "category_id": 5,
+      "sub_category_id": 112,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-professional-resume-writing-cv-editing-cover-letter-and-linkedin-service-4b47",
+      "title": "write and edit your resume, cv, cover letter and optimize linkedin profile",
+      "seller_name": "sarahtaylor01",
+      "seller_id": 138536880,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1a3e1aeea0abfc429ae98fb09deefa8e-1681642862510/ebce850c-8805-4401-8e1f-1072570f9635.jpg",
+      "seller_display_name": "Sarah",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/286466760/original/ea8894cedcb7cc366d365be2e2341d1b7f881536.jpg",
+          "type": "ImageAsset",
+          "id": "286466760_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "french",
+            "german"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "government_public_sector",
+            "technology_internet",
+            "general"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 53,
+      "buying_review_rating": 4.8,
+      "seller_url": "/sarahtaylor01",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 105,
+        "score": 4.860317
+      },
+      "gig_url": "/sarahtaylor01/do-professional-resume-writing-cv-editing-cover-letter-and-linkedin-service-4b47",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 294549788,
+      "category_id": 5,
+      "sub_category_id": 112,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-medical-and-nursing-resume-writing-service-for-healthcare-professionals",
+      "title": "do ats professional resume writing, cover letter editing, and linkedin service",
+      "seller_name": "sarahtaylor01",
+      "seller_id": 138536880,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1a3e1aeea0abfc429ae98fb09deefa8e-1681642862510/ebce850c-8805-4401-8e1f-1072570f9635.jpg",
+      "seller_display_name": "Sarah",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/294549788/original/e90819427b644235747de3d795179ba39cdcf564.jpg",
+          "type": "ImageAsset",
+          "id": "294549788_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": [],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "french",
+            "spanish"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "financial_services_banking",
+            "technology_internet",
+            "general"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 52,
+      "buying_review_rating": 4.9,
+      "seller_url": "/sarahtaylor01",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 105,
+        "score": 4.860317
+      },
+      "gig_url": "/sarahtaylor01/do-medical-and-nursing-resume-writing-service-for-healthcare-professionals",
+      "is_seller_unavailable": false,
+      "price_i": 45,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

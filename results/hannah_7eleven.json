@@ -1,0 +1,491 @@
+{
+  "seller": {
+    "user": {
+      "id": "160950624",
+      "name": "hannah_7eleven",
+      "isActivationCompleted": true,
+      "joinedAt": 1695995111,
+      "profile": {
+        "displayName": "Kayla"
+      },
+      "address": {
+        "countryName": "Canada",
+        "countryCode": "CA"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/d6b83a70e117e36db0003ac4ea41934e-1705283103793/2a950b44-fc6d-42b0-9521-459e6a86452c.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "359254195"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Logo Specialist and Graphic Designer",
+    "description": "Hi, I am a professional and creative logo designer with a lot of experience in this field of minimalist logos, social media kit and stationary design. My motive on this site is to serve you with work of great quality. So if you are thinking to give me the opportunity to design for you, inbox me at your convenient time, and I assure to surprise you! Thank you :)",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "visual communications",
+        "toYear": 2014,
+        "countryCode": "US",
+        "school": "University of Colorado at Colorado Springs",
+        "degreeTitle": "MFA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6430565f07789005bea",
+        "name": "Company branding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Company branding expert"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6538757554d4d1000125077c",
+          "title": "Logo Design",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6538757554d4d1000125077d",
+                "attachment": {
+                  "metadata": {
+                    "height": 1649,
+                    "width": 2471
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/96359996eee8dff52d5a45a91a258a0e-1698198867290/URC-logo_design.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6538759bb451f70001401359",
+          "title": "Logo Design",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6538759bb451f7000140135a",
+                "attachment": {
+                  "metadata": {
+                    "height": 1000,
+                    "width": 1270
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/66eafc21746a8faa1149eba24e2f7322-1698198920522/new-logo.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "653875b761b1f600014ebcb2",
+          "title": "Logo Design",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "653875b761b1f600014ebcb3",
+                "attachment": {
+                  "metadata": {
+                    "height": 1147,
+                    "width": 1722
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/febc4c3db54f28ce9bf1aa493d4a8bd4-1698198954074/vguard-logo.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "653876ac54d4d100012507c0",
+          "title": "Logo Design",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "653876ac54d4d100012507c1",
+                "attachment": {
+                  "metadata": {
+                    "height": 1304,
+                    "width": 1902
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/15310e169c3dc85bf41db3b2fac5a63b-1698199188404/ezevear-final.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.6,
+      "count": 49
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6579a0f30f30da0001e9007b",
+          "comment": "Got exactly what I wanted. Artist very good. Only surprise was they started before touching base which probably added a round of revisions that wasn’t needed but i could have been more clear too. A++ though would definitely use this artist again. Thank you!!",
+          "comment_language": "en",
+          "username": "poorpleb",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-13T12:18:32",
+          "value": 4.7,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO62977F047C8",
+          "score": 0.7355198,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342582397,
+          "gig_slug": "do-highly-custom-logo-and-brand-identity-style-guide",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b6553eda9df3104e8552c1",
+          "comment": "Working with this designer felt like a rendezvous with creativity personified. Their designs are not just static images; they are living expressions that breathe life into the visual landscape.\n\n",
+          "comment_language": "en",
+          "username": "madalyn_barnes",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/286852d9f49d83f4635a7073c9bc5fd9-1680498612476/270e7e98-7240-4d86-96b1-89689cf76552.jpg",
+          "created_at": "2024-01-28T16:37:52",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO723F3A900C5",
+          "score": 0.6528522,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 359254195,
+          "gig_slug": "design-your-brand-identity-and-style-guide",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 246,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65709468d8116b00015f4c72",
+          "comment": "This was completely not what I asked for. Hannah gave me a logo with stock font and a stock photo - I could’ve made it myself. I asked for her to redo it and I never got a new one. Waste of money. ",
+          "comment_language": "en",
+          "username": "taylor_jae",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-20T05:42:36",
+          "value": 1,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82F5FAD8F08",
+          "score": 0.55,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342582397,
+          "gig_slug": "do-highly-custom-logo-and-brand-identity-style-guide",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "656aecc79b6e4000017cb575",
+          "comment": "Following my experience with Hannah's service on Fiverr, I feel compelled to provide feedback. Although I was initially impressed by her portfolio, which led me to choose the premium branding package, the work delivered unfortunately did not live up to my expectations. The logo designs presented lacked the graphic consistency, simplicity and proportionality demonstrated in her gig. Despite several iterations, the results were not up to expectations. In addition, there seemed to be a gap in their understanding of my project requirements. I hope to resolve this matter amicably with a refund and suggest a more thorough briefing process for future projects.",
+          "comment_language": "en",
+          "username": "prizmaprints",
+          "reviewer_country_code": "PL",
+          "created_at": "2023-12-16T02:21:26",
+          "value": 1.3,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/ad83ffa67ed40aa75f04bc245eb99b3f-1701224439/Logo%20Design%20%281%29.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/ad83ffa67ed40aa75f04bc245eb99b3f-1701224439/Logo%20Design%20%281%29.jpg",
+          "reviewer_country": "Poland",
+          "encrypted_order_id": "FO8236ABA30C4",
+          "score": 0.55,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342582397,
+          "gig_slug": "do-highly-custom-logo-and-brand-identity-style-guide",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65abc9f349d34f2171b3a1f7",
+          "comment": "I can't speak highly enough of the graphic designer's ability to bring concepts to life. Their creativity knows no bounds, and the results speak for themselves. Truly a professional worth recommending.",
+          "comment_language": "en",
+          "username": "nicolebayer01",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-20T17:04:54",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/b0316659c89ae220d04fb5ff9d5e7acd-1705582610/Creative_logo_design.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/b0316659c89ae220d04fb5ff9d5e7acd-1705582610/Creative_logo_design.jpg",
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO31DEA7AA007",
+          "score": 0.5492161,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 359254195,
+          "gig_slug": "design-your-brand-identity-and-style-guide",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 18,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 49,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 23,
+        "business": 2
+      },
+      "user_id": 160950624,
+      "seller_username": "hannah_7eleven",
+      "star_summary": {
+        "communication_valuation": 4.6,
+        "recommend_valuation": 4.6,
+        "service_valuation": 4.6
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 44
+        }
+      ],
+      "average_valuation": 4.6
+    },
+    "selling_reviews": {
+      "user_id": 160950624,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 160950624,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 359254195,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-your-brand-identity-and-style-guide",
+      "title": "do highly custom business logo design and brand identity",
+      "seller_name": "hannah_7eleven",
+      "seller_id": 160950624,
+      "seller_country": "CA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d6b83a70e117e36db0003ac4ea41934e-1705283103793/2a950b44-fc6d-42b0-9521-459e6a86452c.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/359254195/original/cc8133f794eb64207b176aea72d326dfe7901aa8.jpg",
+          "type": "ImageAsset",
+          "id": "359254195_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/359254195/original/94c583a43150b1c1ec89855db39c08f4e25be73a.jpg",
+          "type": "ImageAsset",
+          "id": "359254195_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/359254195/original/1c816c618ad072dfdae5be19992a5ea50c2425c6.jpg",
+          "type": "ImageAsset",
+          "id": "359254195_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175752882",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3e2b1ea22a341f61b0ddcbf42df4f096-1705584293/modern-logo-design.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175751746",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b0316659c89ae220d04fb5ff9d5e7acd-1705582610/Creative_logo_design.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175751484",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c29ef741d8fcce528283aef28257f6f7-1705582250/NewLogoDesign.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "65a01ee5320aeb00016e8184",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "hand_drawn"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "wordmark",
+            "abstract"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 8,
+      "buying_review_rating": 5,
+      "seller_url": "/hannah_7eleven",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 49,
+        "score": 4.62585
+      },
+      "gig_url": "/hannah_7eleven/design-your-brand-identity-and-style-guide",
+      "is_seller_unavailable": false,
+      "price_i": 35,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

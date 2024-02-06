@@ -1,0 +1,739 @@
+{
+  "seller": {
+    "user": {
+      "id": "147321781",
+      "name": "refatulisalam",
+      "isActivationCompleted": true,
+      "joinedAt": 1679156639,
+      "profile": {
+        "displayName": "Refatul"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/36918788e51266038ae76f561f186998-1679157658130/7f61f6c8-6ae7-4b4b-8b3d-9dfc405629e1.png"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "307411859"
+        },
+        {
+          "id": "309128106"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Your professional social media manager!",
+    "description": "Hi, I am Refatul Islam. For the past couple of years, I have worked in a Digital Marketing Agency as a certified Social Media Manager and Facebook Ads Specialist. Over the course of my freelancing career, I have completed more than a few projects. My services include online marketing management, graphic design, and social media management, including Facebook, Instagram, Twitter, and LinkedIn. You're in the right place if you want to rock your social media! Please contact me if you would like more information.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6480565f07789005d8f",
+        "name": "Digital marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital marketer"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media marketer"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "SEO expert"
+      },
+      {
+        "id": "617fa6720565f077890069b4",
+        "name": "Social content",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social content creator"
+      },
+      {
+        "id": "617fa6630565f07789006579",
+        "name": "Marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Marketing expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 65,
+        "nestedCategoryId": 2155
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 67,
+        "nestedCategoryId": 2063
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65a3c143dea0c300016ef283",
+          "title": "Spa & Massage",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65a3c143dea0c300016ef284",
+                "attachment": {
+                  "metadata": {
+                    "height": 1800,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/fe0b7fd043f05957de6799c9ab9b3910-1705230631858/spa%20and%20beuty%20(2).png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65a3c54fed80a8000144c7ce",
+          "title": "Skin Care Products & Beauty",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65a3c54fed80a8000144c7cf",
+                "attachment": {
+                  "metadata": {
+                    "height": 1800,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7fc0c4d9abfa3e54c212e7f7e50b98f6-1705231565565/Skin%20Care%20Products%20.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65a3cec9ed80a8000144caed",
+          "title": "Restaurant Food",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65a3cec9ed80a8000144caee",
+                "attachment": {
+                  "metadata": {
+                    "height": 1500,
+                    "width": 1600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/5e80206d9fdeea0e0f7030048f636456-1705234103660/1705227564455.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65a3cfd925c6550001832889",
+          "title": "Traveling",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65a3cfd925c655000183288a",
+                "attachment": {
+                  "metadata": {
+                    "height": 1800,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/da860821bb6fb718207871d6add893f1-1705234386651/traveling%20marketing%20social.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65a3d21858ae880001dbf6be",
+          "title": "Furniture",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65a3d21858ae880001dbf6bf",
+                "attachment": {
+                  "metadata": {
+                    "height": 1800,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/b2490a2546d407bad8493aff2df4d9c4-1705234872394/1705227564608.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65a3d2ecdea0c300016ef8a6",
+          "title": "Handbag",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65a3d2ecdea0c300016ef8a7",
+                "attachment": {
+                  "metadata": {
+                    "height": 1800,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c36754a967914f72b5af024c7ea5b82c-1705235175631/Handbag%20.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 6
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 15
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "659ed411ff3ff6318e0e8162",
+          "comment": "The seller was very helpful with communication, and they followed up with me regularly to keep things on track; I appreciated that. It was a good job and he did what I asked him to do, which was to post content on my social media channels. Thank you so so much!",
+          "comment_language": "en",
+          "username": "david_l_harris",
+          "reviewer_country_code": "IT",
+          "created_at": "2024-01-10T17:30:33",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f000864a1804f033f3826baede3157c6-1704785592/spa%20and%20beuty%20%282%29.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f000864a1804f033f3826baede3157c6-1704785592/spa%20and%20beuty%20%282%29.png",
+          "reviewer_country": "Italy",
+          "encrypted_order_id": "FO111E34ACFC5",
+          "score": 0.7997856,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 309128106,
+          "gig_slug": "digital-marketing-and-social-media-management-services",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2063,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 26,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65b25acb500eff518645d843",
+          "comment": "Thanks to Refatul and his team, I had a great experience! The social media content you receive will be of the highest quality. Developing a professional business relationship with his team is something I look forward to doing. Thanks a lot!",
+          "comment_language": "en",
+          "username": "nahl9633",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7774450b96fd2769f11cfb333c060105-1614708240895/6bae0027-d913-4868-9dd3-63f5ab0e78af.jpg",
+          "created_at": "2024-01-26T03:25:23",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/926fdf9a0bbe97486ee9790d50617455-1706037876/wireless%20products%20%281%29.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/926fdf9a0bbe97486ee9790d50617455-1706037876/wireless%20products%20%281%29.png",
+          "reviewer_country": "Bangladesh",
+          "encrypted_order_id": "FO623DF13E6C6",
+          "score": 0.7880813,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 309128106,
+          "gig_slug": "digital-marketing-and-social-media-management-services",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2063,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 65,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "659cfbbd369cc90001226bec",
+          "comment": "First time working with Refatulisalam, and definitely not the last! Excellent work, great communication, and quick turn-around. Easy to work with, did exactly as requested. Just perfect! Thank you!!!!",
+          "comment_language": "en",
+          "username": "photo_fixion",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/96b75b89a818fecc219d130775f37ddb-1703039038673/51464280-91f6-4660-ba67-b4dbfa529175.jpg",
+          "created_at": "2024-01-09T07:55:43",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/6d0f25f9b6d2bbca2fc5d56fe714ceb8-1704785257/Handbag%20.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/6d0f25f9b6d2bbca2fc5d56fe714ceb8-1704785257/Handbag%20.png",
+          "reviewer_country": "Bangladesh",
+          "encrypted_order_id": "FO623C8A964C6",
+          "score": 0.3734289,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 309128106,
+          "gig_slug": "digital-marketing-and-social-media-management-services",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2063,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 13,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65a292febe67470001ebe5ff",
+          "comment": "Great service and quick response. I'm very pleased with the final results.",
+          "comment_language": "en",
+          "username": "photo_fixion",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/96b75b89a818fecc219d130775f37ddb-1703039038673/51464280-91f6-4660-ba67-b4dbfa529175.jpg",
+          "created_at": "2024-01-13T13:58:20",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/536eee6fb0e4d7a2d35143838631625f-1705125416/Skin%20Care%20Products%20.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/536eee6fb0e4d7a2d35143838631625f-1705125416/Skin%20Care%20Products%20.png",
+          "reviewer_country": "Bangladesh",
+          "encrypted_order_id": "FO423CD1FE9C8",
+          "score": 0,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 309128106,
+          "gig_slug": "digital-marketing-and-social-media-management-services",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2063,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 13,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65981ab4369cc900011f6993",
+          "comment": "Refatul delivers quality work and communicates clearly. I always followed up to ensure that the product or service was to my satisfaction.",
+          "comment_language": "en",
+          "username": "maurice_rgint",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-05T15:08:44",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f1e7d3465c825093794e7e265df12f8c-1704386389/fitness%20and%20gym.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f1e7d3465c825093794e7e265df12f8c-1704386389/fitness%20and%20gym.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO117D9BD9587",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 309128106,
+          "gig_slug": "digital-marketing-and-social-media-management-services",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2063,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 22,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 15,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 9,
+        "business": 0
+      },
+      "user_id": 147321781,
+      "seller_username": "refatulisalam",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 15
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design",
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 147321781,
+      "reviews": [
+        {
+          "id": "64d28a6f0890290001af505a",
+          "comment": "Good Buyer ",
+          "comment_language": "en",
+          "username": "pixlrq",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/42002e998e935d801a1b88548706caa7-1689857215681/1e31d830-411f-4c76-a70e-ef1fc46326d8.png",
+          "created_at": "2023-08-08T18:33:19",
+          "value": 5
+        },
+        {
+          "id": "64b230bdfb1ebb00019fb39f",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "alrubelrana",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d8b50b909ca8ab916e92f472e3370d1d-1663266906570/b4899ac9-a6c8-4c3e-9007-d5e5fe3ef1e1.jpg",
+          "created_at": "2023-07-15T05:38:06",
+          "value": 5
+        },
+        {
+          "id": "64b230b3fb1ebb00019fb398",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "alrubelrana",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d8b50b909ca8ab916e92f472e3370d1d-1663266906570/b4899ac9-a6c8-4c3e-9007-d5e5fe3ef1e1.jpg",
+          "created_at": "2023-07-15T05:37:55",
+          "value": 5
+        },
+        {
+          "id": "64b1bd8bfb1ebb00019f771e",
+          "comment": "Good buyer ",
+          "comment_language": "en",
+          "username": "pixlrq",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/42002e998e935d801a1b88548706caa7-1689857215681/1e31d830-411f-4c76-a70e-ef1fc46326d8.png",
+          "created_at": "2023-07-14T21:26:35",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 147321781,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 309128106,
+      "category_id": 2,
+      "sub_category_id": 67,
+      "nested_sub_category_id": 2063,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "digital-marketing-and-social-media-management-services",
+      "title": "digital marketing manager and social media content creator",
+      "seller_name": "refatulisalam",
+      "seller_id": 147321781,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/36918788e51266038ae76f561f186998-1679157658130/7f61f6c8-6ae7-4b4b-8b3d-9dfc405629e1.png",
+      "seller_display_name": "Refatul",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/309128106/original/03526759c50d143b652dc1a513c0fdf0b6f1c471.png",
+          "type": "ImageAsset",
+          "id": "309128106_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/309128106/original/03c9e072664df2449381bce1582d4e9a4f1c91bf.png",
+          "type": "ImageAsset",
+          "id": "309128106_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175977036",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/926fdf9a0bbe97486ee9790d50617455-1706037876/wireless%20products%20(1).png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175531635",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/536eee6fb0e4d7a2d35143838631625f-1705125416/Skin%20Care%20Products%20.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175354656",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f000864a1804f033f3826baede3157c6-1704785592/spa%20and%20beuty%20(2).png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175354502",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/6d0f25f9b6d2bbca2fc5d56fe714ceb8-1704785257/Handbag%20.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175178165",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f1e7d3465c825093794e7e265df12f8c-1704386389/fitness%20and%20gym.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "facebook",
+            "instagram",
+            "linkedin"
+          ]
+        },
+        {
+          "type": "management_tools",
+          "value": [
+            "hootsuite",
+            "buffer"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "art_design",
+            "beauty_cosmetics",
+            "blockchain_cryptourrency",
+            "construction",
+            "media_entertainment"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 11,
+      "buying_review_rating": 5,
+      "seller_url": "/refatulisalam",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 15,
+        "score": 5
+      },
+      "gig_url": "/refatulisalam/digital-marketing-and-social-media-management-services",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 307411859,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2155,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "dr-80-to-99-high-authority-backlinks-dofollow-manual-service",
+      "title": "dr 80 to 99 high authority backlinks dofollow manual service",
+      "seller_name": "refatulisalam",
+      "seller_id": 147321781,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/36918788e51266038ae76f561f186998-1679157658130/7f61f6c8-6ae7-4b4b-8b3d-9dfc405629e1.png",
+      "seller_display_name": "Refatul",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/307411859/original/4635705b4782bb376521000b7102cabbb4e47245.png",
+          "type": "ImageAsset",
+          "id": "307411859_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "arts",
+            "beauty_cosmetics",
+            "crypto_blockchain",
+            "construction",
+            "dental_care",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "fashion_apparel",
+            "financial_services_banking",
+            "food_beverage",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "photography_videography",
+            "government_public_sector",
+            "real_estate",
+            "religion_spirituality",
+            "retail_wholesale",
+            "science",
+            "services",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing",
+            "business"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "bulgarian",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "danish",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "greek",
+            "creole",
+            "hebrew",
+            "hungarian",
+            "indonesian",
+            "italian",
+            "japanese",
+            "korean",
+            "latvian",
+            "luxembourgish",
+            "malay"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/refatulisalam",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 15,
+        "score": 5
+      },
+      "gig_url": "/refatulisalam/dr-80-to-99-high-authority-backlinks-dofollow-manual-service",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

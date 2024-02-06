@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "157808236",
+      "name": "emmonsdp",
+      "isActivationCompleted": true,
+      "joinedAt": 1691807331,
+      "profile": {
+        "displayName": "Emmonsdp"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 157808236,
+      "seller_username": "emmonsdp",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 157808236,
+      "reviews": [
+        {
+          "id": "652e508bfc235600012d4f0a",
+          "comment": "Good Buyer.",
+          "comment_language": "en",
+          "username": "layla5548",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/79c53b48e729ee8a061944b9fb4a40df-1692665427477/0ba0f6d1-2164-4eb6-ad9b-b754bf77e621.jpg",
+          "created_at": "2023-10-17T09:14:51",
+          "value": 5
+        },
+        {
+          "id": "652dcb4d6540d200016bc622",
+          "comment": "Great buyer",
+          "comment_language": "en",
+          "username": "suma_r",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/94f3888bbc1c95e607e85e0b95a1829f-1693249458324/c2ca8f79-6e5c-447a-8e1d-babb6461aa5e.jpeg",
+          "created_at": "2023-10-16T23:46:21",
+          "value": 5
+        },
+        {
+          "id": "65295b25efcd9a0001db0c05",
+          "comment": "Great Buyer ",
+          "comment_language": "en",
+          "username": "arham_mustakim",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/11d9e7acd6d526d697e28303a6d3c372-1684703368081/06f806ed-2772-4114-bee6-bc37e2437b59.png",
+          "created_at": "2023-10-13T14:58:45",
+          "value": 5
+        },
+        {
+          "id": "6523ee089fba330001ae73a5",
+          "comment": "Great Buyer",
+          "comment_language": "en",
+          "username": "raju_hossain254",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/93671ba6811d5b632b26a46b87d0658b-1696950792482/d29e8fea-39f2-4dd2-87d8-85159debb2d2.jpg",
+          "created_at": "2023-10-09T12:11:52",
+          "value": 5
+        },
+        {
+          "id": "652347a894465a0001c929ef",
+          "comment": "Great Buyer.",
+          "comment_language": "en",
+          "username": "rupa_shamima1",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d43dba70b26d9fb9883e34a4f9642ae0-1692523204479/55925603-e32d-4a21-bad7-d2aa3439ceb3.jpg",
+          "created_at": "2023-10-09T00:22",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 157808236,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

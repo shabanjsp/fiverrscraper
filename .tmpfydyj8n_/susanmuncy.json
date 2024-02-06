@@ -1,0 +1,163 @@
+{
+  "seller": {
+    "user": {
+      "id": "168430905",
+      "name": "susanmuncy",
+      "isActivationCompleted": true,
+      "joinedAt": 1705647699,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 168430905,
+      "seller_username": "susanmuncy",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 168430905,
+      "reviews": [
+        {
+          "id": "65b8c314f760630001ea8899",
+          "comment": "Thank you very much!",
+          "comment_language": "en",
+          "username": "techcify",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3c2f7abf5630482a953c21a45906e34-1680019280314/70db70a0-f432-47b9-8db0-2e754f33a960.png",
+          "created_at": "2024-01-30T09:36:20",
+          "value": 5
+        },
+        {
+          "id": "65b8c0d7f760630001ea8782",
+          "comment": "outstanding experience!",
+          "comment_language": "en",
+          "username": "azaan_sadaqat",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1bee148ee5ba8a9266e5c29d0bae6482-1702719399966/6589609a-7ee9-4f13-a2c4-9e83bac80318.png",
+          "created_at": "2024-01-30T09:26:47",
+          "value": 5
+        },
+        {
+          "id": "65b6435f756b9d00017627b7",
+          "comment": "nice buuer:)",
+          "comment_language": "unknown",
+          "username": "mkmaryam_khan",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2baf23cf141d93b0b570d3f2e4add2fb-1706915971613/9b9678ae-2546-451e-aa3e-46eb75414bb5.png",
+          "created_at": "2024-01-28T12:06:55",
+          "value": 5
+        },
+        {
+          "id": "65b57610756b9d000175dc70",
+          "comment": "Amazing Experience!",
+          "comment_language": "unknown",
+          "username": "artmaniaex",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/74dac5b879e7d5a105040ca430acf72f-1642147921572/aacae9c4-589b-4562-9a1b-deb833f4440d.jpg",
+          "created_at": "2024-01-27T21:30:56",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 168430905,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/London",
+    "recent_utc_offset": 0
+  },
+  "gigsData": []
+}

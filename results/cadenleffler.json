@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "156506335",
+      "name": "cadenleffler",
+      "isActivationCompleted": true,
+      "joinedAt": 1690200521,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United Kingdom",
+        "countryCode": "GB"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 156506335,
+      "seller_username": "cadenleffler",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 156506335,
+      "reviews": [
+        {
+          "id": "652d20a96540d200016b2054",
+          "comment": "He is very friendly. Thank you so much",
+          "comment_language": "en",
+          "username": "b2b_jahidul",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/afccbb848482e81dad4a2a01a43aef33-1702687469979/7913df71-228c-4093-903e-a098480cba49.jpg",
+          "created_at": "2023-10-16T11:38:18",
+          "value": 5
+        },
+        {
+          "id": "652c19424f5ac900018c8d00",
+          "comment": "Amazing experience!! Thank you so much",
+          "comment_language": "en",
+          "username": "lead_versed",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/930c5f38cf7b03480cf9ed253222430e-1706076525655/c2a075d7-8359-408c-bd13-6ed371261036.jpg",
+          "created_at": "2023-10-15T16:54:26",
+          "value": 5
+        },
+        {
+          "id": "651d3b2b3b09960001b36327",
+          "comment": "He is a professional and very cooperative person. A pleasure to work with him.\n",
+          "comment_language": "en",
+          "username": "webdot2",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3a84b9ceef43009ddee193740cf89f5d-1705607485852/b29c5ef3-e758-4bbb-95dd-dec890ed67c3.png",
+          "created_at": "2023-10-04T10:15:07",
+          "value": 5
+        },
+        {
+          "id": "65170c7de4aac8000170b6ae",
+          "comment": "Great client. I would work with him again if he needs more work done!",
+          "comment_language": "en",
+          "username": "wp4wizards",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/994ee0942c7ac412ca2a42de1c95a711-1675192869108/2d2dff56-8ddd-493e-9099-aefb97b983b8.jpg",
+          "created_at": "2023-09-29T17:42:21",
+          "value": 5
+        },
+        {
+          "id": "65117a067efa8100015512a6",
+          "comment": " Amazing Experience! Very helpful and communicative buyer. Thanks so much.\n",
+          "comment_language": "en",
+          "username": "web_majesty",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/843b0de849d283d9a705557e5b232121-1690972842250/243b53f7-d690-4354-84e2-2c4675840ebe.png",
+          "created_at": "2023-09-25T12:16:06",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 156506335,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Los_Angeles",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}

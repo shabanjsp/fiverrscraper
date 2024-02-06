@@ -1,0 +1,434 @@
+{
+  "seller": {
+    "user": {
+      "id": "98043231",
+      "name": "sythertech",
+      "isActivationCompleted": true,
+      "joinedAt": 1606406303,
+      "profile": {
+        "displayName": "Abdullah Ali"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "ES",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/50288a65946da141188e5187a7f23736-1705741467217/da3d6b7d-0475-42db-b1d6-bab17c11a2d4.jpeg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "258001246"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Mobile and Web Developer",
+    "description": "I'm Abdullah Ali , CEO at Syther Technologies . I am an entrepreneur and have high skills in Mobile App development with over 4+ years of Exp .\nOur Vision is to make life easy with the magic of technology . We always try to find and solve every problem in our daily life with consistency . \n\nCurrently Me and my team is working on the following Technologies : \n\n1- Flutter - For Mobile Application .\n2-Laravel - For Power full Admin Panel\n3-WordPress- For making website quickly .\n4-Website Development from scrach \n5-MongoDB\n6-PHP MYSQL\n\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computerengineering",
+        "toYear": 2019,
+        "countryCode": "PK",
+        "school": "COMSATS University, Pakistan",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6720565f077890069d7",
+        "name": "Software development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Software developer"
+      },
+      {
+        "id": "617fa6720565f077890069d6",
+        "name": "Software design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Software designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa6600565f07789006498",
+        "name": "Laravel development",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Laravel developer"
+      },
+      {
+        "id": "617fa66a0565f0778900675c",
+        "name": "PHP development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP developer"
+      },
+      {
+        "id": "617fa6510565f07789006036",
+        "name": "Flutter development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa6370565f07789005873",
+        "name": "Android development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Android developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 4
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.4457364994,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c1333b7b1c502f9afe67c5",
+          "comment": "Best seller i got on this platform. Thanks alot for amazing service.",
+          "comment_language": "en",
+          "username": "larry_ellison49",
+          "reviewer_country_code": "DE",
+          "created_at": "2024-02-05T19:13:23",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO8240F836AC4",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 258001246,
+          "gig_slug": "make-flutter-mobile-application",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65bcd7b123ed9a538a6232f4",
+          "comment": "He has a quick response and very much devoted to his work. Very small delivery time and reasonable budget.",
+          "comment_language": "en",
+          "username": "caremily",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-02-02T11:53:31",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO81E040BD982",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 258001246,
+          "gig_slug": "make-flutter-mobile-application",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 73,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b9fb79da9df3104e85a2ad",
+          "comment": "His Level of cooperation was beyond my expectations. He provided me with Bug free work. He exhibit Deep understanding ",
+          "comment_language": "en",
+          "username": "arthur_miller74",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-31T07:50:08",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO2C0072E442",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 258001246,
+          "gig_slug": "make-flutter-mobile-application",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 23,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6547d35c5af47b000177a8fa",
+          "comment": "the best in the world, top developer ",
+          "comment_language": "en",
+          "username": "danieldarech315",
+          "reviewer_country_code": "IT",
+          "created_at": "2023-11-05T17:39:57",
+          "value": 5,
+          "reviewer_country": "Italy",
+          "encrypted_order_id": "FO4234A8A5FC8",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 258001246,
+          "gig_slug": "make-flutter-mobile-application",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 4,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 98043231,
+      "seller_username": "sythertech",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 4
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 98043231,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 98043231,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 258001246,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "make-flutter-mobile-application",
+      "title": "do professional flutter mobile app development ios and android app developer",
+      "seller_name": "sythertech",
+      "seller_id": 98043231,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/50288a65946da141188e5187a7f23736-1705741467217/da3d6b7d-0475-42db-b1d6-bab17c11a2d4.jpeg",
+      "seller_display_name": "Abdullah Ali",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/258001246/original/993bf902030b3651437cbc3a27bec447c57b8757.jpg",
+          "type": "ImageAsset",
+          "id": "258001246_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "65526c73c904a60001f80721",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "dart"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "android_studio"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "delivery",
+            "restaurant",
+            "shopping",
+            "taxi",
+            "booking",
+            "entertainment",
+            "maps_navigation",
+            "lifestyle",
+            "productivity_tools"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "performance",
+            "security",
+            "design",
+            "ads_monetization",
+            "data_storage",
+            "firebase"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 5,
+      "seller_url": "/sythertech",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 4,
+        "score": 5
+      },
+      "gig_url": "/sythertech/make-flutter-mobile-application",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "seller": {
+    "user": {
+      "id": "120149979",
+      "name": "tanjiasheng",
+      "isActivationCompleted": true,
+      "joinedAt": 1642446361,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Malaysia",
+        "countryCode": "MY"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 120149979,
+      "seller_username": "tanjiasheng",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 120149979,
+      "reviews": [
+        {
+          "id": "65c1127e0dcd5400015acd3b",
+          "comment": "Such a nice person with a great heart. And i am waiting for you next work🖤",
+          "comment_language": "en",
+          "username": "shunytripura",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d4107cc4dfdad8dd3bba2f5913e230e8-1684691081705754365860/JPEG_20240120_183923_8388227098776372603.jpg",
+          "created_at": "2024-02-05T16:53:19",
+          "value": 5
+        },
+        {
+          "id": "65c0f6fd0dcd5400015ab39f",
+          "comment": "Thank you so much!",
+          "comment_language": "en",
+          "username": "logodesingsshop",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/880b7396aebb84433225c3c745cf5068-1684742880091/3146794d-7628-4044-999b-0de88f04436d.png",
+          "created_at": "2024-02-05T14:55:57",
+          "value": 5
+        },
+        {
+          "id": "65be6b6ab2f0e00001437455",
+          "comment": "Beautiful customer ❤️❤️",
+          "comment_language": "en",
+          "username": "graphicskh",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/34549071b581df49eb1297695315e282-1690215715979/fe876ffe-8ab0-4519-b8a2-514a4b3a47ac.jpg",
+          "created_at": "2024-02-03T16:35:55",
+          "value": 5
+        },
+        {
+          "id": "65bba30cd966f80001d3f66d",
+          "comment": "Great Bayer\n ",
+          "comment_language": "en",
+          "username": "robiul_2",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/62e92e23541c3ef1b9281ddf4c79db75-1694519192643/14f77c81-6c23-41a2-ba31-060c9b3b2b6c.jpg",
+          "created_at": "2024-02-01T13:56:28",
+          "value": 5
+        },
+        {
+          "id": "65ba6e9fd966f80001d344d2",
+          "comment": "Great and helpfully buyer",
+          "comment_language": "en",
+          "username": "logodesingsshop",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/880b7396aebb84433225c3c745cf5068-1684742880091/3146794d-7628-4044-999b-0de88f04436d.png",
+          "created_at": "2024-01-31T16:00:31",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 120149979,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Kuala_Lumpur",
+    "recent_utc_offset": -480
+  },
+  "gigsData": []
+}

@@ -1,0 +1,476 @@
+{
+  "seller": {
+    "user": {
+      "id": "165411848",
+      "name": "omar_jamal99",
+      "isActivationCompleted": true,
+      "joinedAt": 1702129130,
+      "profile": {
+        "displayName": "Omar J"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/63061a3841ea2ad6e504ee4d175a3345-1702130772296/2ed2e1c1-1336-4989-aa30-acc246fd6836.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "354214574"
+        },
+        {
+          "id": "354337573"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello there.!\nI'm Omar Jamal. I have done master's in Mathematics with an excellent academic records and have more than 6 years of teaching experience. If you are struggling with Algebra, Calculus, differential equations, Linear algebra, Discrete math and Statistics then I'm here to help you with these challenging subjects.\nI assure you will not regret. You surely will have have great experience.\nThank you.!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Air University",
+        "certificationName": "MS MATHEMATICS",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "mathematics",
+        "toYear": 2018,
+        "countryCode": "PK",
+        "school": "Air University  ",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6640565f07789006597",
+        "name": "Math algebra",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Math algebra expert"
+      },
+      {
+        "id": "617fa63f0565f07789005ac2",
+        "name": "Calculus tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Calculus tutor"
+      },
+      {
+        "id": "617fa6610565f077890064fb",
+        "name": "Linear algebra",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Linear algebr expert"
+      },
+      {
+        "id": "617fa6480565f07789005dab",
+        "name": "Discrete mathematics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Discrete mathematics expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 108,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 7,
+        "subCategoryId": 77,
+        "nestedCategoryId": 2430
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 6
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.4457364994,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b25bfe756b9d0001741121",
+          "comment": "Thanks man ",
+          "comment_language": "en",
+          "username": "osama_aabed",
+          "reviewer_country_code": "PS",
+          "created_at": "2024-01-25T13:03:31",
+          "value": 5,
+          "reviewer_country": "Palestinian Territory",
+          "encrypted_order_id": "FO423F766C3C8",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354337573,
+          "gig_slug": "teach-calculus-linear-algebra-discrete-math-differential-equations",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65afe3aa7716c4625297f39c",
+          "comment": "Quick delivery, provided exactly what I wanted.Very satisfied!",
+          "comment_language": "en",
+          "username": "noahmowry",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/22b230126f9856848d30ba9e7f02c610-1706026251020/019c7a63-5066-4c08-93aa-e3c01930b344.jpeg",
+          "created_at": "2024-01-23T16:26:03",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO61DF3F07104",
+          "score": 0,
+          "reviewer_industry": [
+            "technology",
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354337573,
+          "gig_slug": "teach-calculus-linear-algebra-discrete-math-differential-equations",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "659c302e369cc9000121ec52",
+          "comment": "Seller was very responsive and extremely fast! Really impressed with the work and results.",
+          "comment_language": "en",
+          "username": "marcia_henry1",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6500426155a3ba0a729bfbc600701ce0-1706116773990/08cd6243-277d-487b-90b0-a1f8b68edd67.jpeg",
+          "created_at": "2024-01-08T17:33:08",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217DEA70786",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design",
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 354337573,
+          "gig_slug": "teach-calculus-linear-algebra-discrete-math-differential-equations",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65982c866fc708262bc6d299",
+          "comment": "Super fast delivery and highly quality work. All work was shown and explained very clearly. Super helpful with Linear algebra.",
+          "comment_language": "en",
+          "username": "amd_turner",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/289fddeb0129b8045956a627c677215d-1706116599014/0a346f4e-2d17-4124-93c5-442861516c25.jpeg",
+          "created_at": "2024-01-05T16:26:57",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO523C8602CC7",
+          "score": 0,
+          "reviewer_industry": [
+            "marketing_or_advertising",
+            "art_and_design"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 354337573,
+          "gig_slug": "teach-calculus-linear-algebra-discrete-math-differential-equations",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 27,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "658daf89d628ec0001851f98",
+          "comment": "Amazing work, fast delivery and excellent results. Highly recommended for maths related work.",
+          "comment_language": "en",
+          "username": "scott5895",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/121f7eda37b5c13f4bffadc8b5084ea9-1706117026132/d5d0cdbe-950c-4b4b-84b9-284b418444e6.png",
+          "created_at": "2023-12-28T17:28:06",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO823B97544C4",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design",
+            "construction"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354337573,
+          "gig_slug": "teach-calculus-linear-algebra-discrete-math-differential-equations",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 37,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 6,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 3
+      },
+      "user_id": 165411848,
+      "seller_username": "omar_jamal99",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5,
+        "quality_of_delivery_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 6
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "technology": "Technology",
+        "financial_services_or_banking": "Financial & Business Services ",
+        "art_and_design": "Art & Design",
+        "marketing_or_advertising": "Marketing & Advertising",
+        "construction": "Construction"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 165411848,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165411848,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 354337573,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2430,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "teach-calculus-linear-algebra-discrete-math-differential-equations",
+      "title": "teach calculus linear algebra discrete math differential equations",
+      "seller_name": "omar_jamal99",
+      "seller_id": 165411848,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/63061a3841ea2ad6e504ee4d175a3345-1702130772296/2ed2e1c1-1336-4989-aa30-acc246fd6836.jpg",
+      "seller_display_name": "Omar J",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354337573/original/e221838ce32e6c7b633490c20b82c8629e3672b6.png",
+          "type": "ImageAsset",
+          "id": "354337573_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "ap_calculus_ab",
+            "discrete_math",
+            "linear_algebra"
+          ]
+        },
+        {
+          "type": "grade_level",
+          "value": [
+            "graduate"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 6,
+      "buying_review_rating": 5,
+      "seller_url": "/omar_jamal99",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 6,
+        "score": 5
+      },
+      "gig_url": "/omar_jamal99/teach-calculus-linear-algebra-discrete-math-differential-equations",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 354214574,
+      "category_id": 5,
+      "sub_category_id": 108,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-english-to-spanish-and-spanish-to-english-translation",
+      "title": "do english to spanish and spanish to english translation",
+      "seller_name": "omar_jamal99",
+      "seller_id": 165411848,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/63061a3841ea2ad6e504ee4d175a3345-1702130772296/2ed2e1c1-1336-4989-aa30-acc246fd6836.jpg",
+      "seller_display_name": "Omar J",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354214574/original/dfbc5e090ba498536002f8b7d8596ea2d5949b03.png",
+          "type": "ImageAsset",
+          "id": "354214574_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "languages_pair",
+          "value": [
+            "english",
+            "spanish"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/omar_jamal99",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 6,
+        "score": 5
+      },
+      "gig_url": "/omar_jamal99/do-english-to-spanish-and-spanish-to-english-translation",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

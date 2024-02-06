@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "164051747",
+      "name": "aitana_be",
+      "isActivationCompleted": true,
+      "joinedAt": 1700208160,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Spain",
+        "countryCode": "ES"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 164051747,
+      "seller_username": "aitana_be",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 164051747,
+      "reviews": [
+        {
+          "id": "65b0f0ed756b9d0001733afb",
+          "comment": "Communication with this buyer went smoothly ",
+          "comment_language": "en",
+          "username": "pro_abimbola121",
+          "reviewer_country_code": "NG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4f25cd49b9498ecdee5f72d825872961-1697462539645/03e1ca2d-1a9b-456a-b613-5bda33f0dcf5.png",
+          "created_at": "2024-01-24T11:13:49",
+          "value": 5
+        },
+        {
+          "id": "65b0f0ad756b9d0001733aca",
+          "comment": "Thank you for making things easier!",
+          "comment_language": "en",
+          "username": "pro_abimbola121",
+          "reviewer_country_code": "NG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4f25cd49b9498ecdee5f72d825872961-1697462539645/03e1ca2d-1a9b-456a-b613-5bda33f0dcf5.png",
+          "created_at": "2024-01-24T11:12:46",
+          "value": 5
+        },
+        {
+          "id": "65b0f085756b9d0001733aab",
+          "comment": "Aitana is an outstanding buyer",
+          "comment_language": "en",
+          "username": "pro_abimbola121",
+          "reviewer_country_code": "NG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4f25cd49b9498ecdee5f72d825872961-1697462539645/03e1ca2d-1a9b-456a-b613-5bda33f0dcf5.png",
+          "created_at": "2024-01-24T11:12:05",
+          "value": 5
+        },
+        {
+          "id": "659c02ae369cc9000121bd8a",
+          "comment": "Understanding buyer",
+          "comment_language": "en",
+          "username": "julietwrites01",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5764b2d9c8375fd867cf511d81bece7f-1569101841692135907441/JPEG_20230815_224506_6311703042436169574.jpg",
+          "created_at": "2024-01-08T14:11:58",
+          "value": 5
+        },
+        {
+          "id": "659c023b369cc9000121bd26",
+          "comment": "Outstanding buyer \n",
+          "comment_language": "en",
+          "username": "julietwrites01",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5764b2d9c8375fd867cf511d81bece7f-1569101841692135907441/JPEG_20230815_224506_6311703042436169574.jpg",
+          "created_at": "2024-01-08T14:10:03",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 164051747,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Lagos",
+    "recent_utc_offset": -60
+  },
+  "gigsData": []
+}

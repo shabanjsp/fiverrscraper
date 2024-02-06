@@ -1,0 +1,791 @@
+{
+  "seller": {
+    "user": {
+      "id": "113441604",
+      "name": "marketer_maya",
+      "isActivationCompleted": true,
+      "joinedAt": 1630698149,
+      "profile": {
+        "displayName": "Maya"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/1608362a952df944b533a052051e5c6b-1706755717604/8a4b8dd7-505c-4f51-a7f4-c0c44316dc04.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "222881033"
+        },
+        {
+          "id": "223042082"
+        },
+        {
+          "id": "257709922"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Certified Google Ads and Web Analytics Expert",
+    "description": "Hi, I am a Maya. I am a Full-Stack Digital Marketer with 5+ years of experience. I specialize in ✔Google Ads, ✔Facebook Ads, ✔YouTube Ads, ✔Google Analytics 4, ✔GA4 Ecommerce Tracking, ✔Google Ads Conversion Tracking, ✔Facebook Pixel Conversion API\r\n\r\nI believe in a 100% guarantee and quality services. I have worked with worldwide clients, from young start-up companies to brands in a variety of industries. I'll confirm your increased sales, excellent CTR, upper conversion rate, lower price, and progressing ROI.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Graduated",
+        "certificationName": "Facebook Ads",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Graduated",
+        "certificationName": "Google Ads",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Graduated",
+        "certificationName": "Google Shopping Ads",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Graduated",
+        "certificationName": "google Analytics (GA4)",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Graduated",
+        "certificationName": "Google Tag Manager",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Graduated",
+        "certificationName": "Full Stack Digital Marketing",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "digital marketing",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "Dhaka University",
+        "degreeTitle": "CERTIFICATE"
+      },
+      {
+        "degree": "data analytics",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "Dhaka University",
+        "degreeTitle": "CERTIFICATE"
+      },
+      {
+        "degree": "e commerce",
+        "toYear": 2020,
+        "countryCode": "BD",
+        "school": "Bangladesh University of Professionals",
+        "degreeTitle": "CERTIFICATE"
+      },
+      {
+        "degree": "digital marketing",
+        "toYear": 2017,
+        "countryCode": "BD",
+        "school": "North South University",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa64f0565f07789005f72",
+        "name": "Facebook ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook ads expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f76",
+        "name": "Facebook API",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook API developer"
+      },
+      {
+        "id": "617fa6550565f07789006172",
+        "name": "Google ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google ad manager"
+      },
+      {
+        "id": "617fa6550565f07789006174",
+        "name": "Google AdWords",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google AdWords expert"
+      },
+      {
+        "id": "617fa6560565f07789006194",
+        "name": "Google shopping ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopping ads manager"
+      },
+      {
+        "id": "617fa6550565f07789006175",
+        "name": "Google analytics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google analytics expert"
+      },
+      {
+        "id": "617fa6560565f0778900619b",
+        "name": "Google Tag Manager",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google Tag Manager expert"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Social media marketer"
+      },
+      {
+        "id": "617fa6700565f0778900693a",
+        "name": "Search engine marketing (SEM)",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Search engine marketing (SEM) expert"
+      },
+      {
+        "id": "617fa6700565f0778900693b",
+        "name": "Search engine marketing management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Search engine marketing manager"
+      },
+      {
+        "id": "617fa66b0565f077890067d2",
+        "name": "PPC advertising",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PPC advertising expert"
+      },
+      {
+        "id": "617fa6480565f07789005d8f",
+        "name": "Digital marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital marketer"
+      },
+      {
+        "id": "617fa6720565f077890069c8",
+        "name": "Social media management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media manager"
+      },
+      {
+        "id": "617fa6460565f07789005cfa",
+        "name": "Data analytics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data analytics expert"
+      },
+      {
+        "id": "617fa6550565f0778900618d",
+        "name": "Google PPC",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google PPC expert"
+      },
+      {
+        "id": "617fa6460565f07789005d02",
+        "name": "Data conversion",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data conversion expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 200,
+        "nestedCategoryId": 2090
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 200,
+        "nestedCategoryId": 2091
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 200,
+        "nestedCategoryId": 2478
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1631611214
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 143
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bd135e23ed9a538a6239a4",
+          "comment": "Top work. Efficient, effective and great value. Would highly recommend.",
+          "comment_language": "en",
+          "username": "lawrence_sm",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5326140101b2c0a5a5ecddfe64b3c0cd-1698253289925/5a133dd7-2ee8-4ff8-802a-8bba4a920e93.png",
+          "created_at": "2024-02-02T16:09:38",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO312034C1AC3",
+          "score": 0,
+          "reviewer_industry": [
+            "fashion_and_apparel"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 223042082,
+          "gig_slug": "setup-and-manage-shopify-facebook-ads-campaign-manager-cc68",
+          "gig_category": 2,
+          "gig_sub_category": 200,
+          "gig_nested_sub_category": 2090,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 218,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b68152da9df3104e855651",
+          "comment": "Great results!\nThey are always ready to help and they did an amazing job.",
+          "comment_language": "en",
+          "username": "lawrence_sm",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5326140101b2c0a5a5ecddfe64b3c0cd-1698253289925/5a133dd7-2ee8-4ff8-802a-8bba4a920e93.png",
+          "created_at": "2024-01-28T16:35:37",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO417FD3CED84",
+          "score": 0,
+          "reviewer_industry": [
+            "fashion_and_apparel"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 223042082,
+          "gig_slug": "setup-and-manage-shopify-facebook-ads-campaign-manager-cc68",
+          "gig_category": 2,
+          "gig_sub_category": 200,
+          "gig_nested_sub_category": 2090,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 218,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b26b02500eff518645da03",
+          "comment": "Excellent work as always will be back again soon for more quality work. Thank you.",
+          "comment_language": "en",
+          "username": "lawrence_sm",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5326140101b2c0a5a5ecddfe64b3c0cd-1698253289925/5a133dd7-2ee8-4ff8-802a-8bba4a920e93.png",
+          "created_at": "2024-01-25T14:07:24",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO117FA00D387",
+          "score": 0,
+          "reviewer_industry": [
+            "fashion_and_apparel"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 223042082,
+          "gig_slug": "setup-and-manage-shopify-facebook-ads-campaign-manager-cc68",
+          "gig_category": 2,
+          "gig_sub_category": 200,
+          "gig_nested_sub_category": 2090,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 218,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65aff77a7716c4625297f69d",
+          "comment": "Thanks for your mind-blowing work. it's really helpful for me. hopefully we can collaborate again. ",
+          "comment_language": "en",
+          "username": "tanjiasheng",
+          "reviewer_country_code": "MY",
+          "created_at": "2024-01-23T17:32:27",
+          "value": 5,
+          "reviewer_country": "Malaysia",
+          "encrypted_order_id": "FO623F21E32C6",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 223042082,
+          "gig_slug": "setup-and-manage-shopify-facebook-ads-campaign-manager-cc68",
+          "gig_category": 2,
+          "gig_sub_category": 200,
+          "gig_nested_sub_category": 2090,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 599,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "654a9906f8dffe00010e1600",
+          "comment": "Was able to setup my facebook pixel, fast, and also setup my https://www.facebook.com/seankreagancreative ad. I highly recommend!",
+          "comment_language": "en",
+          "username": "seankreaganfoto",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f529a331463401fa93be5d111070d838-797194371705131451.5291939/F8AF6463-3AB7-4F5F-872D-D34C4D95CEB3",
+          "created_at": "2023-11-07T20:08:40",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/9dcffa3f04fd35b9bcb493940e55949a-1699387394/Fb%20Pixel.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/9dcffa3f04fd35b9bcb493940e55949a-1699387394/Fb%20Pixel.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO71D6BCDAB83",
+          "score": 0,
+          "reviewer_industry": [
+            "photography_and_videography"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 272298756,
+          "gig_slug": "add-product-or-upload-products-or-product-listings-to-shopify-woocommerce-wix",
+          "gig_category": 2,
+          "gig_sub_category": 59,
+          "gig_nested_sub_category": 2140,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 35,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 143,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 22,
+        "business": 19
+      },
+      "user_id": 113441604,
+      "seller_username": "marketer_maya",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 141
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "fashion_and_apparel": "Fashion & Apparel",
+        "art_and_design": "Art & Design",
+        "photography_and_videography": "Photography & Videography"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 113441604,
+      "reviews": [
+        {
+          "id": "65983ec1369cc900011f8d62",
+          "comment": "Thanks again for your order.",
+          "comment_language": "en",
+          "username": "ads_queen_max",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3650301ccfa490671e8ad03e8e5621f-1698466030455/865998bd-e793-4477-ad28-35890568201d.png",
+          "created_at": "2024-01-05T17:39:13",
+          "value": 5
+        },
+        {
+          "id": "650dcc2b7efa81000152d26f",
+          "comment": "Thank You",
+          "comment_language": "en",
+          "username": "ads_queen_max",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3650301ccfa490671e8ad03e8e5621f-1698466030455/865998bd-e793-4477-ad28-35890568201d.png",
+          "created_at": "2023-09-22T17:17:31",
+          "value": 5
+        },
+        {
+          "id": "650beca07efa810001515291",
+          "comment": "Thank you. You are great.",
+          "comment_language": "en",
+          "username": "ads_queen_max",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3650301ccfa490671e8ad03e8e5621f-1698466030455/865998bd-e793-4477-ad28-35890568201d.png",
+          "created_at": "2023-09-21T07:11:28",
+          "value": 5
+        },
+        {
+          "id": "650bec827efa81000151527a",
+          "comment": "Amazing experience.",
+          "comment_language": "unknown",
+          "username": "ads_queen_max",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3650301ccfa490671e8ad03e8e5621f-1698466030455/865998bd-e793-4477-ad28-35890568201d.png",
+          "created_at": "2023-09-21T07:10:58",
+          "value": 5
+        },
+        {
+          "id": "650518af4fa25c0001798018",
+          "comment": "Great Buyer",
+          "comment_language": "en",
+          "username": "ads_queen_max",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3650301ccfa490671e8ad03e8e5621f-1698466030455/865998bd-e793-4477-ad28-35890568201d.png",
+          "created_at": "2023-09-16T02:53:35",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 113441604,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 223042082,
+      "category_id": 2,
+      "sub_category_id": 200,
+      "nested_sub_category_id": 2090,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "setup-and-manage-shopify-facebook-ads-campaign-manager-cc68",
+      "title": "setup and manage google ads adwords PPC campaign from scratch",
+      "seller_name": "marketer_maya",
+      "seller_id": 113441604,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1608362a952df944b533a052051e5c6b-1706755717604/8a4b8dd7-505c-4f51-a7f4-c0c44316dc04.png",
+      "seller_display_name": "Maya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/223042082/original/caa787d4495490e87964f913386c1da6714fcd69.jpg",
+          "type": "ImageAsset",
+          "id": "223042082_1"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "65a1fa609cf63a000162a9f8",
+          "discount_percentage": 10
+        },
+        {
+          "id": "65a1fa609cf63a000162a9f9",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "search_engine",
+          "value": [
+            "google"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 55,
+      "buying_review_rating": 5,
+      "seller_url": "/marketer_maya",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 143,
+        "score": 4.969697
+      },
+      "gig_url": "/marketer_maya/setup-and-manage-shopify-facebook-ads-campaign-manager-cc68",
+      "is_seller_unavailable": false,
+      "price_i": 70,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 222881033,
+      "category_id": 2,
+      "sub_category_id": 200,
+      "nested_sub_category_id": 2478,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "run-fb-ads-campaign-facebook-marketing-fb-advertising-shopify-ads",
+      "title": "setup and manage google shopping ads for shopify and ecommerce store",
+      "seller_name": "marketer_maya",
+      "seller_id": 113441604,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1608362a952df944b533a052051e5c6b-1706755717604/8a4b8dd7-505c-4f51-a7f4-c0c44316dc04.png",
+      "seller_display_name": "Maya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/222881033/original/5d34b7a2f32c72047ac9ca033a7f440a180f7821.png",
+          "type": "ImageAsset",
+          "id": "222881033_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/222881033/original/c19f79ca525653bae9a970b842b3aaefeb60aa53.jpg",
+          "type": "ImageAsset",
+          "id": "222881033_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "163272521",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/de33bca572c220184cee714433145af0-1680804488/Screenshot_43.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "162951269",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/25b334db5f0992d341bf44d369965957-1680242429/Google%20Merchant.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "161906868",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/6b0e4276595fcfba37bbf9fa4546e85f-1678453261/Google%20Merchant%20Center.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "150344104",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/74f71efa2651584a714c65b68531011f-1657786423/fix%20google%20merchant%20center%20suspension.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "142592421",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/818f135adb8f544ea5059a5eb33fc2a8-1644260254/Fix%20Google%20Merchant%20Center%20Misrepresentation%20Issue.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "65a0ab7204832d00014557c0",
+          "discount_percentage": 10
+        },
+        {
+          "id": "65a0ab7204832d00014557c1",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "search_engine",
+          "value": [
+            "google"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 24,
+      "buying_review_rating": 5,
+      "seller_url": "/marketer_maya",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 143,
+        "score": 4.969697
+      },
+      "gig_url": "/marketer_maya/run-fb-ads-campaign-facebook-marketing-fb-advertising-shopify-ads",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 257709922,
+      "category_id": 2,
+      "sub_category_id": 200,
+      "nested_sub_category_id": 2091,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "setup-and-manage-google-ads-adwords-ppc-campaign-search-ads",
+      "title": "setup google ads adwords PPC campaigns from scratch",
+      "seller_name": "marketer_maya",
+      "seller_id": 113441604,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1608362a952df944b533a052051e5c6b-1706755717604/8a4b8dd7-505c-4f51-a7f4-c0c44316dc04.png",
+      "seller_display_name": "Maya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/257709922/original/12ca8d5025ea37ca6318245b94de0a6293d1c5f9.png",
+          "type": "ImageAsset",
+          "id": "257709922_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "166851383",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/7e99f829df701b69d79d19f9417abae7-1687461343/Google%20Ads.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "166553789",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/1dc1691bd78ef586eac14357bad60580-1686885730/Google%20Adwords.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "157640791",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3480ee7d103e284d53b7291412920c12-1670729516/Google%20shopping%20ads.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [],
+      "metadata": [
+        {
+          "type": "search_engine",
+          "value": [
+            "google"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 7,
+      "buying_review_rating": 5,
+      "seller_url": "/marketer_maya",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 143,
+        "score": 4.969697
+      },
+      "gig_url": "/marketer_maya/setup-and-manage-google-ads-adwords-ppc-campaign-search-ads",
+      "is_seller_unavailable": false,
+      "price_i": 70,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "seller": {
+    "user": {
+      "id": "118882068",
+      "name": "arbi2018",
+      "isActivationCompleted": true,
+      "joinedAt": 1640444200,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Serbia",
+        "countryCode": "RS"
+      },
+      "languages": [
+        {
+          "code": "DE",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.4457364994,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 118882068,
+      "seller_username": "arbi2018",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 118882068,
+      "reviews": [
+        {
+          "id": "65b37c41756b9d000174bc22",
+          "comment": "Wonderful buyer. Thanks!",
+          "comment_language": "en",
+          "username": "yes911",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/edb53c42b7752724c3cc2ef5da851be5-1699878293148/432ab870-f99e-476b-84cf-485631fd5b8e.png",
+          "created_at": "2024-01-26T09:32:50",
+          "value": 5
+        },
+        {
+          "id": "65b108fb756b9d00017349bc",
+          "comment": "Gute Kommunikation👍 top Käufer",
+          "comment_language": "en",
+          "username": "andynamic",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f1921ed9e37a9552dc45d1cd8e55bda8-1671144936757/267016a5-4464-4a92-a35f-aef010d4d1e9.jpeg",
+          "created_at": "2024-01-24T12:56:27",
+          "value": 5
+        },
+        {
+          "id": "65afa89ba8e68f000113c9ec",
+          "comment": "Great experience with him...thanks ",
+          "comment_language": "en",
+          "username": "melanie0004",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9a693aa3b6f4d986c68eef540e8577c8-1700147843788/396f18ce-2bf2-4526-8201-fb3deda7b2c1.png",
+          "created_at": "2024-01-23T11:52:59",
+          "value": 5
+        },
+        {
+          "id": "65ae9110a8e68f0001132f59",
+          "comment": "Again, great experience, thank you! ",
+          "comment_language": "en",
+          "username": "yes911",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/edb53c42b7752724c3cc2ef5da851be5-1699878293148/432ab870-f99e-476b-84cf-485631fd5b8e.png",
+          "created_at": "2024-01-22T16:00:16",
+          "value": 5
+        },
+        {
+          "id": "65a8d7652f49060001a291d6",
+          "comment": "Great buyer, thanks. ",
+          "comment_language": "en",
+          "username": "yes911",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/edb53c42b7752724c3cc2ef5da851be5-1699878293148/432ab870-f99e-476b-84cf-485631fd5b8e.png",
+          "created_at": "2024-01-18T07:46:45",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 118882068,
+    "currency": "EUR",
+    "locale": "de-DE",
+    "timezone": "Europe/Amsterdam",
+    "recent_utc_offset": -60
+  },
+  "gigsData": []
+}
