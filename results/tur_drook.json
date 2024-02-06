@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "163856699",
+      "name": "tur_drook",
+      "isActivationCompleted": true,
+      "joinedAt": 1699948796,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "HKD",
+    "rate": 8.2115039355,
+    "template": "HK${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "HK$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 163856699,
+      "seller_username": "tur_drook",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 163856699,
+      "reviews": [
+        {
+          "id": "6567b49d9246fb00018cbc2e",
+          "comment": "Good Experience ",
+          "comment_language": "en",
+          "username": "waqar_ahmad20",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/79b6d49ec34070d1f1c45315791ac266-1701707804586/d93ce0d0-d108-401d-a427-a4c841b643af.png",
+          "created_at": "2023-11-29T22:01:01",
+          "value": 5
+        },
+        {
+          "id": "6560feafbc825f00018c5c6e",
+          "comment": "Outstanding experience working with the buyer on Responsive wordpress website creation services",
+          "comment_language": "en",
+          "username": "techieproz",
+          "reviewer_country_code": "AE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cc6bc229160fb82dac5021b3bd732af6-1704628681485/6f60f78c-1e80-439d-932b-b0bf90783247.jpg",
+          "created_at": "2023-11-24T19:51:12",
+          "value": 5
+        },
+        {
+          "id": "6560fcd8bc825f00018c5aed",
+          "comment": "Thank you.",
+          "comment_language": "en",
+          "username": "shahab111",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f33b6de96899178373ff47f1777fbd50-1694190061798/1a114b27-1499-469e-8e6d-a7898bb7b08b.jpg",
+          "created_at": "2023-11-24T19:43:21",
+          "value": 5
+        },
+        {
+          "id": "655d2fbe4a2e4b000172d796",
+          "comment": "Thank you.",
+          "comment_language": "en",
+          "username": "abdullahsubhan",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/456707252ee94183a050d2be5c6b1e13-1684855000360/bfc1544f-6045-46e3-96b4-7a2d4af17d31.PNG",
+          "created_at": "2023-11-21T22:31:26",
+          "value": 5
+        },
+        {
+          "id": "655851811cde5f0001c95a20",
+          "comment": "Good experience again ",
+          "comment_language": "unknown",
+          "username": "digitalfist",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/66c9abbab7388ea7a988da1ebb6b2dd1-1690646336982/3773e334-756b-4d3a-b608-9c0cede38174.jpg",
+          "created_at": "2023-11-18T05:54:09",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 163856699,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

@@ -1,0 +1,180 @@
+{
+  "seller": {
+    "user": {
+      "id": "92534121",
+      "name": "riam26",
+      "isActivationCompleted": true,
+      "joinedAt": 1596461420,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "HKD",
+    "rate": 8.2115039355,
+    "template": "HK${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "HK$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 92534121,
+      "seller_username": "riam26",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 92534121,
+      "reviews": [
+        {
+          "id": "65bf0777b2f0e0000143c3d9",
+          "comment": "Great experience with this client ",
+          "comment_language": "en",
+          "username": "hiratutor94",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/98de9c7406c97e8816c5156384f33da6-1704355293376/e2477fd7-7bfd-451e-b27a-62ad426d9ac3.jpg",
+          "created_at": "2024-02-04T03:41:43",
+          "value": 5
+        },
+        {
+          "id": "65bf074cb2f0e0000143c3c7",
+          "comment": "I enjoyed working with you. You are such a wonderful buyer.",
+          "comment_language": "en",
+          "username": "hiratutor94",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/98de9c7406c97e8816c5156384f33da6-1704355293376/e2477fd7-7bfd-451e-b27a-62ad426d9ac3.jpg",
+          "created_at": "2024-02-04T03:41",
+          "value": 5
+        },
+        {
+          "id": "65bc4285704fed00015a7282",
+          "comment": "Great experience with this buyer",
+          "comment_language": "en",
+          "username": "abrartutor84",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/165011d4a80a4769115db3c62f4a6217-1704037470916/3ffabb0d-eb1d-4b8f-83e2-b12bd3a2c03e.jpg",
+          "created_at": "2024-02-02T01:16:53",
+          "value": 5
+        },
+        {
+          "id": "65bc424e704fed00015a7274",
+          "comment": "A great buyer thank you ",
+          "comment_language": "en",
+          "username": "abrartutor84",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/165011d4a80a4769115db3c62f4a6217-1704037470916/3ffabb0d-eb1d-4b8f-83e2-b12bd3a2c03e.jpg",
+          "created_at": "2024-02-02T01:15:59",
+          "value": 5
+        },
+        {
+          "id": "65b8523af760630001ea581b",
+          "comment": "A great buyer ",
+          "comment_language": "en",
+          "username": "abrartutor84",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/165011d4a80a4769115db3c62f4a6217-1704037470916/3ffabb0d-eb1d-4b8f-83e2-b12bd3a2c03e.jpg",
+          "created_at": "2024-01-30T01:34:50",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 92534121,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

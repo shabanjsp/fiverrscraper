@@ -1,0 +1,267 @@
+{
+  "seller": {
+    "user": {
+      "id": "168726477",
+      "name": "haider_khan45",
+      "isActivationCompleted": true,
+      "joinedAt": 1706041627,
+      "profile": {
+        "displayName": "Haider Khan"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "UR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "FA",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/196e029c79c4e12fde757bf0eeacbeda-1706041703156/81612506-91b6-4ff3-b174-5181b72d5d06.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "361331479"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "i have 4+ years of experience in the writing field, specifically in research and summary, research report, research proposal, report writing, business case stuty, articles, PowerPoint Presentations, urgent essay, and case study analysis.\r\n\r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6490565f07789005e06",
+        "name": "E-commerce data entry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "E-commerce data entry expert"
+      },
+      {
+        "id": "617fa6460565f07789005cf9",
+        "name": "Data analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data analyst"
+      },
+      {
+        "id": "617fa6560565f07789006192",
+        "name": "Google Sheets",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google Sheets expert"
+      },
+      {
+        "id": "617fa6440565f07789005c4f",
+        "name": "Copy paste work",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Copy paste expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 23,
+        "subCategoryId": 457,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "HKD",
+    "rate": 8.2115039355,
+    "template": "HK${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "HK$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65be7465ca1ae9136cd6dad9",
+          "comment": "I am really impressed the way she did a great job and beyond my expectations. Thank you",
+          "comment_language": "en",
+          "username": "robert_dorry",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-03T17:14:30",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2C0427CC42",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 361331479,
+          "gig_slug": "be-google-sheet-copy-paste-data-mining-web-research",
+          "gig_category": 23,
+          "gig_sub_category": 457,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 29,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 168726477,
+      "seller_username": "haider_khan45",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 168726477,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 168726477,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 361331479,
+      "category_id": 23,
+      "sub_category_id": 457,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-google-sheet-copy-paste-data-mining-web-research",
+      "title": "write top quality research, summaries, case study and reports on any topic",
+      "seller_name": "haider_khan45",
+      "seller_id": 168726477,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/196e029c79c4e12fde757bf0eeacbeda-1706041703156/81612506-91b6-4ff3-b174-5181b72d5d06.jpg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/361331479/original/3dd31eff9f162dc40a661dde6f8d18e38ebe19c7.png",
+          "type": "ImageAsset",
+          "id": "361331479_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "ur",
+          "level": 2
+        },
+        {
+          "code": "fa",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/haider_khan45",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/haider_khan45/be-google-sheet-copy-paste-data-mining-web-research",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

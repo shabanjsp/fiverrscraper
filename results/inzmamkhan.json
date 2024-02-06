@@ -1,0 +1,580 @@
+{
+  "seller": {
+    "user": {
+      "id": "60692504",
+      "name": "inzmamkhan",
+      "isActivationCompleted": true,
+      "joinedAt": 1489818839,
+      "profile": {
+        "displayName": "Inzmam"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/5e73a74f90d86818fef19a64536b6cbe-1706550304881/8b6d4dfc-b089-413a-803b-03c240d12d5f.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "346702555"
+        },
+        {
+          "id": "352846695"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Are you seeking a seasoned full-stack developer with a proven track record in crafting dynamic, user-friendly mobile and web applications? With over 5+ years of hands-on experience in the realm of software development, I specialize in creating innovative and scalable solutions across various platforms. A collaborative team player with a positive approach to project management and consulting. I bring a wealth of expertise and a commitment to delivering high-quality, efficient, and tailored solutions.\r\n\r\nReady to discuss your project? Feel free to reach out, and let's embark on this journey",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6510565f07789006036",
+        "name": "Flutter development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter developer"
+      },
+      {
+        "id": "617fa6380565f077890058c3",
+        "name": "App development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App developer"
+      },
+      {
+        "id": "617fa6650565f077890065fe",
+        "name": "Mobile apps development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps developer"
+      },
+      {
+        "id": "617fa6500565f07789005fff",
+        "name": "Firebase",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Firebase expert"
+      },
+      {
+        "id": "617fa6650565f07789006607",
+        "name": "Mobile UI design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Mobile UI designer"
+      },
+      {
+        "id": "617fa6380565f077890058c2",
+        "name": "App design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65ae45de43fa890001be22c8",
+          "title": "Technician Application",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65ae45de43fa890001be22c9",
+                "attachment": {
+                  "metadata": {
+                    "height": 750,
+                    "width": 1000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/eb3760501cd13dd96c97b5d2c8adac39-1705919946411/image_large.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 1
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 7
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "HKD",
+    "rate": 8.2115039355,
+    "template": "HK${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "HK$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65ac0154f47f620001875f3b",
+          "comment": "Working with Inzmam so far has been a great experience. He has communicated very well with me on every step of my project and the requirements. The designs have been great and I look forward to the finished product ",
+          "comment_language": "en",
+          "username": "stevecrawford_",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-20T17:23:13",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO417DFFA6984",
+          "score": 0.4748248,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 346702555,
+          "gig_slug": "develop-android-and-ios-apps-in-flutter",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655bb161e4ce960001330aa6",
+          "comment": "Very responsive to questions and was exceptionally supportive in helping me work through the actual process of bringing my app idea to fruition! Highly recommend.",
+          "comment_language": "en",
+          "username": "lucas_smith00",
+          "reviewer_country_code": "RO",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9a49a645b01ced7f775f33437febe722-1690373855530/fa308888-9966-40df-9b66-8c3044624ad5.jpg",
+          "created_at": "2023-11-20T19:21:46",
+          "value": 5,
+          "reviewer_country": "Romania",
+          "encrypted_order_id": "FO423667366C8",
+          "score": 0.4474489,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346702555,
+          "gig_slug": "develop-android-and-ios-apps-in-flutter",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6581f4aa08c7152192609c2e",
+          "comment": "Very happy with my project. I am very pleased with the attention to detail and quality . Highly recommend Inzmam he  is very talented. I will be doing another project with him soon.",
+          "comment_language": "en",
+          "username": "jhonnybaig",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-19T19:54:14",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO61DB9677884",
+          "score": 0.33615714,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346702555,
+          "gig_slug": "develop-android-and-ios-apps-in-flutter",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 50,
+          "price_range_end": 100,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b6c7287b679300010e4d4b",
+          "comment": "Always great communication with Inzmam.",
+          "comment_language": "en",
+          "username": "stevecrawford_",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-28T21:32:35",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO717F423F781",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 346702555,
+          "gig_slug": "develop-android-and-ios-apps-in-flutter",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b6c6e27b679300010e4d1e",
+          "comment": "Great experience so far with Inzmam. ",
+          "comment_language": "en",
+          "username": "stevecrawford_",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-28T21:39:39",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO829EB4051C6",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 346702555,
+          "gig_slug": "develop-android-and-ios-apps-in-flutter",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 7,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 60692504,
+      "seller_username": "inzmamkhan",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 7
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 60692504,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 60692504,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 346702555,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "develop-android-and-ios-apps-in-flutter",
+      "title": "do custom flutter mobile app development, building mobile app, flutter developer",
+      "seller_name": "inzmamkhan",
+      "seller_id": 60692504,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5e73a74f90d86818fef19a64536b6cbe-1706550304881/8b6d4dfc-b089-413a-803b-03c240d12d5f.jpg",
+      "seller_display_name": "Inzmam",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/346702555/original/7cf3cab3c4b63c7c899ce34bcaf5fcc056ba732e.jpg",
+          "type": "ImageAsset",
+          "id": "346702555_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "react_native",
+            "python",
+            "javascript",
+            "html",
+            "dart"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "node_js",
+            "other"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "android_studio",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "dating",
+            "shopping",
+            "taxi",
+            "kids",
+            "travel",
+            "custom",
+            "ecommerce",
+            "quiz",
+            "vpn"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "localization",
+            "performance",
+            "design",
+            "firebase",
+            "api_integration"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 7,
+      "buying_review_rating": 5,
+      "seller_url": "/inzmamkhan",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 7,
+        "score": 5
+      },
+      "gig_url": "/inzmamkhan/develop-android-and-ios-apps-in-flutter",
+      "is_seller_unavailable": false,
+      "price_i": 300,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 352846695,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "develop-dating-app-chat-app-social-media-app-like-facebook-for-android-and-ios",
+      "title": "develop dating app like tinder, chat app for android and IOS",
+      "seller_name": "inzmamkhan",
+      "seller_id": 60692504,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5e73a74f90d86818fef19a64536b6cbe-1706550304881/8b6d4dfc-b089-413a-803b-03c240d12d5f.jpg",
+      "seller_display_name": "Inzmam",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/352846695/original/d73f634648e47b65f4b6f7b1fdd3a4034fdeb506.png",
+          "type": "ImageAsset",
+          "id": "352846695_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/352846695/original/c082b552b39fa90e4a7cb9ee679a05e84596aa52.png",
+          "type": "ImageAsset",
+          "id": "352846695_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "react_native",
+            "python",
+            "java",
+            "kotlin",
+            "dart",
+            "swift"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "laravel",
+            "angular"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "flutterflow",
+            "android_studio",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "dating",
+            "streaming",
+            "social_networking"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "localization",
+            "performance",
+            "security",
+            "design",
+            "firebase"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/inzmamkhan",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 7,
+        "score": 5
+      },
+      "gig_url": "/inzmamkhan/develop-dating-app-chat-app-social-media-app-like-facebook-for-android-and-ios",
+      "is_seller_unavailable": false,
+      "price_i": 400,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}
