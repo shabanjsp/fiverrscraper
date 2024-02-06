@@ -1,0 +1,917 @@
+{
+  "seller": {
+    "user": {
+      "id": "113150339",
+      "name": "starzzzmedia",
+      "isActivationCompleted": true,
+      "joinedAt": 1630233662,
+      "profile": {
+        "displayName": "Starzz Media"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/8fa00d0330658aecdc130792ff778423-1659346016742/aed47ee3-f48b-4193-ba1e-f1611206c7f6.png"
+    },
+    "approvedGigsCount": 5,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "222292202"
+        },
+        {
+          "id": "236515509"
+        },
+        {
+          "id": "257368523"
+        },
+        {
+          "id": "278413881"
+        },
+        {
+          "id": "285516678"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "MORE THAN CREATIVITY!",
+    "description": "Are you looking for something that can boost your business to a higher level. Let me help you to bring your business to the next level with me years of experiences and brillint team. I care of your ideas and will create videos more than you expected and provide a amazing service. So I'm here to show my expertise. I'm just a message away!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "marketingmanagement",
+        "toYear": 2021,
+        "countryCode": "PK",
+        "school": "UETLahore",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      },
+      {
+        "id": "617fa6350565f077890057e1",
+        "name": "Adobe After Effects",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe After Effects expert"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6770565f07789006b56",
+        "name": "Typography",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Typography expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 20,
+        "subCategoryId": 329,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 399,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "654c8e41f1572a0001950e02",
+          "title": "Commercial Video Ads",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "654c8e41f1572a0001950e03",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/f3pkdafcqsq1jxnwedwu.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "654c90f2528a5a00016ea2d9",
+          "title": "Commercial Video Ads",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "654c90f2528a5a00016ea2da",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/gz5d06nqtfx74ib4agjj.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65b21b14bb1a9b00016d1931",
+          "title": "Promo VIdeos",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65b21b14bb1a9b00016d1932",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/m2fh8shkrh3gv4b33qmj.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 3
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 379
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65539391163f3500012e69c7",
+          "comment": "I had a fantastic experience working with Starzzmedia on creating a short commercial for my business. Their attention to detail and creativity exceeded my expectations. The communication was smooth, and they took the time to understand my vision, resulting in a final product that perfectly captured the essence of my brand. I'm thrilled with the outcome and would highly recommend Starzzmedia for any video production needs. Thanks for a job well done!",
+          "comment_language": "en",
+          "username": "naomibailey343",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-14T15:35:14",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO423571F1BC8",
+          "score": 0.51986474,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 236515509,
+          "gig_slug": "create-cinematic-intro-trailer-teaser-promo-brand-video",
+          "gig_category": 20,
+          "gig_sub_category": 329,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6580962608c715219260881e",
+          "comment": "The project went exceptionally well. The seller demonstrated a thorough understanding of our needs, offering extensive support and a clear grasp of our instructions. The final product was delivered satisfactorily.",
+          "comment_language": "en",
+          "username": "vellamisgroup",
+          "reviewer_country_code": "SI",
+          "created_at": "2023-12-18T18:58:10",
+          "value": 4.5,
+          "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/wjisjdjhgmleexfnreyg.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/wjisjdjhgmleexfnreyg.png",
+          "reviewer_country": "Slovenia",
+          "encrypted_order_id": "FO211C7FF8344",
+          "score": 0.46427047,
+          "reviewer_industry": [
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 236515509,
+          "gig_slug": "create-cinematic-intro-trailer-teaser-promo-brand-video",
+          "gig_category": 20,
+          "gig_sub_category": 329,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "656085c61ed21300014ddbcf",
+          "comment": "Excellent work, thanks to his idea it is even better than desired.\n\nCan recommend his work you will not be disappointed🙂",
+          "comment_language": "en",
+          "username": "jannik_kl",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a2bf78cb549234fe6de78981912dea05-1452544521676714186454/JPEG_20230218_105623_432736095220661456.jpg",
+          "created_at": "2023-11-24T12:04:55",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO4236C399AC8",
+          "score": 0.31455147,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 236515509,
+          "gig_slug": "create-cinematic-intro-trailer-teaser-promo-brand-video",
+          "gig_category": 20,
+          "gig_sub_category": 329,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65af599908246e65371f1d50",
+          "comment": "The customer service at this company is outstanding! They went above and beyond to resolve my issue quickly and efficiently.",
+          "comment_language": "en",
+          "username": "masoodk86",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cb55bbfe7e0c56e83c3d5907555cc9c7-1689593293781/4836b6e8-adb9-4dee-99c2-cb9c2de08b47.png",
+          "created_at": "2024-01-23T06:43:51",
+          "value": 5,
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO21DEEE2A708",
+          "score": 0.28917414,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 236515509,
+          "gig_slug": "create-cinematic-intro-trailer-teaser-promo-brand-video",
+          "gig_category": 20,
+          "gig_sub_category": 329,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 20,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65509cda163f3500012c3b45",
+          "comment": "Very happy with starzzmedia! He did exeptional work like I imagined my video's. Very happy and would definetely come back!",
+          "comment_language": "en",
+          "username": "niekhorstman",
+          "reviewer_country_code": "NL",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a3a4631bc9d6e89e88f3a2809527abfd-1687519274174/c1bb5672-4eb8-40c7-a707-580179082b7a.jpg",
+          "created_at": "2023-11-12T09:50:38",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/hwibdfa90ghmkhorub2v.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/hwibdfa90ghmkhorub2v.png",
+          "reviewer_country": "Netherlands",
+          "encrypted_order_id": "FO61C1DEE5004",
+          "score": 0.24378183,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 236515509,
+          "gig_slug": "create-cinematic-intro-trailer-teaser-promo-brand-video",
+          "gig_category": 20,
+          "gig_sub_category": 329,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 267,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 379,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 255,
+        "business": 45
+      },
+      "user_id": 113150339,
+      "seller_username": "starzzzmedia",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 5
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 13
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 360
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "financial_services_or_banking": "Financial & Business Services ",
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 113150339,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 113150339,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 222292202,
+      "category_id": 20,
+      "sub_category_id": 329,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "make-cinematic-teaser-trailer-promo-and-intro-video",
+      "title": "create cinematic intro, trailer, teaser, promo brand video",
+      "seller_name": "starzzzmedia",
+      "seller_id": 113150339,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/8fa00d0330658aecdc130792ff778423-1659346016742/aed47ee3-f48b-4193-ba1e-f1611206c7f6.png",
+      "seller_display_name": "Starzz Media",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/222292202/original/6f30a219b4cb0af854bfaa5023f68d2bc0e23d9d.jpg",
+          "type": "ImageAsset",
+          "id": "222292202_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "647705e3faf3d300100df1a4",
+          "id": 8457504
+        }
+      ],
+      "attachments": [
+        {
+          "id": "647705e3faf3d300100df1a4",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ewtwwctxwldxl90ax6yp",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_0.0,PLACEHOLDER/ewtwwctxwldxl90ax6yp.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "171102030",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/uzvzisvhvv8i0wjzmmjh",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/uzvzisvhvv8i0wjzmmjh.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "170629605",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/br6dsnjxfmz5j0ns22re",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/br6dsnjxfmz5j0ns22re.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "63530da60c34740001302ced",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "facebook"
+          ]
+        },
+        {
+          "type": "video_type",
+          "value": [
+            "live_action"
+          ]
+        },
+        {
+          "type": "video_orientation",
+          "value": [
+            "any"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 161,
+      "buying_review_rating": 5,
+      "seller_url": "/starzzzmedia",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 379,
+        "score": 4.9291997
+      },
+      "gig_url": "/starzzzmedia/make-cinematic-teaser-trailer-promo-and-intro-video",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 236515509,
+      "category_id": 20,
+      "sub_category_id": 329,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-cinematic-intro-trailer-teaser-promo-brand-video",
+      "title": "make cinematic teaser, trailer, promo, or commercial video",
+      "seller_name": "starzzzmedia",
+      "seller_id": 113150339,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/8fa00d0330658aecdc130792ff778423-1659346016742/aed47ee3-f48b-4193-ba1e-f1611206c7f6.png",
+      "seller_display_name": "Starzz Media",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/236515509/original/3de3c0c76a474f04127ed8754eabb351cd6517e2.png",
+          "type": "ImageAsset",
+          "id": "236515509_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "65b01f65a21b530017602b6d",
+          "id": 9846849
+        }
+      ],
+      "attachments": [
+        {
+          "id": "65b01f65a21b530017602b6d",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/vthwcrgc7yxnthkij4kc",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_0.0,PLACEHOLDER/vthwcrgc7yxnthkij4kc.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176428402",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/tlodaoypamcbeqtq5zlk",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/tlodaoypamcbeqtq5zlk.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "176428250",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/pcjhow5unrrtwfhuh6zt",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/pcjhow5unrrtwfhuh6zt.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "174716099",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/upam7qsveinxy0si98eq",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/upam7qsveinxy0si98eq.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "174591794",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/wjisjdjhgmleexfnreyg",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/wjisjdjhgmleexfnreyg.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "635311bb0c34740001304481",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "facebook"
+          ]
+        },
+        {
+          "type": "video_type",
+          "value": [
+            "live_action"
+          ]
+        },
+        {
+          "type": "video_orientation",
+          "value": [
+            "any"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 158,
+      "buying_review_rating": 4.9,
+      "seller_url": "/starzzzmedia",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 379,
+        "score": 4.9291997
+      },
+      "gig_url": "/starzzzmedia/create-cinematic-intro-trailer-teaser-promo-brand-video",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 278413881,
+      "category_id": 20,
+      "sub_category_id": 399,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-an-amazing-website-or-app-promo-video-37b7",
+      "title": "create an amazing website or app promo video",
+      "seller_name": "starzzzmedia",
+      "seller_id": 113150339,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/8fa00d0330658aecdc130792ff778423-1659346016742/aed47ee3-f48b-4193-ba1e-f1611206c7f6.png",
+      "seller_display_name": "Starzz Media",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/278413881/original/0b683b0404bef64bda401488ef52a767251f3e89.png",
+          "type": "ImageAsset",
+          "id": "278413881_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "63f688bcb32d2d000c6b9d70",
+          "id": 7943298
+        }
+      ],
+      "attachments": [
+        {
+          "id": "63f688bcb32d2d000c6b9d70",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ippyro6ubvobjjtbyyfk",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_32.369594,PLACEHOLDER/ippyro6ubvobjjtbyyfk.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "174481040",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/drp8je8hopsfyqpfey6g",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/drp8je8hopsfyqpfey6g.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "172816233",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/uw4tmpgzonec95k46llb",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/uw4tmpgzonec95k46llb.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "171891455",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/uiugm9emaa0ksstzsf31",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/uiugm9emaa0ksstzsf31.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "170814627",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/xcv9xflckm38hg4jg9yy",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/xcv9xflckm38hg4jg9yy.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "170659146",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/t0pzpjacm3fxgdrzwfin",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/t0pzpjacm3fxgdrzwfin.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "product_type",
+          "value": [
+            "mobile_application"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 40,
+      "buying_review_rating": 5,
+      "seller_url": "/starzzzmedia",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 379,
+        "score": 4.9291997
+      },
+      "gig_url": "/starzzzmedia/create-an-amazing-website-or-app-promo-video-37b7",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 285516678,
+      "category_id": 20,
+      "sub_category_id": 329,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-cinematic-teaser-trailer-promo-intro-or-commercial-video",
+      "title": "create a cinematic teaser, trailer, promo, intro, or commercial video",
+      "seller_name": "starzzzmedia",
+      "seller_id": 113150339,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/8fa00d0330658aecdc130792ff778423-1659346016742/aed47ee3-f48b-4193-ba1e-f1611206c7f6.png",
+      "seller_display_name": "Starzz Media",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/285516678/original/9ac80c69f6e3048358e6e6684b910e681c65cc57.jpg",
+          "type": "ImageAsset",
+          "id": "285516678_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "63bc1c4fbbfd960015d607af",
+          "id": 7681966
+        }
+      ],
+      "attachments": [
+        {
+          "id": "63bc1c4fbbfd960015d607af",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/whichzmriq5ujejfihmk",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_7.991196,PLACEHOLDER/whichzmriq5ujejfihmk.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "174352108",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/p12ftrrsd6sa8stnrghk",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/p12ftrrsd6sa8stnrghk.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "168869043",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/lhajotltccpf6aeumqyt",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/lhajotltccpf6aeumqyt.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "63716e2a5c0c3a0001925558",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "facebook"
+          ]
+        },
+        {
+          "type": "video_orientation",
+          "value": [
+            "any"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 17,
+      "buying_review_rating": 4.7,
+      "seller_url": "/starzzzmedia",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 379,
+        "score": 4.9291997
+      },
+      "gig_url": "/starzzzmedia/create-a-cinematic-teaser-trailer-promo-intro-or-commercial-video",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 257368523,
+      "category_id": 20,
+      "sub_category_id": 399,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-an-amazing-website-or-app-promo-video-f7de",
+      "title": "create an amazing website or app promo video",
+      "seller_name": "starzzzmedia",
+      "seller_id": 113150339,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/8fa00d0330658aecdc130792ff778423-1659346016742/aed47ee3-f48b-4193-ba1e-f1611206c7f6.png",
+      "seller_display_name": "Starzz Media",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "628d6235d1b32e0021e145ed",
+          "id": 6510184
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/257368523/original/867314c0474b44f89a1d28a6ce328bfad44e46e0.jpg",
+          "type": "ImageAsset",
+          "id": "257368523_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/257368523/original/1e1214a07b608d5545a4526ad635896d1888b4c9.jpg",
+          "type": "ImageAsset",
+          "id": "257368523_2"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "628d6235d1b32e0021e145ed",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/dox4occ4rmanwzwcltsg",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_27.734799,PLACEHOLDER/dox4occ4rmanwzwcltsg.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "171233863",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/vz1awam9dhvckemtdqys",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/vz1awam9dhvckemtdqys.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "169545825",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/mmtgric2nlyfywwygzht",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/mmtgric2nlyfywwygzht.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "product_type",
+          "value": [
+            "mobile_application"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/starzzzmedia",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 379,
+        "score": 4.9291997
+      },
+      "gig_url": "/starzzzmedia/create-an-amazing-website-or-app-promo-video-f7de",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}
