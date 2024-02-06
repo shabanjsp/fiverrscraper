@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "146851538",
+      "name": "victor_ramos1",
+      "isActivationCompleted": true,
+      "joinedAt": 1678595592,
+      "profile": {
+        "displayName": "Victor Ramos"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "INR",
+    "rate": 87.180366705,
+    "template": "₹{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₹"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 146851538,
+      "seller_username": "victor_ramos1",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 146851538,
+      "reviews": [
+        {
+          "id": "6583d58d5c478900012bf5c0",
+          "comment": "Outstanding Experience ",
+          "comment_language": "en",
+          "username": "owaisali360",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a15e7a99f5fed814f4b3c528c39a64e3-1699098076614/389dc589-bfdd-4797-a58c-ec7edbb14b34.jpg",
+          "created_at": "2023-12-21T06:05:01",
+          "value": 5
+        },
+        {
+          "id": "65818a641105490001ba91fa",
+          "comment": "Good Experience. Thanks ",
+          "comment_language": "en",
+          "username": "shabbarali125",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c95d8af10fb19aaf1f63149db1ff1789-1699567023640/f1acc6d5-099f-48cb-a7e7-26bc08a8e3aa.png",
+          "created_at": "2023-12-19T12:19:48",
+          "value": 5
+        },
+        {
+          "id": "657d4c9ddbf8680001005a8d",
+          "comment": "perfect buyer love to work with him very nice ",
+          "comment_language": "en",
+          "username": "design_stella",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/785a53311f316b8b384e95b3e8ca6731-1702311002949/31a7bcb9-51cb-4235-95be-ef868f8c640e.jpeg",
+          "created_at": "2023-12-16T07:07:09",
+          "value": 5
+        },
+        {
+          "id": "657678cda20623000191a133",
+          "comment": "It was pleasure working with Victor. He's communicative and responsive to new ideas.",
+          "comment_language": "en",
+          "username": "moizsohail16",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/916dbdeafff929faecc8f3ea19f1d8f1-1683550755915/c6c03c85-48b1-4e29-ad70-8bfd304e3c45.JPG",
+          "created_at": "2023-12-11T02:49:49",
+          "value": 5
+        },
+        {
+          "id": "65766ea5a206230001919d42",
+          "comment": "Nice buyer, thank you so much!",
+          "comment_language": "en",
+          "username": "vanessaz_studio",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d4576a150ed0330687ab2c3acfc93fa4-1701344893477/a54c7b65-c430-4794-bbe6-b4bf0c5269bb.jpg",
+          "created_at": "2023-12-11T02:06:29",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 146851538,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}
