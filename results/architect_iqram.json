@@ -1,0 +1,972 @@
+{
+  "seller": {
+    "user": {
+      "id": "127542848",
+      "name": "architect_iqram",
+      "isActivationCompleted": true,
+      "joinedAt": 1654096878,
+      "profile": {
+        "displayName": "Architect Iqram"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "HI",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/61d775a035243847f05ef1a43dd26e1e-1654097017608/c62943ea-2b37-4985-805d-cf19fe36c75f.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "273257498"
+        },
+        {
+          "id": "339550668"
+        },
+        {
+          "id": "356475425"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Architect ,3d Visualizer, Interior Exterior designer",
+    "description": "Hello. My name is Iqram and I'm an architect, designer, and 3D rendering expert. I have been providing quality services in the field of architecture and interior design for many years. I am suited to provide you with the best service at a reasonable price for any kind of architectural planning, 3D visualization, interior, exterior design. Multiple programs and applications are our strong suits. Among the 3D design tools available are Sketchup, 3dsmax, Lumion, Twinmotion, and Vray.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "creative it",
+        "certificationName": "3d Visualizer",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "architecture",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "Dhaka University of Engineering & Technology",
+        "degreeTitle": "BARCH"
+      },
+      {
+        "degree": "architecture",
+        "toYear": 2016,
+        "countryCode": "BD",
+        "school": "b.baria Polytechnic institute ",
+        "degreeTitle": "BARCH"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6390565f07789005907",
+        "name": "Architecture",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Architect"
+      },
+      {
+        "id": "617fa63a0565f07789005957",
+        "name": "AutoCAD Architecture",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AutoCAD Architecture expert"
+      },
+      {
+        "id": "617fa6390565f07789005903",
+        "name": "Architectural engineering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Architectural engineer"
+      },
+      {
+        "id": "617fa6390565f07789005905",
+        "name": "Architectural rendering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Architectural rendering expert"
+      },
+      {
+        "id": "617fa6390565f07789005906",
+        "name": "Architectural visualization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Architectural visualization expert"
+      },
+      {
+        "id": "617fa63e0565f07789005a78",
+        "name": "Building architecture",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Building architect"
+      },
+      {
+        "id": "617fa6710565f07789006995",
+        "name": "SketchUp",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SketchUp expert"
+      },
+      {
+        "id": "617fa6560565f07789006196",
+        "name": "Google SketchUp",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google SketchUp expert"
+      },
+      {
+        "id": "617fa6340565f077890057ae",
+        "name": "3D rendering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "3D rendering expert"
+      },
+      {
+        "id": "617fa64e0565f07789005f62",
+        "name": "Exterior design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Exterior designer"
+      },
+      {
+        "id": "617fa64f0565f07789005f63",
+        "name": "Exterior rendering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Exterior rendering expert"
+      },
+      {
+        "id": "617fa6580565f07789006281",
+        "name": "House design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "House designer"
+      },
+      {
+        "id": "617fa6580565f07789006268",
+        "name": "Home design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Home designer"
+      },
+      {
+        "id": "617fa6580565f07789006283",
+        "name": "House plans",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "House plans expert"
+      },
+      {
+        "id": "617fa65c0565f07789006359",
+        "name": "Interior architecture",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Interior architect"
+      },
+      {
+        "id": "617fa65c0565f0778900635a",
+        "name": "Interior design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Interior designer"
+      },
+      {
+        "id": "617fa65c0565f0778900635b",
+        "name": "Interior design 3D modeling",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Interior design 3D modeling expert"
+      },
+      {
+        "id": "617fa65c0565f0778900635c",
+        "name": "Interior design rendering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Interior design 3D rendering expert"
+      },
+      {
+        "id": "617fa6340565f077890057a4",
+        "name": "3D floor plan design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "3D floor plan designer"
+      },
+      {
+        "id": "617fa6340565f07789005792",
+        "name": "2D drawings & floor plans",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "2D drawings & floor plans expert"
+      },
+      {
+        "id": "617fa6510565f07789006027",
+        "name": "Floor plan design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Floor plan designer"
+      },
+      {
+        "id": "617fa6600565f0778900648f",
+        "name": "Landscape architecture",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landscape architect"
+      },
+      {
+        "id": "617fa6600565f07789006490",
+        "name": "Landscape design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landscape designer"
+      },
+      {
+        "id": "617fa6600565f07789006491",
+        "name": "Landscape design 3D modeling",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landscape design 3D modeling expert"
+      },
+      {
+        "id": "617fa63b0565f077890059bd",
+        "name": "Bathroom design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bathroom designer"
+      },
+      {
+        "id": "617fa65f0565f07789006464",
+        "name": "Kitchen design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Kitchen designer"
+      },
+      {
+        "id": "617fa66e0565f077890068b5",
+        "name": "Rendering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Rendering expert"
+      },
+      {
+        "id": "61a4d8ab758d756a25307bb4",
+        "name": "Garden design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Garden designer"
+      },
+      {
+        "id": "617fa6600565f07789006492",
+        "name": "Landscape design rendering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landscape design 3D rendering expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 150,
+        "nestedCategoryId": 2277
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 150,
+        "nestedCategoryId": 2279
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6505c58d033e8c0001b048b9",
+          "title": "majid mall renovation design",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "6505c58d033e8c0001b048ba",
+                "attachment": {
+                  "metadata": {
+                    "height": 3872,
+                    "width": 5760
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d36fb3398ec3af937cb75fc580f86753-1694877026764/raw%20file%20(10).png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65955d4184188a00016a3ed9",
+          "title": "interior project",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65955d4184188a00016a3eda",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/aca37c55e7eb71ff7784dda52731118f-1704287113732/Enscape_2023-10-17-16-13-24.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65bb2250bbf2e30001faa016",
+          "title": "bathroom design",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65bb2250bbf2e30001faa017",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/fwdnykd2mojmfot0mpkv.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 3
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 17
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "NO_LEVEL",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "659ac8ef369cc9000120feac",
+          "comment": "It was an extremely professional and knowledgeable experience. Although it was my first experience working with a  kitchen interior designer, they made me feel very comfortable despite the fact that it was my first time. In my opinion, it is highly recommended by me.",
+          "comment_language": "en",
+          "username": "loranceee",
+          "reviewer_country_code": "NL",
+          "created_at": "2024-01-07T15:54:52",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/bd01b1b05edcdd49173215dcb882e629-1704395365/Enscape_2024-01-05-00-54-50.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/bd01b1b05edcdd49173215dcb882e629-1704395365/Enscape_2024-01-05-00-54-50.png",
+          "reviewer_country": "Netherlands",
+          "encrypted_order_id": "FO31DCDF00607",
+          "score": 0.793343,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 273257498,
+          "gig_slug": "3d-floor-plan-interior-design-kitchen-bathroom-architecture-render-sketchup",
+          "gig_category": 3,
+          "gig_sub_category": 150,
+          "gig_nested_sub_category": 2277,
+          "relevancy_score": 1,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65aff3657716c4625297f609",
+          "comment": "Architect_iqram is an interior designer with a high level of talent and dedication, and I highly recommend them to anyone looking for one. Creative interior design, 3D floor plan, 2D plan, and commitment to delivering top-notch designs make them stand out.",
+          "comment_language": "en",
+          "username": "titus_s_koval",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-23T17:12:19",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/jag3nbw2do3zr4evwbqo.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/jag3nbw2do3zr4evwbqo.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO729E2F2DCC7",
+          "score": 0.69717014,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 273257498,
+          "gig_slug": "3d-floor-plan-interior-design-kitchen-bathroom-architecture-render-sketchup",
+          "gig_category": 3,
+          "gig_sub_category": 150,
+          "gig_nested_sub_category": 2277,
+          "relevancy_score": 1,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65905408d628ec0001869278",
+          "comment": "I am very pleased with the work delivered by iqram. The communication was very good, they understood my requirements and delivered a good design as per my needs.  In the future, I intend to hire them again.\n\nthanks a lot for the excellent service by iqram. Wish you the best of luck",
+          "comment_language": "en",
+          "username": "maurice_rgint",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-30T18:39:33",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/adf0fa1dd65f1a3802f17c961fe32000-1703919983/Enscape_2023-12-30-11-11-32.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/adf0fa1dd65f1a3802f17c961fe32000-1703919983/Enscape_2023-12-30-11-11-32.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO61DC3D33704",
+          "score": 0.58914226,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 273257498,
+          "gig_slug": "3d-floor-plan-interior-design-kitchen-bathroom-architecture-render-sketchup",
+          "gig_category": 3,
+          "gig_sub_category": 150,
+          "gig_nested_sub_category": 2277,
+          "relevancy_score": 1,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 22,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65b7fb59da9df3104e8577ce",
+          "comment": "We needed 3D renderings done for our retail location... You hit it out of the park, and the ball hasn't landed yet!  Exceptional job well done!  I am excited to work with you on our next projects.  ",
+          "comment_language": "en",
+          "username": "beauchronic",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-29T19:24:22",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/e6075139e1b2ad5ea9416aaabc9d4ab8-1706555584/Enscape_2024-01-30-00-44-23.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/e6075139e1b2ad5ea9416aaabc9d4ab8-1706555584/Enscape_2024-01-30-00-44-23.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO517EF9B4783",
+          "score": 0.49976635,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 356475425,
+          "gig_slug": "design-virtual-staging-virtual-renovation-interior-design-3d-model-rendering",
+          "gig_category": 3,
+          "gig_sub_category": 150,
+          "gig_nested_sub_category": 2279,
+          "relevancy_score": 1,
+          "price_range_start": 100,
+          "price_range_end": 200,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "652c49c94f5ac900018cb62f",
+          "comment": "Very fast, true to his word, and good quality.",
+          "comment_language": "en",
+          "username": "aj_wright",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/edc9d8bb0b77da402454d609dd3e1779-1617517131697068659.35868/19AB88F5-3D48-4553-AB46-22AF0781483E",
+          "created_at": "2023-10-16T00:42:59",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/901570df3e112d542695eab3fc5c096f-1697312641/Enscape_2023-10-15-00-14-54_Enscape%20scene%201.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/901570df3e112d542695eab3fc5c096f-1697312641/Enscape_2023-10-15-00-14-54_Enscape%20scene%201.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3118987F743",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 273257498,
+          "gig_slug": "3d-floor-plan-interior-design-kitchen-bathroom-architecture-render-sketchup",
+          "gig_category": 3,
+          "gig_sub_category": 150,
+          "gig_nested_sub_category": 2277,
+          "relevancy_score": 0,
+          "price_range_start": 50,
+          "price_range_end": 100,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 17,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 15,
+        "business": 1
+      },
+      "user_id": 127542848,
+      "seller_username": "architect_iqram",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 17
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 127542848,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 127542848,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 273257498,
+      "category_id": 3,
+      "sub_category_id": 150,
+      "nested_sub_category_id": 2277,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "3d-floor-plan-interior-design-kitchen-bathroom-architecture-render-sketchup",
+      "title": "do interior design, 3d floor plan, sketchup model, kitchen, architecture render",
+      "seller_name": "architect_iqram",
+      "seller_id": 127542848,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/61d775a035243847f05ef1a43dd26e1e-1654097017608/c62943ea-2b37-4985-805d-cf19fe36c75f.png",
+      "seller_display_name": "Architect Iqram",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/273257498/original/f5209cc044e271e73e39e064d8d48cc21facd8b3.jpg",
+          "type": "ImageAsset",
+          "id": "273257498_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/273257498/original/40fd74c18232ee71ba761d41a053972c7365b3f2.jpg",
+          "type": "ImageAsset",
+          "id": "273257498_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/273257498/original/0be6db90284f48c8b72a7d3571ec6823f8643cee.jpg",
+          "type": "ImageAsset",
+          "id": "273257498_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "630c4b4f94be6f001a2a3099",
+          "id": 7010234
+        }
+      ],
+      "attachments": [
+        {
+          "id": "630c4b4f94be6f001a2a3099",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/w5chixs9svxcsnqoc4pw",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_13.273429,PLACEHOLDER/w5chixs9svxcsnqoc4pw.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176499095",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/lytwwqyfrg9jz7jtgx2r",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/lytwwqyfrg9jz7jtgx2r.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "175910575",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/jag3nbw2do3zr4evwbqo",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/jag3nbw2do3zr4evwbqo.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "175184582",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/bd01b1b05edcdd49173215dcb882e629-1704395365/Enscape_2024-01-05-00-54-50.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175002090",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/adf0fa1dd65f1a3802f17c961fe32000-1703919983/Enscape_2023-12-30-11-11-32.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171862227",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/901570df3e112d542695eab3fc5c096f-1697312641/Enscape_2023-10-15-00-14-54_Enscape%20scene%201.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "project_scale",
+          "value": [
+            "apartment"
+          ]
+        },
+        {
+          "type": "building_type",
+          "value": [
+            "residential",
+            "commercial",
+            "office_workspace"
+          ]
+        },
+        {
+          "type": "image_file_format",
+          "value": [
+            "obj",
+            "3ds",
+            "jpg",
+            "dwg",
+            "skp",
+            "dae",
+            "pdf"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 16,
+      "buying_review_rating": 5,
+      "seller_url": "/architect_iqram",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 17,
+        "score": 5
+      },
+      "gig_url": "/architect_iqram/3d-floor-plan-interior-design-kitchen-bathroom-architecture-render-sketchup",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 356475425,
+      "category_id": 3,
+      "sub_category_id": 150,
+      "nested_sub_category_id": 2279,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-virtual-staging-virtual-renovation-interior-design-3d-model-rendering",
+      "title": "design virtual staging, virtual renovation, interior design, sketchup 3d model",
+      "seller_name": "architect_iqram",
+      "seller_id": 127542848,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/61d775a035243847f05ef1a43dd26e1e-1654097017608/c62943ea-2b37-4985-805d-cf19fe36c75f.png",
+      "seller_display_name": "Architect Iqram",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/356475425/original/beddcd9b907cc6650ab5a491311a480d94d158fc.jpg",
+          "type": "ImageAsset",
+          "id": "356475425_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/356475425/original/74afaf606e08aa1b6611242ba787aaf6ec0cf58f.jpg",
+          "type": "ImageAsset",
+          "id": "356475425_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/356475425/original/3497531fa39c48e9f55eb47e8f55e29570744ffb.jpg",
+          "type": "ImageAsset",
+          "id": "356475425_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "658922ff9a51de0023a8a3db",
+          "id": 9676907
+        }
+      ],
+      "attachments": [
+        {
+          "id": "658922ff9a51de0023a8a3db",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/pqvuojiibyotorsypz1h",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_6.28,PLACEHOLDER/pqvuojiibyotorsypz1h.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176228823",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e6075139e1b2ad5ea9416aaabc9d4ab8-1706555584/Enscape_2024-01-30-00-44-23.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "project_scale",
+          "value": [
+            "apartment"
+          ]
+        },
+        {
+          "type": "building_type",
+          "value": [
+            "residential",
+            "commercial",
+            "office_workspace"
+          ]
+        },
+        {
+          "type": "image_file_format",
+          "value": [
+            "3ds",
+            "jpg",
+            "dwg",
+            "skp",
+            "dae",
+            "pdf"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/architect_iqram",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 17,
+        "score": 5
+      },
+      "gig_url": "/architect_iqram/design-virtual-staging-virtual-renovation-interior-design-3d-model-rendering",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 339550668,
+      "category_id": 3,
+      "sub_category_id": 150,
+      "nested_sub_category_id": 2277,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-bathroom-interior-design-architecture-3d-model-rendering-walkthrough",
+      "title": "create bathroom interior design, architecture 3d model rendering, walkthrough",
+      "seller_name": "architect_iqram",
+      "seller_id": 127542848,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/61d775a035243847f05ef1a43dd26e1e-1654097017608/c62943ea-2b37-4985-805d-cf19fe36c75f.png",
+      "seller_display_name": "Architect Iqram",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/339550668/original/877579cebdde73b0454df567b8980308ab099b44.jpg",
+          "type": "ImageAsset",
+          "id": "339550668_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/339550668/original/7fb8055e41809d225d8f6c8c54a42a4635b4ba9f.jpg",
+          "type": "ImageAsset",
+          "id": "339550668_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/339550668/original/3f0a3fa18c72e9a5ea60f0ac69cf1d2062a46926.jpg",
+          "type": "ImageAsset",
+          "id": "339550668_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6501646b1126f2001db70a4a",
+          "id": 9098777
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6501646b1126f2001db70a4a",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/by9nsk7c32uwp0ik0eml",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/by9nsk7c32uwp0ik0eml.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "project_scale",
+          "value": [
+            "apartment"
+          ]
+        },
+        {
+          "type": "building_type",
+          "value": [
+            "residential",
+            "commercial",
+            "office_workspace"
+          ]
+        },
+        {
+          "type": "image_file_format",
+          "value": [
+            "obj",
+            "3ds",
+            "jpg",
+            "dwg",
+            "mb",
+            "skp",
+            "dae",
+            "pdf"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/architect_iqram",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 17,
+        "score": 5
+      },
+      "gig_url": "/architect_iqram/create-bathroom-interior-design-architecture-3d-model-rendering-walkthrough",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

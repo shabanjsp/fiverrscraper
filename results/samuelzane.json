@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "165655234",
+      "name": "samuelzane",
+      "isActivationCompleted": true,
+      "joinedAt": 1702470897,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 165655234,
+      "seller_username": "samuelzane",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 165655234,
+      "reviews": [
+        {
+          "id": "65afb38da8e68f000113d041",
+          "comment": "He is great and very polite. I loved this communication skill.",
+          "comment_language": "en",
+          "username": "datagrinder",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a42ec7b1dfcc620eee11cb4d7d2851e7-1667212453830/f3fa9838-3386-4a51-b219-fd04ef01d59d.jpg",
+          "created_at": "2024-01-23T12:39:41",
+          "value": 5
+        },
+        {
+          "id": "65a8e4e02f49060001a297b7",
+          "comment": "Great Buyer!!! Thumbs Up!! Always available for you anytime!",
+          "comment_language": "en",
+          "username": "innosight",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4ae053a753882ab764feed8aa615a57b-1691101525455/a4ccf8ff-769a-45ca-a93e-87748093cb93.jpg",
+          "created_at": "2024-01-18T08:44:16",
+          "value": 5
+        },
+        {
+          "id": "65a8e1f62f49060001a29680",
+          "comment": "Outstanding experience. Thank you.",
+          "comment_language": "en",
+          "username": "digital_bee1",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/459039c9b7f32d6f57676715d8296f60-1672835348431/d84ee1b9-d675-4f8b-b4a2-da6fd68086b5.png",
+          "created_at": "2024-01-18T08:31:50",
+          "value": 5
+        },
+        {
+          "id": "65a555f0be67470001eda8b2",
+          "comment": "Working with Samuel was a great experience. Good Communication skills. Thank you.",
+          "comment_language": "en",
+          "username": "app_oreo",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bb0a2d86fcdb127fd1b01759c77bcdc7-1704836165562/fa3c1b00-216d-4728-9fd8-8fb92d8b82ef.png",
+          "created_at": "2024-01-15T15:57:37",
+          "value": 5
+        },
+        {
+          "id": "65a29e8bbe67470001ebeeb7",
+          "comment": "Working with Samuelzane was a great experience! Heartfelt appreciation for brilliance and cooperation.\n",
+          "comment_language": "en",
+          "username": "spark_flow",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7d5b0059d4f1aad4709d8e1825fbde07-1704842252474/d223952e-57cc-41ed-992a-4d5c533fce6a.png",
+          "created_at": "2024-01-13T14:30:35",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165655234,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Los_Angeles",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}
