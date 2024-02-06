@@ -1,0 +1,753 @@
+{
+  "seller": {
+    "user": {
+      "id": "156481808",
+      "name": "ads_pro01",
+      "isActivationCompleted": true,
+      "joinedAt": 1690173511,
+      "profile": {
+        "displayName": "Rafi"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/bf180dcc0e606587788b755c7175ff08-1700142459328/30e701e3-f9a1-4d50-8972-7a2f2f97256c.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "332220457"
+        },
+        {
+          "id": "333123671"
+        },
+        {
+          "id": "334058522"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Google Ads and Analytics Expert",
+    "description": "Hi, this is Rafi, Helping clients to boost their business through strategic implementation of Google Ads and Google Analytics 4. Google ads service I provide ✅  Google Search Ads✅  Google Display Ads✅  Pmax Ads ✅  YouTube Ads✅  Google Ads Management✅  Reporting and Optimization. I also provide top-notch Google Analytics services such as✅ Conversion Tracking✅  Purchase/Goal Tracking✅  Ecommerce Tracking✅  Custom Event Tracking✅  Button & Link Click Tracking✅  Cross Domain Tracking. Let's plan a data-driven Google ads strategy and get success together.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Skilluper",
+        "certificationName": "Google Ads",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "skilluper",
+        "certificationName": "Google Tag Manager ",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "skilluper",
+        "certificationName": "Facebook Pixel",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Mindset it",
+        "certificationName": "Facebook Conversion Api",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "skilluper",
+        "certificationName": "Google analytics 4",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "Dhaka International University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6550565f07789006172",
+        "name": "Google ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google ad manager"
+      },
+      {
+        "id": "617fa67b0565f07789006c51",
+        "name": "Web analytics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web analyst"
+      },
+      {
+        "id": "617fa6560565f0778900619b",
+        "name": "Google Tag Manager",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google Tag Manager expert"
+      },
+      {
+        "id": "617fa6550565f07789006175",
+        "name": "Google analytics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google analytics expert"
+      },
+      {
+        "id": "617fa6550565f07789006180",
+        "name": "Google display ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google display ads manager"
+      },
+      {
+        "id": "617fa6550565f07789006187",
+        "name": "Google marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google marketer"
+      },
+      {
+        "id": "617fa65f0565f07789006452",
+        "name": "Keyword research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Keyword researcher"
+      },
+      {
+        "id": "617fa6460565f07789005cf9",
+        "name": "Data analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data analyst"
+      },
+      {
+        "id": "617fa67e0565f07789006d49",
+        "name": "YouTube ads creation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "YouTube ads creator"
+      },
+      {
+        "id": "617fa67e0565f07789006d4b",
+        "name": "YouTube analytics",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "YouTube analytics expert"
+      },
+      {
+        "id": "617fa67e0565f07789006d51",
+        "name": "YouTube marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "YouTube marketer"
+      },
+      {
+        "id": "617fa64f0565f07789005f80",
+        "name": "Facebook Pixel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook Pixel expert"
+      },
+      {
+        "id": "617fa6700565f0778900693a",
+        "name": "Search engine marketing (SEM)",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Search engine marketing (SEM) expert"
+      },
+      {
+        "id": "617fa6700565f0778900693b",
+        "name": "Search engine marketing management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Search engine marketing manager"
+      },
+      {
+        "id": "617fa6440565f07789005c40",
+        "name": "Conversion rate optimization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Conversion rate optimization expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 59,
+        "nestedCategoryId": 2140
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 200,
+        "nestedCategoryId": 2090
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 200,
+        "nestedCategoryId": 2095
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "656c0e96cb7b380001598761",
+          "title": "Google Search Ads Campaign Setup",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "656c0e96cb7b380001598762",
+                "attachment": {
+                  "metadata": {
+                    "height": 547,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/71fc0efd3f7fee71a86abdeee36c9012-1701580394389/ads.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "656c0f2399fa3800013f8c4f",
+          "title": "GA4 E-commerce Tracking Setup",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "656c0f2399fa3800013f8c50",
+                "attachment": {
+                  "metadata": {
+                    "height": 625,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1d3b094a656da122e88c1eba024e2b49-1701580570573/gtm.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "656cb4a4c1aba4000133f3ea",
+          "title": "Full Youtube Ad Setup",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "656cb4a4c1aba4000133f3eb",
+                "attachment": {
+                  "metadata": {
+                    "height": 554,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/828e66746aab2a24080acbff144395b0-1701622875313/yt%20video.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 3
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1690640843
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 10
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "656a1a36f32ad80001524ac6",
+          "comment": "Rafi had very good communication. Went over and above on getting the job done promptly. I chose him because his ad came up on Fiver when I looked at other gigs so if he knows how to advertise for himself I know he knows how to optimize for my store. Great job and fast turn around. Thank you.",
+          "comment_language": "en",
+          "username": "jessekmelton",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bf00ff5d408525ab9a554f9285f411ec-1650695846977/61791c40-2267-4769-b503-7cd069ada0f1.jpg",
+          "created_at": "2023-12-01T17:52:35",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO411C03C58C2",
+          "score": 0.7634872,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 332220457,
+          "gig_slug": "set-up-or-manage-google-ads-adwords-ppc-campaigns-professionally",
+          "gig_category": 2,
+          "gig_sub_category": 200,
+          "gig_nested_sub_category": 2090,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 259,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65660d4ef40cc90001672376",
+          "comment": "Rafi exceeded our expectations in setting up Google Ads. He grasped our business needs effortlessly, identified key keywords, and defined our target audience with minimal input. The well-crafted campaign promises impressive results. Exceptional work!",
+          "comment_language": "en",
+          "username": "robertdburdickb",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/42901be107395ab8adb102c7457d7cf7-1647255470171/d7ed6b6f-010f-4118-81f9-22b82214d955.jpg",
+          "created_at": "2023-11-28T15:57:26",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO5237755AFC7",
+          "score": 0.7169665,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 332220457,
+          "gig_slug": "set-up-or-manage-google-ads-adwords-ppc-campaigns-professionally",
+          "gig_category": 2,
+          "gig_sub_category": 200,
+          "gig_nested_sub_category": 2090,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 343,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "656f2405080ac400010948fe",
+          "comment": "Exceptional Google Ads optimization! The results were beyond my expectations. Increased visibility and conversions. A true professional who knows how to make every click count. Highly recommend for anyone seeking impactful online advertising.",
+          "comment_language": "en",
+          "username": "nathaniellnoga",
+          "reviewer_country_code": "BG",
+          "created_at": "2023-12-05T13:24:44",
+          "value": 5,
+          "reviewer_country": "Bulgaria",
+          "encrypted_order_id": "FO623878A4CC6",
+          "score": 0.6787817,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 332220457,
+          "gig_slug": "set-up-or-manage-google-ads-adwords-ppc-campaigns-professionally",
+          "gig_category": 2,
+          "gig_sub_category": 200,
+          "gig_nested_sub_category": 2090,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 43,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6552244d163f3500012d3d92",
+          "comment": "Amazing work done Rafiqul, I urgently needed to set up a search ad for my business, and Rafiqul did the work very professionally. Definitely work with him in the future. I wish him the best of luck in his career.",
+          "comment_language": "en",
+          "username": "juliagadorno",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4280b6e9b950a7e1c25a5aeb166d408a-1659699518044/7c2ea747-b355-42b3-a3e5-622c3e704762.jpg",
+          "created_at": "2023-11-13T13:30:59",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO411AB3CC1C2",
+          "score": 0.6522965,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 332220457,
+          "gig_slug": "set-up-or-manage-google-ads-adwords-ppc-campaigns-professionally",
+          "gig_category": 2,
+          "gig_sub_category": 200,
+          "gig_nested_sub_category": 2090,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 145,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655df4c14a2e4b000173489a",
+          "comment": "love working with Mr. Rafi, He solved the problems related to Shopping ads. The ad is running successfully now. I will definitely knock him in the future. He is very calm and fast. Totally satisfied with his work. I wish you the Best of luck in your career.",
+          "comment_language": "en",
+          "username": "track_mamun",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f6cb9a40f12705e65c75c89d2f1d6f88-1676051770513/2f658598-adfe-4402-a3ef-f5c1cde35752.jpg",
+          "created_at": "2023-11-22T12:37:50",
+          "value": 5,
+          "reviewer_country": "Bangladesh",
+          "encrypted_order_id": "FO82954505C46",
+          "score": 0.63165706,
+          "reviewer_industry": [
+            "food_and_beverage"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 332220457,
+          "gig_slug": "set-up-or-manage-google-ads-adwords-ppc-campaigns-professionally",
+          "gig_category": 2,
+          "gig_sub_category": 200,
+          "gig_nested_sub_category": 2090,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 10,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 156481808,
+      "seller_username": "ads_pro01",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 10
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "food_and_beverage": "Food & Beverage"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 156481808,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 156481808,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 332220457,
+      "category_id": 2,
+      "sub_category_id": 200,
+      "nested_sub_category_id": 2090,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "set-up-or-manage-google-ads-adwords-ppc-campaigns-professionally",
+      "title": "setup or manage google ads adwords ppc campaign professionally for your business",
+      "seller_name": "ads_pro01",
+      "seller_id": 156481808,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/bf180dcc0e606587788b755c7175ff08-1700142459328/30e701e3-f9a1-4d50-8972-7a2f2f97256c.jpg",
+      "seller_display_name": "Rafi",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/332220457/original/aa4e277f74d7a437e8e87be7142406918f17544e.jpg",
+          "type": "ImageAsset",
+          "id": "332220457_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/332220457/original/0bcf5d2c6e6446be9b6cac1cb3117fb64894547d.jpg",
+          "type": "ImageAsset",
+          "id": "332220457_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/332220457/original/c93596b9aeb708d3d9479a62a751712ada2add43.jpg",
+          "type": "ImageAsset",
+          "id": "332220457_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "search_engine",
+          "value": [
+            "google",
+            "youtube"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 10,
+      "buying_review_rating": 5,
+      "seller_url": "/ads_pro01",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 10,
+        "score": 5
+      },
+      "gig_url": "/ads_pro01/set-up-or-manage-google-ads-adwords-ppc-campaigns-professionally",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 333123671,
+      "category_id": 2,
+      "sub_category_id": 200,
+      "nested_sub_category_id": 2095,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "optimize-your-google-ads-adwords-ppc-campaigns-to-amplify-roi",
+      "title": "audit and optimize your google ads adwords PPC campaigns to amplify ROI",
+      "seller_name": "ads_pro01",
+      "seller_id": 156481808,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/bf180dcc0e606587788b755c7175ff08-1700142459328/30e701e3-f9a1-4d50-8972-7a2f2f97256c.jpg",
+      "seller_display_name": "Rafi",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/333123671/original/76c8072016a54c31c1e3df731c19f9d0a937f7fa.jpg",
+          "type": "ImageAsset",
+          "id": "333123671_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/333123671/original/8d7a0a859e62cb161dd4d59f571c48737c5ad8ae.jpg",
+          "type": "ImageAsset",
+          "id": "333123671_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/333123671/original/58a7b285c0c9cc296a79ccdf9adbbc5fa11871fe.jpg",
+          "type": "ImageAsset",
+          "id": "333123671_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "search_engine",
+          "value": [
+            "google",
+            "youtube"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/ads_pro01",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 10,
+        "score": 5
+      },
+      "gig_url": "/ads_pro01/optimize-your-google-ads-adwords-ppc-campaigns-to-amplify-roi",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 334058522,
+      "category_id": 2,
+      "sub_category_id": 59,
+      "nested_sub_category_id": 2140,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-google-analytics-4-ga4-ecommerce-tracking-and-analysis-expert",
+      "title": "be your google analytics 4, ga4 ecommerce tracking and analysis expert",
+      "seller_name": "ads_pro01",
+      "seller_id": 156481808,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/bf180dcc0e606587788b755c7175ff08-1700142459328/30e701e3-f9a1-4d50-8972-7a2f2f97256c.jpg",
+      "seller_display_name": "Rafi",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/334058522/original/da613747f00e09a40e6db20b7d2804262a817d10.jpg",
+          "type": "ImageAsset",
+          "id": "334058522_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/334058522/original/ffc46dab3af174d91ae0df474f4af89252dbf16b.jpg",
+          "type": "ImageAsset",
+          "id": "334058522_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/334058522/original/f3b8857411786cf1ce41b4e8d73103bdca1b9f42.jpg",
+          "type": "ImageAsset",
+          "id": "334058522_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/ads_pro01",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 10,
+        "score": 5
+      },
+      "gig_url": "/ads_pro01/be-your-google-analytics-4-ga4-ecommerce-tracking-and-analysis-expert",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

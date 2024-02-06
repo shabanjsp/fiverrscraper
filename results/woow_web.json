@@ -1,0 +1,930 @@
+{
+  "seller": {
+    "user": {
+      "id": "136598296",
+      "name": "woow_web",
+      "isActivationCompleted": true,
+      "joinedAt": 1666416564,
+      "profile": {
+        "displayName": "Swapon Mia"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/a8a51a19f2185b717fd45c643378da3b-1666613473570/794a4b5b-2914-46eb-884a-6ae13b4d1ea9.png"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "298980853"
+        },
+        {
+          "id": "309994815"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Crafting Digital Solutions with WordPress and WebFlow Expertise",
+    "description": "Hello! I'm a WordPress Expert Web Designer from Bangladesh. Also, I've experience in WebFlow and other CMS. I've been working in WordPress and WebFlow web-related design work for clients since 2018. The idea of using my passion for helping others is almost satisfying to me. Also, I know the other technologies commonly used in websites, for example, JavaScript, PHP, Bootstrap, HTML5, and CSS3. I genuinely desire to help those I work with and want them to be happy with their results.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Creative Shaper",
+        "certificationName": "Complete Web Design: From Figma To Webflow To Freelancing",
+        "year": 2017
+      },
+      {
+        "receivedFrom": "Udemy.com",
+        "certificationName": "How To Webflow Like A Boss",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "wordpress",
+        "certificationName": "Introduction to developing with the WordPress REST API",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "Become a WordPress Developer: Unlocking Power With Code",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "Complete Webflow Bootcamp: From Figma Design to Development",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2016,
+        "countryCode": "BD",
+        "school": "institute of science trad &technology",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "computer science  software engineering",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "World University of Bangladesh",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bootstrap expert"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress customization expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfd",
+        "name": "Wordpress theme customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress theme customization expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c6c",
+        "name": "Webflow",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Webflow expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf8",
+        "name": "WordPress landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress landing page expert"
+      },
+      {
+        "id": "617fa6600565f0778900648a",
+        "name": "Landing page copy",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page copywriter"
+      },
+      {
+        "id": "617fa6600565f0778900648c",
+        "name": "Landing page development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page developer"
+      },
+      {
+        "id": "617fa6600565f0778900648d",
+        "name": "Landing page optimization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page optimization expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c87",
+        "name": "Website landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website landing page expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf3",
+        "name": "WordPress consultation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress consultant"
+      },
+      {
+        "id": "617fa65b0565f07789006348",
+        "name": "Install WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress instalation expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress SEO expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfb",
+        "name": "WordPress security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress security expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfa",
+        "name": "WordPress performance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress performance expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c7f",
+        "name": "Website consultation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website consultant"
+      },
+      {
+        "id": "617fa67b0565f07789006c89",
+        "name": "Website migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website migration expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c7d",
+        "name": "Website builders & CMS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website builders & cms expert"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2613
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65a90500bb98130001c1d2ba",
+          "title": "Online Medical Instrument Shop",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65a90500bb98130001c1d2bb",
+                "attachment": {
+                  "metadata": {
+                    "height": 769,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/6683a0cd42a57c7e7967994a3aad3ffd-1705575595082/p8.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65ab675660c373000178c88f",
+          "title": "Ecommerce Website Design Develop",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65ab675660c373000178c890",
+                "attachment": {
+                  "metadata": {
+                    "height": 769,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/656e9ea5e379636619c972502ec7b74d-1705731913653/p165.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65ab6b5901013f000160af11",
+          "title": "Phyto-Violets Online Store",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65ab6b5901013f000160af12",
+                "attachment": {
+                  "metadata": {
+                    "height": 769,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1f65f3242ab40622ac68bec0b54e2cbf-1705732938155/p161.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65ab686e60c373000178c8e9",
+          "title": "Food Supplies Website",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65ab686e60c373000178c8ea",
+                "attachment": {
+                  "metadata": {
+                    "height": 769,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/b89334f155de3b0b498783b19e8f8b93-1705732184869/p173.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65ab66b660c373000178c86e",
+          "title": "Indoor Slides Online Store",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65ab66b660c373000178c86f",
+                "attachment": {
+                  "metadata": {
+                    "height": 4533,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/5415d90f5948bb74b0d42f48ad8f1b7b-1705731742368/gigaglijbaan-nl.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65ab6cab9456620001284ce7",
+          "title": "LED Table Lamps Shop",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65ab6cab9456620001284ce8",
+                "attachment": {
+                  "metadata": {
+                    "height": 7520,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1242227471228face6adc0d7c1a0de96-1705733282776/crystalglow-nl-.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 6
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1666530742
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 136
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "659cd542369cc9000122595c",
+          "comment": "He is one of the most patient human beings on this earth! I had tons of changes for my nonprofit site and he graciously attended to everything time after time without an issue. I especially appreciated the initial meeting via Zoom to discuss the project and go over everything to be included in the package. It created trust and confidence in his ability to deliver a quality project. I am overly pleased with my website, it looks amazing! I cannot thank him enough.",
+          "comment_language": "en",
+          "username": "bridged416",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-09T05:14:49",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/856009f08e3c87f800222f03779bbea2-1704254048/birchesl%20%282%29.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/856009f08e3c87f800222f03779bbea2-1704254048/birchesl%20%282%29.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31DC247CE07",
+          "score": 0.8466116,
+          "reviewer_industry": [
+            "education"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 309994815,
+          "gig_slug": "design-woocommerce-website-wordpress-ecommerce-website-or-online-store",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65842ebf5c478900012c265f",
+          "comment": "\"I had a great experience working with Swapon. I have high standards for my website and had specific requirements that I wasn't sure could be met. However, Swapon exceeded my expectations and designed a website that perfectly matched my vision. I provided over 20 suggestions, and each time, Swapon responded promptly and implemented the changes quickly. I highly recommend Swapon for any WordPress-related projects and look forward to working with him again in the future.",
+          "comment_language": "en",
+          "username": "khuyentran1401",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-21T12:28:49",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/6dfa929bf356a2122dbb25ac12e29e50-1703160592/Khuyen%20website.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/6dfa929bf356a2122dbb25ac12e29e50-1703160592/Khuyen%20website.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO21DB41FCA88",
+          "score": 0.749767,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 309994815,
+          "gig_slug": "design-woocommerce-website-wordpress-ecommerce-website-or-online-store",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65a50f56be67470001ed7789",
+          "comment": "I had an amazing experience getting my website created. Coming in I had no idea how the process worked but I knew what I wanted. From the initial message the customer service was great followed by patience and the want to give me the best product. My website exceeded my expectations. Would recommend to anyone. ",
+          "comment_language": "en",
+          "username": "whowearemedia",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/de4e86f0117b2ce481575b198627922d-833605651606971169.478992/C92514EF-9D35-465E-84E1-E00612EA3393",
+          "created_at": "2024-01-15T11:05:13",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/c5b21a06521915b4c49f1e2767947d26-1704948956/thespacedivemedia_delivery.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/c5b21a06521915b4c49f1e2767947d26-1704948956/thespacedivemedia_delivery.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO311E0040C43",
+          "score": 0.7272668,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 309994815,
+          "gig_slug": "design-woocommerce-website-wordpress-ecommerce-website-or-online-store",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 25,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "657c3112dbf8680001ffb2dd",
+          "comment": "We have been working with Swapon and his team for many projects and it is an absolute pleasure every time. Super professional team, high skilled in many areas, great communication and listening to our needs and working with our in-house designing team was superb. Definitely gonna continue to work with you guys. You are 10/10! \n",
+          "comment_language": "en",
+          "username": "remi_loren",
+          "reviewer_country_code": "SE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/59c3afa6c3cca19c4335a541e14d83dd-1677936416814/cd46d2d0-f8c3-45eb-ac4f-01c5358fa5f6.png",
+          "created_at": "2023-12-15T11:02:08",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/c7e584c250f8b88cd75680d49810b01d-1701333661/Remi%20website.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/c7e584c250f8b88cd75680d49810b01d-1701333661/Remi%20website.png",
+          "reviewer_country": "Sweden",
+          "encrypted_order_id": "FO3BB2E79D41",
+          "score": 0.6782999,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 309994815,
+          "gig_slug": "design-woocommerce-website-wordpress-ecommerce-website-or-online-store",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65aab92b49d34f2171b38fa5",
+          "comment": "Swapon was a pleasant surprise.  Our company has 3 other websites for the respective product lines, and this was the first time we have got a hassle-free job.\nHe understood my need and demonstrated expertise and professionalism.   All the requests were responded quickly, and the result was pretty good. \n",
+          "comment_language": "en",
+          "username": "georgiosmdv",
+          "reviewer_country_code": "BR",
+          "created_at": "2024-01-19T18:07:43",
+          "value": 4.7,
+          "reviewer_country": "Brazil",
+          "encrypted_order_id": "FO82FA5290308",
+          "score": 0.6557965,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 309994815,
+          "gig_slug": "design-woocommerce-website-wordpress-ecommerce-website-or-online-store",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 136,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 87,
+        "business": 8
+      },
+      "user_id": 136598296,
+      "seller_username": "woow_web",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 5
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 131
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {}
+    },
+    "selling_reviews": {
+      "user_id": 136598296,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 136598296,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 309994815,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-woocommerce-website-wordpress-ecommerce-website-or-online-store",
+      "title": "do wordpress website development, design or redesign wordpress blog",
+      "seller_name": "woow_web",
+      "seller_id": 136598296,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a8a51a19f2185b717fd45c643378da3b-1666613473570/794a4b5b-2914-46eb-884a-6ae13b4d1ea9.png",
+      "seller_display_name": "Swapon Mia",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/309994815/original/ff1b400db41b15ae7628eb28b8729d0eb83e0eb6.png",
+          "type": "ImageAsset",
+          "id": "309994815_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176543520",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/716a6ee5685ab325c4edded9e5221269-1707193252/jous.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176508745",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/1cfec5ebdf7eb93d057b8c9b3ffa430f-1707129143/website.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176498913",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/8db6e854b466816cc3043cd2357c2c1d-1707103868/David_Project_DELIVERY.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176387503",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/fc9fbafe957a666d55e01665f84b67e4-1706865074/fastpassport.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176336170",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4918d21b46a22f81e19e0911f4091db1-1706767685/smartrealestatecoach.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "analytics",
+            "form",
+            "membership",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 119,
+      "buying_review_rating": 4.9,
+      "seller_url": "/woow_web",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 136,
+        "score": 4.9375
+      },
+      "gig_url": "/woow_web/design-woocommerce-website-wordpress-ecommerce-website-or-online-store",
+      "is_seller_unavailable": false,
+      "price_i": 90,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 298980853,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2613,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "convert-transfer-or-clone-webflow-wix-squarespace-to-wordpress-website",
+      "title": "develop modern webflow website or convert figma to webflow",
+      "seller_name": "woow_web",
+      "seller_id": 136598296,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a8a51a19f2185b717fd45c643378da3b-1666613473570/794a4b5b-2914-46eb-884a-6ae13b4d1ea9.png",
+      "seller_display_name": "Swapon Mia",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/298980853/original/c884655f847b7b279a63ea674bb653f311aefe56.png",
+          "type": "ImageAsset",
+          "id": "298980853_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "172254463",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/34e5b36769a428603a0184bf6f9a3cbf-1698129740/villa2talerblick-31db03.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "169791565",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/6d8de946730adbbc5e35eeebbddafeb3-1693281416/adelaidewharris.webflow.io.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "169712129",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/03dea188807ea4dc6b9d8a772132a3e9-1693110276/maiasingletary-2023-08-27-10_24_01.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "169222890",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/ff094226e9592bafe58a90eb9dd0151e-1692161182/Christophervpai-webflow.io.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "169174935",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/de996009ec1036791ea0eb37cbd6148a-1692070923/Stephen_t_camp.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "video",
+            "form",
+            "membership",
+            "faq",
+            "gallery"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "before_after_slider",
+            "charts_graphs",
+            "pricing_tables",
+            "audio_player",
+            "image_hotspot",
+            "notification_bar",
+            "animated_number_counter"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 17,
+      "buying_review_rating": 5,
+      "seller_url": "/woow_web",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 136,
+        "score": 4.9375
+      },
+      "gig_url": "/woow_web/convert-transfer-or-clone-webflow-wix-squarespace-to-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 90,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}
