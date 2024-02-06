@@ -1,0 +1,178 @@
+{
+  "seller": {
+    "user": {
+      "id": "144457509",
+      "name": "peterpnicholas",
+      "isActivationCompleted": true,
+      "joinedAt": 1675789268,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Australia",
+        "countryCode": "AU"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 144457509,
+      "seller_username": "peterpnicholas",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 144457509,
+      "reviews": [
+        {
+          "id": "65b22309756b9d000173f1ac",
+          "comment": "Much appreciated, Thank you. Hope we can establish a long-term business relationship.",
+          "comment_language": "en",
+          "username": "wpwizard_",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/123ac80e2bb4ab178e22287e475582fc-1702811147870/4aff4ccf-0570-482e-acd0-451d16db6f19.jpg",
+          "created_at": "2024-01-25T08:59:53",
+          "value": 5
+        },
+        {
+          "id": "65acfd56e7303e0001824d14",
+          "comment": "Amazing experience! Thank you so much.",
+          "comment_language": "en",
+          "username": "uidesignli",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e6b2dbcc26b37f654d1b7283aa2b715c-1703409201637/4169fcf9-3fb9-49d0-8f4e-21a39eab9011.jpg",
+          "created_at": "2024-01-21T11:17:42",
+          "value": 5
+        },
+        {
+          "id": "659ce290369cc90001225f5b",
+          "comment": "Great buyer, Amazing Experience! Thanks so much.",
+          "comment_language": "en",
+          "username": "data_intouch",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f6079a3642766ca5f436c7298c04d283-1696307654943/947515b7-85cc-474d-a005-d994f37f8c87.jpg",
+          "created_at": "2024-01-09T06:07:12",
+          "value": 5
+        },
+        {
+          "id": "656029c81ed21300014da94f",
+          "comment": "Great Buyer!!! Thumbs Up!! Always available for you anytime!",
+          "comment_language": "en",
+          "username": "farjana_manzoor",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cf9c201ebe663258fec42dec832cf585-1661815956287/e49a4d79-9d26-4bac-b8ad-69a14246b42f.jpg",
+          "created_at": "2023-11-24T04:42:48",
+          "value": 5
+        },
+        {
+          "id": "654751355af47b0001774fca",
+          "comment": "Great Buyer!!! Thumbs Up!! Always available for you anytime!\n",
+          "comment_language": "en",
+          "username": "techdots",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/293750738760dc8fd4031b645efa167b-1649051549429/4347b244-488c-4037-bce4-69052aa697a5.jpg",
+          "created_at": "2023-11-05T08:24:21",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 144457509,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}
