@@ -1,0 +1,153 @@
+{
+  "seller": {
+    "user": {
+      "id": "166307018",
+      "name": "titus_s_koval",
+      "isActivationCompleted": true,
+      "joinedAt": 1703400011,
+      "profile": {
+        "displayName": "Titus S Koval"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6143394593,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 166307018,
+      "seller_username": "titus_s_koval",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 166307018,
+      "reviews": [
+        {
+          "id": "65b5f3fb756b9d0001760a4b",
+          "comment": "Great Client. Thanks.",
+          "comment_language": "en",
+          "username": "xxsagorxx",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7118df4473c9d5ce1f5a54292cf607b9-1451898681706206895658/JPEG_20240126_002132_2338817886824732698.jpg",
+          "created_at": "2024-01-28T06:28:11",
+          "value": 5
+        },
+        {
+          "id": "65b4974f756b9d0001756450",
+          "comment": "Great Buyer!!! Thank you ",
+          "comment_language": "en",
+          "username": "eloramoon",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a1f94389f2798240d3634bdea16ef7c9-1666420330519/d141ac42-6f26-40a3-84c6-d79bfe3c3a59.jpg",
+          "created_at": "2024-01-27T05:40:31",
+          "value": 5
+        },
+        {
+          "id": "65aff373756b9d000172b20c",
+          "comment": "great buyer ",
+          "comment_language": "en",
+          "username": "architect_iqram",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/61d775a035243847f05ef1a43dd26e1e-1654097017608/c62943ea-2b37-4985-805d-cf19fe36c75f.png",
+          "created_at": "2024-01-23T17:12:19",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 166307018,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}
