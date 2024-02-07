@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "141479718",
+      "name": "janelori47",
+      "isActivationCompleted": true,
+      "joinedAt": 1672744053,
+      "profile": {
+        "displayName": "Jane Lori"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "CAD",
+    "rate": 1.4157398373,
+    "template": "C${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "C$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 141479718,
+      "seller_username": "janelori47",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 141479718,
+      "reviews": [
+        {
+          "id": "65c24eea0dcd5400015b825b",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "madnifreelancer",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c6f26a1e6d9a7707a80bb158d1337707-1702894737569/c60aeaee-2e06-4e74-bd79-24fc23deac4e.png",
+          "created_at": "2024-02-06T15:23:33",
+          "value": 5
+        },
+        {
+          "id": "65c049abc23f2d000140429e",
+          "comment": "Great buyer, thank you so much!",
+          "comment_language": "en",
+          "username": "patriciajo_",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/08455726837e132395d07954740e7649-1706001207014/da241ee5-ec54-4a3f-a295-a0f8625bf9d5.jpg",
+          "created_at": "2024-02-05T02:36:27",
+          "value": 5
+        },
+        {
+          "id": "65c027b9c23f2d00014035ec",
+          "comment": "Everything was explained in detail. Easy to work with him",
+          "comment_language": "en",
+          "username": "sarakappel",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/139d46c66d59282f9269e718c77b230b-1652965368300/b125e212-3431-4f29-bb44-2e771e4cc257.jpg",
+          "created_at": "2024-02-05T00:11:37",
+          "value": 5
+        },
+        {
+          "id": "65be2860b2f0e000014348d6",
+          "comment": "Great buyer",
+          "comment_language": "en",
+          "username": "leahkreative",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a98e2f45ae84c2ce031055e53e4b0a64-1700134994027/7611d99c-be8d-42e6-9312-760ced0479c0.jpg",
+          "created_at": "2024-02-03T11:49:52",
+          "value": 5
+        },
+        {
+          "id": "65bd1592704fed00015ae403",
+          "comment": "Thank you so much!",
+          "comment_language": "en",
+          "username": "hannah_7eleven",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d6b83a70e117e36db0003ac4ea41934e-1705283103793/2a950b44-fc6d-42b0-9521-459e6a86452c.jpg",
+          "created_at": "2024-02-02T16:17:22",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 141479718,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

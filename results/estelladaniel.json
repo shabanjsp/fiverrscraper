@@ -1,0 +1,690 @@
+{
+  "seller": {
+    "user": {
+      "id": "160589997",
+      "name": "estelladaniel",
+      "isActivationCompleted": true,
+      "joinedAt": 1695504364,
+      "profile": {
+        "displayName": "Estella D."
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "IT",
+          "level": "BASIC"
+        },
+        {
+          "code": "DE",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/53f537aa88621ea930334316f7744585-1698157681652/be983d2f-a8f4-4f3a-8561-51eced147658.PNG"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "341500990"
+        },
+        {
+          "id": "346892689"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "DIGITAL EXPERT",
+    "description": "Hello,  I'm happy to be here using the knowledge I've gained to assist business owners and entrepreneurs. As a business builder guru, I look for the best in each market. I've picked up a variety of e-commerce marketing skills that will undoubtedly help most stores with their fundamental issue. My expertise spans a wide range of topics, including traffic creation, social media and goggles advertising, SEO, and website design. Because I'm passionate about what I do, I make sure to provide excellent customer service and fully guarantee your pleasure on every project. CONTACT ME RIGHT NOW.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "The data science award",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2020,
+        "countryCode": "US",
+        "school": "standford",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6630565f07789006580",
+        "name": "Marketing funnels",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Marketing funnels expert"
+      },
+      {
+        "id": "617fa6360565f07789005810",
+        "name": "Affiliate marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Affiliate marketer"
+      },
+      {
+        "id": "617fa66f0565f07789006903",
+        "name": "Sales funnel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Sales funnel expert"
+      },
+      {
+        "id": "617fa6410565f07789005b8f",
+        "name": "ClickBank",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "ClickBank expert"
+      },
+      {
+        "id": "617fa6360565f0778900580f",
+        "name": "Affiliate link promotion",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Affiliate link promotion expert"
+      },
+      {
+        "id": "617fa6360565f07789005842",
+        "name": "Amazon Affiliate",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Amazon Affiliate expert"
+      },
+      {
+        "id": "617fa6360565f0778900584f",
+        "name": "Amazon marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Amazon marketing expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa66c0565f07789006812",
+        "name": "Product research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Product researcher"
+      },
+      {
+        "id": "617fa6360565f07789005855",
+        "name": "Amazon product research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Amazon product research expert"
+      },
+      {
+        "id": "617fa6710565f0778900696f",
+        "name": "Shopify marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify marketing expert"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media marketer"
+      },
+      {
+        "id": "61a4d8b0758d756a25307bd6",
+        "name": "Pinterest marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Pinterest marketing expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f72",
+        "name": "Facebook ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook ads expert"
+      },
+      {
+        "id": "617fa6550565f07789006172",
+        "name": "Google ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google ad manager"
+      },
+      {
+        "id": "617fa6490565f07789005e0a",
+        "name": "E-commerce marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "E-commerce marketing expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e74",
+        "name": "Email campaign management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email campaign manager"
+      },
+      {
+        "id": "617fa6410565f07789005b90",
+        "name": "ClickFunnels",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "ClickFunnels expert"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 440,
+        "nestedCategoryId": 2410
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "655ab92d4ad7ea0001120a3b",
+          "title": "HIGH CONVERTING LANDING PAGE",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "655ab92d4ad7ea0001120a3c",
+                "attachment": {
+                  "metadata": {
+                    "height": 1280,
+                    "width": 584
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/103d0489a0b94c7e620333a6f34eb8d6-1700444452854/photo_5967797023195381371_y.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "655aba784ad7ea0001120a66",
+          "title": "COMPLETE SALES FUNNEL ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "655aba784ad7ea0001120a67",
+                "attachment": {
+                  "metadata": {
+                    "height": 1280,
+                    "width": 695
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d0dd7d317d45b034d6a80c9ef9cda928-1700444778938/photo_5967797023195381372_y.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "657c2b77488bd700018c158b",
+          "title": "HIGH CONVERTING LANDING PAGE ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "657c2b77488bd700018c158c",
+                "attachment": {
+                  "metadata": {
+                    "height": 1280,
+                    "width": 671
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/eceb5c213baf796e55dd50d07ac67bbb-1702636399139/photo_5850712409365397416_y.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "659f6f32b9db720001c98de6",
+          "title": "HIGH CONVERTING LANDING PAGE ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "659f6f32b9db720001c98de7",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 355
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/b656c66c7dd5c2d3ce90c1b41a770994-1704947453035/WhatsApp%20Image%202024-01-10%20at%206.09.32%20PM.jpeg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 42
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "CAD",
+    "rate": 1.4157398373,
+    "template": "C${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "C$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65a33a48be67470001ec60fd",
+          "comment": "Fantastic promotions and above industry standard service, support, and education every step of the way. Each step is thoroughly explained you never miss a beat. The downside is actually finding someone as intricate, crafty, and personable as Estella. Your schedule is of the utmost importance and she ensures you that it will always remain that way. Estella will not cheat you, deceive you, lead you astray, or have you lost at sea. Incredibly professional, simply fantastic. Bravo!",
+          "comment_language": "en",
+          "username": "i_comit_crimes",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-14T01:37:06",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO71DE4498C03",
+          "score": 0.86905324,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346892689,
+          "gig_slug": "do-clickbank-amazon-affiliate-marketing-sales-funnel-affiliate-link-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 440,
+          "gig_nested_sub_category": 2410,
+          "relevancy_score": 0.5,
+          "price_range_start": 400,
+          "price_range_end": 600,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658137521105490001ba688d",
+          "comment": "Before you continue scrolling, consider hiring Estella! she proves to be an exceptional collaborator. As someone venturing into affiliate marketing, I had numerous inquiries, and she patiently addressed each one. Estella provided clear explanations of her actions and communicated the necessary requirements at every stage. Her commitment surpasses that of other Fiverr sellers. I cannot express enough praise for her outstanding support.",
+          "comment_language": "en",
+          "username": "mellissa_sawyer",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/86dc5585100b4563b33d41244cfb7406-1693773572818/0133c567-a325-4bb2-920b-8e6243377853.jpg",
+          "created_at": "2023-12-19T07:44:58",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51DB6BEDB05",
+          "score": 0.83165336,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 346892689,
+          "gig_slug": "do-clickbank-amazon-affiliate-marketing-sales-funnel-affiliate-link-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 440,
+          "gig_nested_sub_category": 2410,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6559fdc9c92e4700017573c3",
+          "comment": "estelladaniel is very good and nice i really appreciate all her effort towards my affiliate marketing business to make sure i have something to show off which i'm actually getting desired results in my affiliate marketing business hoping to work with her more",
+          "comment_language": "en",
+          "username": "juans_stogne",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8c092dee8054e2b4c06436776ee05def-1693307349724/bed0e659-7a8c-4a26-abf1-5365f2bcf48d.jpg",
+          "created_at": "2023-11-19T12:36:45",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/65f42f6aef5a20133432439791cd3e0f-1700396014/IMG-20231119-WA0002.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/65f42f6aef5a20133432439791cd3e0f-1700396014/IMG-20231119-WA0002.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO623684CDFC6",
+          "score": 0.7170949,
+          "reviewer_industry": [
+            "agriculture"
+          ],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 346892689,
+          "gig_slug": "do-clickbank-amazon-affiliate-marketing-sales-funnel-affiliate-link-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 440,
+          "gig_nested_sub_category": 2410,
+          "relevancy_score": 1,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 195,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "655830101cde5f0001c94b8f",
+          "comment": "estelladaniel is very good and nice i really appreciate all his effort towards my affiliate marketing business to make sure i have something to show off which i'm actually getting desired results in my affiliate marketing business hoping to work with him more",
+          "comment_language": "en",
+          "username": "feli_eiffel",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e53b693bbb4f43498ee43f63042d58dd-1693306826736/85a89dc4-9a31-469c-a2b7-3a4bf81ce1fc.jpg",
+          "created_at": "2023-11-18T04:05:18",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/6634852dbad9151295d1d94e202bedbd-1700263111/IMG-20231117-WA0106.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/6634852dbad9151295d1d94e202bedbd-1700263111/IMG-20231117-WA0106.jpg",
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO82F2D770F08",
+          "score": 0.7170949,
+          "reviewer_industry": [
+            "non_profit"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 346892689,
+          "gig_slug": "do-clickbank-amazon-affiliate-marketing-sales-funnel-affiliate-link-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 440,
+          "gig_nested_sub_category": 2410,
+          "relevancy_score": 1,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 419,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6581383b1105490001ba68e7",
+          "comment": "I express my gratitude to Estella for her dedicated work on my project and wholeheartedly recommend her to others. Being a novice in this field, I greatly appreciate her for patiently addressing all my questions and providing guidance. I warmly recommend her to individuals who, like me, are new to the affiliate marketing arena and seeking a reliable professional to guide them.",
+          "comment_language": "en",
+          "username": "mellissa_sawyer",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/86dc5585100b4563b33d41244cfb7406-1693773572818/0133c567-a325-4bb2-920b-8e6243377853.jpg",
+          "created_at": "2023-12-19T07:43:25",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15F15A5101",
+          "score": 0.709245,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 346892689,
+          "gig_slug": "do-clickbank-amazon-affiliate-marketing-sales-funnel-affiliate-link-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 440,
+          "gig_nested_sub_category": 2410,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 42,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 12,
+        "business": 16
+      },
+      "user_id": 160589997,
+      "seller_username": "estelladaniel",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 40
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "agriculture": "Agriculture",
+        "non_profit": "Non Profit"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 160589997,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 160589997,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 346892689,
+      "category_id": 2,
+      "sub_category_id": 440,
+      "nested_sub_category_id": 2410,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-clickbank-amazon-affiliate-marketing-sales-funnel-affiliate-link-promotion",
+      "title": "do autopilot amazon affiliate website clickbank affiliate marketing sales funnel",
+      "seller_name": "estelladaniel",
+      "seller_id": 160589997,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/53f537aa88621ea930334316f7744585-1698157681652/be983d2f-a8f4-4f3a-8561-51eced147658.PNG",
+      "seller_display_name": "Estella D.",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/346892689/original/a9b0a6a7d4eadf7c6f1ac3d57e5bf233b87b4d6c.png",
+          "type": "ImageAsset",
+          "id": "346892689_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/346892689/original/ab59704906742388d2182d88b82e1544423ce656.png",
+          "type": "ImageAsset",
+          "id": "346892689_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/346892689/original/834c2892701d2912995f495cfd7fc9e805da0fad.png",
+          "type": "ImageAsset",
+          "id": "346892689_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "affiliate_networks_programs",
+          "value": [
+            "clickbank",
+            "cj_affiliate",
+            "amazon_associates"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 42,
+      "buying_review_rating": 5,
+      "seller_url": "/estelladaniel",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 42,
+        "score": 4.952381
+      },
+      "gig_url": "/estelladaniel/do-clickbank-amazon-affiliate-marketing-sales-funnel-affiliate-link-promotion",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 341500990,
+      "category_id": 2,
+      "sub_category_id": 440,
+      "nested_sub_category_id": 2410,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-clickbank-affiliate-marketing-sales-funnel-for-passive-income",
+      "title": "do clickbank affiliate marketing sales funnel for passive income",
+      "seller_name": "estelladaniel",
+      "seller_id": 160589997,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/53f537aa88621ea930334316f7744585-1698157681652/be983d2f-a8f4-4f3a-8561-51eced147658.PNG",
+      "seller_display_name": "Estella D.",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/341500990/original/db751211f64a61c04267ee9bf57422670f0e24d2.png",
+          "type": "ImageAsset",
+          "id": "341500990_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/341500990/original/bebd5b58449811ec24bd5c3dc40e37134e4fa4bc.png",
+          "type": "ImageAsset",
+          "id": "341500990_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "affiliate_networks_programs",
+          "value": [
+            "clickbank",
+            "jvzoo",
+            "cj_affiliate"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/estelladaniel",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 42,
+        "score": 4.952381
+      },
+      "gig_url": "/estelladaniel/do-clickbank-affiliate-marketing-sales-funnel-for-passive-income",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

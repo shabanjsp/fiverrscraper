@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "162631000",
+      "name": "amanda_sousa",
+      "isActivationCompleted": true,
+      "joinedAt": 1698251082,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Brazil",
+        "countryCode": "BR"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "CAD",
+    "rate": 1.4157398373,
+    "template": "C${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "C$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 162631000,
+      "seller_username": "amanda_sousa",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 162631000,
+      "reviews": [
+        {
+          "id": "65bda698b2f0e000014316a3",
+          "comment": "Thank you very much ",
+          "comment_language": "en",
+          "username": "lolita_smdpr03",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0ae19c4a2d5f075991527c02fe1d1068-1703081970154/dcaa761c-212c-425d-ae84-b8d844649162.png",
+          "created_at": "2024-02-03T02:36:08",
+          "value": 5
+        },
+        {
+          "id": "65bda619b2f0e0000143166c",
+          "comment": "Thank you very much for order again and again.",
+          "comment_language": "en",
+          "username": "nabilajahan24",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/938b80d67beebaebf1cec49a6fbd2bc2-1702989724019/9b8c8c30-16f2-4fb8-a4dc-9f7c7a708662.jpg",
+          "created_at": "2024-02-03T02:34:01",
+          "value": 5
+        },
+        {
+          "id": "65ac035af47f6200018760c7",
+          "comment": "Thank you",
+          "comment_language": "en",
+          "username": "anwara21",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4dd736fb612269517c0601468804ca1f-1693313794149/6e917591-2551-47bf-bf2e-d30f5a780b98.jpg",
+          "created_at": "2024-01-20T17:31:06",
+          "value": 5
+        },
+        {
+          "id": "65ac020cf47f620001875fe0",
+          "comment": "Thank you",
+          "comment_language": "en",
+          "username": "aber788",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9eccf4c16892ded7d8eb028e67487905-1695764841618/81af5556-592a-4269-a8b4-2a9284c4ec5e.png",
+          "created_at": "2024-01-20T17:25:32",
+          "value": 5
+        },
+        {
+          "id": "65ac00aaf47f620001875ebe",
+          "comment": "Thank you! ",
+          "comment_language": "en",
+          "username": "bristy788",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/db5c46ba2ba2472df016ae65a48f0c17-1688111520367/15721c96-a26c-4f9d-9731-57ae32987e77.jpg",
+          "created_at": "2024-01-20T17:19:38",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162631000,
+    "currency": "BRL",
+    "locale": "en-US",
+    "timezone": "America/Fortaleza",
+    "recent_utc_offset": 180
+  },
+  "gigsData": []
+}
