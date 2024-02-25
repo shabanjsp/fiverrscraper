@@ -1,0 +1,759 @@
+{
+  "seller": {
+    "user": {
+      "id": "124261820",
+      "name": "clmencelegrand",
+      "isActivationCompleted": true,
+      "joinedAt": 1648544048,
+      "profile": {
+        "displayName": "Clemonster"
+      },
+      "address": {
+        "countryName": "United Kingdom",
+        "countryCode": "GB"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "FR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "ZH",
+          "level": "BASIC"
+        },
+        {
+          "code": "ES",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/24808620d03c42954f1683c8c2723841-1670437559279/8fdb46e5-b8b9-4667-b1a8-e010a70642a2.jpeg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "258672512"
+        },
+        {
+          "id": "285019123"
+        }
+      ]
+    },
+    "notableClients": [
+      {
+        "endedAt": null,
+        "startedAt": 1667260800,
+        "description": "Recorded the voice over for radio ads for Citroen in Singapore with a friendly, upbeat tone, and a French accent of course! The recordings were conducted over Zoom in directed sessions with artistic director Keith Tan and the Citroen Singapore team.",
+        "company": {
+          "description": "Citroën is a French brand of automobiles owned by Stellantis. In 1934, the firm established its reputation for innovative technology with the Traction Avant.",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/ee8f97422c386d3392e40bc3b1bb05cb-1647339820/61b1c86de566a008d0a75b68.png"
+            }
+          },
+          "name": "Citroen",
+          "industry": {
+            "slug": "Auto Manufacturers"
+          }
+        }
+      },
+      {
+        "endedAt": null,
+        "startedAt": 1669852800,
+        "description": "I recorded the French female voice for the voice library of Booking.com in a directed session with a sound engineer, the French staff for quality control and the project manager. Tone was warm, friendly, and enthusiastic.",
+        "company": {
+          "description": "Big savings on hotels in 120,000 destinations worldwide. Browse hotel reviews and find the guaranteed best price on hotels for all budgets.",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/70a67c9259d0cc2872df1c9076455857-1647339677/61aa7550236de020686c400b.png"
+            }
+          },
+          "name": "Booking.com",
+          "industry": {
+            "slug": "Hospitality"
+          }
+        }
+      },
+      {
+        "endedAt": null,
+        "startedAt": 1690848000,
+        "description": "I recorded the VoiceOver for a few ads in French for Tennis Point; so far, one for their Nike collection, and one for 'Quiet Please' sharing messages on tennis courts. Great working together!",
+        "company": {
+          "description": "Tennis-Point is the leading online shop for tennis products in Germany. The products are distributed in all parts of Europe. Tennis-Point was setup in 2007. Within only a few month Tennis-Point raised to one of the biggest tennis online stores in Europe.",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/cf08fd7cc318fa66c05689d02c8d8a9f-1655987880653/Screenshot%202022-06-23%20at%2014.37.33.png"
+            }
+          },
+          "name": "Tennis-Point",
+          "industry": {
+            "slug": "Ecommerce"
+          }
+        }
+      }
+    ],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "I'll record your voice over in French or English!",
+    "description": "Professional Voice Over artist, native speaker of French, bilingual in English (possibility of recording in several accents). Experienced in Audio Guides, Audio Books, stories, podcasts, advertisements, etc.\r\nI record on a Sennheiser MKH416 in a sound booth, using Reaper.\r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "irish studies",
+        "toYear": 2020,
+        "countryCode": "FR",
+        "school": "rennes 2",
+        "degreeTitle": "MA"
+      },
+      {
+        "degree": "english",
+        "toYear": 2017,
+        "countryCode": "FR",
+        "school": "universite nantes",
+        "degreeTitle": "BA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67a0565f07789006c11",
+        "name": "Voice over",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Voice over artist"
+      },
+      {
+        "id": "617fa6500565f07789005fb8",
+        "name": "Female voice over",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Female voice over artist"
+      },
+      {
+        "id": "617fa6660565f0778900664e",
+        "name": "Narration voice over",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Narration voice over expert"
+      },
+      {
+        "id": "617fa6420565f07789005be1",
+        "name": "Commercial voice over",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Commercial voice over artist"
+      },
+      {
+        "id": "617fa6520565f07789006095",
+        "name": "French accent",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "French accent voice artist"
+      },
+      {
+        "id": "617fa6520565f07789006097",
+        "name": "French speaking",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "French speaker"
+      },
+      {
+        "id": "617fa6370565f0778900585c",
+        "name": "American accent",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "American accent voice artists"
+      },
+      {
+        "id": "617fa63d0565f07789005a66",
+        "name": "British accent",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "British accent voice artist"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 12,
+        "subCategoryId": 16,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 405
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "TOP_RATED_SELLER",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65a4df79f41e8d56bb30b325",
+          "comment": "I recently hired her for a voiceover in an explainer video and I am incredibly satisfied with the result. Her voice was clear, engaging, and perfectly suited for the tone of our project. Her delivery was not only professional but also infused with a youthful energy that brought our content to life.\n\nThe recording quality was top-notch, ensuring that every word was crisp and clear, which is crucial for effective storytelling in our digital learning solutions. The turnaround time was impressively quick, and she was very responsive and accommodating to any adjustments needed.\n\nOverall, this voiceover artist exceeded my expectations. I highly recommend her services to anyone looking for a high-quality French voiceover. Her talent and professionalism are sure to add great value to any project.",
+          "comment_language": "en",
+          "username": "maxommeh",
+          "reviewer_country_code": "CH",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2ada0d71d96d38887c2242f97808c4f3-1583405139346/6c54d35c-5ef1-466a-a4b6-44e2d609a542.jpg",
+          "created_at": "2024-01-15T07:55:02",
+          "value": 4.7,
+          "reviewer_country": "Switzerland",
+          "encrypted_order_id": "FO2BF307EA42",
+          "score": 0.5255034,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 258672512,
+          "gig_slug": "record-your-professional-voice-over-in-french",
+          "gig_category": 12,
+          "gig_sub_category": 16,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 72,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65931ba76fc708262bc6bedd",
+          "comment": "She has a beautiful voice and that fits my need. Her response time and friendliness are exceptional which is why I continue to work with her. She's awesome. ",
+          "comment_language": "en",
+          "username": "markadolphe",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-01T20:26:35",
+          "value": 4,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31DCA7C7D07",
+          "score": 0.39380822,
+          "reviewer_industry": [
+            "media_or_entertainment"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 258672512,
+          "gig_slug": "record-your-professional-voice-over-in-french",
+          "gig_category": 12,
+          "gig_sub_category": 16,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65aa22893fe84f1e441443f5",
+          "comment": "We are very happy with the voice overs. The delivery was on time and Clémence was very communicative and friendly. We can highly recommend her and would work with her any time again. ",
+          "comment_language": "en",
+          "username": "a4_agen",
+          "reviewer_country_code": "CH",
+          "created_at": "2024-01-19T07:23:40",
+          "value": 5,
+          "reviewer_country": "Switzerland",
+          "encrypted_order_id": "FO82FCB91CF08",
+          "score": 0.38398436,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 258672512,
+          "gig_slug": "record-your-professional-voice-over-in-french",
+          "gig_category": 12,
+          "gig_sub_category": 16,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 17,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6583576708c715219260aa75",
+          "comment": "Clémence did another outstanding job, as always - she is so consistent with the immaculate quality of her work, the expressiveness of her voice, the quick delivery times, and her kind, responsive communication. She is a true joy to work with!",
+          "comment_language": "en",
+          "username": "longtailstudios",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-20T23:33:24",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81DB1BCD082",
+          "score": 0.37905592,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 258672512,
+          "gig_slug": "record-your-professional-voice-over-in-french",
+          "gig_category": 12,
+          "gig_sub_category": 16,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 325,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6576e3985485e04ba6ac4e5d",
+          "comment": "She was able to hit it out of the part on the first go with ZERO revisions.  Thank you so much for such a nice work! ",
+          "comment_language": "en",
+          "username": "tanyabright",
+          "reviewer_country_code": "PL",
+          "created_at": "2023-12-11T10:42:39",
+          "value": 5,
+          "reviewer_country": "Poland",
+          "encrypted_order_id": "FO8297CDD9446",
+          "score": 0.3388738,
+          "reviewer_industry": [
+            "education"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 285019123,
+          "gig_slug": "record-your-professional-30sec-ad-in-french",
+          "gig_category": 12,
+          "gig_sub_category": 16,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 244,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 405,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1,
+        "business": 9
+      },
+      "user_id": 124261820,
+      "seller_username": "clmencelegrand",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 7
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 397
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {}
+    },
+    "selling_reviews": {
+      "user_id": 124261820,
+      "reviews": [
+        {
+          "id": "6318cb10f82ddf00016e44e7",
+          "comment": "It was a pleasure working with Clémence! Clear instructions and communication, great client. ",
+          "comment_language": "en-US",
+          "username": "arcticvox",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0a2fd3615973d3b387e609c700ff3221-1692027809892/8376f029-71d2-43f6-9f42-04e8de09aa4c.jpg",
+          "created_at": "2022-09-07T16:47:12",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 124261820,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/London",
+    "recent_utc_offset": 0
+  },
+  "gigsData": [
+    {
+      "gig_id": 258672512,
+      "category_id": 12,
+      "sub_category_id": 16,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "record-your-professional-voice-over-in-french",
+      "title": "record your professional voice over in french",
+      "seller_name": "clmencelegrand",
+      "seller_id": 124261820,
+      "seller_country": "GB",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/24808620d03c42954f1683c8c2723841-1670437559279/8fdb46e5-b8b9-4667-b1a8-e010a70642a2.jpeg",
+      "seller_display_name": "Clemonster",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "629916d63ad182001f80e5e5",
+          "id": "258672512_629916d63ad182001f80e5e5"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "629917ae09a8ed0022b961af",
+          "id": "258672512_629917ae09a8ed0022b961af"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "62991923496f2a001f857fb0",
+          "id": "258672512_62991923496f2a001f857fb0"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/258672512/original/c88e3c7be278b3926f4531eff098ca78cca85bee.jpeg",
+          "type": "ImageAsset",
+          "id": "258672512_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "629916d63ad182001f80e5e5",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/ge08ezujzbpurkzd6bty"
+        },
+        {
+          "id": "629917ae09a8ed0022b961af",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/syxnxe2ztmk0llhtsrtm"
+        },
+        {
+          "id": "62991923496f2a001f857fb0",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/pybkhhdbndzgrixi7lwi"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176869647",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/z1a1e4lpqafmog8ago4a",
+          "is_visible": true,
+          "type": "audio"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 4
+        },
+        {
+          "code": "zh",
+          "level": 1
+        },
+        {
+          "code": "es",
+          "level": 1
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "62eb94776039080001a01595",
+          "discount_percentage": 5
+        },
+        {
+          "id": "62eb94776039080001a01596",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "french"
+          ]
+        },
+        {
+          "type": "accent",
+          "value": [
+            "french_parisian"
+          ]
+        },
+        {
+          "type": "gender",
+          "value": [
+            "female"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "narration",
+            "audio_books",
+            "elearning"
+          ]
+        },
+        {
+          "type": "age_range",
+          "value": [
+            "young_adult"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "calming",
+            "casual",
+            "corporate",
+            "cute",
+            "energetic"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 381,
+      "buying_review_rating": 5,
+      "seller_url": "/clmencelegrand",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 405,
+        "score": 4.947652
+      },
+      "gig_url": "/clmencelegrand/record-your-professional-voice-over-in-french",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 285019123,
+      "category_id": 12,
+      "sub_category_id": 16,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "record-your-professional-30sec-ad-in-french",
+      "title": "record your professional ad in french or english",
+      "seller_name": "clmencelegrand",
+      "seller_id": 124261820,
+      "seller_country": "GB",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/24808620d03c42954f1683c8c2723841-1670437559279/8fdb46e5-b8b9-4667-b1a8-e010a70642a2.jpeg",
+      "seller_display_name": "Clemonster",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "638f8c3ce94262000d903dd6",
+          "id": 7516047
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "638f8c7937064b0022c784d1",
+          "id": "285019123_638f8c7937064b0022c784d1"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "638fee8dfb96a3001c778fd8",
+          "id": "285019123_638fee8dfb96a3001c778fd8"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/285019123/original/9373e4507584eefc636cc537ef342855f5819fbd.png",
+          "type": "ImageAsset",
+          "id": "285019123_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "638f8c3ce94262000d903dd6",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/gfvwwieoeyslsflk7hss",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_37.4176799839939,PLACEHOLDER/gfvwwieoeyslsflk7hss.png"
+        },
+        {
+          "id": "638f8c7937064b0022c784d1",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/bl2zrrut24zri6sihgiv"
+        },
+        {
+          "id": "638fee8dfb96a3001c778fd8",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/dgbieonqerjhpnsrmkit"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "174216308",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/vgxwuqkfva9z6obu9t7k",
+          "is_visible": true,
+          "type": "audio"
+        },
+        {
+          "id": "172672447",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/vf3zjouqa4boincqyrkd",
+          "is_visible": true,
+          "type": "audio"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 4
+        },
+        {
+          "code": "zh",
+          "level": 1
+        },
+        {
+          "code": "es",
+          "level": 1
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "636ceab4809895000199c05c",
+          "discount_percentage": 5
+        },
+        {
+          "id": "636ceab4809895000199c05d",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "french"
+          ]
+        },
+        {
+          "type": "accent",
+          "value": [
+            "french_european",
+            "french_parisian"
+          ]
+        },
+        {
+          "type": "gender",
+          "value": [
+            "female"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "narration",
+            "radio",
+            "tv"
+          ]
+        },
+        {
+          "type": "age_range",
+          "value": [
+            "young_adult"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "calming",
+            "cute",
+            "emotional",
+            "energetic",
+            "funny"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 24,
+      "buying_review_rating": 5,
+      "seller_url": "/clmencelegrand",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 405,
+        "score": 4.947652
+      },
+      "gig_url": "/clmencelegrand/record-your-professional-30sec-ad-in-french",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

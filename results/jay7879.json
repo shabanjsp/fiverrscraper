@@ -1,0 +1,181 @@
+{
+  "seller": {
+    "user": {
+      "id": "71869671",
+      "name": "jay7879",
+      "isActivationCompleted": true,
+      "joinedAt": 1537325551,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Philippines",
+        "countryCode": "PH"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 71869671,
+      "seller_username": "jay7879",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 71869671,
+      "reviews": [
+        {
+          "id": "657940730f30da0001e8ce92",
+          "comment": "Outstanding experience, Thank you so much!",
+          "comment_language": "en",
+          "username": "art8ight",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c845c6e8ff41023027c2a7ce91497a38-1626677199760/534c25d0-35d4-4a50-a112-d1b69bdb6772.jpg",
+          "created_at": "2023-12-13T05:26:11",
+          "value": 5
+        },
+        {
+          "id": "5e40ad05d036bf00010f0f24",
+          "comment": "It's always pleasure to work with him.",
+          "comment_language": "en-US",
+          "username": "ks_ajay",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f6cd0a88f31cd8265744289fb607be28-1687778138542/262c7df5-b9f7-4872-9be7-cac97efa5e28.jpg",
+          "created_at": "2020-02-10T01:08:22",
+          "value": 5
+        },
+        {
+          "id": "5d13489478bb4b0001baeb68",
+          "comment": "Thank you...",
+          "comment_language": "en-US",
+          "username": "ks_ajay",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f6cd0a88f31cd8265744289fb607be28-1687778138542/262c7df5-b9f7-4872-9be7-cac97efa5e28.jpg",
+          "created_at": "2019-06-26T10:27:32",
+          "value": 5
+        },
+        {
+          "id": "5cf0ae90daafe80001a9ece7",
+          "comment": "Thanks. Want to work again.",
+          "comment_language": "en-US",
+          "username": "raton8858",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/104bdaf201da15dc31c1d3106324edcd-1676563132264/e722b802-2c28-4b29-863d-13815427acb8.jpg",
+          "created_at": "2019-05-31T04:33:20",
+          "value": 5
+        },
+        {
+          "id": "5bab149a9a0b6900019a6eda",
+          "comment": "Outstanding Experience!",
+          "comment_language": "en-US",
+          "username": "jishat",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/81ae8dd1315c9e3aa3c9e03d9cfb1fa8-1576514724887/36933fa0-9030-4f6f-b550-d3e57fe18b6c.jpg",
+          "created_at": "2018-09-26T05:09:46",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 71869671,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Manila",
+    "recent_utc_offset": -480
+  },
+  "gigsData": []
+}

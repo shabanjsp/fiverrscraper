@@ -1,0 +1,161 @@
+{
+  "seller": {
+    "user": {
+      "id": "67899848",
+      "name": "inverteddigital",
+      "isActivationCompleted": true,
+      "joinedAt": 1519672359,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Canada",
+        "countryCode": "CA"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 67899848,
+      "seller_username": "inverteddigital",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 67899848,
+      "reviews": [
+        {
+          "id": "65c1c52d0dcd5400015b3532",
+          "comment": "Outstanding experience, It was a pleasure working with you, Thank you so much!",
+          "comment_language": "en",
+          "username": "art8ight",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c845c6e8ff41023027c2a7ce91497a38-1626677199760/534c25d0-35d4-4a50-a112-d1b69bdb6772.jpg",
+          "created_at": "2024-02-06T05:35:41",
+          "value": 5
+        },
+        {
+          "id": "603c475e4c678700018a0eff",
+          "comment": "Splendid experience again. Thank you so much sir :)",
+          "comment_language": "en-US",
+          "username": "designergadhvi",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f3523064e47c8ec05a4003737895c3e1-1690961047385/55fd4371-4735-40d6-8efa-52831e9bb85a.jpg",
+          "created_at": "2021-03-01T01:46:06",
+          "value": 5
+        },
+        {
+          "id": "6013698d51bd9c0001472443",
+          "comment": "splendid experience. i look forwarding to work with you again. Thank you:)",
+          "comment_language": "en-US",
+          "username": "designergadhvi",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f3523064e47c8ec05a4003737895c3e1-1690961047385/55fd4371-4735-40d6-8efa-52831e9bb85a.jpg",
+          "created_at": "2021-01-29T01:49:01",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 67899848,
+    "currency": "CAD",
+    "locale": "en-US",
+    "timezone": "America/Vancouver",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}

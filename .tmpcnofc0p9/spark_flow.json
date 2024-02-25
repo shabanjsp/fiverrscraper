@@ -1,0 +1,580 @@
+{
+  "seller": {
+    "user": {
+      "id": "161000547",
+      "name": "spark_flow",
+      "isActivationCompleted": true,
+      "joinedAt": 1696073286,
+      "profile": {
+        "displayName": "Rafsan"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/7d5b0059d4f1aad4709d8e1825fbde07-1704842252474/d223952e-57cc-41ed-992a-4d5c533fce6a.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "352547984"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Your trusted web application developer",
+    "description": "Looking for an experienced professional to handle your website design and development needs? Your search ends here! With a proven track record of delivering outstanding projects, I bring a mix of creativity and technical expertise to bring your web visions to life. Let's collaborate to build exceptional, user-friendly websites that stand out in today's competitive market.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "Build a Grocery Ecommerce Shopping App with FlutterFlow",
+        "year": 2023
+      },
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "The Web Developer Bootcamp",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "BUILD THE BEST ECOMMERCE WEBSITE EVER with REACT JS NEXT JS",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "East West University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "61a4d8a9758d756a25307bab",
+        "name": "Dart",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Dart developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web designer"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "React expert"
+      },
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Full stack web developer"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Front-end web developer"
+      },
+      {
+        "id": "617fa63b0565f07789005990",
+        "name": "Back-end development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Back-end developer"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Node.js expert"
+      },
+      {
+        "id": "617fa64e0565f07789005f60",
+        "name": "Express.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Express.js expert"
+      },
+      {
+        "id": "617fa6650565f07789006614",
+        "name": "MongoDB",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MongoDB expert"
+      },
+      {
+        "id": "617fa6460565f07789005cf6",
+        "name": "Dashboard design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Dashboard designer"
+      },
+      {
+        "id": "617fa6450565f07789005cd0",
+        "name": "Custom website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Custom website developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa6370565f0778900586f",
+        "name": "Android app",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Android app expert"
+      },
+      {
+        "id": "617fa65c0565f07789006393",
+        "name": "iOS development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "iOS developer"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa6650565f077890065fd",
+        "name": "Mobile apps design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps designer"
+      },
+      {
+        "id": "617fa6380565f077890058c2",
+        "name": "App design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa6600565f0778900648c",
+        "name": "Landing page development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c86",
+        "name": "Website editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website editor"
+      },
+      {
+        "id": "617fa6540565f07789006113",
+        "name": "Generic website",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Generic website expert"
+      },
+      {
+        "id": "617fa66f0565f077890068c2",
+        "name": "Rest API",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Rest API expert"
+      },
+      {
+        "id": "617fa65e0565f077890063e5",
+        "name": "JavaScript ES6",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript ES6 developer"
+      },
+      {
+        "id": "617fa6770565f07789006b51",
+        "name": "TypeScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "TypeScript expert"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcc",
+        "name": "Next.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Next.js developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1696436319
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 17
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b58011da9df3104e8548fa",
+          "comment": "First time I've been working with Rafsan & Team. So far, all great: responsive, professional, clear communications, attention to details. I'm excited to continuing working with the team in the next phase of the project, and hopefully many more in the future",
+          "comment_language": "en",
+          "username": "catria_advisory",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0c6dc227411f05c06fee9df93ff7aca1-1692050152687/7ebc26b4-8672-46da-a634-8fc41a417dac.jpg",
+          "created_at": "2024-01-27T22:43:35",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51DF9287785",
+          "score": 0.71909577,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 352547984,
+          "gig_slug": "design-and-develop-your-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 30,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6587faf03b629a00014759e9",
+          "comment": "Atika was so attentive and thoughtful with her suggestions for my website overhaul. She perfectly captured the vision I had in my head for my brand refresh -- it felt like she could read my mind!",
+          "comment_language": "en",
+          "username": "alecharlan",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-12-24T10:18:47",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO111D7FB8DC5",
+          "score": 0.7016238,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 352547984,
+          "gig_slug": "design-and-develop-your-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 12,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65924ceb6fc708262bc6bc5a",
+          "comment": "Sparkflow did an outstanding job creating our company website. Nailed it from brand colors to content. If you contract with this seller, you will not be disappointed. Thank you Sparkflow for your incredible work. See you on the next project",
+          "comment_language": "en",
+          "username": "erikhahn119",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b838427088fff904179252b7b020205f-1649673356167/31bdacc5-d326-4227-b7d7-e4073bd075cc.jpg",
+          "created_at": "2024-01-01T05:33:27",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO717D1063781",
+          "score": 0.6309937,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 352547984,
+          "gig_slug": "design-and-develop-your-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 169,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ac9f4f49d34f2171b3b246",
+          "comment": "Rafsan is very hardworking boy, he done my website very effectively, no issue with mobile device and super cool design, I'm very glad with the outcome, all the best wish for Rafsan. Highly recommend.",
+          "comment_language": "en",
+          "username": "seanharison",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-21T04:41:38",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO717EEF67981",
+          "score": 0.5258216,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 352547984,
+          "gig_slug": "design-and-develop-your-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6592b18d134796343496458f",
+          "comment": "Very clean and professional design, I'm pleased to see the work, very satisfy and happy for this service, hope we'll work more, much more recommend. thanks",
+          "comment_language": "en",
+          "username": "jackhurst21",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/73a67eb9d672b6b2af09e68be242c3b4-1650110331732/51d74721-d9aa-4bfc-80ed-7df6eab54fee.jpg",
+          "created_at": "2024-01-01T12:46:54",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO111DD5E58C5",
+          "score": 0.40429142,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 352547984,
+          "gig_slug": "design-and-develop-your-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 264,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 17,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 1
+      },
+      "user_id": 161000547,
+      "seller_username": "spark_flow",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 17
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 161000547,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161000547,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 352547984,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-and-develop-your-website",
+      "title": "build or rebuild website development as full stack developer and design website",
+      "seller_name": "spark_flow",
+      "seller_id": 161000547,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/7d5b0059d4f1aad4709d8e1825fbde07-1704842252474/d223952e-57cc-41ed-992a-4d5c533fce6a.png",
+      "seller_display_name": "Rafsan",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/352547984/original/30695ea7d254c467e40d4934c93ef2149cbd4521.png",
+          "type": "ImageAsset",
+          "id": "352547984_1"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "php",
+            "typescript",
+            "react"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "forum",
+            "shipping",
+            "inventory",
+            "form",
+            "events",
+            "chat",
+            "membership",
+            "booking",
+            "portfolio",
+            "dashboard"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 15,
+      "buying_review_rating": 5,
+      "seller_url": "/spark_flow",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 17,
+        "score": 5
+      },
+      "gig_url": "/spark_flow/design-and-develop-your-website",
+      "is_seller_unavailable": false,
+      "price_i": 125,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

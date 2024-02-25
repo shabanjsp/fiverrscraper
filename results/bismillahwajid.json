@@ -1,0 +1,194 @@
+{
+  "seller": {
+    "user": {
+      "id": "122402005",
+      "name": "bismillahwajid",
+      "isActivationCompleted": true,
+      "joinedAt": 1645584612,
+      "profile": {
+        "displayName": "Bismillah Arooj"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ca5de9ec3934d311b32627d515553cdc-1224020051678370435962/JPEG_20230309_190034_2505076631269211906.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": false,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hi, I am providing Social Media Management and Marketing Services. I have more than 5 years of experience in social media marketing as well as a Bachelor Degree in Digital Marketing specializing in Social Media Marketing. I'm a specialist in Twitter, Facebook and Instagram marketing and spotlight on making you stand apart from the large numbers of others to help your business and sales to the next level.\r\n\r\nLet's work together to take your business to the next level!\r\n ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "bachelor of international relations",
+        "toYear": 2021,
+        "countryCode": "PK",
+        "school": "Quaid-e-Azam University Islamabad",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6770565f07789006b48",
+        "name": "Twitter",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Twitter expert"
+      },
+      {
+        "id": "617fa6760565f07789006af9",
+        "name": "TikTok management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "TikTok manager"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "64e64f12120e4d0001bb7510",
+          "comment": "Excellent communication, fast turnaround, and top-notch writing. Thank you!",
+          "comment_language": "en",
+          "username": "brooklyndavis5",
+          "reviewer_country_code": "US",
+          "created_at": "2023-08-23T19:33:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41CCBC64C06",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 333156617,
+          "gig_slug": "skyrocket-your-twitter-presence",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2529,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 22,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 122402005,
+      "seller_username": "bismillahwajid",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 122402005,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 122402005,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": []
+}

@@ -1,0 +1,143 @@
+{
+  "seller": {
+    "user": {
+      "id": "165221774",
+      "name": "tomamsogallia",
+      "isActivationCompleted": true,
+      "joinedAt": 1701854528,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Italy",
+        "countryCode": "IT"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 165221774,
+      "seller_username": "tomamsogallia",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 165221774,
+      "reviews": [
+        {
+          "id": "658156ce1105490001ba76cb",
+          "comment": "good experience ",
+          "comment_language": "en",
+          "username": "ib_tutor2",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a0055fae3bcd26754529a57c06f80898-1702108348149/134fa04e-709f-4c1b-a3e6-7ed640a7d2e9.jpg",
+          "created_at": "2023-12-19T08:39:42",
+          "value": 5
+        },
+        {
+          "id": "657326473648270001e57d88",
+          "comment": "good experience",
+          "comment_language": "en",
+          "username": "ia_tutor1",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/93c5b02fa48782634aad7b397122a58c-1699968219632/d93c53f9-8f5c-4c93-b89e-7a5477a29e1e.jpg",
+          "created_at": "2023-12-08T14:20:55",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165221774,
+    "currency": "EUR",
+    "locale": "en-US",
+    "timezone": "Europe/Rome",
+    "recent_utc_offset": -60
+  },
+  "gigsData": []
+}

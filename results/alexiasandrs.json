@@ -1,0 +1,973 @@
+{
+  "seller": {
+    "user": {
+      "id": "67743403",
+      "name": "alexiasandrs",
+      "isActivationCompleted": true,
+      "joinedAt": 1518997672,
+      "profile": {
+        "displayName": "Amy"
+      },
+      "address": {
+        "countryName": "Nigeria",
+        "countryCode": "NG"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "ES",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/e2ddc56abe8ba0b3324cea7762ef7fa9-1526860671060/5f68d6c4-c961-46c7-a8e7-706fb1bfcd8b.png"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "108163746"
+        },
+        {
+          "id": "133305962"
+        },
+        {
+          "id": "156325133"
+        },
+        {
+          "id": "159316629"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Video Animation and Business marketing expert, Contact Me let's work",
+    "description": "I have years of experience in marketing and content creation.\r\n\r\nIt's a great pleasure to help business owners create marketing videos and watch them succeed. I am happy to work with you on your next video project.\r\n\r\nClick the \"Contact Me\" button on my profile to send me a message let's discuss about your requirements.\r\n\r\nI look forward to delivering excellent service to you.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67c0565f07789006cb0",
+        "name": "Whiteboard animation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Whiteboard animation expert"
+      },
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 20,
+        "subCategoryId": 228,
+        "nestedCategoryId": 2441
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 228,
+        "nestedCategoryId": 2444
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 182
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "64983d6ec8d6160001da7c02",
+          "comment": "Super Arbeit wie immer\n",
+          "comment_language": "de",
+          "username": "sotomma",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6dc69a382ae19321ae6ac21aace08a80-1683752420315/a9bdb6b3-7f33-427e-9f5d-0c3f10fe65bf.jpeg",
+          "created_at": "2023-06-25T13:59:57",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO41687EB2B84",
+          "score": 0,
+          "reviewer_industry": [
+            "media_or_entertainment"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 159316629,
+          "gig_slug": "make-deutsche-francais-espanol-italiano-nederlands-whiteboard-video",
+          "gig_category": 20,
+          "gig_sub_category": 228,
+          "gig_nested_sub_category": 2441,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 17,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6492f6529f3ea8000140df43",
+          "comment": "It was easy to communicate with Amy and we received our order very quickly!",
+          "comment_language": "en",
+          "username": "candaceburney",
+          "reviewer_country_code": "US",
+          "created_at": "2023-06-21T14:21:20",
+          "value": 4.7,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO521EA7071C7",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 156325133,
+          "gig_slug": "do-german-french-spanish-dutch-marketing-whiteboard-video",
+          "gig_category": 20,
+          "gig_sub_category": 228,
+          "gig_nested_sub_category": 2441,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "646c6c69b77e1f0001ef2d94",
+          "comment": "As always, great quality, great communication and fast processing. See you soon.\n\nWir haben schon miteinander zutun gehabt und es war wie immer eine super Arbeit. Schnell, professionell und ein toller Kontakt. Wir werden in Zukunft bestimmt ödter miteinander zutun haben.\n\nBis Bald!",
+          "comment_language": "de",
+          "username": "sotomma",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6dc69a382ae19321ae6ac21aace08a80-1683752420315/a9bdb6b3-7f33-427e-9f5d-0c3f10fe65bf.jpeg",
+          "created_at": "2023-05-23T07:39:03",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO62757EDF0C8",
+          "score": 0,
+          "reviewer_industry": [
+            "media_or_entertainment"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 156325133,
+          "gig_slug": "do-german-french-spanish-dutch-marketing-whiteboard-video",
+          "gig_category": 20,
+          "gig_sub_category": 228,
+          "gig_nested_sub_category": 2441,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 17,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "64369a5258137900012236bb",
+          "comment": "Communicative and responsible.",
+          "comment_language": "en",
+          "username": "aedesignguild",
+          "reviewer_country_code": "US",
+          "created_at": "2023-04-12T11:48:03",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3B211A4941",
+          "score": 0,
+          "reviewer_industry": [
+            "agriculture"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 156325133,
+          "gig_slug": "do-german-french-spanish-dutch-marketing-whiteboard-video",
+          "gig_category": 20,
+          "gig_sub_category": 228,
+          "gig_nested_sub_category": 2441,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 6
+        },
+        {
+          "id": "641cc5c4d50731000134fd9b",
+          "comment": "Das Video entspricht nach meine Erwartungen und erfüllt den Auftrag ;-) Es hat etwas gedauert doch das warten hat sich gelohnt! Vielen Dank 🙋‍♂️ werde bestimmt wieder vorbeischauen. ",
+          "comment_language": "de",
+          "username": "met1984",
+          "reviewer_country_code": "CH",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bd86cb9fb228f425036c353f41b70525-1701849512136/9c3ee30d-b1d9-48c9-81f5-9c4cc782e431.jpeg",
+          "created_at": "2023-03-24T05:47:50",
+          "value": 5,
+          "reviewer_country": "Switzerland",
+          "encrypted_order_id": "FO1B00265C43",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 156325133,
+          "gig_slug": "do-german-french-spanish-dutch-marketing-whiteboard-video",
+          "gig_category": 20,
+          "gig_sub_category": 228,
+          "gig_nested_sub_category": 2441,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 22,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 182,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 88,
+        "business": 14
+      },
+      "user_id": 67743403,
+      "seller_username": "alexiasandrs",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 9
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 172
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "media_or_entertainment": "Media & Entertainment",
+        "agriculture": "Agriculture"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 67743403,
+      "reviews": [
+        {
+          "id": "6344fe5f90539d0001afb890",
+          "comment": "Great experience, thank you very much! ",
+          "comment_language": "en-US",
+          "username": "angelareinert",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f73f917c8d72cdeb8644ffba50738884-1632675030971/505ef00f-3c15-41a4-abb4-c48eced4a0ef.jpg",
+          "created_at": "2022-10-11T05:25:51",
+          "value": 5
+        },
+        {
+          "id": "61d38de85ef28a00017b7173",
+          "comment": "Great working with you. Looking for to more in the future. Thank you. Cheers!",
+          "comment_language": "en-US",
+          "username": "tommy_rickard",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6e5e230afde63c1af462372149bb247f-1633560522294/696c1485-aa9a-4bed-b7e4-659882886a13.jpg",
+          "created_at": "2022-01-03T23:59:36",
+          "value": 5
+        },
+        {
+          "id": "60e94bcb84e48000017a0b5a",
+          "comment": "Thank you!!",
+          "comment_language": "en-US",
+          "username": "giannas9",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1ec6549295b66c8161463f381dea8683-1597440478084/15ff9085-364c-4c37-98a6-7858c74eb205.jpg",
+          "created_at": "2021-07-10T07:27:08",
+          "value": 5
+        },
+        {
+          "id": "60bcb9a51425640001b9e099",
+          "comment": "Thank you very much for the trust you kept upon me and for the chance you gave me to work with you. I hope this is up to the level you expected from me and hope you continuously will work with me. Thank you again.",
+          "comment_language": "en-US",
+          "username": "dpsdk3d",
+          "reviewer_country_code": "LK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c995e765e80ffd52505d07b61265ee63-1655414686304/3fb880ef-518f-4b1c-8da5-9ef63303c430.jpg",
+          "created_at": "2021-06-06T12:03:49",
+          "value": 5
+        },
+        {
+          "id": "608689291f1f41000155bf0d",
+          "comment": "Great customer and friendly contact :)",
+          "comment_language": "en-US",
+          "username": "falko_part",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4567d2454f2bb6c57b997244c64b7a69-1608587358499/0c538a3f-7419-4a6c-9946-12d081126941.JPG",
+          "created_at": "2021-04-26T09:34:33",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 67743403,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Lagos",
+    "recent_utc_offset": -60
+  },
+  "gigsData": [
+    {
+      "gig_id": 108163746,
+      "category_id": 20,
+      "sub_category_id": 228,
+      "nested_sub_category_id": 2444,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "excellent-whiteboard-animation-video",
+      "title": "make best whiteboard video animation",
+      "seller_name": "alexiasandrs",
+      "seller_id": 67743403,
+      "seller_country": "NG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e2ddc56abe8ba0b3324cea7762ef7fa9-1526860671060/5f68d6c4-c961-46c7-a8e7-706fb1bfcd8b.png",
+      "seller_display_name": "Amy",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/108163746/original/790de07bfcf39b4c1060b477fe98b752bf21a648.png",
+          "type": "ImageAsset",
+          "id": "108163746_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "provider_id": "14353955",
+          "attachment_id": "5ddcf2c04dcea17ad19f033c",
+          "id": 2466359
+        }
+      ],
+      "attachments": [
+        {
+          "id": "5ddcf2c04dcea17ad19f033c",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/tid3t2nsdzkfsafiuxlv",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_6.235393,PLACEHOLDER/tid3t2nsdzkfsafiuxlv.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "124762182",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/sbz9otqkbxr6zmvcfvhv",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/sbz9otqkbxr6zmvcfvhv.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "120965634",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zdzlarynt2dtgjsfyjyt",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/zdzlarynt2dtgjsfyjyt.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "120482704",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/kicmgtdaenfu4blhlblw",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/kicmgtdaenfu4blhlblw.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "120420315",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/j4uzhiuysnrhxgzyxn48",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/j4uzhiuysnrhxgzyxn48.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "115495355",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/gzwcbodswn8opadb3tli",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/gzwcbodswn8opadb3tli.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "tool_expertise",
+          "value": [
+            "videoscribe"
+          ]
+        },
+        {
+          "type": "industry_expertise",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "art_design",
+            "beauty_cosmetics",
+            "construction",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "fashion_apparel",
+            "financial_services_business",
+            "food_beverage",
+            "gaming",
+            "kids",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "photography_videography",
+            "public_sector",
+            "real_estate",
+            "religion_spirituality",
+            "retail_wholesale",
+            "science",
+            "services",
+            "sports_fitness",
+            "technology",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "education_training_explainer",
+            "corporate_communication",
+            "marketing_advertising"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 72,
+      "buying_review_rating": 4.9,
+      "seller_url": "/alexiasandrs",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 182,
+        "score": 4.934066
+      },
+      "gig_url": "/alexiasandrs/excellent-whiteboard-animation-video",
+      "is_seller_unavailable": false,
+      "price_i": 55,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 156325133,
+      "category_id": 20,
+      "sub_category_id": 228,
+      "nested_sub_category_id": 2441,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-german-french-spanish-dutch-marketing-whiteboard-video",
+      "title": "create french german spanish 2d explainer animated video",
+      "seller_name": "alexiasandrs",
+      "seller_id": 67743403,
+      "seller_country": "NG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e2ddc56abe8ba0b3324cea7762ef7fa9-1526860671060/5f68d6c4-c961-46c7-a8e7-706fb1bfcd8b.png",
+      "seller_display_name": "Amy",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/156325133/original/0f4751c04e4845dda6c22492df5f0e6feeddab3d.png",
+          "type": "ImageAsset",
+          "id": "156325133_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "5eb870a90f1cb30011c70a42",
+          "id": 3528780
+        }
+      ],
+      "attachments": [
+        {
+          "id": "5eb870a90f1cb30011c70a42",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/x1az7tq7dxp1tux5yzgc",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_3.060231,PLACEHOLDER/x1az7tq7dxp1tux5yzgc.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "135618703",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/hep4upw5elsigofnkvje",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/hep4upw5elsigofnkvje.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "132211692",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/oart2t4xvdsp16djmmxf",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/oart2t4xvdsp16djmmxf.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "122387376",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/t234jzp9meqrthiemve0",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/t234jzp9meqrthiemve0.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "122177943",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/notijnt2jrx8cvsgrsdj",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/notijnt2jrx8cvsgrsdj.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "121635855",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/jeitevyqjbk71gttykge",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/jeitevyqjbk71gttykge.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "explainer_type",
+          "value": [
+            "illustration"
+          ]
+        },
+        {
+          "type": "software_expertise",
+          "value": [
+            "vyond"
+          ]
+        },
+        {
+          "type": "industry_expertise",
+          "value": [
+            "marketing_advertising",
+            "real_estate",
+            "retail_wholesale",
+            "services",
+            "technology"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "education_training_explainer",
+            "corporate_communication_explainer",
+            "marketing_advertising_explainer",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 53,
+      "buying_review_rating": 4.9,
+      "seller_url": "/alexiasandrs",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 182,
+        "score": 4.934066
+      },
+      "gig_url": "/alexiasandrs/do-german-french-spanish-dutch-marketing-whiteboard-video",
+      "is_seller_unavailable": false,
+      "price_i": 90,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 133305962,
+      "category_id": 20,
+      "sub_category_id": 228,
+      "nested_sub_category_id": 2441,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-animated-marketing-video-for-business-and-sales",
+      "title": "make sales driven 2d animated video",
+      "seller_name": "alexiasandrs",
+      "seller_id": 67743403,
+      "seller_country": "NG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e2ddc56abe8ba0b3324cea7762ef7fa9-1526860671060/5f68d6c4-c961-46c7-a8e7-706fb1bfcd8b.png",
+      "seller_display_name": "Amy",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "5d43a304baf3fd00114ae493",
+          "id": 2939314
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/133305962/original/2a92879628ef212260dbf5ac6234150f1f9fd332.jpg",
+          "type": "ImageAsset",
+          "id": "133305962_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/133305962/original/3b3d713179f5869605e9b247ec5da9b30659b1fd.jpg",
+          "type": "ImageAsset",
+          "id": "133305962_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/133305962/original/1598711660275558d6c7f7e765add6ce5905147f.jpg",
+          "type": "ImageAsset",
+          "id": "133305962_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "5d43a304baf3fd00114ae493",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/reakjcwu2huklwlanapw",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_1.750481,PLACEHOLDER/reakjcwu2huklwlanapw.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "128389614",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/j9lehvr65iuz2jvd93vm",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/j9lehvr65iuz2jvd93vm.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "128335775",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/diym0cfi8uymsahvylum",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/diym0cfi8uymsahvylum.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "128141145",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/vdtphmevei5ovbiijea9",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/vdtphmevei5ovbiijea9.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "126304606",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v5cicpnsassdbxwdrsoe",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/v5cicpnsassdbxwdrsoe.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "explainer_type",
+          "value": [
+            "infographics"
+          ]
+        },
+        {
+          "type": "software_expertise",
+          "value": [
+            "vyond"
+          ]
+        },
+        {
+          "type": "industry_expertise",
+          "value": [
+            "animals_pets",
+            "art_design",
+            "construction",
+            "marketing_advertising",
+            "real_estate"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "education_training_explainer",
+            "corporate_communication_explainer",
+            "marketing_advertising_explainer"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 39,
+      "buying_review_rating": 4.9,
+      "seller_url": "/alexiasandrs",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 182,
+        "score": 4.934066
+      },
+      "gig_url": "/alexiasandrs/create-animated-marketing-video-for-business-and-sales",
+      "is_seller_unavailable": false,
+      "price_i": 95,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 159316629,
+      "category_id": 20,
+      "sub_category_id": 228,
+      "nested_sub_category_id": 2441,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "make-deutsche-francais-espanol-italiano-nederlands-whiteboard-video",
+      "title": "do deutsche francais espanol nederlands explainer video",
+      "seller_name": "alexiasandrs",
+      "seller_id": 67743403,
+      "seller_country": "NG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e2ddc56abe8ba0b3324cea7762ef7fa9-1526860671060/5f68d6c4-c961-46c7-a8e7-706fb1bfcd8b.png",
+      "seller_display_name": "Amy",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "5ed6e6205eb317001cde73be",
+          "id": 3610112
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/159316629/original/afb8c88b25d63e8d594af02be1f8a2a4e2c66b1e.png",
+          "type": "ImageAsset",
+          "id": "159316629_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "5ed6e6205eb317001cde73be",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ccuo6qtj1fsjslbffj7e",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_9.96637,PLACEHOLDER/ccuo6qtj1fsjslbffj7e.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "131711726",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/byzv405yx1wtuynvtiq1",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/byzv405yx1wtuynvtiq1.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "126580514",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zky1k6h4yrzmblvjaeq5",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/zky1k6h4yrzmblvjaeq5.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "124667535",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/tibcg3vnqjawbjjhjqp6",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/tibcg3vnqjawbjjhjqp6.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "124438406",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/avtnnqht16tjo7dxohly",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/avtnnqht16tjo7dxohly.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "explainer_type",
+          "value": [
+            "illustration"
+          ]
+        },
+        {
+          "type": "industry_expertise",
+          "value": [
+            "environmental",
+            "marketing_advertising",
+            "non_profit",
+            "real_estate",
+            "retail_wholesale"
+          ]
+        },
+        {
+          "type": "software_expertise",
+          "value": [
+            "vyond"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "education_training_explainer",
+            "corporate_communication_explainer",
+            "marketing_advertising_explainer"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 18,
+      "buying_review_rating": 5,
+      "seller_url": "/alexiasandrs",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 182,
+        "score": 4.934066
+      },
+      "gig_url": "/alexiasandrs/make-deutsche-francais-espanol-italiano-nederlands-whiteboard-video",
+      "is_seller_unavailable": false,
+      "price_i": 150,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "seller": {
+    "user": {
+      "id": "153238400",
+      "name": "bella_creative0",
+      "isActivationCompleted": true,
+      "joinedAt": 1686287817,
+      "profile": {
+        "displayName": "Bella"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "FR",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/c5d28d3e39c62e5eda48bf4b44a1690d-1532384001693513825746/JPEG_20230831_213024_3992436216758599236.jpg"
+    },
+    "approvedGigsCount": 5,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "324218671"
+        },
+        {
+          "id": "324300520"
+        },
+        {
+          "id": "324365078"
+        },
+        {
+          "id": "335262550"
+        },
+        {
+          "id": "335426968"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Professional Content Writer, Ebook Writer, and Website Designer \r\n I'm Bella, a multifaceted professional deeply dedicated to the art of content creation, ebook crafting, and website design. Backed by a wealth of experience, I possess a flair for fashioning compelling, audience-tailored messages that leave a lasting impact.\r\n\r\nAs your content writer, I infuse creativity and precision into every project, ensuring that each word not only imparts knowledge but also enthralls and engages your readers.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6500565f07789005fbf",
+        "name": "Fiction ghostwriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Fiction ghostwriter"
+      },
+      {
+        "id": "617fa6700565f07789006937",
+        "name": "Scriptwriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Scriptwriter"
+      },
+      {
+        "id": "617fa6400565f07789005b47",
+        "name": "Children's book & eBook writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Children's book & eBook writer"
+      },
+      {
+        "id": "617fa63d0565f07789005a23",
+        "name": "Book editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book editor"
+      },
+      {
+        "id": "617fa63d0565f07789005a22",
+        "name": "Book design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book designer"
+      },
+      {
+        "id": "617fa6440565f07789005c45",
+        "name": "Convert to an eBook",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Convert to an eBook expert"
+      },
+      {
+        "id": "617fa63c0565f07789005a1f",
+        "name": "Book & eBook writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book & eBook writer"
+      },
+      {
+        "id": "617fa64a0565f07789005e2c",
+        "name": "eBook cover design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "eBook  cover designer"
+      },
+      {
+        "id": "617fa66f0565f077890068e8",
+        "name": "Romance book & eBook writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Romance book & eBook writer"
+      },
+      {
+        "id": "617fa6390565f0778900591c",
+        "name": "Articles writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Articles writer"
+      },
+      {
+        "id": "617fa63c0565f07789005a0d",
+        "name": "Blogging",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blogging expert"
+      },
+      {
+        "id": "617fa63c0565f07789005a0c",
+        "name": "Blog writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blog writer"
+      },
+      {
+        "id": "617fa6440565f07789005c4e",
+        "name": "Copy editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Copy editor"
+      },
+      {
+        "id": "617fa6600565f0778900648a",
+        "name": "Landing page copy",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page copywriter"
+      },
+      {
+        "id": "617fa6390565f07789005918",
+        "name": "Article rewriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Article rewriter"
+      },
+      {
+        "id": "617fa64a0565f07789005e2e",
+        "name": "eBook editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "eBook  editing expert"
+      },
+      {
+        "id": "617fa64a0565f07789005e30",
+        "name": "eBook promotion",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "eBook  promotion expert"
+      },
+      {
+        "id": "617fa6440565f07789005c7d",
+        "name": "Course content writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Course content writer"
+      },
+      {
+        "id": "617fa6440565f07789005c7e",
+        "name": "Course presentation designer",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Course presentation designer"
+      },
+      {
+        "id": "617fa6410565f07789005b5b",
+        "name": "Christian-content writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Christian-content writer"
+      },
+      {
+        "id": "617fa66a0565f07789006772",
+        "name": "Pitch Deck",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Pitch Deck expert"
+      },
+      {
+        "id": "617fa66a0565f07789006773",
+        "name": "Pitch presentation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Pitch presenter"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 54,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 353,
+        "nestedCategoryId": 2230
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 354,
+        "nestedCategoryId": 2240
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 430,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 436,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 12
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "656f63f215cad90001dfb0d1",
+          "comment": "Bella's expertise as a ghostwriter is unmatched! She brought my Amazon Kindle book to life with captivating prose and insightful content. A true professional in the realm of self-help ebooks.",
+          "comment_language": "en",
+          "username": "toby_t8",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a60327beca3d33cded9398a2f7334ce7-1544337281688408430920/JPEG_20230703_192029_1809399050430923942.jpg",
+          "created_at": "2023-12-06T12:21:56",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO2BD8255242",
+          "score": 0.8032679,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 324218671,
+          "gig_slug": "be-your-30k-ebook-writer-ghost-book-writer-ghostwriter-nonfiction-ebook-writer",
+          "gig_category": 5,
+          "gig_sub_category": 354,
+          "gig_nested_sub_category": 2240,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 132,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ae77d449d34f2171b3d3fc",
+          "comment": "\"Bella is not just a writer; she's a literary sorceress! Her mastery of words transformed my ideas into a captivating ebook that exceeded all expectations. I've found my go-to ebook writer for life!",
+          "comment_language": "en",
+          "username": "marketing_pro35",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/384ad574dbff3627e41f405040c8f342-1704217625144/f86f51f6-13bc-4dd7-a973-09f6100d36fc.jpg",
+          "created_at": "2024-01-22T16:07:57",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO61DEB0AD584",
+          "score": 0.7521752,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 324218671,
+          "gig_slug": "be-your-30k-ebook-writer-ghost-book-writer-ghostwriter-nonfiction-ebook-writer",
+          "gig_category": 5,
+          "gig_sub_category": 354,
+          "gig_nested_sub_category": 2240,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 17,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a57d88bf4cff45b9f4c1da",
+          "comment": "Bella excelled in both ebook ghostwriting and KDP formatting, seamlessly capturing my vision in engaging prose and ensuring a polished, reader-friendly format. ",
+          "comment_language": "en",
+          "username": "sharonwilson602",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-15T18:49:27",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO3BF154BB41",
+          "score": 0.6037376,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 324218671,
+          "gig_slug": "be-your-30k-ebook-writer-ghost-book-writer-ghostwriter-nonfiction-ebook-writer",
+          "gig_category": 5,
+          "gig_sub_category": 354,
+          "gig_nested_sub_category": 2240,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 71,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "656f640b15cad90001dfb0f6",
+          "comment": "Working with Bella was a game-changer for my ebook project. Her skills as an ebook writer are exceptional, turning my ideas into a masterpiece. I highly recommend her for any ghostwriting needs!",
+          "comment_language": "en",
+          "username": "toby_t8",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a60327beca3d33cded9398a2f7334ce7-1544337281688408430920/JPEG_20230703_192029_1809399050430923942.jpg",
+          "created_at": "2023-12-06T12:23:06",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO72388706EC5",
+          "score": 0.5069399,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 324218671,
+          "gig_slug": "be-your-30k-ebook-writer-ghost-book-writer-ghostwriter-nonfiction-ebook-writer",
+          "gig_category": 5,
+          "gig_sub_category": 354,
+          "gig_nested_sub_category": 2240,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 132,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6562dd6c644f4e0001d92c3d",
+          "comment": "Creative Genius at Rewriting: I needed a fresh perspective on my content, and she delivered beyond expectations! Her creative approach to rewriting brought new life to my work. I couldn't be happier with the result.",
+          "comment_language": "en",
+          "username": "aitana_be",
+          "reviewer_country_code": "ES",
+          "created_at": "2023-11-26T06:57:22",
+          "value": 5,
+          "reviewer_country": "Spain",
+          "encrypted_order_id": "FO111BA0A69C5",
+          "score": 0.4791082,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 324218671,
+          "gig_slug": "be-your-30k-ebook-writer-ghost-book-writer-ghostwriter-nonfiction-ebook-writer",
+          "gig_category": 5,
+          "gig_sub_category": 354,
+          "gig_nested_sub_category": 2240,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 70,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 12,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 153238400,
+      "seller_username": "bella_creative0",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 12
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 153238400,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 153238400,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Lagos",
+    "recent_utc_offset": -60
+  },
+  "gigsData": [
+    {
+      "gig_id": 324218671,
+      "category_id": 5,
+      "sub_category_id": 354,
+      "nested_sub_category_id": 2240,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-30k-ebook-writer-ghost-book-writer-ghostwriter-nonfiction-ebook-writer",
+      "title": "be your ebook writer, ghost book writer, ghostwriter, amazon KDP ebook writer",
+      "seller_name": "bella_creative0",
+      "seller_id": 153238400,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c5d28d3e39c62e5eda48bf4b44a1690d-1532384001693513825746/JPEG_20230831_213024_3992436216758599236.jpg",
+      "seller_display_name": "Bella",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/324218671/original/e451e150bd3964602ccea53ab923ff946448f436.png",
+          "type": "ImageAsset",
+          "id": "324218671_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/324218671/original/cad8999d3080b2180cc137a7881273c053f3e55c.png",
+          "type": "ImageAsset",
+          "id": "324218671_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/324218671/original/fcb9b5249752355d8125c55f0d60af2ad997ef9a.png",
+          "type": "ImageAsset",
+          "id": "324218671_3"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "children_s_books",
+            "self_help_wellness",
+            "health_fitness",
+            "education"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "book_type",
+          "value": [
+            "non_fiction"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 12,
+      "buying_review_rating": 5,
+      "seller_url": "/bella_creative0",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/bella_creative0/be-your-30k-ebook-writer-ghost-book-writer-ghostwriter-nonfiction-ebook-writer",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 324300520,
+      "category_id": 5,
+      "sub_category_id": 353,
+      "nested_sub_category_id": 2230,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "ghostwrite-screenplay-screenwriting-movie-script-film-script-and-scriptwriter",
+      "title": "ghostwrite screenplay, screenwriting, movie script, film script and scriptwriter",
+      "seller_name": "bella_creative0",
+      "seller_id": 153238400,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c5d28d3e39c62e5eda48bf4b44a1690d-1532384001693513825746/JPEG_20230831_213024_3992436216758599236.jpg",
+      "seller_display_name": "Bella",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/324300520/original/482ffdb2a2d2a5bfcb6fe7e6dcc7b91d341578e8.png",
+          "type": "ImageAsset",
+          "id": "324300520_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/324300520/original/afd7a723374be0b56fdbcedd8b6f05cfaa1c20af.png",
+          "type": "ImageAsset",
+          "id": "324300520_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/324300520/original/884446956cbf49853c21f80579018aee5df1793e.png",
+          "type": "ImageAsset",
+          "id": "324300520_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "explainer_videos",
+            "business"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/bella_creative0",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/bella_creative0/ghostwrite-screenplay-screenwriting-movie-script-film-script-and-scriptwriter",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 324365078,
+      "category_id": 5,
+      "sub_category_id": 436,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-masterclass-online-course-content-course-creation-course-curriculum",
+      "title": "create masterclass online course content, course creation, course curriculum",
+      "seller_name": "bella_creative0",
+      "seller_id": 153238400,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c5d28d3e39c62e5eda48bf4b44a1690d-1532384001693513825746/JPEG_20230831_213024_3992436216758599236.jpg",
+      "seller_display_name": "Bella",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/324365078/original/935ab6853e0f8981642793a914baeed2acad2400.png",
+          "type": "ImageAsset",
+          "id": "324365078_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/324365078/original/b9183bd6d1062d4a0bfa4c12b25e08af0d9fde92.png",
+          "type": "ImageAsset",
+          "id": "324365078_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/324365078/original/0ecf2ffed0ed0977153907d19345928fbe6e1742.png",
+          "type": "ImageAsset",
+          "id": "324365078_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "course_level",
+          "value": [
+            "all_levels"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "german"
+          ]
+        },
+        {
+          "type": "course_subject",
+          "value": [
+            "education"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/bella_creative0",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/bella_creative0/create-masterclass-online-course-content-course-creation-course-curriculum",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 335262550,
+      "category_id": 5,
+      "sub_category_id": 430,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-fiction-ebook-writer-book-writer-ebook-ghostwriter-ghostbook-writer",
+      "title": "be your fiction ebook writer, book writer, ebook ghostwriter, ghostbook writer",
+      "seller_name": "bella_creative0",
+      "seller_id": 153238400,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c5d28d3e39c62e5eda48bf4b44a1690d-1532384001693513825746/JPEG_20230831_213024_3992436216758599236.jpg",
+      "seller_display_name": "Bella",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/335262550/original/c2bf4e9e47540e61efb339a655f992a6005ca9ca.png",
+          "type": "ImageAsset",
+          "id": "335262550_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/335262550/original/c4af3b64fb88090448473f95637c97a2d21c436b.png",
+          "type": "ImageAsset",
+          "id": "335262550_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/335262550/original/baa9837e366f1b14160a6923514b45ddcdb5c129.png",
+          "type": "ImageAsset",
+          "id": "335262550_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "business",
+            "children_s_books",
+            "self_help_wellness"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/bella_creative0",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/bella_creative0/be-your-fiction-ebook-writer-book-writer-ebook-ghostwriter-ghostbook-writer",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 335426968,
+      "category_id": 3,
+      "sub_category_id": 54,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-modern-investor-pitch-deck-powerpoint-presentation-and-google-slides",
+      "title": "design modern investor pitch deck, powerpoint presentation and google slides",
+      "seller_name": "bella_creative0",
+      "seller_id": 153238400,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c5d28d3e39c62e5eda48bf4b44a1690d-1532384001693513825746/JPEG_20230831_213024_3992436216758599236.jpg",
+      "seller_display_name": "Bella",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/335426968/original/5827c354a5624abb896f6fbc9e813561a562efa9.png",
+          "type": "ImageAsset",
+          "id": "335426968_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/335426968/original/36cd61063328892d75ca29f7c30ed17081e5c833.png",
+          "type": "ImageAsset",
+          "id": "335426968_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/335426968/original/f1475c00979dcb7ae0632a10adffb82593018342.png",
+          "type": "ImageAsset",
+          "id": "335426968_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "full_presentation_design"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "investor_pitch_fundraising",
+            "marketing",
+            "sales"
+          ]
+        },
+        {
+          "type": "presentation_software",
+          "value": [
+            "power_point",
+            "google_slides"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "business_services_consulting",
+            "e_commerce",
+            "education",
+            "financial_services"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "french",
+            "german"
+          ]
+        },
+        {
+          "type": "image_file_format",
+          "value": [
+            "jpg",
+            "pdf",
+            "png",
+            "ppt",
+            "key",
+            "pptx"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/bella_creative0",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/bella_creative0/design-modern-investor-pitch-deck-powerpoint-presentation-and-google-slides",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

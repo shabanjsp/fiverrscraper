@@ -1,0 +1,185 @@
+{
+  "seller": {
+    "user": {
+      "id": "356043",
+      "name": "yasminsceo",
+      "isActivationCompleted": true,
+      "joinedAt": 1315263265,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 1,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "526aea720000000082133399",
+          "comment": "cancelled order. seller failed to deliver on time!",
+          "comment_language": "en",
+          "username": "mmodels",
+          "reviewer_country_code": "CA",
+          "created_at": "2013-10-25T22:02:26",
+          "value": 1,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "",
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 2032382,
+          "gig_slug": "write-a-press-release-for-your-websitecompany",
+          "gig_category": 5,
+          "gig_sub_category": 115,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 106
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 356043,
+      "seller_username": "yasminsceo",
+      "star_summary": {
+        "communication_valuation": 1,
+        "recommend_valuation": 1,
+        "service_valuation": 1
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ],
+      "average_valuation": 1
+    },
+    "selling_reviews": {
+      "user_id": 356043,
+      "reviews": [
+        {
+          "id": "65cfca4a9c447700010868b2",
+          "comment": "Thank you!",
+          "comment_language": "en",
+          "username": "farzanaaslam7",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/dd15ff11f435c10ead986b3fdea9f640-1609520474309/faf601e7-c667-4a99-ba88-940bb1fe599a.jpg",
+          "created_at": "2024-02-16T20:49:14",
+          "value": 5
+        },
+        {
+          "id": "6414d2bfa1185100013d0d5b",
+          "comment": "Very communicative and patient, highly recommended and I would like to work with him again",
+          "comment_language": "en",
+          "username": "horppyaderike",
+          "reviewer_country_code": "NG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a100b313e8ad42fd1e7af876f76be710-1679047822327/bef1d00e-1d7a-423b-8222-6d3bd3d76406.jpg",
+          "created_at": "2023-03-17T20:51:11",
+          "value": 5
+        },
+        {
+          "id": "6316416d27bd2c0001da7564",
+          "comment": "Thank you for your awesome words, it was a pleasure doing business with you :)\r\n",
+          "comment_language": "en-US",
+          "username": "mewindson",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9e097301cd6fc47ba44d9ce0b804f1be-1658473587226/63db83eb-dd98-4d0a-b99e-e8d2d6d6dd59.png",
+          "created_at": "2022-09-05T18:35:25",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 356043,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

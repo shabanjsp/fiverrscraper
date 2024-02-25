@@ -1,0 +1,490 @@
+{
+  "seller": {
+    "user": {
+      "id": "83851973",
+      "name": "kalengophiri",
+      "isActivationCompleted": true,
+      "joinedAt": 1580282667,
+      "profile": {
+        "displayName": "Kalengo P"
+      },
+      "address": {
+        "countryName": "Zambia",
+        "countryCode": "ZM"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ebf4abf174b7a29ade51d32a8ae76773-1674648763137/25f95b49-ad14-4095-8fb0-af2da11826bc.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "198335535"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "My name is Kalengo, I'm an expert Pixel Artist. I have been a Pixel artist since 2017 and I have been in the game development industry since 2017 as well. My experience will aid in solving all your pixel art needs\r\n\r\nMy Services include\"\r\n\r\n* PIxel Art and Animation\r\n* Consultation",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "diploma in electrical engineering",
+        "toYear": 2018,
+        "countryCode": "ZM",
+        "school": "Northern technical College",
+        "degreeTitle": "OTHER"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66a0565f07789006777",
+        "name": "Pixel art",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Pixel artist"
+      },
+      {
+        "id": "617fa6460565f07789005d06",
+        "name": "Data entry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data entry expert"
+      },
+      {
+        "id": "617fa6460565f07789005cf9",
+        "name": "Data analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data analyst"
+      },
+      {
+        "id": "617fa6460565f07789005d05",
+        "name": "Data engineering",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Data engineer"
+      },
+      {
+        "id": "617fa6440565f07789005c51",
+        "name": "Copywriting",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "Copywriter"
+      },
+      {
+        "id": "617fa66f0565f07789006901",
+        "name": "Sales copywriting",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Sales copywriter"
+      },
+      {
+        "id": "617fa6710565f07789006950",
+        "name": "SEO copywriting",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "SEO copywriter"
+      },
+      {
+        "id": "617fa64b0565f07789005e76",
+        "name": "Email copywriting",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "Email copywriter"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 365,
+        "nestedCategoryId": 2249
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6470c4b683a9e10001c13f11",
+          "title": "64x64 Characters",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "6470c4b683a9e10001c13f14",
+                "attachment": {
+                  "metadata": {
+                    "height": 255,
+                    "width": 255
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/76cf587cac7b350f6dcf0e19946afa1b-1685111901919/Talia_final_gallery.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "659db47e62e395000126eee3",
+          "title": "Spindelverse",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "659db47f62e395000126eee4",
+                "attachment": {
+                  "metadata": {
+                    "height": 1088,
+                    "width": 1088
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/0a9dbc27308868ad6eac83ee82957641-1704833810265/giant_skull_eyes_HD.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 142
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "659db4eb6020550001b6097c",
+          "comment": "I have worked with this artist for the past 4 months or so on something like 8 - 10 pieces. They are always super professional and the artwork always comes out at a very high quality. I highly recommend starting a gig with them!",
+          "comment_language": "en",
+          "username": "michaelspindel",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/65833270/original/21369435_1922792424610093_5178375847807735961_n.jpg",
+          "created_at": "2024-01-09T21:05:28",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31DB0B79A87",
+          "score": 0.44790405,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 198335535,
+          "gig_slug": "draw-and-animate-your-pixel-art",
+          "gig_category": 3,
+          "gig_sub_category": 365,
+          "gig_nested_sub_category": 2249,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6565c446fe2b88000191991a",
+          "comment": "Did an incredible job, very responsive, kind and helpful. Communications were excellent, and he delivered as promised. \nWill definitely work together again in the future.",
+          "comment_language": "en",
+          "username": "semmix",
+          "reviewer_country_code": "IL",
+          "created_at": "2023-11-28T12:20:23",
+          "value": 5,
+          "reviewer_country": "Israel",
+          "encrypted_order_id": "FO623690C58C6",
+          "score": 0.38154846,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 198335535,
+          "gig_slug": "draw-and-animate-your-pixel-art",
+          "gig_category": 3,
+          "gig_sub_category": 365,
+          "gig_nested_sub_category": 2249,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65cdaa903001ff08172cb238",
+          "comment": "Kalengo understood our creative brief and thrived to deliver not just an OK job but an excellent job.",
+          "comment_language": "en",
+          "username": "titanai",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-15T11:07:41",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO72A0854DFC7",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 198335535,
+          "gig_slug": "draw-and-animate-your-pixel-art",
+          "gig_category": 3,
+          "gig_sub_category": 365,
+          "gig_nested_sub_category": 2249,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65cb1b23b8553470428003ad",
+          "comment": "Everythink perfect",
+          "comment_language": "en",
+          "username": "jeremias0055",
+          "reviewer_country_code": "AT",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/adebe3cc663d328c7ba3a55c31fd2168-1320337441694467015188/JPEG_20230911_231653_4082931578783443246.jpg",
+          "created_at": "2024-02-13T11:10:08",
+          "value": 5,
+          "reviewer_country": "Austria",
+          "encrypted_order_id": "FO1C06A4BB43",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 198335535,
+          "gig_slug": "draw-and-animate-your-pixel-art",
+          "gig_category": 3,
+          "gig_sub_category": 365,
+          "gig_nested_sub_category": 2249,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 25,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c11e8d0dcd5400015ad86d",
+          "comment": "Talented & Friendly!\nloved this commission and totally coming back again.\nRecommended for on time delivery+ quality pixel work.",
+          "comment_language": "en",
+          "username": "mello_renae",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ca9634921fbc2241643fe8280b440232-1640843321702304058599/JPEG_20231211_191414_1676588161038020449.jpg",
+          "created_at": "2024-02-05T17:45:14",
+          "value": 5,
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO41804AB1384",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 198335535,
+          "gig_slug": "draw-and-animate-your-pixel-art",
+          "gig_category": 3,
+          "gig_sub_category": 365,
+          "gig_nested_sub_category": 2249,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 142,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 67,
+        "business": 3
+      },
+      "user_id": 83851973,
+      "seller_username": "kalengophiri",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 8
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 132
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 83851973,
+      "reviews": [
+        {
+          "id": "62d722a331635800018496e3",
+          "comment": "awesome buyer, they gave clear instructions on what they wanted ",
+          "comment_language": "en-US",
+          "username": "yamikanintembwa",
+          "reviewer_country_code": "ZM",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bc8a07fca97c94aa0cc25b366c19651b-1650451180183/6dd96019-b0d7-424b-b22e-a00221b37544.jpg",
+          "created_at": "2022-07-19T21:31:15",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 83851973,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Lusaka",
+    "recent_utc_offset": -120
+  },
+  "gigsData": [
+    {
+      "gig_id": 198335535,
+      "category_id": 3,
+      "sub_category_id": 365,
+      "nested_sub_category_id": 2249,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "draw-and-animate-your-pixel-art",
+      "title": "create pixel art characters and animations for you",
+      "seller_name": "kalengophiri",
+      "seller_id": 83851973,
+      "seller_country": "ZM",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ebf4abf174b7a29ade51d32a8ae76773-1674648763137/25f95b49-ad14-4095-8fb0-af2da11826bc.png",
+      "seller_display_name": "Kalengo P",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/198335535/original/2519d2cf3e1b1b48af534971e0814f06ea4f3f0c.png",
+          "type": "ImageAsset",
+          "id": "198335535_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176176452",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d483145bb13d3889095e88e4d7908588-1706447774/character_playersprite_1.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175218522",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5aaf7283ff5b6c307b07d7cedf4b10f7-1704471983/wind_uplift_spritesheet.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6470c6c36cc9130001bc51f3",
+          "discount_percentage": 5
+        },
+        {
+          "id": "6470c6c36cc9130001bc51f4",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "game_dimension",
+          "value": [
+            "2d"
+          ]
+        },
+        {
+          "type": "style",
+          "value": [
+            "other"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "png",
+            "psd",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 141,
+      "buying_review_rating": 4.9,
+      "seller_url": "/kalengophiri",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 142,
+        "score": 4.7619076
+      },
+      "gig_url": "/kalengophiri/draw-and-animate-your-pixel-art",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

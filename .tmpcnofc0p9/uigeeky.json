@@ -1,0 +1,907 @@
+{
+  "seller": {
+    "user": {
+      "id": "136604812",
+      "name": "uigeeky",
+      "isActivationCompleted": true,
+      "joinedAt": 1666427572,
+      "profile": {
+        "displayName": "Omar Faruk"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/48aea011fdef1d65c810c9fca04613a2-1666676852547/dc37c131-593f-44e6-9235-fd1eb07d60fd.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "282390547"
+        },
+        {
+          "id": "312029406"
+        },
+        {
+          "id": "353576884"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "User centric, friendly design to skyrocket your sales",
+    "description": "Greetings, Fiverr Community!\r\n\r\nUI Geeky is a team of skilled UI/UX designers with extensive experience in crafting digital products that are not only visually appealing but also highly functional and user-friendly, driving sales for brands and businesses. \r\n\r\nWith a focus on UI/UX and digital design, we have been delivering exceptional products, mobile applications, and websites for more than three years, aimed at boosting business growth by enhancing targeted audience engagement through powerful branding and customized website design. \r\n\r\nIf you'd like to know more; feel free to send us a message.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Creative IT Institute",
+        "certificationName": "Professional Graphic Design",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "Graphic Design Masterclass - Learn GREAT Design",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "Pixency Academy",
+        "certificationName": "Professional UI UX Design",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "bachelor of business marketing",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "Dhaka College",
+        "degreeTitle": "BA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6770565f07789006b5a",
+        "name": "UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI designer"
+      },
+      {
+        "id": "617fa6650565f07789006607",
+        "name": "Mobile UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UI designer"
+      },
+      {
+        "id": "617fa6770565f07789006b58",
+        "name": "UI & UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI & UX designer"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6350565f077890057fc",
+        "name": "Adobe XD",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe XD expert"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      },
+      {
+        "id": "617fa6650565f07789006608",
+        "name": "Mobile UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UX designer"
+      },
+      {
+        "id": "617fa66d0565f07789006837",
+        "name": "Prototype design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Prototype designer"
+      },
+      {
+        "id": "617fa6780565f07789006b76",
+        "name": "User experience design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "User experience designer"
+      },
+      {
+        "id": "617fa6650565f077890065fd",
+        "name": "Mobile apps design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps designer"
+      },
+      {
+        "id": "617fa6380565f077890058c2",
+        "name": "App design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App designer"
+      },
+      {
+        "id": "617fa66a0565f07789006756",
+        "name": "Photoshop design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photoshop designer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6720565f077890069be",
+        "name": "Social media branding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media branding expert"
+      },
+      {
+        "id": "617fa6650565f0778900660c",
+        "name": "Mockup design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mockup designer"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Customer service representative"
+      },
+      {
+        "id": "617fa6350565f077890057e1",
+        "name": "Adobe After Effects",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe After Effects expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 151,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 466,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65043049a82ecc0001ba10b4",
+          "title": "Movie Streaming Landing Page",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65043049a82ecc0001ba10b5",
+                "attachment": {
+                  "metadata": {
+                    "height": 1200,
+                    "width": 1600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/20b712c8c09a0de6d55f36dd64c2e02d-1694773209945/Movie%20%20Landing%20page%20Design.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "650431843689190001bcd0d7",
+          "title": "Solar Website UI Design",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "650431843689190001bcd0d8",
+                "attachment": {
+                  "metadata": {
+                    "height": 1200,
+                    "width": 1600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/56fdec78f46e4c290bda6cd2d1a78750-1694773341798/Solar%20%20Website%20Design.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "650432dd033e8c0001afc147",
+          "title": "Fashion Landning Page UI Design",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "650432dd033e8c0001afc148",
+                "attachment": {
+                  "metadata": {
+                    "height": 1200,
+                    "width": 1600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/e69dcf4265a981ace05da0b3e89d4cd7-1694773891748/Fashion%20Landing%20Page.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6528ed32a945570001c82f6e",
+          "title": "Bread maker website design",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "6528ed32a945570001c82f6f",
+                "attachment": {
+                  "metadata": {
+                    "height": 2400,
+                    "width": 3200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/41ffbc4f3303aa578e213a6e87433132-1697180952167/Baked%20Landing%20page%20desing-1.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1666521966
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 123
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6597c42c93c3a4007696a19e",
+          "comment": "As usual perfect, no complaints whatsoever, actually i went back after approving delivery and asked for many amendments, they always respond and deliver even after payment, reliable and trusted company ",
+          "comment_language": "en",
+          "username": "diaamohamed123",
+          "reviewer_country_code": "EG",
+          "created_at": "2024-01-05T08:57:54",
+          "value": 5,
+          "reviewer_country": "Egypt",
+          "encrypted_order_id": "FO523C1EE2CC7",
+          "score": 0.63661826,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 312029406,
+          "gig_slug": "do-web-ui-ux-website-ui-ux-design-or-figma-website-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 111,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659e3c57ac99a6062dcbc9e1",
+          "comment": "The first delivery was very good, i asked if they could provide another design, so i can compare and they provided another excellent design, excellent service and creative professional team!",
+          "comment_language": "en",
+          "username": "diaamohamed123",
+          "reviewer_country_code": "EG",
+          "created_at": "2024-01-10T07:05:27",
+          "value": 5,
+          "reviewer_country": "Egypt",
+          "encrypted_order_id": "FO423CF145CC8",
+          "score": 0.5851068,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 312029406,
+          "gig_slug": "do-web-ui-ux-website-ui-ux-design-or-figma-website-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 111,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "657ec20596423160e5ae2833",
+          "comment": "Really nice work, he did his best to give me the right design for my app even if I was not sure to what I wanted. I hope we will collaborate more in the future.\nI recommand it and his price is nice. ",
+          "comment_language": "en",
+          "username": "yelkamel",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/dad4ea7ef55bec6542c2363dabfdb314-1649981390290/56fc521f-61a0-43f1-906f-32a1c47ebb48.jpg",
+          "created_at": "2023-12-17T09:41:37",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/e7c6452637f89a1b64c4963039f0f09b-1702722909/Mockup%2002.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/e7c6452637f89a1b64c4963039f0f09b-1702722909/Mockup%2002.png",
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO31DAB2EF687",
+          "score": 0.5572924,
+          "reviewer_industry": [
+            "leisure_or_lifestyle"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 282390547,
+          "gig_slug": "mobile-app-ui-design-or-mobile-app-ui-ux-design-in-figma",
+          "gig_category": 3,
+          "gig_sub_category": 466,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65981325369cc900011f62ff",
+          "comment": "Was a pleasure as always to work with Omar!\nHe delivered fast, even though it was a harsh timeline and still everything in good quality. \nI will be more than pleased to work with Omar on upcoming projects and designs.",
+          "comment_language": "en",
+          "username": "kk_lumentisai",
+          "reviewer_country_code": "DE",
+          "created_at": "2024-01-05T15:30:32",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO51DC0BC3A85",
+          "score": 0.43880513,
+          "reviewer_industry": [
+            "technology"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 312029406,
+          "gig_slug": "do-web-ui-ux-website-ui-ux-design-or-figma-website-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "657db00ddbf868000100871a",
+          "comment": "Quick, responsive and great time working together. Took the time to understand everything we needed and delivered beyond expectations. Would work with again definitely!",
+          "comment_language": "en",
+          "username": "jascarp",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-12-16T14:49:39",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO7239E33F2C5",
+          "score": 0.37257868,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 312029406,
+          "gig_slug": "do-web-ui-ux-website-ui-ux-design-or-figma-website-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 17,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 123,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 12,
+        "business": 16
+      },
+      "user_id": 136604812,
+      "seller_username": "uigeeky",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 121
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "marketing_or_advertising": "Marketing & Advertising",
+        "leisure_or_lifestyle": "Lifestyle",
+        "technology": "Technology"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 136604812,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 136604812,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 312029406,
+      "category_id": 3,
+      "sub_category_id": 151,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-web-ui-ux-website-ui-ux-design-or-figma-website-design",
+      "title": "do figma design, figma website, figma design website, website ui, website ui ux",
+      "seller_name": "uigeeky",
+      "seller_id": 136604812,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/48aea011fdef1d65c810c9fca04613a2-1666676852547/dc37c131-593f-44e6-9235-fd1eb07d60fd.jpg",
+      "seller_display_name": "Omar Faruk",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/312029406/original/4bc15b5320a647aff998d3e0614d07f36aa9e151.png",
+          "type": "ImageAsset",
+          "id": "312029406_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176171003",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/96e1d4263f6a5bb3810e575eb0c303dc-1706434580/Mockup.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174346728",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/df8bf5559a07ac64c05ecdc5ec66678d-1702379663/App%20Serceen%20(1).jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173844196",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/0a4b470b22cc1fb841489ae835c0b10c-1701334311/mockup%20(5).jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "64aa557ff096b00001f945a4",
+          "discount_percentage": 5
+        },
+        {
+          "id": "64aa557ff096b00001f945a5",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business_promotion",
+            "product_service_marketing"
+          ]
+        },
+        {
+          "type": "platform_and_tool",
+          "value": [
+            "figma",
+            "wordpress"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 96,
+      "buying_review_rating": 4.9,
+      "seller_url": "/uigeeky",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 123,
+        "score": 4.9539294
+      },
+      "gig_url": "/uigeeky/do-web-ui-ux-website-ui-ux-design-or-figma-website-design",
+      "is_seller_unavailable": false,
+      "price_i": 95,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 353576884,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-copy-or-redesign-wordpress-landing-page-from-figma",
+      "title": "build, redesign wordpress landing page, elementor landing page, website redesign",
+      "seller_name": "uigeeky",
+      "seller_id": 136604812,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/48aea011fdef1d65c810c9fca04613a2-1666676852547/dc37c131-593f-44e6-9235-fd1eb07d60fd.jpg",
+      "seller_display_name": "Omar Faruk",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/353576884/original/6b9d3fec9919450d724cd6379943470487f94e0b.jpg",
+          "type": "ImageAsset",
+          "id": "353576884_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/353576884/original/d0170bea9bf082a50b5eee55433f630e011fc00d.jpg",
+          "type": "ImageAsset",
+          "id": "353576884_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/353576884/original/625e8406dff28be1baa75a4912fd7aa9e032d323.png",
+          "type": "ImageAsset",
+          "id": "353576884_3"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "65700d0bf40bc5000191b1d3",
+          "discount_percentage": 5
+        },
+        {
+          "id": "65700d0bf40bc5000191b1d4",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "landing_page"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "social_media",
+            "customer_support",
+            "inventory",
+            "analytics",
+            "form",
+            "events",
+            "membership",
+            "faq",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 14,
+      "buying_review_rating": 5,
+      "seller_url": "/uigeeky",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 123,
+        "score": 4.9539294
+      },
+      "gig_url": "/uigeeky/create-copy-or-redesign-wordpress-landing-page-from-figma",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 282390547,
+      "category_id": 3,
+      "sub_category_id": 466,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "mobile-app-ui-design-or-mobile-app-ui-ux-design-in-figma",
+      "title": "do mobile app ui design, mobile app ui ux design or figma mobile app design",
+      "seller_name": "uigeeky",
+      "seller_id": 136604812,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/48aea011fdef1d65c810c9fca04613a2-1666676852547/dc37c131-593f-44e6-9235-fd1eb07d60fd.jpg",
+      "seller_display_name": "Omar Faruk",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/282390547/original/0e2f0d47694c3016ea30e5578a69fd20fb10a4ab.png",
+          "type": "ImageAsset",
+          "id": "282390547_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/282390547/original/f05926cb314230a6354533ba29ab2d3811e967ca.png",
+          "type": "ImageAsset",
+          "id": "282390547_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/282390547/original/80afe2fdefff7cbf59402395880e22d9990f9786.png",
+          "type": "ImageAsset",
+          "id": "282390547_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175876748",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e6713f4c4f413b8887a18e41b5391b89-1705841123/Mockup%20Design.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174521309",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e7c6452637f89a1b64c4963039f0f09b-1702722909/Mockup%2002.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "64b224ca67b59200018a7634",
+          "discount_percentage": 5
+        },
+        {
+          "id": "64b224ca67b59200018a7635",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "business",
+            "education",
+            "shopping_e_commerce"
+          ]
+        },
+        {
+          "type": "design_tool",
+          "value": [
+            "sketch",
+            "figma"
+          ]
+        },
+        {
+          "type": "device",
+          "value": [
+            "mobile",
+            "tablet"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 13,
+      "buying_review_rating": 5,
+      "seller_url": "/uigeeky",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 123,
+        "score": 4.9539294
+      },
+      "gig_url": "/uigeeky/mobile-app-ui-design-or-mobile-app-ui-ux-design-in-figma",
+      "is_seller_unavailable": false,
+      "price_i": 90,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

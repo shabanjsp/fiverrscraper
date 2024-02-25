@@ -1,0 +1,913 @@
+{
+  "seller": {
+    "user": {
+      "id": "161737901",
+      "name": "aamir_siraj",
+      "isActivationCompleted": true,
+      "joinedAt": 1697046437,
+      "profile": {
+        "displayName": "Aamir Siraj"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "IT",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/3a0aceb97b8865ef668f851a293c873e-1697047522398/48d8d0a8-0f5b-472e-b420-cbaa572c8592.jpg"
+    },
+    "approvedGigsCount": 5,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "345521671"
+        },
+        {
+          "id": "345730604"
+        },
+        {
+          "id": "346079061"
+        },
+        {
+          "id": "346906860"
+        },
+        {
+          "id": "349630167"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Full Stack Engineer!",
+    "description": "A Skilled Full Stack Engineer with 5+ years of software development and automation expertise, backed by BSc and MSc degrees in Computer Science from Lahore, Pakistan. Proficient in both front-end and back-end technologies, excelling in problem-solving and process automation, and well-versed in a wide array of programming languages and tools. Adept at collaborating with cross-functional teams and has a strong track record of delivering high-quality software solutions.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "oranet  Training & Solutions",
+        "certificationName": "Database Administrator",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "EC-Council",
+        "certificationName": "Certified Ethical Hacking(CEH)",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "DigiSkills",
+        "certificationName": "WordPress",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2012,
+        "countryCode": "PK",
+        "school": "University of Engineering and Technology, Lahore",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "finance",
+        "toYear": 2021,
+        "countryCode": "PK",
+        "school": "Virtual university",
+        "degreeTitle": "MBA"
+      },
+      {
+        "degree": "computer science",
+        "toYear": 2023,
+        "countryCode": "PK",
+        "school": "University of Engineering and Technology, Lahore",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress SEO expert"
+      },
+      {
+        "id": "617fa65b0565f07789006348",
+        "name": "Install WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress instalation expert"
+      },
+      {
+        "id": "617fa66d0565f0778900684b",
+        "name": "Python Django",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Python Django developer"
+      },
+      {
+        "id": "617fa66d0565f0778900684c",
+        "name": "Python Flask",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Python Flask developer"
+      },
+      {
+        "id": "617fa66d0565f07789006849",
+        "name": "Python",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Python developer"
+      },
+      {
+        "id": "617fa67c0565f07789006cd6",
+        "name": "Wix website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wix website designer"
+      },
+      {
+        "id": "617fa67c0565f07789006cb8",
+        "name": "Wig styling",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wig stylist"
+      },
+      {
+        "id": "617fa67c0565f07789006cd5",
+        "name": "Wix SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wix SEO expert"
+      },
+      {
+        "id": "617fa66f0565f077890068f3",
+        "name": "Ruby on Rails",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Ruby on Rails expert"
+      },
+      {
+        "id": "617fa66f0565f077890068f2",
+        "name": "Ruby",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Ruby expert"
+      },
+      {
+        "id": "617fa6640565f077890065a0",
+        "name": "MEAN stack",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MEAN stack expert"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Node.js expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2611
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 14
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 2
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c2a74dcf541d2cf7610b66",
+          "comment": "Aamir was exceptional. I am very satisfied with his work. Will book him again. I've tried to build website on my own but never came out this good and professional looking. ",
+          "comment_language": "en",
+          "username": "carbrough",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-02-07T04:04:05",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO71E0815F603",
+          "score": 0.60475045,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 349630167,
+          "gig_slug": "design-develop-and-redesign-business-wix-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2611,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "657752bc5485e04ba6ac574e",
+          "comment": "I recently had the pleasure of working with Aamir to design my website. From start to finish, the experience was exceptional.. Aamir took the time to listen to my ideas and goals for the website and translated them into a stunning and functional design. Recommended ",
+          "comment_language": "en",
+          "username": "mattlhallewell",
+          "reviewer_country_code": "HK",
+          "created_at": "2023-12-11T18:23:22",
+          "value": 5,
+          "reviewer_country": "Hong Kong",
+          "encrypted_order_id": "FO15EEE93001",
+          "score": 0.597048,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 349630167,
+          "gig_slug": "design-develop-and-redesign-business-wix-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2611,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655fc2d41ed21300014d7aa5",
+          "comment": "I'm thrilled with Aamir's work on my Wix website. He's a professional and creative designer who exceeded my expectations. Responsive and attentive, Aamir delivered a stunning, user-friendly, mobile-optimized, and SEO-ready site. Highly recommend for quality work at an affordable price. Thanks for the amazing job!",
+          "comment_language": "en",
+          "username": "naserfg",
+          "reviewer_country_code": "DE",
+          "created_at": "2023-11-24T14:33:08",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO41D8A39E486",
+          "score": 0.53034437,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 349630167,
+          "gig_slug": "design-develop-and-redesign-business-wix-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2611,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6599f634369cc90001209839",
+          "comment": "Very helpful! Our website was sort of difficult because it had been connected with Vistaprints so the transfer was not at all easy. Amazing worl thank you so much!",
+          "comment_language": "en",
+          "username": "frederickmarkin",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-07T06:33",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15F754B581",
+          "score": 0.45103037,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 349630167,
+          "gig_slug": "design-develop-and-redesign-business-wix-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2611,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "657a03f3f0ef301793bd106d",
+          "comment": "Clear communication, reliable, understands the requirements and works with you to solve any issues and according to specification. Highly recommended.",
+          "comment_language": "en",
+          "username": "austinburges",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-12-13T19:29:01",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO511CF3D9841",
+          "score": 0.32987505,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 349630167,
+          "gig_slug": "design-develop-and-redesign-business-wix-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2611,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 14,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "business": 1
+      },
+      "user_id": 161737901,
+      "seller_username": "aamir_siraj",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 14
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 161737901,
+      "reviews": [
+        {
+          "id": "65a247c42ffdc50001601ffc",
+          "comment": "great experience.     ",
+          "comment_language": "en",
+          "username": "naydyab",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8358610bb83ebe95cc07719e4da0fe9d-1704994146269/7457d1d3-a9f8-4bea-ac58-72dcc60192a7.jpg",
+          "created_at": "2024-01-13T08:20:20",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161737901,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 349630167,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2611,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-develop-and-redesign-business-wix-website",
+      "title": "design, develop and redesign business wix website",
+      "seller_name": "aamir_siraj",
+      "seller_id": 161737901,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/3a0aceb97b8865ef668f851a293c873e-1697047522398/48d8d0a8-0f5b-472e-b420-cbaa572c8592.jpg",
+      "seller_display_name": "Aamir Siraj",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/349630167/original/20da25cfa0ea6c0c60c3ef1aed33726278a2e5bf.png",
+          "type": "ImageAsset",
+          "id": "349630167_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "forum",
+            "customer_support",
+            "inventory",
+            "video",
+            "form",
+            "events",
+            "music",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "pro_gallery",
+            "forum",
+            "chat",
+            "blog",
+            "photo_albums",
+            "forms_payments",
+            "right_click_protect"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 14,
+      "buying_review_rating": 5,
+      "seller_url": "/aamir_siraj",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 14,
+        "score": 5
+      },
+      "gig_url": "/aamir_siraj/design-develop-and-redesign-business-wix-website",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 345521671,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-custom-responsive-wordpress-development",
+      "title": "do custom, responsive wordpress development",
+      "seller_name": "aamir_siraj",
+      "seller_id": 161737901,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/3a0aceb97b8865ef668f851a293c873e-1697047522398/48d8d0a8-0f5b-472e-b420-cbaa572c8592.jpg",
+      "seller_display_name": "Aamir Siraj",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/345521671/original/ed2b4a2a3d332705c84a58db4d7e3b040e0fd918.png",
+          "type": "ImageAsset",
+          "id": "345521671_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "chat",
+            "map",
+            "faq",
+            "gallery"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "amazon",
+            "facebook",
+            "linkedin",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/aamir_siraj",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 14,
+        "score": 5
+      },
+      "gig_url": "/aamir_siraj/do-custom-responsive-wordpress-development",
+      "is_seller_unavailable": false,
+      "price_i": 110,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 345730604,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-django-flask-python-website-development",
+      "title": "do django, flask, python website development",
+      "seller_name": "aamir_siraj",
+      "seller_id": 161737901,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/3a0aceb97b8865ef668f851a293c873e-1697047522398/48d8d0a8-0f5b-472e-b420-cbaa572c8592.jpg",
+      "seller_display_name": "Aamir Siraj",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/345730604/original/ab2be941bc678ee957f68a355971b82b17560d83.png",
+          "type": "ImageAsset",
+          "id": "345730604_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "python",
+            "bootstrap",
+            "angularjs"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "video",
+            "form"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/aamir_siraj",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 14,
+        "score": 5
+      },
+      "gig_url": "/aamir_siraj/do-django-flask-python-website-development",
+      "is_seller_unavailable": false,
+      "price_i": 110,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 346079061,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-custom-php-laravel-mysql-website-development",
+      "title": "do custom php, laravel, mysql website development",
+      "seller_name": "aamir_siraj",
+      "seller_id": 161737901,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/3a0aceb97b8865ef668f851a293c873e-1697047522398/48d8d0a8-0f5b-472e-b420-cbaa572c8592.jpg",
+      "seller_display_name": "Aamir Siraj",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/346079061/original/74ebcb8281a502fe80444cf95c28d43c0b22b0f2.png",
+          "type": "ImageAsset",
+          "id": "346079061_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "php",
+            "react",
+            "bootstrap",
+            "angularjs"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "form",
+            "gallery"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/aamir_siraj",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 14,
+        "score": 5
+      },
+      "gig_url": "/aamir_siraj/do-custom-php-laravel-mysql-website-development",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 346906860,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-custom-react-javascript-node-js-mern-stack-development",
+      "title": "do custom react, javascript, node js, mern stack development",
+      "seller_name": "aamir_siraj",
+      "seller_id": 161737901,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/3a0aceb97b8865ef668f851a293c873e-1697047522398/48d8d0a8-0f5b-472e-b420-cbaa572c8592.jpg",
+      "seller_display_name": "Aamir Siraj",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/346906860/original/e0710c9a57e1fae498c31bf851b34e87dc38a0ae.png",
+          "type": "ImageAsset",
+          "id": "346906860_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "react",
+            "bootstrap",
+            "angularjs"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "forum",
+            "inventory",
+            "chat",
+            "membership",
+            "faq",
+            "gallery",
+            "booking",
+            "portfolio",
+            "dashboard"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/aamir_siraj",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 14,
+        "score": 5
+      },
+      "gig_url": "/aamir_siraj/do-custom-react-javascript-node-js-mern-stack-development",
+      "is_seller_unavailable": false,
+      "price_i": 150,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

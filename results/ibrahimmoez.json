@@ -1,0 +1,829 @@
+{
+  "seller": {
+    "user": {
+      "id": "36259785",
+      "name": "ibrahimmoez",
+      "isActivationCompleted": true,
+      "joinedAt": 1466446984,
+      "profile": {
+        "displayName": "Hazem Moez"
+      },
+      "address": {
+        "countryName": "Egypt",
+        "countryCode": "EG"
+      },
+      "languages": [
+        {
+          "code": "AR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/d40ce922624f4756f4ca25d7de49d54e-1552411255619/d9f4a5d3-6dba-4bcc-ba45-e7e3304c12ce.jpeg"
+    },
+    "approvedGigsCount": 6,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "101018475"
+        },
+        {
+          "id": "101512552"
+        },
+        {
+          "id": "101697275"
+        },
+        {
+          "id": "73231741"
+        },
+        {
+          "id": "148075440"
+        },
+        {
+          "id": "175596123"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "A software engineer with a bachelor in computer science. ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "ITI",
+        "certificationName": "Edu-Egypt program for Business English",
+        "year": 2013
+      },
+      {
+        "receivedFrom": "AUC",
+        "certificationName": "Employability skills training",
+        "year": 2012
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "translation and interpretation",
+        "toYear": 2013,
+        "countryCode": "EG",
+        "school": "Suez Canal  University",
+        "degreeTitle": "BA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6390565f077890058f3",
+        "name": "Arabic to English translation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Arabic to English translator"
+      },
+      {
+        "id": "617fa6760565f07789006b12",
+        "name": "Translation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Translator"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 109,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 2792
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 99,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 384,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 190
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 2
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6529b613e649160001843b90",
+          "comment": "Awesome seller great communication highly recommended \n",
+          "comment_language": "en",
+          "username": "phil_eton",
+          "reviewer_country_code": "AU",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/56ada8874d4a99e98cf9b02a347880fd-1584795768297/b006d124-45b9-4924-86e6-67acabba5688.jpg",
+          "created_at": "2023-10-15T07:14:26",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO822FBC8C1C4",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 73231741,
+          "gig_slug": "translate-video-from-english-to-arabic",
+          "gig_category": 5,
+          "gig_sub_category": 109,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 16,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6506841d4fa25c00017a4f0b",
+          "comment": "Top service and fast delivery",
+          "comment_language": "en",
+          "username": "thomasthomas999",
+          "reviewer_country_code": "DE",
+          "created_at": "2023-09-17T04:44:53",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO41D094BD186",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 73231741,
+          "gig_slug": "translate-video-from-english-to-arabic",
+          "gig_category": 5,
+          "gig_sub_category": 109,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6503ba1b4fa25c00017889a7",
+          "comment": "Absolutely great job as always thank you!",
+          "comment_language": "en",
+          "username": "walter760",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/33eabf06ab932a8b1929c9bc95c229d8-1663099449382/f77344e6-2c13-4bd6-8988-c4d57ee07400.JPG",
+          "created_at": "2023-09-15T01:58:57",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31D06BECF87",
+          "score": 0,
+          "reviewer_industry": [
+            "retail_and_wholesale"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 73231741,
+          "gig_slug": "translate-video-from-english-to-arabic",
+          "gig_category": 5,
+          "gig_sub_category": 109,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 111,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "646d3037b77e1f0001efeae8",
+          "comment": "Very great seller, great communication and delivered all the features exactly as requested, I asked for several revisions and he fulfilled them.",
+          "comment_language": "en",
+          "username": "alidesoki",
+          "reviewer_country_code": "EG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0aa0ef24ede83a44de0edf7b67fd0f5c-1576149336221/2b3807a5-f305-42c0-9065-b112de4a2310.jpg",
+          "created_at": "2023-05-23T21:29:37",
+          "value": 5,
+          "reviewer_country": "Egypt",
+          "encrypted_order_id": "FO71686A8B581",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 175596123,
+          "gig_slug": "develop-android-and-ios-apps-using-flutter",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 2792,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 26
+        },
+        {
+          "id": "64635b38450dbe00012f89ba",
+          "comment": "Excellent job!",
+          "comment_language": "unknown",
+          "username": "rbkorea",
+          "reviewer_country_code": "KR",
+          "created_at": "2023-05-16T10:36:41",
+          "value": 5,
+          "reviewer_country": "Korea, Republic of",
+          "encrypted_order_id": "FO61679F6A582",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 101697275,
+          "gig_slug": "add-create-srt-subtitles-for-any-video-on-facebook-youtube-vimeo",
+          "gig_category": 5,
+          "gig_sub_category": 109,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 80
+        }
+      ],
+      "has_next": true,
+      "total_count": 190,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 2,
+        "business": 14
+      },
+      "user_id": 36259785,
+      "seller_username": "ibrahimmoez",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 186
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "retail_and_wholesale": "Retail & Wholesale"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 36259785,
+      "reviews": [
+        {
+          "id": "622d705b42141b0001d55e41",
+          "comment": "Outstanding experience!",
+          "comment_language": "en-US",
+          "username": "alidesoki",
+          "reviewer_country_code": "EG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0aa0ef24ede83a44de0edf7b67fd0f5c-1576149336221/2b3807a5-f305-42c0-9065-b112de4a2310.jpg",
+          "created_at": "2022-03-13T04:17:32",
+          "value": 5
+        },
+        {
+          "id": "622d7056191d070001d8e92e",
+          "comment": "Outstanding experience!",
+          "comment_language": "en-US",
+          "username": "alidesoki",
+          "reviewer_country_code": "EG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0aa0ef24ede83a44de0edf7b67fd0f5c-1576149336221/2b3807a5-f305-42c0-9065-b112de4a2310.jpg",
+          "created_at": "2022-03-13T04:17:26",
+          "value": 5
+        },
+        {
+          "id": "622d704ddb33e600019ff73e",
+          "comment": "Outstanding experience!",
+          "comment_language": "en-US",
+          "username": "alidesoki",
+          "reviewer_country_code": "EG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0aa0ef24ede83a44de0edf7b67fd0f5c-1576149336221/2b3807a5-f305-42c0-9065-b112de4a2310.jpg",
+          "created_at": "2022-03-13T04:17:17",
+          "value": 5
+        },
+        {
+          "id": "620b93252303960001f31b5b",
+          "comment": "Outstanding experience!",
+          "comment_language": "en-US",
+          "username": "alidesoki",
+          "reviewer_country_code": "EG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0aa0ef24ede83a44de0edf7b67fd0f5c-1576149336221/2b3807a5-f305-42c0-9065-b112de4a2310.jpg",
+          "created_at": "2022-02-15T11:48:53",
+          "value": 5
+        },
+        {
+          "id": "620a79a6ae0f1e0001f8ee7d",
+          "comment": "Outstanding experience!",
+          "comment_language": "en-US",
+          "username": "alidesoki",
+          "reviewer_country_code": "EG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0aa0ef24ede83a44de0edf7b67fd0f5c-1576149336221/2b3807a5-f305-42c0-9065-b112de4a2310.jpg",
+          "created_at": "2022-02-14T15:47:50",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 36259785,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Cairo",
+    "recent_utc_offset": -120
+  },
+  "gigsData": [
+    {
+      "gig_id": 73231741,
+      "category_id": 5,
+      "sub_category_id": 109,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "translate-video-from-english-to-arabic",
+      "title": "do transcription and add subtitles as srt,  vtt, and scc closed captions files",
+      "seller_name": "ibrahimmoez",
+      "seller_id": 36259785,
+      "seller_country": "EG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d40ce922624f4756f4ca25d7de49d54e-1552411255619/d9f4a5d3-6dba-4bcc-ba45-e7e3304c12ce.jpeg",
+      "seller_display_name": "Hazem Moez",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "5fbb0483e59575000b244c16",
+          "id": 4253768
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/73231741/original/2ca9b1986e49c1c3fcad05eedd9a40eb831a8a5b.png",
+          "type": "ImageAsset",
+          "id": "73231741_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "5fbb0483e59575000b244c16",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/t4qzrqcr0stchgxnxtus",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/t4qzrqcr0stchgxnxtus.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "133764177",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ar6jnlgupr5nhntquj0h",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/ar6jnlgupr5nhntquj0h.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "111313609",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ejc3gu0inzzidytk9v6d",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/ejc3gu0inzzidytk9v6d.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "ar",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "arabic",
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 145,
+      "buying_review_rating": 4.9,
+      "seller_url": "/ibrahimmoez",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 190,
+        "score": 4.9561405
+      },
+      "gig_url": "/ibrahimmoez/translate-video-from-english-to-arabic",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 101018475,
+      "category_id": 5,
+      "sub_category_id": 109,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "transcribe-any-video-and-make-web-vtt-subtitles",
+      "title": "transcribe any video and make web vtt subtitles",
+      "seller_name": "ibrahimmoez",
+      "seller_id": 36259785,
+      "seller_country": "EG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d40ce922624f4756f4ca25d7de49d54e-1552411255619/d9f4a5d3-6dba-4bcc-ba45-e7e3304c12ce.jpeg",
+      "seller_display_name": "Hazem Moez",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/101018475/original/9ef363703927aad4e0e4da9c891c4904075e340e.png",
+          "type": "ImageAsset",
+          "id": "101018475_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "ar",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "arabic",
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 18,
+      "buying_review_rating": 5,
+      "seller_url": "/ibrahimmoez",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 190,
+        "score": 4.9561405
+      },
+      "gig_url": "/ibrahimmoez/transcribe-any-video-and-make-web-vtt-subtitles",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 101697275,
+      "category_id": 5,
+      "sub_category_id": 109,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "add-create-srt-subtitles-for-any-video-on-facebook-youtube-vimeo",
+      "title": "create srt, scc, vtt, hardcode subtitles for any video",
+      "seller_name": "ibrahimmoez",
+      "seller_id": 36259785,
+      "seller_country": "EG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d40ce922624f4756f4ca25d7de49d54e-1552411255619/d9f4a5d3-6dba-4bcc-ba45-e7e3304c12ce.jpeg",
+      "seller_display_name": "Hazem Moez",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/101697275/original/00224eb9bd44bf5b9fff7f667ae12e7ff887cbb5.png",
+          "type": "ImageAsset",
+          "id": "101697275_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "ar",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "arabic",
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 9,
+      "buying_review_rating": 5,
+      "seller_url": "/ibrahimmoez",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 190,
+        "score": 4.9561405
+      },
+      "gig_url": "/ibrahimmoez/add-create-srt-subtitles-for-any-video-on-facebook-youtube-vimeo",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 148075440,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-professional-video-editing",
+      "title": "do video editing professionally",
+      "seller_name": "ibrahimmoez",
+      "seller_id": 36259785,
+      "seller_country": "EG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d40ce922624f4756f4ca25d7de49d54e-1552411255619/d9f4a5d3-6dba-4bcc-ba45-e7e3304c12ce.jpeg",
+      "seller_display_name": "Hazem Moez",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "5e62f2f61974ae001ca1673a",
+          "id": 3290329
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/148075440/original/54093d295473a93cb0dffa3fefb804114121ad76.png",
+          "type": "ImageAsset",
+          "id": "148075440_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "5e62f2f61974ae001ca1673a",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/jr6bmnxxfxwxaucd5pv7",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_28.237275,PLACEHOLDER/jr6bmnxxfxwxaucd5pv7.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "ar",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "youtube_videos"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 7,
+      "buying_review_rating": 5,
+      "seller_url": "/ibrahimmoez",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 190,
+        "score": 4.9561405
+      },
+      "gig_url": "/ibrahimmoez/do-professional-video-editing",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 175596123,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 2792,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "develop-android-and-ios-apps-using-flutter",
+      "title": "develop android and ios mobile apps using flutter",
+      "seller_name": "ibrahimmoez",
+      "seller_id": 36259785,
+      "seller_country": "EG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d40ce922624f4756f4ca25d7de49d54e-1552411255619/d9f4a5d3-6dba-4bcc-ba45-e7e3304c12ce.jpeg",
+      "seller_display_name": "Hazem Moez",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/175596123/original/a852bb51c4fbd872e1fbeff637b3b814b5885084.png",
+          "type": "ImageAsset",
+          "id": "175596123_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/175596123/original/6b56938afc640fcf692d31f5f0fcd37ed20c34a7.png",
+          "type": "ImageAsset",
+          "id": "175596123_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "ar",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 5,
+      "seller_url": "/ibrahimmoez",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 190,
+        "score": 4.9561405
+      },
+      "gig_url": "/ibrahimmoez/develop-android-and-ios-apps-using-flutter",
+      "is_seller_unavailable": false,
+      "price_i": 1495,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 101512552,
+      "category_id": 20,
+      "sub_category_id": 384,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "add-subtitles-to-your-video",
+      "title": "develop and design a website for your business",
+      "seller_name": "ibrahimmoez",
+      "seller_id": 36259785,
+      "seller_country": "EG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d40ce922624f4756f4ca25d7de49d54e-1552411255619/d9f4a5d3-6dba-4bcc-ba45-e7e3304c12ce.jpeg",
+      "seller_display_name": "Hazem Moez",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 1,
+          "provider_id": "11448484",
+          "attachment_id": "5ddcf2954dcea17ad19d1b5b",
+          "id": 2276131
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/101512552/original/f9c0dc12728aaf50970e464e0d0bcfb8da9106ad.jpg",
+          "type": "ImageAsset",
+          "id": "101512552_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "5ddcf2954dcea17ad19d1b5b",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/jz4awvo4jwojuqb9x2bb",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/jz4awvo4jwojuqb9x2bb.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "ar",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "arabic",
+            "english",
+            "german",
+            "spanish"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/ibrahimmoez",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 190,
+        "score": 4.9561405
+      },
+      "gig_url": "/ibrahimmoez/add-subtitles-to-your-video",
+      "is_seller_unavailable": false,
+      "price_i": 250,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

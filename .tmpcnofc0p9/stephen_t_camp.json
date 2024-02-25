@@ -1,0 +1,178 @@
+{
+  "seller": {
+    "user": {
+      "id": "144245751",
+      "name": "stephen_t_camp",
+      "isActivationCompleted": true,
+      "joinedAt": 1675579943,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Canada",
+        "countryCode": "CA"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 144245751,
+      "seller_username": "stephen_t_camp",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 144245751,
+      "reviews": [
+        {
+          "id": "65bb10b9d966f80001d3ac16",
+          "comment": "Great experience!!",
+          "comment_language": "en",
+          "username": "rabbilraja6361",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/95a0da9e71784473ea4b0113ea2b6cbb-1671361327529/418f97c2-2406-4d80-b0e2-a0f15856afa0.jpg",
+          "created_at": "2024-02-01T03:32:10",
+          "value": 5
+        },
+        {
+          "id": "65ba7c34d966f80001d350a8",
+          "comment": "Great Buyer Nice Experience Willing to work with him again.",
+          "comment_language": "en",
+          "username": "creative_nur001",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/348bc68ecb7950d2ea3112594af46946-1703785121084/6ac701b7-8a9b-49bf-8d0f-9e240b4d07a9.png",
+          "created_at": "2024-01-31T16:58:28",
+          "value": 5
+        },
+        {
+          "id": "65b92786f760630001eacf06",
+          "comment": "Thank you",
+          "comment_language": "en",
+          "username": "nipaakter87",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/96eecb2b640cc6506967f470bc4dd0d9-1650033276780/f48e81a8-8287-4b9c-9bee-24e61e32f49e.png",
+          "created_at": "2024-01-30T16:44:54",
+          "value": 5
+        },
+        {
+          "id": "65b7429d7b679300010e7e32",
+          "comment": "Great buyer outstanding experience ",
+          "comment_language": "en",
+          "username": "robin_tipu",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d1646e8c43b14e3ddcdaf1983c445274-1704624697015/3f2d3b11-ee7a-4f3b-8ece-13f721aaf63e.jpg",
+          "created_at": "2024-01-29T06:15:57",
+          "value": 5
+        },
+        {
+          "id": "65b3f219756b9d0001750f4d",
+          "comment": "Outstanding experience. you're awesome parson.\n",
+          "comment_language": "en",
+          "username": "rashed_sadiq",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/37f058f3a5564cd0452b31e61eb1e981-1703506215685/2901db07-1733-4806-afb2-d4506104642c.png",
+          "created_at": "2024-01-26T17:55:37",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 144245751,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Denver",
+    "recent_utc_offset": 420
+  },
+  "gigsData": []
+}

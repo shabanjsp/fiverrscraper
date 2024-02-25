@@ -1,0 +1,716 @@
+{
+  "seller": {
+    "user": {
+      "id": "153974023",
+      "name": "uiuxapp92",
+      "isActivationCompleted": true,
+      "joinedAt": 1687166800,
+      "profile": {
+        "displayName": "Arduino"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/e805df365659953b33fdd970eded7a7c-1694601319908/a743be6d-d441-47be-bc07-42d77404c171.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "339574611"
+        },
+        {
+          "id": "339657313"
+        },
+        {
+          "id": "348814955"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Arduino  ESP32  PCB",
+    "description": "I am a passionate embedded systems engineer with 5+ years of experience in the industry.\r\nI have a strong background in hardware and software development, and I am proficient in a variety of programming languages, including C, C++, and Python. \r\nI am also familiar with a variety of embedded systems platforms, including Arduino, Raspberry Pi, and BeagleBone Black.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "electrical engineer",
+        "toYear": 2019,
+        "countryCode": "PK",
+        "school": "University of Engineering and Technology",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6390565f0778900590b",
+        "name": "Arduino",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Arduino expert"
+      },
+      {
+        "id": "617fa6390565f0778900590c",
+        "name": "Arduino programming",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Arduino programmer"
+      },
+      {
+        "id": "617fa64d0565f07789005f17",
+        "name": "ESP32",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "ESP32 expert"
+      },
+      {
+        "id": "617fa64e0565f07789005f18",
+        "name": "ESP8266",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "ESP8266 expert"
+      },
+      {
+        "id": "617fa6680565f07789006707",
+        "name": "PCB layout",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PCB layout designer"
+      },
+      {
+        "id": "617fa6680565f07789006706",
+        "name": "PCB design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PCB designer"
+      },
+      {
+        "id": "617fa63e0565f07789005ab3",
+        "name": "C programming",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "C programmer"
+      },
+      {
+        "id": "617fa63e0565f07789005ab5",
+        "name": "C++",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "C++ developer"
+      },
+      {
+        "id": "617fa64b0565f07789005e97",
+        "name": "Embedded systems",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Embedded systems expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e95",
+        "name": "Embedded programming",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Embedded programmer"
+      },
+      {
+        "id": "617fa64b0565f07789005e96",
+        "name": "Embedded software",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Embedded software expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 477,
+        "nestedCategoryId": 2522
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 477,
+        "nestedCategoryId": 2523
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6535472f4a15b400011082a6",
+          "title": "Wireless Communication Project",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6535472f4a15b400011082a7",
+                "attachment": {
+                  "metadata": {
+                    "height": 518,
+                    "width": 750
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1d2011c9671f8b5c5f4e82364d9a11b1-1697990431650/Types-of-Wireless-Communication-Protocols-in-IOT.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "653547b6a1ba2b00017124cc",
+          "title": "Obstacle detector Robot",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "653547b6a1ba2b00017124cd",
+                "attachment": {
+                  "metadata": {
+                    "height": 567,
+                    "width": 750
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/8328890304d767439c85990bd2518e98-1697990541913/Obstacle%20Avoiding-Robot-using-Arduino-and-Ultrasonic-Sensor.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6535481ac6e825000134f3b1",
+          "title": "Smart Home Automation System wit",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6535481ac6e825000134f3b2",
+                "attachment": {
+                  "metadata": {
+                    "height": 199,
+                    "width": 253
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/472f72d6672b2fded46de69c61216aa1-1697990615052/download%20(1).png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 3
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 19
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 6
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "656f84789a49ad0001b0a09c",
+          "comment": "Excellent and knowledgeable seller to work with. Would absolutely recommend to anyone who is looking to have some programming done!",
+          "comment_language": "en",
+          "username": "bwarren5",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-05T20:14:10",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO717B4482B81",
+          "score": 0.34935987,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 339574611,
+          "gig_slug": "arduino-esp32-based-projects",
+          "gig_category": 10,
+          "gig_sub_category": 477,
+          "gig_nested_sub_category": 2523,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6599c4d7369cc90001207f6c",
+          "comment": "the seller was professional and understanding in developing the code I needed. I will definitely continue to work with him if I need to. Thank you so much!",
+          "comment_language": "en",
+          "username": "torciaelettrica",
+          "reviewer_country_code": "IT",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/808e25b186d69b198f2175736ccb36b1-1614196601212/9457f168-c54c-4c3c-85ba-a3f22809a3ff.jpeg",
+          "created_at": "2024-01-06T21:24:21",
+          "value": 5,
+          "reviewer_country": "Italy",
+          "encrypted_order_id": "FO3BEF1B3341",
+          "score": 0.34889698,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 339574611,
+          "gig_slug": "arduino-esp32-based-projects",
+          "gig_category": 10,
+          "gig_sub_category": 477,
+          "gig_nested_sub_category": 2523,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65c3bfd1c213122dae336bf6",
+          "comment": "Best Seller. Highly recommend",
+          "comment_language": "en",
+          "username": "jordanwilliam66",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-07T17:37:39",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO52417AC09C7",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 339574611,
+          "gig_slug": "arduino-esp32-based-projects",
+          "gig_category": 10,
+          "gig_sub_category": 477,
+          "gig_nested_sub_category": 2523,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 21,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b3f63941e5c52d8c230e66",
+          "comment": "This is my go to programmer!!!! \nHighly Recommend him!!!",
+          "comment_language": "en",
+          "username": "istore4u",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-26T18:32:01",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO317FD2EAB85",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 339574611,
+          "gig_slug": "arduino-esp32-based-projects",
+          "gig_category": 10,
+          "gig_sub_category": 477,
+          "gig_nested_sub_category": 2523,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b3f60bda9df3104e852cf6",
+          "comment": "This is my go to programmer!!!! \nHighly Recommend him!!!",
+          "comment_language": "en",
+          "username": "istore4u",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-26T18:33:40",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO417FD23F984",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 339574611,
+          "gig_slug": "arduino-esp32-based-projects",
+          "gig_category": 10,
+          "gig_sub_category": 477,
+          "gig_nested_sub_category": 2523,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 19,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 153974023,
+      "seller_username": "uiuxapp92",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 19
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 153974023,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 153974023,
+    "currency": "EUR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 339574611,
+      "category_id": 10,
+      "sub_category_id": 477,
+      "nested_sub_category_id": 2523,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "arduino-esp32-based-projects",
+      "title": "arduino, esp32 and iot projects",
+      "seller_name": "uiuxapp92",
+      "seller_id": 153974023,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e805df365659953b33fdd970eded7a7c-1694601319908/a743be6d-d441-47be-bc07-42d77404c171.png",
+      "seller_display_name": "Arduino",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/339574611/original/c7b6da2e6bd4b694269ac271d35996127b821334.png",
+          "type": "ImageAsset",
+          "id": "339574611_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/339574611/original/a57870c1064a0dd28d4f6da122bb3a4d62e77fd2.jpg",
+          "type": "ImageAsset",
+          "id": "339574611_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/339574611/original/2a1a624d1c1ed7bce06086f98a4d87d077f6b8a2.jpg",
+          "type": "ImageAsset",
+          "id": "339574611_3"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "arduino"
+          ]
+        },
+        {
+          "type": "sensors",
+          "value": [
+            "temperature",
+            "humidity",
+            "accelerometer",
+            "ultrasonic",
+            "microphone",
+            "infrared",
+            "photoresistor",
+            "knock",
+            "sound_vibration",
+            "heartbeat",
+            "water",
+            "voltage_detection",
+            "magnetic_reed",
+            "photo_diode",
+            "camera",
+            "lidar",
+            "position",
+            "location"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "firmware_development",
+            "rtos",
+            "debugging",
+            "microcontrollers",
+            "iot"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 19,
+      "buying_review_rating": 5,
+      "seller_url": "/uiuxapp92",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 19,
+        "score": 5
+      },
+      "gig_url": "/uiuxapp92/arduino-esp32-based-projects",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 339657313,
+      "category_id": 10,
+      "sub_category_id": 477,
+      "nested_sub_category_id": 2522,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "pcb-design-for-you",
+      "title": "pcb design for you",
+      "seller_name": "uiuxapp92",
+      "seller_id": 153974023,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e805df365659953b33fdd970eded7a7c-1694601319908/a743be6d-d441-47be-bc07-42d77404c171.png",
+      "seller_display_name": "Arduino",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/339657313/original/9499ab32388be4002226aa43e45b4e852e252227.png",
+          "type": "ImageAsset",
+          "id": "339657313_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "specialization",
+          "value": [
+            "circuit_design",
+            "schematics",
+            "layout",
+            "footprint",
+            "simulations"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "gerber",
+            "step",
+            "pdf"
+          ]
+        },
+        {
+          "type": "software",
+          "value": [
+            "altium_designer",
+            "eagle_cad",
+            "easyeda",
+            "kicad",
+            "proteus",
+            "simulink"
+          ]
+        },
+        {
+          "type": "interface",
+          "value": [
+            "i2s",
+            "uart",
+            "usb",
+            "spi",
+            "i2c",
+            "wi_fi",
+            "ble",
+            "bt",
+            "gsm_gprs"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/uiuxapp92",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 19,
+        "score": 5
+      },
+      "gig_url": "/uiuxapp92/pcb-design-for-you",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 348814955,
+      "category_id": 10,
+      "sub_category_id": 477,
+      "nested_sub_category_id": 2523,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-tinkercad-circuits-and-code",
+      "title": "do  tinkercad circuit design and electronics projects",
+      "seller_name": "uiuxapp92",
+      "seller_id": 153974023,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e805df365659953b33fdd970eded7a7c-1694601319908/a743be6d-d441-47be-bc07-42d77404c171.png",
+      "seller_display_name": "Arduino",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/348814955/original/7e557cac574c5c57c80cc2c492155d81718bc969.png",
+          "type": "ImageAsset",
+          "id": "348814955_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "arduino"
+          ]
+        },
+        {
+          "type": "sensors",
+          "value": [
+            "temperature",
+            "humidity",
+            "accelerometer",
+            "ultrasonic",
+            "microphone",
+            "infrared",
+            "photoresistor",
+            "knock",
+            "sound_vibration",
+            "heartbeat",
+            "water",
+            "voltage_detection",
+            "magnetic_reed",
+            "photo_diode",
+            "camera",
+            "lidar",
+            "position",
+            "location"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "firmware_development",
+            "debugging",
+            "iot",
+            "testing",
+            "automation"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/uiuxapp92",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 19,
+        "score": 5
+      },
+      "gig_url": "/uiuxapp92/do-tinkercad-circuits-and-code",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

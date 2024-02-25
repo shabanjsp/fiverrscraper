@@ -1,0 +1,158 @@
+{
+  "seller": {
+    "user": {
+      "id": "159815579",
+      "name": "rach_alexandra",
+      "isActivationCompleted": true,
+      "joinedAt": 1694447119,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Greece",
+        "countryCode": "GR"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 159815579,
+      "seller_username": "rach_alexandra",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 159815579,
+      "reviews": [
+        {
+          "id": "65c4ed3f750928000116a172",
+          "comment": "great buyer",
+          "comment_language": "en",
+          "username": "ahashan156",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/997c0f9f8d7a2e4dc84cb65878b11fd0-1590445358006/7835810e-87b3-4483-ba02-a0e028944380.jpg",
+          "created_at": "2024-02-08T15:03:27",
+          "value": 5
+        },
+        {
+          "id": "6579c80e0f30da0001e91ef1",
+          "comment": "great person",
+          "comment_language": "en",
+          "username": "ecommerce_drive",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9c3c822a2d543d1180214567894d2038-1652822393305/34078271-181a-49ab-b122-66c2c7f859f2.png",
+          "created_at": "2023-12-13T15:04:46",
+          "value": 5
+        },
+        {
+          "id": "65674a9f9246fb00018c520d",
+          "comment": "great buyer",
+          "comment_language": "en",
+          "username": "ahashan156",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/997c0f9f8d7a2e4dc84cb65878b11fd0-1590445358006/7835810e-87b3-4483-ba02-a0e028944380.jpg",
+          "created_at": "2023-11-29T14:28:47",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 159815579,
+    "currency": "EUR",
+    "locale": "en-US",
+    "timezone": "Europe/Athens",
+    "recent_utc_offset": -120
+  },
+  "gigsData": []
+}

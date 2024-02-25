@@ -1,0 +1,921 @@
+{
+  "seller": {
+    "user": {
+      "id": "95752986",
+      "name": "alphawork68",
+      "isActivationCompleted": true,
+      "joinedAt": 1602225964,
+      "profile": {
+        "displayName": "Djain"
+      },
+      "address": {
+        "countryName": "India",
+        "countryCode": "IN"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "FR",
+          "level": "BASIC"
+        },
+        {
+          "code": "DE",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/96ddb21306b7df976877b9000670fa28-1617862321202/bc56b810-c997-430a-a38f-4ba341618c7f.jpeg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "194879294"
+        },
+        {
+          "id": "233095375"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "SEO Consultant with 9 Years of Experience",
+    "description": "I am a highly experienced SEO expert with over 9 years of experience in the field. I have worked with a variety of clients, from small businesses to large corporations, and have helped them to achieve significant results in terms of website traffic and organic search rankings.\r\n\r\nI am proficient in all aspects of SEO, including keyword research, on-page and off-page.\r\n\r\nHere are some of my services:\r\n\r\nGoogle Search Console \r\nKeyword research\r\nOn-page optimization\r\nOff-page optimization\r\nLink building\r\nTechnical SEO\r\nLocal SEO\r\nE-commerce SEO\r\n\r\nI offer a consultation, so please contact me today",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "SEMrush Academy",
+        "certificationName": "SEMRUSH Fundatmetnals",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "Google Adwords",
+        "certificationName": "Google Adwords Certification",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Google Academy",
+        "certificationName": "Google Analytics",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "bmm",
+        "toYear": 2018,
+        "countryCode": "IN",
+        "school": "KSOU",
+        "degreeTitle": "OTHER"
+      },
+      {
+        "degree": "bachelor",
+        "toYear": 2014,
+        "countryCode": "IN",
+        "school": "BCA",
+        "degreeTitle": "OTHER"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6670565f0778900669b",
+        "name": "On-page SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "On-page SEO expert"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "SEO expert"
+      },
+      {
+        "id": "617fa6750565f07789006ac2",
+        "name": "Technical SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Technical SEO expert"
+      },
+      {
+        "id": "617fa6550565f07789006175",
+        "name": "Google analytics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google analytics expert"
+      },
+      {
+        "id": "617fa6640565f077890065cc",
+        "name": "Microsoft Excel",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Microsoft Excel expert"
+      },
+      {
+        "id": "617fa6550565f07789006190",
+        "name": "Google Search Console",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google Search Console expert"
+      },
+      {
+        "id": "617fa6700565f0778900693c",
+        "name": "Search engine optimization (SEO)",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Search engine optimization (SEO) expert"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Customer service representative"
+      },
+      {
+        "id": "617fa67a0565f07789006c14",
+        "name": "Voice search SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Voice search SEO expert"
+      },
+      {
+        "id": "617fa6550565f07789006176",
+        "name": "Google API",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google API expert"
+      },
+      {
+        "id": "617fa6700565f0778900694e",
+        "name": "SEO consulting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO consultant"
+      },
+      {
+        "id": "617fa6700565f0778900694d",
+        "name": "SEO audit",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO audit expert"
+      },
+      {
+        "id": "61a4d8b4758d756a25307be9",
+        "name": "Shopify SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify SEO expert"
+      },
+      {
+        "id": "617fa6620565f0778900652f",
+        "name": "Local SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Local SEO expert"
+      },
+      {
+        "id": "617fa6550565f0778900618a",
+        "name": "Google Optimize",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google Optimize expert"
+      },
+      {
+        "id": "617fa6560565f0778900619b",
+        "name": "Google Tag Manager",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google Tag Manager expert"
+      },
+      {
+        "id": "617fa6550565f07789006188",
+        "name": "Google Merchant",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google Merchant expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 65,
+        "nestedCategoryId": 2154
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "620a2ebb3f55290001ad9d1a",
+          "title": "Google Indexing within 48 hours",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "620a2ebb3f55290001ad9d1b",
+                "attachment": {
+                  "metadata": {
+                    "height": 257,
+                    "width": 652
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/bed08d2da7126ebd0a35062280725996-1644834486584/Screenshot%202022-02-11%20at%205.13.50%20PM.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "620a2f3b55964a000103f251",
+          "title": "#1 Ranking for Keywords",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "620a2f3b55964a000103f252",
+                "attachment": {
+                  "metadata": {
+                    "height": 171,
+                    "width": 1046
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/72c3b8186b657c2471582a0e3ef36e3b-1644834617258/Screenshot%202022-02-11%20at%205.13.29%20PM.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1617884682
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 420
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 2
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b390b1da9df3104e8520dd",
+          "comment": "Seller was amazing, first he took time to understand the google search console errors and then help me to walk through all the things one by one and also guided me on how this will help me to grow my website ranking and what things need to be done in SEO. He’s truly an SEO expert and really show the experience he has with SEO. You can ask him any questions related to On Page SEO, Technical SEO and Advanced SEO, he will give you the best solution\n\n1000% Recommended. I will keep working with him in future. Thanks Mate.",
+          "comment_language": "en",
+          "username": "amardeeponline",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8f51ad58acaa476ccbaf23ece82844dc-1692173053469/95947f88-9080-4034-967a-48b9a2cc778d.png",
+          "created_at": "2024-01-26T13:29:48",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/7acda9bb0ae1f47985d3d9e0e3a6542f-1706260603/Screenshot%202024-01-19%20at%204.28.00%E2%80%AFPM.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/7acda9bb0ae1f47985d3d9e0e3a6542f-1706260603/Screenshot%202024-01-19%20at%204.28.00%E2%80%AFPM.png",
+          "reviewer_country": "India",
+          "encrypted_order_id": "FO517FB0E1183",
+          "score": 0.8028879,
+          "reviewer_industry": [
+            "education"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 233095375,
+          "gig_slug": "be-your-personal-seo-consultant-for-audit-and-suggestions",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2154,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 12,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65902a1ed628ec000186717f",
+          "comment": "Great communication the whole way through.  I moved my site from Wix to Wordpress and came across the many challenges that come along with migrating a site.  I reached out to alphawork68 and we went through my challenges that I was unable to fix on my own.  I have a pretty good understanding of Google Search Console but I'd say he has an expert skill set with the technical SEO so he was able to get through my pain points far quicker.  He even offered some extra features which also helped me by adding some extra tools and walked me through those as well.  Overall, great service, great communication and great technical SEO knowledge.  I'd recommend him to my colleagues for future services.",
+          "comment_language": "en",
+          "username": "neilcolvin709",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-30T14:40:09",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2BE4E8DC42",
+          "score": 0.75999296,
+          "reviewer_industry": [
+            "medical_or_pharmaceutical"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 194879294,
+          "gig_slug": "fix-any-google-search-console-errors-and-indexing-errors",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2154,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65603fbf1ed21300014db412",
+          "comment": "Great experience working with Darshan. He over delivered stuff and my 100+ links that were not getting indexed, got indexed within a couple of days. Would love to work with him again!",
+          "comment_language": "en",
+          "username": "rajusingh05",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/89bbb59c29098378e4a6b0ee28e798ad-1654507067569/5d305992-b736-48f6-ba68-f58b9560b4e7.png",
+          "created_at": "2023-11-24T06:52:49",
+          "value": 5,
+          "reviewer_country": "India",
+          "encrypted_order_id": "FO31D6E1A2A87",
+          "score": 0.67229927,
+          "reviewer_industry": [
+            "technology"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 233095375,
+          "gig_slug": "be-your-personal-seo-consultant-for-audit-and-suggestions",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2154,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 17,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658aee4fd628ec0001839fc1",
+          "comment": "We could do with more stars really to rate this chap, excellent coms with video call and a dummy run through things for me. I will use again in the future but for the time being the site is perfect.\nYou will not be disappointed if you book with these guys.\nThanks Again",
+          "comment_language": "en",
+          "username": "vallyplant",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-12-26T16:31:21",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO217CA968586",
+          "score": 0.6587744,
+          "reviewer_industry": [
+            "construction"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 233095375,
+          "gig_slug": "be-your-personal-seo-consultant-for-audit-and-suggestions",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2154,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 22,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ae921208246e65371f0af5",
+          "comment": "Great service, quick delivery, video updates on SEO progress. Explanation of issues, and found the main bug that caused indexing error. Fixed other issues as well. This review is for the sitemap task and for the URL notation across the site. 5*!",
+          "comment_language": "en",
+          "username": "andreavivan",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-22T16:13:17",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/902e0d4a59f70ad10afd5b1bddefd3d0-1705939346/Screenshot%202024-01-22%20at%209.31.54%E2%80%AFPM.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/902e0d4a59f70ad10afd5b1bddefd3d0-1705939346/Screenshot%202024-01-22%20at%209.31.54%E2%80%AFPM.png",
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO82FED440308",
+          "score": 0.6471639,
+          "reviewer_industry": [
+            "real_estate"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 233095375,
+          "gig_slug": "be-your-personal-seo-consultant-for-audit-and-suggestions",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2154,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 39,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 420,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 76,
+        "business": 47
+      },
+      "user_id": 95752986,
+      "seller_username": "alphawork68",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 5
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 413
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {}
+    },
+    "selling_reviews": {
+      "user_id": 95752986,
+      "reviews": [
+        {
+          "id": "65018ec00287a50001778f47",
+          "comment": "Thanks Sir!!!     ",
+          "comment_language": "en",
+          "username": "abu_bakar_seo",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/12ddb7858a12f175aead9134684874df-1698680534381/a552e55d-5fd9-47af-8c9e-5e102c87d19a.png",
+          "created_at": "2023-09-13T10:28:16",
+          "value": 5
+        },
+        {
+          "id": "648d4634fb99c00001ac162b",
+          "comment": "very good buyer ",
+          "comment_language": "en",
+          "username": "asad_sem",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fcbf890b1be57612f79931ab4d2828b9-1686059754528/03b51ea5-57ce-46f5-8ff6-c12e9d901a1f.jpg",
+          "created_at": "2023-06-17T05:35:48",
+          "value": 5
+        },
+        {
+          "id": "632189564162bb00014d8af8",
+          "comment": "It was nice working with you",
+          "comment_language": "en-US",
+          "username": "vijaygalia915",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2dde13cd3682e7ce0f747a818bf55128-1664875038282/8df2e931-07cc-411f-9443-36a065af2f9a.png",
+          "created_at": "2022-09-14T07:57:10",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 95752986,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Kolkata",
+    "recent_utc_offset": -330
+  },
+  "gigsData": [
+    {
+      "gig_id": 194879294,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2154,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "fix-any-google-search-console-errors-and-indexing-errors",
+      "title": "fix page indexing issue, google search console errors",
+      "seller_name": "alphawork68",
+      "seller_id": 95752986,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/96ddb21306b7df976877b9000670fa28-1617862321202/bc56b810-c997-430a-a38f-4ba341618c7f.jpeg",
+      "seller_display_name": "Djain",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/194879294/original/52df42721257561448ce8b5d3489a9f2287061c2.jpg",
+          "type": "ImageAsset",
+          "id": "194879294_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176604850",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d7221a88d7bc8e10743def4e7447cebf-1707309273/Screenshot%202024-02-07%20at%206.04.20%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176312485",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4ab1558f9a88f21bf62bade5ae4be7b4-1706719169/IMG_1996.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175951772",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/88b96bec6dc7ac7d1f08a1f96852c355-1706000793/Screenshot%202024-01-23%20at%202.36.21%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175917738",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/786735a59e80a8b0aa2597558b01dcd8-1705933094/Screenshot%202024-01-22%20at%207.47.41%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175465335",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5883bf1fe9df204be37513d5c343b594-1704993423/Screenshot%202024-01-11%20at%2010.46.49%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 4
+        }
+      ],
+      "recurring_options": [],
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "arts",
+            "beauty_cosmetics",
+            "crypto_blockchain",
+            "construction",
+            "dental_care",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "fashion_apparel",
+            "financial_services_banking",
+            "food_beverage",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "photography_videography",
+            "government_public_sector",
+            "real_estate",
+            "religion_spirituality",
+            "retail_wholesale",
+            "science",
+            "services",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hungarian",
+            "icelandic",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "russian",
+            "serbian",
+            "slovak",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "welsh",
+            "sinhala"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 207,
+      "buying_review_rating": 5,
+      "seller_url": "/alphawork68",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 420,
+        "score": 4.9274254
+      },
+      "gig_url": "/alphawork68/fix-any-google-search-console-errors-and-indexing-errors",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 233095375,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2154,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-personal-seo-consultant-for-audit-and-suggestions",
+      "title": "be your SEO consultant, expert, coach, help, rank website",
+      "seller_name": "alphawork68",
+      "seller_id": 95752986,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/96ddb21306b7df976877b9000670fa28-1617862321202/bc56b810-c997-430a-a38f-4ba341618c7f.jpeg",
+      "seller_display_name": "Djain",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/233095375/original/3384b6b232bfecd03e7e469ae748bf7112320dbf.png",
+          "type": "ImageAsset",
+          "id": "233095375_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/233095375/original/43e0f91814f990fef1ec81427a2dc253bc7983fc.png",
+          "type": "ImageAsset",
+          "id": "233095375_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176089693",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/7acda9bb0ae1f47985d3d9e0e3a6542f-1706260603/Screenshot%202024-01-19%20at%204.28.00%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175922031",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/902e0d4a59f70ad10afd5b1bddefd3d0-1705939346/Screenshot%202024-01-22%20at%209.31.54%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175650899",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5b1f8d0191ed884379e3834a3b6336b1-1705389971/Screenshot%202024-01-16%20at%2012.52.47%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175615036",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/85632875849d96569c33826c1316b5e4-1705318661/Screenshot%202024-01-14%20at%2010.10.00%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175609171",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a6495f76f37b33cac454e7d7d9fed211-1705306155/Screenshot%202024-01-15%20at%201.38.50%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "arts",
+            "beauty_cosmetics",
+            "crypto_blockchain",
+            "construction",
+            "dental_care",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "fashion_apparel",
+            "financial_services_banking",
+            "food_beverage",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "photography_videography",
+            "government_public_sector",
+            "real_estate",
+            "religion_spirituality",
+            "retail_wholesale",
+            "science",
+            "services",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "serbian",
+            "slovenian",
+            "spanish",
+            "swedish",
+            "turkish"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 34,
+      "buying_review_rating": 5,
+      "seller_url": "/alphawork68",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 420,
+        "score": 4.9274254
+      },
+      "gig_url": "/alphawork68/be-your-personal-seo-consultant-for-audit-and-suggestions",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

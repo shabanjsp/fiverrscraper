@@ -1,0 +1,471 @@
+{
+  "seller": {
+    "user": {
+      "id": "168091205",
+      "name": "fiya_gil",
+      "isActivationCompleted": true,
+      "joinedAt": 1705252188,
+      "profile": {
+        "displayName": "Fiya"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/9da323f0234d830cd4ab76d7d8cae4e1-1680912051706778912433/JPEG_20240201_141510_4096805079517791579.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "359783875"
+        },
+        {
+          "id": "360437170"
+        },
+        {
+          "id": "360599745"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Welcome to my profile!\n I am Fiya Gil. I am a professional business plan, business memos, business strategy and business development. I have vast experience in this field. Thank you ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "adam",
+        "certificationName": "Best teacher ",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "businessmarketing",
+        "toYear": 2018,
+        "countryCode": "PK",
+        "school": "Adamson University",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63e0565f07789005aa2",
+        "name": "Business reports",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business reports expert"
+      },
+      {
+        "id": "617fa64e0565f07789005f1a",
+        "name": "Essay editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Essay editor"
+      },
+      {
+        "id": "617fa63f0565f07789005afd",
+        "name": "Case studies writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Case studies writer"
+      },
+      {
+        "id": "617fa6430565f07789005c30",
+        "name": "Content research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Content researcher"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 7,
+        "subCategoryId": 123,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 5
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c31bff0dcd5400015bfe67",
+          "comment": "always good work",
+          "comment_language": "en",
+          "username": "myamin1993",
+          "reviewer_country_code": "TH",
+          "created_at": "2024-02-07T06:11:18",
+          "value": 5,
+          "reviewer_country": "Thailand",
+          "encrypted_order_id": "FO71E0B114803",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360437170,
+          "gig_slug": "do-urgent-essay-writing-tok-ia-ib-hl-sl-extended-exhibition-history",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 13,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c0b12ef9a787374b91a60a",
+          "comment": "Was amazing, stay in touch and was able to respond really fast",
+          "comment_language": "en",
+          "username": "edward900c",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-05T09:58:37",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31E0CE79A87",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 360437170,
+          "gig_slug": "do-urgent-essay-writing-tok-ia-ib-hl-sl-extended-exhibition-history",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c0afac7b1c502f9afe5791",
+          "comment": "Communication was very good and the seller did a fantastic work. They completed the task according to the requirements and delivered on time. I am happy",
+          "comment_language": "en",
+          "username": "jackson_carter3",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-05T09:52:21",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO8240F7A8BC4",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 360437170,
+          "gig_slug": "do-urgent-essay-writing-tok-ia-ib-hl-sl-extended-exhibition-history",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 15,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65bca6c3e4010a34516728fc",
+          "comment": "Fiya, you roch!! Thank you so much. I will be working with you again soon.",
+          "comment_language": "en",
+          "username": "harry_ac",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-02-02T08:26:41",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO52408BCA7C7",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 360437170,
+          "gig_slug": "do-urgent-essay-writing-tok-ia-ib-hl-sl-extended-exhibition-history",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65bca6621e5a9c1c6f4bb522",
+          "comment": "Excellent communication with the seller, and also provided me with some top quality work! 10/10",
+          "comment_language": "en",
+          "username": "king_john23",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-02T08:23:28",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51805CE7983",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 360437170,
+          "gig_slug": "do-urgent-essay-writing-tok-ia-ib-hl-sl-extended-exhibition-history",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 78,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 5,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 4
+      },
+      "user_id": 168091205,
+      "seller_username": "fiya_gil",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 5
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 168091205,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 168091205,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 360437170,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-urgent-essay-writing-tok-ia-ib-hl-sl-extended-exhibition-history",
+      "title": "do urgent essay writing, tok, ia, ib, hl, sl, extended, exhibition, history",
+      "seller_name": "fiya_gil",
+      "seller_id": 168091205,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9da323f0234d830cd4ab76d7d8cae4e1-1680912051706778912433/JPEG_20240201_141510_4096805079517791579.jpg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/360437170/original/df5bcb9d10667b8ad3b83cf4a46fb9dc608dea11.png",
+          "type": "ImageAsset",
+          "id": "360437170_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/fiya_gil",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/fiya_gil/do-urgent-essay-writing-tok-ia-ib-hl-sl-extended-exhibition-history",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 359783875,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-authentic-voice-over-jamaican-through-modeling",
+      "title": "do authentic voice over jamaican through modeling",
+      "seller_name": "fiya_gil",
+      "seller_id": 168091205,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9da323f0234d830cd4ab76d7d8cae4e1-1680912051706778912433/JPEG_20240201_141510_4096805079517791579.jpg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/359783875/original/cc133ef9cf8de885bed3511f066ded5c9ab5db66.jpg",
+          "type": "ImageAsset",
+          "id": "359783875_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/fiya_gil",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/fiya_gil/do-authentic-voice-over-jamaican-through-modeling",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 360599745,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "assist-in-math-college-algebra-discrete-math-financial-math-business-calculus",
+      "title": "assist in math,college algebra,discrete math,financial math,business calculus",
+      "seller_name": "fiya_gil",
+      "seller_id": 168091205,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9da323f0234d830cd4ab76d7d8cae4e1-1680912051706778912433/JPEG_20240201_141510_4096805079517791579.jpg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/360599745/original/33c03de7b7b96c70ac1906f713b22682a71a382a.jpeg",
+          "type": "ImageAsset",
+          "id": "360599745_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/fiya_gil",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/fiya_gil/assist-in-math-college-algebra-discrete-math-financial-math-business-calculus",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

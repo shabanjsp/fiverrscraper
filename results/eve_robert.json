@@ -1,0 +1,884 @@
+{
+  "seller": {
+    "user": {
+      "id": "155090411",
+      "name": "eve_robert",
+      "isActivationCompleted": true,
+      "joinedAt": 1688500002,
+      "profile": {
+        "displayName": "Eve Dwriter"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ead39b6b0cee515c1297f305f9fd5d63-1688500464749/cf610bc6-9408-4210-91d4-884d1d3aadd6.jpeg"
+    },
+    "approvedGigsCount": 7,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "325949544"
+        },
+        {
+          "id": "326053198"
+        },
+        {
+          "id": "326145626"
+        },
+        {
+          "id": "327188197"
+        },
+        {
+          "id": "330610544"
+        },
+        {
+          "id": "330638888"
+        },
+        {
+          "id": "344270100"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello dear buyer, I am Eve the ghostwriter. Am here to help you with your ebook, online course, self help book, digital course, and non fiction ebook writing.\n\nI have been writing for many years now and I have worked with many clients in different fields such as health, business and marketing. I will be happy to help you with your project.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6440565f07789005c7d",
+        "name": "Course content writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Course content writer"
+      },
+      {
+        "id": "617fa63c0565f07789005a1f",
+        "name": "Book & eBook writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book & eBook writer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 107,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 112,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 114,
+        "nestedCategoryId": 2403
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 354,
+        "nestedCategoryId": 2240
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 430,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 436,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2632
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1696897126
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 13
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6562458e644f4e0001d8e3d3",
+          "comment": "Eve Robert is a superb ghostwriter who carefully customizes her work to fit each client's demands. She stands out for her expertise and meticulousness. Eve delivers interesting and captivating content with a steadfast commitment to quality, adapting easily to a variety of writing styles. She not only fulfills but beyond deadlines, which facilitates seamless and pleasurable teamwork. Eve Robert is the best option for anyone looking for a committed wordsmith who constantly delivers outstanding outcomes.",
+          "comment_language": "en",
+          "username": "b65434022",
+          "reviewer_country_code": "IT",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c4c6bc351db341a0abc66673cebf0609-1700062983682/3bd63f70-391c-4424-8ac9-0f71bd6f0434.JPG",
+          "created_at": "2023-11-25T19:09:36",
+          "value": 5,
+          "reviewer_country": "Italy",
+          "encrypted_order_id": "FO15E7574501",
+          "score": 0.65716934,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 326053198,
+          "gig_slug": "build-kajabi-website-online-course-website-thinkific-website-teachable-podia",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2632,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 35,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "656245c3644f4e0001d8e402",
+          "comment": "I'm amazed by Eve Robert's exceptional work. As a dedicated ghostwriter, she exceeded my expectations, adding a brilliant touch to the project. Eve's ability to transform ideas into captivating prose is commendable. Collaborating with her was a delight, resulting in an extraordinary outcome. For a ghostwriter who surpasses expectations, choose Eve Robert.",
+          "comment_language": "en",
+          "username": "b65434022",
+          "reviewer_country_code": "IT",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c4c6bc351db341a0abc66673cebf0609-1700062983682/3bd63f70-391c-4424-8ac9-0f71bd6f0434.JPG",
+          "created_at": "2023-11-25T19:12:38",
+          "value": 5,
+          "reviewer_country": "Italy",
+          "encrypted_order_id": "FO7179D538581",
+          "score": 0.6397944,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 330638888,
+          "gig_slug": "be-book-writer-christian-ebook-writer-ghostwriter-ebook-writing-and-sermon",
+          "gig_category": 5,
+          "gig_sub_category": 114,
+          "gig_nested_sub_category": 2403,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 35,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a4bcfdbe67470001ed4899",
+          "comment": "She was very knowledgeable in her work. She gave feedback and suggestions which was a plus for me because it showed that she was interested in what I wanted and that she wanted to deliver what was needed to thoroughly complete this project. I was very pleased and I will use her again.",
+          "comment_language": "en",
+          "username": "cpen2020",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/12b2a74b4e4d754f41dcc3cad1313b8e-1705295530609/da98f8e6-f86b-4051-97f8-906b02b3f000.png",
+          "created_at": "2024-01-15T06:40:58",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO61DBE0EC784",
+          "score": 0.41255105,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 330638888,
+          "gig_slug": "be-book-writer-christian-ebook-writer-ghostwriter-ebook-writing-and-sermon",
+          "gig_category": 5,
+          "gig_sub_category": 114,
+          "gig_nested_sub_category": 2403,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65907621d628ec000186accb",
+          "comment": "The Seller did a great work I will still use her again",
+          "comment_language": "en",
+          "username": "may_mia",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1f50416188597f4caa43e5c0591046fc-1687350382718/139cdabe-32af-4f53-ba15-1483b96eb1d0.jpg",
+          "created_at": "2023-12-31T00:34:42",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO823B5C219C4",
+          "score": 0,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 330638888,
+          "gig_slug": "be-book-writer-christian-ebook-writer-ghostwriter-ebook-writing-and-sermon",
+          "gig_category": 5,
+          "gig_sub_category": 114,
+          "gig_nested_sub_category": 2403,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 55,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65776738152f1b00012f0fe3",
+          "comment": "Thanks 🙏🏽 again for the quick response on this excellent job well done! ",
+          "comment_language": "en",
+          "username": "onob35",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c331e88f85e953544503fefcb9ee9a77-1590781868576/1ff9587c-2dcf-4113-aee4-de240aed9a84.jpeg",
+          "created_at": "2023-12-11T19:52:06",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41DA9CD5986",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 330638888,
+          "gig_slug": "be-book-writer-christian-ebook-writer-ghostwriter-ebook-writing-and-sermon",
+          "gig_category": 5,
+          "gig_sub_category": 114,
+          "gig_nested_sub_category": 2403,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 22,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 13,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 7
+      },
+      "user_id": 155090411,
+      "seller_username": "eve_robert",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 13
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 155090411,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 155090411,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 330638888,
+      "category_id": 5,
+      "sub_category_id": 114,
+      "nested_sub_category_id": 2403,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-book-writer-christian-ebook-writer-ghostwriter-ebook-writing-and-sermon",
+      "title": "be your book ebook writer, christian ebook writer, ebook online course creator",
+      "seller_name": "eve_robert",
+      "seller_id": 155090411,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ead39b6b0cee515c1297f305f9fd5d63-1688500464749/cf610bc6-9408-4210-91d4-884d1d3aadd6.jpeg",
+      "seller_display_name": "Eve Dwriter",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/330638888/original/605049c3d584eb869616727ff1a2e43e4ce2a2e5.png",
+          "type": "ImageAsset",
+          "id": "330638888_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/330638888/original/c69b45c6c6f0dcb4282d67d924eb5dd18efbe894.png",
+          "type": "ImageAsset",
+          "id": "330638888_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "651b4f6ea02dc90001f285d4",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "german"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 11,
+      "buying_review_rating": 5,
+      "seller_url": "/eve_robert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 13,
+        "score": 5
+      },
+      "gig_url": "/eve_robert/be-book-writer-christian-ebook-writer-ghostwriter-ebook-writing-and-sermon",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 326053198,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2632,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-kajabi-website-online-course-website-thinkific-website-teachable-podia",
+      "title": "build kajabi website, online course website, thinkific website, teachable, podia",
+      "seller_name": "eve_robert",
+      "seller_id": 155090411,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ead39b6b0cee515c1297f305f9fd5d63-1688500464749/cf610bc6-9408-4210-91d4-884d1d3aadd6.jpeg",
+      "seller_display_name": "Eve Dwriter",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/326053198/original/210801254e303d3adbc473cb220c74aad088d999.png",
+          "type": "ImageAsset",
+          "id": "326053198_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/326053198/original/5af71f6190b9fe598e9d2fc76de759c4e4554c47.png",
+          "type": "ImageAsset",
+          "id": "326053198_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "651b4fea6f7899000187ec97",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "shipping",
+            "video",
+            "form",
+            "membership"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/eve_robert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 13,
+        "score": 5
+      },
+      "gig_url": "/eve_robert/build-kajabi-website-online-course-website-thinkific-website-teachable-podia",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 344270100,
+      "category_id": 5,
+      "sub_category_id": 107,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-creative-writing-storytelling-comedy-script-youtube-script-funny-memes",
+      "title": "do creative writing, storytelling, comedy script, youtube script, funny memes",
+      "seller_name": "eve_robert",
+      "seller_id": 155090411,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ead39b6b0cee515c1297f305f9fd5d63-1688500464749/cf610bc6-9408-4210-91d4-884d1d3aadd6.jpeg",
+      "seller_display_name": "Eve Dwriter",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/344270100/original/f35630fdc34a53407a8f77664bce3c34d8d9dab8.png",
+          "type": "ImageAsset",
+          "id": "344270100_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/344270100/original/45d5c10ee30aa7aac286f9549478545ccbc0555f.png",
+          "type": "ImageAsset",
+          "id": "344270100_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "654947eee20f4e0001e3cce2",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/eve_robert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 13,
+        "score": 5
+      },
+      "gig_url": "/eve_robert/do-creative-writing-storytelling-comedy-script-youtube-script-funny-memes",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 325949544,
+      "category_id": 5,
+      "sub_category_id": 430,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "ghostwrite-an-engaging-motivational-speech-poem-writing-ebook-online-course",
+      "title": "ghostwrite an engaging motivational speech, poem writing, ebook online course",
+      "seller_name": "eve_robert",
+      "seller_id": 155090411,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ead39b6b0cee515c1297f305f9fd5d63-1688500464749/cf610bc6-9408-4210-91d4-884d1d3aadd6.jpeg",
+      "seller_display_name": "Eve Dwriter",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/325949544/original/0d7a2787c7c4245890e6b5e38df959e4356c6d33.png",
+          "type": "ImageAsset",
+          "id": "325949544_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/325949544/original/b4aff51e538ecc1c1fa866e47191cb3389ecedc3.png",
+          "type": "ImageAsset",
+          "id": "325949544_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "651b5048dbbba30001976897",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "business",
+            "religion_spirituality",
+            "self_help_wellness"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/eve_robert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 13,
+        "score": 5
+      },
+      "gig_url": "/eve_robert/ghostwrite-an-engaging-motivational-speech-poem-writing-ebook-online-course",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 326145626,
+      "category_id": 5,
+      "sub_category_id": 112,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "bet-your-beta-reader-alpha-reader-sensitivity-reader-book-reading",
+      "title": "write employee handbook,job application,resume writing,HR policy,job description",
+      "seller_name": "eve_robert",
+      "seller_id": 155090411,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ead39b6b0cee515c1297f305f9fd5d63-1688500464749/cf610bc6-9408-4210-91d4-884d1d3aadd6.jpeg",
+      "seller_display_name": "Eve Dwriter",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/326145626/original/2c788d659f8d86c0486f511de3c2595f90be0487.png",
+          "type": "ImageAsset",
+          "id": "326145626_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/326145626/original/b4e774f1219463c34ce397a4830ba94951155c5b.png",
+          "type": "ImageAsset",
+          "id": "326145626_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "business",
+            "financial_services_banking",
+            "real_estate"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/eve_robert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 13,
+        "score": 5
+      },
+      "gig_url": "/eve_robert/bet-your-beta-reader-alpha-reader-sensitivity-reader-book-reading",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 327188197,
+      "category_id": 5,
+      "sub_category_id": 436,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-masterclass-online-course-content-course-outlines-lesson-plan",
+      "title": "create masterclass online course content, ebook online course, lesson plans",
+      "seller_name": "eve_robert",
+      "seller_id": 155090411,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ead39b6b0cee515c1297f305f9fd5d63-1688500464749/cf610bc6-9408-4210-91d4-884d1d3aadd6.jpeg",
+      "seller_display_name": "Eve Dwriter",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/327188197/original/4c9b5270840620cafba2b4a5cee79b4f48f69837.png",
+          "type": "ImageAsset",
+          "id": "327188197_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/327188197/original/0c8a3c002349e153378a87ecaaa279bdb3351e86.png",
+          "type": "ImageAsset",
+          "id": "327188197_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "651b50ae57f4d4000117c9a4",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "course_level",
+          "value": [
+            "all_levels"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "german"
+          ]
+        },
+        {
+          "type": "course_subject",
+          "value": [
+            "education"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/eve_robert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 13,
+        "score": 5
+      },
+      "gig_url": "/eve_robert/create-masterclass-online-course-content-course-outlines-lesson-plan",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 330610544,
+      "category_id": 5,
+      "sub_category_id": 354,
+      "nested_sub_category_id": 2240,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-cannabis-ebook-ghostwriter-cbd-marijauna-mental-health-ebook-writer",
+      "title": "be your cannabis ebook ghostwriter, cbd, marijauna, mental health ebook writer",
+      "seller_name": "eve_robert",
+      "seller_id": 155090411,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ead39b6b0cee515c1297f305f9fd5d63-1688500464749/cf610bc6-9408-4210-91d4-884d1d3aadd6.jpeg",
+      "seller_display_name": "Eve Dwriter",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/330610544/original/3a9404be0e0e2e02278ccf4eb20e246f73b6da6f.png",
+          "type": "ImageAsset",
+          "id": "330610544_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/330610544/original/11bd0dad185deedcc059ca07cab1421a19b8061a.png",
+          "type": "ImageAsset",
+          "id": "330610544_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "651b5083dbbba300019769e4",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "business_management",
+            "cookbooks_recipes",
+            "self_help_wellness",
+            "health_fitness"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "book_type",
+          "value": [
+            "non_fiction"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/eve_robert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 13,
+        "score": 5
+      },
+      "gig_url": "/eve_robert/be-your-cannabis-ebook-ghostwriter-cbd-marijauna-mental-health-ebook-writer",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

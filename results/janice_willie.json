@@ -1,0 +1,557 @@
+{
+  "seller": {
+    "user": {
+      "id": "164835448",
+      "name": "janice_willie",
+      "isActivationCompleted": true,
+      "joinedAt": 1701317629,
+      "profile": {
+        "displayName": "Janice W"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/e3bbb35e0e049cf819681de0479435c9-1701317776609/8cab4b3c-d9e7-4dea-99fb-48fdb55c084c.png"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": false,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I'm Janice Willie a professional Shopify and social media specialist, boasts many years of experience in crafting engaging digital experiences. My expertise lies in optimizing e-commerce platforms, driving sales, and cultivating online brands presence across diverse social channels. With a track record of innovative strategies, I have spearheaded impactful campaigns, elevating brands to great new heights.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6710565f0778900696f",
+        "name": "Shopify marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify marketing expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa6450565f07789005cb2",
+        "name": "Crowdfunding marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Crowdfunding marketer"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      },
+      {
+        "id": "61a4d8b4758d756a25307be9",
+        "name": "Shopify SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify SEO expert"
+      },
+      {
+        "id": "617fa6710565f07789006970",
+        "name": "Shopify product listing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify product listing expert"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e72",
+        "name": "Email",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f72",
+        "name": "Facebook ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook ads expert"
+      },
+      {
+        "id": "617fa6710565f0778900696d",
+        "name": "Shopify dropshipping",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify dropshipping expert"
+      },
+      {
+        "id": "617fa65b0565f0778900633b",
+        "name": "Instagram ads management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram ads manager"
+      },
+      {
+        "id": "617fa65b0565f0778900633a",
+        "name": "Instagram",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram expert"
+      },
+      {
+        "id": "617fa65b0565f07789006344",
+        "name": "Instagram management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram manager"
+      },
+      {
+        "id": "617fa6720565f077890069c8",
+        "name": "Social media management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media manager"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media marketer"
+      },
+      {
+        "id": "617fa6720565f077890069bb",
+        "name": "Social media analytics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media analyst"
+      },
+      {
+        "id": "617fa6720565f077890069be",
+        "name": "Social media branding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media branding expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f71",
+        "name": "Facebook",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f7e",
+        "name": "Facebook management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook manager"
+      },
+      {
+        "id": "617fa6760565f07789006af6",
+        "name": "TikTok",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "TikTok expert"
+      },
+      {
+        "id": "617fa6760565f07789006afa",
+        "name": "TikTok marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "TikTok marketer"
+      },
+      {
+        "id": "617fa6760565f07789006af9",
+        "name": "TikTok management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "TikTok manager"
+      },
+      {
+        "id": "617fa6760565f07789006af8",
+        "name": "TikTok ads management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "TikTok ads manager"
+      },
+      {
+        "id": "617fa6760565f07789006af7",
+        "name": "TikTok ads creation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "TikTok ads creator"
+      },
+      {
+        "id": "617fa64f0565f07789005f82",
+        "name": "Facebook shop",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook shop expert"
+      },
+      {
+        "id": "617fa6720565f077890069c7",
+        "name": "Social media kit",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media kit expert"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65988c8eb9db720001c7586e",
+          "title": "Social Media Marketing",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65988c8eb9db720001c7586f",
+                "attachment": {
+                  "metadata": {
+                    "height": 531,
+                    "width": 1080
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d518fb67d18f05cbc93356c049ec61a7-1704496219872/WhatsApp%20Image%202024-01-02%20at%2023.44.10.jpeg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65988de3b9db720001c758db",
+          "title": "Tiktok Marketing and promotion",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65988de3b9db720001c758dc",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 724
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/0f4dd014dc5e8c0c3a85cdd3b83f3ab9-1704496457425/WhatsApp%20Image%202024-01-03%20at%2000.00.46%20(1).jpeg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65988e7284188a00016b552f",
+          "title": "Google ads",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "65988e7284188a00016b5530",
+                "attachment": {
+                  "metadata": {
+                    "height": 1074,
+                    "width": 1080
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3741da885dc91b857427c5f996b4c559-1704496735176/WhatsApp%20Image%202024-01-02%20at%2023.53.23.jpeg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6598907584188a00016b55ac",
+          "title": "Facebook Marketing",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "6598907584188a00016b55ad",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 438
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/ed57e44452d77d940f58a9b108b9086f-1704496980222/WhatsApp%20Image%202024-01-02%20at%2015.09.16.jpeg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1701608379
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 8
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "659ecce8ff3ff6318e0e8133",
+          "comment": "Working with this seller was superb from the start. She has great and exceptional skills which she dedicated to my project success. After taking the risk of following the plan she recommended I noticed I had followed the right path. She was able to drive organic traffics which literally leads to gross sales on my store. I deeply appreciate her commitment to my store and I'm happily and confidently recommending that her skills are highly superb.",
+          "comment_language": "en",
+          "username": "manfredwagner01",
+          "reviewer_country_code": "DE",
+          "created_at": "2024-01-10T17:00",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO71DD719F103",
+          "score": 0.8587832,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 353839452,
+          "gig_slug": "be-your-personal-social-media-manager-advertising-meta-ad-facebook-management",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2063,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 16,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6593808c113473000134e953",
+          "comment": "Awesome! The seller is such an expert and a skillful social media manager. Like I've said, working with her do always based on plan, and a perfect one to be precise. I'm happy to get to the next plan of her approached strategy. She has really been of great help to me and I've decided to choose her over and over again. Her professionalism is highly recommended!",
+          "comment_language": "en",
+          "username": "james_martin011",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-02T03:19:16",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/5ff0b8c0951148ab0ca8c395d9fa64d6-1704100359/IMG-20231201-WA0001.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/5ff0b8c0951148ab0ca8c395d9fa64d6-1704100359/IMG-20231201-WA0001.jpg",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO723BA7861C5",
+          "score": 0.8468511,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 353839452,
+          "gig_slug": "be-your-personal-social-media-manager-advertising-meta-ad-facebook-management",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2063,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 69,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "658fbe71d628ec0001863f30",
+          "comment": "Working with janice_willie as gave me more experience in planning this, she works with plan and a reasonable and profitable one to be precise. She is great and has good communication skills. I like everything about her and I'm happy I chose her at first sight to work for me. I like her commitment to my job and would like to recommend her professionalism to you as well. Trust me she is really great and excellent to work with.",
+          "comment_language": "en",
+          "username": "james_martin011",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-12-30T07:24:33",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/7e0783dcf6dbeb8575576f7764849cca-1703918392/IMG-20231208-WA0001.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/7e0783dcf6dbeb8575576f7764849cca-1703918392/IMG-20231208-WA0001.jpg",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO629AEE0F9C8",
+          "score": 0.80591416,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 353839452,
+          "gig_slug": "be-your-personal-social-media-manager-advertising-meta-ad-facebook-management",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2063,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 69,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65a0866bdc7ac2272f7ec836",
+          "comment": "Exceptional delivery as expected. The seller is well experienced in this field of expertise. I always commend her exceptional deliveries. The fact that I'm very happy I chose her at first sight has been what kept me stick to her and she was able to deliver what I expected. In recommendation, she is the right seller for your social media management.",
+          "comment_language": "en",
+          "username": "manfredwagner01",
+          "reviewer_country_code": "DE",
+          "created_at": "2024-01-12T00:25:30",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO723CEEC99C5",
+          "score": 0.7562841,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 353839452,
+          "gig_slug": "be-your-personal-social-media-manager-advertising-meta-ad-facebook-management",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2063,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 16,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658fbd04d628ec0001863e9b",
+          "comment": "Fantastic! Janice_willie's service is really exceptional as described. She meet up with her words and work exceptional to create and setup a facebook business page to grow my store's traffic and sales potential. I'm really impressed with her working tactics and would really chose her to work for me again. She is really amazing and reliable.",
+          "comment_language": "en",
+          "username": "james_martin011",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-12-30T07:25:40",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f73d0afa19d10ffb7a72342269dc5fc6-1703918224/20231107_191545.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f73d0afa19d10ffb7a72342269dc5fc6-1703918224/20231107_191545.jpg",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO511DD3B7BC1",
+          "score": 0.75479645,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 353839452,
+          "gig_slug": "be-your-personal-social-media-manager-advertising-meta-ad-facebook-management",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2063,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 69,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 8,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 3,
+        "business": 6
+      },
+      "user_id": 164835448,
+      "seller_username": "janice_willie",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 8
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 164835448,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 164835448,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

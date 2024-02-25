@@ -1,0 +1,143 @@
+{
+  "seller": {
+    "user": {
+      "id": "168905224",
+      "name": "shaikha1020",
+      "isActivationCompleted": true,
+      "joinedAt": 1706281582,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 168905224,
+      "seller_username": "shaikha1020",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 168905224,
+      "reviews": [
+        {
+          "id": "65be3523b2f0e00001434eed",
+          "comment": "thanks🙏",
+          "comment_language": "unknown",
+          "username": "aswadali1",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6c4ebe92e2c61a89a8d03cb0fe22c93f-1704080415172/83b4da05-c125-4e32-8faa-bca47f6dc275.jpg",
+          "created_at": "2024-02-03T12:44:19",
+          "value": 5
+        },
+        {
+          "id": "65b3dac8756b9d000174fb4d",
+          "comment": "quality work ",
+          "comment_language": "unknown",
+          "username": "expert_samsaam",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8ef8702d6c5fb70c4e1fee50e3beb2a4-1705737839897/cd0e2fc7-ecaa-42c6-b3df-61f11d5a79cb.png",
+          "created_at": "2024-01-26T16:16:09",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 168905224,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": null,
+    "recent_utc_offset": 0
+  },
+  "gigsData": []
+}

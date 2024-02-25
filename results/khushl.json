@@ -1,0 +1,534 @@
+{
+  "seller": {
+    "user": {
+      "id": "166254630",
+      "name": "khushl",
+      "isActivationCompleted": true,
+      "joinedAt": 1703316113,
+      "profile": {
+        "displayName": "Khushi"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/5fdb9e1eafd3f68fcb6bb9c1239ecad1-1703424123127/6121164b-bea4-47a5-b591-eb0d2ede4246.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "356392377"
+        },
+        {
+          "id": "356644252"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Your satisfaction is our Priority ",
+    "description": "I am a professional and passionate teacher looking to extend my expertise here. I have 6 years of proven professional experience in education industry, where I worked in various high schools and colleges. I have my own way of tutoring which is very easy, flexible and highly engaging.\r\nCONTACT for more details.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Best Teacher ",
+        "certificationName": "Medalist ",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "mathematicscomputer science",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "University of Karachi",
+        "degreeTitle": "PHD"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6640565f07789006598",
+        "name": "Math tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Math tutor"
+      },
+      {
+        "id": "617fa6640565f07789006597",
+        "name": "Math algebra",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Math algebra expert"
+      },
+      {
+        "id": "617fa6480565f07789005daa",
+        "name": "Discrete math tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Discrete math tutor"
+      },
+      {
+        "id": "617fa63b0565f077890059b5",
+        "name": "Basic math tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Basic math tutor"
+      },
+      {
+        "id": "617fa6500565f07789005ff9",
+        "name": "Finite math tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Finite math tutor"
+      },
+      {
+        "id": "617fa63f0565f07789005ac2",
+        "name": "Calculus tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Calculus tutor"
+      },
+      {
+        "id": "617fa66b0565f077890067d5",
+        "name": "Pre-calculus tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Pre-calculus tutor"
+      },
+      {
+        "id": "617fa63f0565f07789005ac0",
+        "name": "Calculus AB tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Calculus AB tutor"
+      },
+      {
+        "id": "617fa63f0565f07789005ac1",
+        "name": "Calculus BC tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Calculus BC tutor"
+      },
+      {
+        "id": "617fa6660565f0778900662d",
+        "name": "Multivariable calculus tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Multivariable calculus tutor"
+      },
+      {
+        "id": "617fa66b0565f077890067d4",
+        "name": "Pre-algebra tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Pre-algebra tutor"
+      },
+      {
+        "id": "617fa6610565f077890064fc",
+        "name": "Linear algebra tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Linear algebra tutor"
+      },
+      {
+        "id": "617fa6640565f0778900659c",
+        "name": "Matrix algebra tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Matrix algebra tutor"
+      },
+      {
+        "id": "617fa6780565f07789006b86",
+        "name": "Vector algebra tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Vector algebra tutor"
+      },
+      {
+        "id": "617fa6360565f07789005832",
+        "name": "Algebra basics tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Algebra basics tutor"
+      },
+      {
+        "id": "617fa6360565f07789005833",
+        "name": "Algebra I tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Algebra I tutor"
+      },
+      {
+        "id": "617fa6360565f07789005834",
+        "name": "Algebra II tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Algebra II tutor"
+      },
+      {
+        "id": "617fa6740565f07789006a3e",
+        "name": "Statistics tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Statistics tutor"
+      },
+      {
+        "id": "617fa65c0565f0778900635f",
+        "name": "Intermediate statistics tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Intermediate statistics tutor"
+      },
+      {
+        "id": "617fa6380565f077890058ab",
+        "name": "AP Statistics tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AP Statistics tutor"
+      },
+      {
+        "id": "617fa64e0565f07789005f48",
+        "name": "Excel spreadsheet",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Excel spreadsheet expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 7,
+        "subCategoryId": 77,
+        "nestedCategoryId": 2430
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 3
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "659ec2622ffdc500015da5a1",
+          "comment": "Excellent work. Great quality with the quick delivery as well. Would highly recommend.",
+          "comment_language": "en",
+          "username": "jonthan_fola1",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b2e9249ea7112ae945906b4e906cf802-1698835014410/16f7d029-f8ca-4237-9361-381d76941958.jpeg",
+          "created_at": "2024-01-10T16:14:48",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3BF1F6C441",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 356644252,
+          "gig_slug": "help-you-in-math-statistics-algebra-trigonometry-calculus-chemistry-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 484,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "659423aa6fc708262bc6c1f8",
+          "comment": "Seller was very professional and followed all my requirements. I'll definitely be working with this seller.",
+          "comment_language": "en",
+          "username": "racheljackson2",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-02T14:58:32",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2BEAFA2E42",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 356644252,
+          "gig_slug": "help-you-in-math-statistics-algebra-trigonometry-calculus-chemistry-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 86,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65911900d628ec000186f081",
+          "comment": "Very trustful contact, super friendly, always responds quickly and does the work in the time that we agreed on! Totally recommend",
+          "comment_language": "en",
+          "username": "samuelvelazqu",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-31T09:22:56",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82FA6771F08",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 356644252,
+          "gig_slug": "help-you-in-math-statistics-algebra-trigonometry-calculus-chemistry-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 54,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 3,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 166254630,
+      "seller_username": "khushl",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 3
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 166254630,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 166254630,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 356644252,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2430,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "help-you-in-math-statistics-algebra-trigonometry-calculus-chemistry-assignments",
+      "title": "help you in math statistics algebra trigonometry calculus chemistry assignments",
+      "seller_name": "khushl",
+      "seller_id": 166254630,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5fdb9e1eafd3f68fcb6bb9c1239ecad1-1703424123127/6121164b-bea4-47a5-b591-eb0d2ede4246.jpg",
+      "seller_display_name": "Khushi",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/356644252/original/1064cec41ebf21e6de3c9c57eb20c6826788ef21.png",
+          "type": "ImageAsset",
+          "id": "356644252_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "discrete_math",
+            "pre_calculus",
+            "statistics"
+          ]
+        },
+        {
+          "type": "grade_level",
+          "value": [
+            "graduate"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/khushl",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/khushl/help-you-in-math-statistics-algebra-trigonometry-calculus-chemistry-assignments",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 356392377,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2430,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "help-you-maths-statistics-calculus-mathematics-algebra-and-trigonometry",
+      "title": "help you maths statistics calculus mathematics algebra and trigonometry",
+      "seller_name": "khushl",
+      "seller_id": 166254630,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5fdb9e1eafd3f68fcb6bb9c1239ecad1-1703424123127/6121164b-bea4-47a5-b591-eb0d2ede4246.jpg",
+      "seller_display_name": "Khushi",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/356392377/original/a4a47120cd39e0a1aa22406e08467c465876188c.jpg",
+          "type": "ImageAsset",
+          "id": "356392377_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "differential_equations",
+            "statistics",
+            "trigonometry"
+          ]
+        },
+        {
+          "type": "grade_level",
+          "value": [
+            "graduate"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/khushl",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/khushl/help-you-maths-statistics-calculus-mathematics-algebra-and-trigonometry",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

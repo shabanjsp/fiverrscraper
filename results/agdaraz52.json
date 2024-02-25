@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "158234879",
+      "name": "agdaraz52",
+      "isActivationCompleted": true,
+      "joinedAt": 1692364026,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 158234879,
+      "seller_username": "agdaraz52",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 158234879,
+      "reviews": [
+        {
+          "id": "65bcef9c704fed00015ac4f4",
+          "comment": "great experience\n",
+          "comment_language": "en",
+          "username": "byndsol",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9fa73cfe75fc397cb6bea3f784cbf88c-1703693645957/e060e8b8-58a3-4293-88ea-4b8d77051307.jpeg",
+          "created_at": "2024-02-02T13:35:24",
+          "value": 5
+        },
+        {
+          "id": "65ba09e2f760630001eb4bc0",
+          "comment": "thanks.",
+          "comment_language": "unknown",
+          "username": "alinargis",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1def1c1ecb0ca99654067e3a749d67b3-1704391538741/2c620708-fff0-40b6-ad2a-7ea1137a351e.jpg",
+          "created_at": "2024-01-31T08:50:42",
+          "value": 5
+        },
+        {
+          "id": "65ba0917f760630001eb4b5c",
+          "comment": "thanks ",
+          "comment_language": "unknown",
+          "username": "sanaullah136",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e471f4570cdf1d72ddd82bbc52fd4042-1700387075286/4dd192b6-96d3-4e85-92a3-cde4d06afc4a.jpeg",
+          "created_at": "2024-01-31T08:47:19",
+          "value": 5
+        },
+        {
+          "id": "65b8d6aff760630001ea924f",
+          "comment": "Thanks for buying my services and trusting on me. \nYou are such a nice man Agdaraz. \nGREAT EXPERIENCE WITH HIM!!",
+          "comment_language": "en",
+          "username": "im_imtaiz",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6fc51f9eac74be02f11b212a6dc30e03-1705217440454/25271b39-3a2a-4199-968f-24cf0c60197c.jpeg",
+          "created_at": "2024-01-30T10:59:59",
+          "value": 5
+        },
+        {
+          "id": "65b8d3cef760630001ea90b8",
+          "comment": "outstanding experience ",
+          "comment_language": "en",
+          "username": "nftnitro",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/395caa2eb28472afb447a3a7ddee3865-1632878963272/83270bc7-1ad4-40a9-9933-b0d9f86d51b8.png",
+          "created_at": "2024-01-30T10:47:42",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 158234879,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": []
+}

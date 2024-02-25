@@ -1,0 +1,153 @@
+{
+  "seller": {
+    "user": {
+      "id": "169782291",
+      "name": "gabriel_guarda",
+      "isActivationCompleted": true,
+      "joinedAt": 1707326439,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 169782291,
+      "seller_username": "gabriel_guarda",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 169782291,
+      "reviews": [
+        {
+          "id": "65c66f951618550001e1b2db",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "aliraza_shafee",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/186fc51132b07022b66f04d4d39e47ea-1706166691275/5c61243b-17ad-4db2-a5fc-9566920ca6cf.jpg",
+          "created_at": "2024-02-09T18:31:50",
+          "value": 5
+        },
+        {
+          "id": "65c65ad21618550001e1a213",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "minaalhamed",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/07bac4b706c1d45eb34c9ebb2cc60b04-1683280751707324650607/JPEG_20240207_215049_9018910910145672614.jpg",
+          "created_at": "2024-02-09T17:03:14",
+          "value": 5
+        },
+        {
+          "id": "65c65a941618550001e1a1db",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "minaalhamed",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/07bac4b706c1d45eb34c9ebb2cc60b04-1683280751707324650607/JPEG_20240207_215049_9018910910145672614.jpg",
+          "created_at": "2024-02-09T17:02:12",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 169782291,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

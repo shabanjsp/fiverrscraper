@@ -1,0 +1,478 @@
+{
+  "seller": {
+    "user": {
+      "id": "150425393",
+      "name": "zain_ahmad78",
+      "isActivationCompleted": true,
+      "joinedAt": 1682890328,
+      "profile": {
+        "displayName": "Zain Ahmad"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/e29e4898cf966a4662a06178421796b9-1683392648276/6cea764d-65f1-4533-bbd1-7b4de1ee8c05.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "314800964"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Every challenge presents an opportunity for personal development!",
+    "description": "Hi, My Name is Zain Ahmad. I have more than 5 years of experience in influencer marketing. I have worked with many clients and helped them find the right influencers from Instagram, YouTube, and TikTok. I deliver high-quality projects and exceptional service with every order. I believe in precise work and attention to detail. Please if you have any questions about my services feel free to contact me anytime. Thank you!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Digiskills",
+        "certificationName": "Digital Marketing",
+        "year": 2017
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2018,
+        "countryCode": "PK",
+        "school": "National University of Sciences and Technology (NUST)",
+        "degreeTitle": "MA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Social media marketer"
+      },
+      {
+        "id": "617fa6480565f07789005d8f",
+        "name": "Digital marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital marketer"
+      },
+      {
+        "id": "617fa65b0565f07789006315",
+        "name": "Influencer marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Influencer marketing expert"
+      },
+      {
+        "id": "617fa65b0565f07789006343",
+        "name": "Instagram influencer",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram influencer"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Customer service representative"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 212,
+        "nestedCategoryId": 2110
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64562c59ac204f0001885d9b",
+          "title": "Fashion Instagram Influencers ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64562c59ac204f0001885d9c",
+                "attachment": {
+                  "metadata": {
+                    "height": 694,
+                    "width": 1237
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/bea02c4bb6681ee3406cd448dbb854c6-1683369039761/find%20best%20influencer%20list%20for%20instagram%20tiktok%20youtube%20influencer%20marketing.PNG"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64562d32a9e2c00001ad41e8",
+          "title": "Beauty TikTok Influencers",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64562d32a9e2c00001ad41e9",
+                "attachment": {
+                  "metadata": {
+                    "height": 696,
+                    "width": 1238
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/0cf0d9720ba799273ef1f91e1087d960-1683369243625/find%20best%20influencer%20list%20for%20instagram%20tiktok%20youtube%20influencer%20marketing%20(2).PNG"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1684944046
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 215
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6578481b152f1b00012f81c1",
+          "comment": "Zain really impressed me when it came to finding influencers for my business. It did a great job matching me with influencers who talk about things similar to what I sell. The process was straightforward and Zain delivered more influencers than I initially paid for on Fiverr which was a nice surprise. I was pleasantly surprised by the quality and relevance of the influencers recommended by Zain. Zain provided some useful email templates for efficient communication, an influencer marketing guide, collaboration ideas and do's and don'ts guidelines. Overall, Zain is a great choice if you want to find influencers in your niche. I will definitely use his service again and recommend him to others!",
+          "comment_language": "en",
+          "username": "abbymerwin",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/de59cd7557426490c2e11c69f1d9b97c-1697395152506/73c3d563-400f-435f-8b94-01c6d1b409de.jpg",
+          "created_at": "2023-12-12T11:47:16",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO717BCD43F81",
+          "score": 0.8651147,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 314800964,
+          "gig_slug": "find-best-influencer-list-for-instagram-tiktok-youtube-influencer-marketing",
+          "gig_category": 2,
+          "gig_sub_category": 212,
+          "gig_nested_sub_category": 2110,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 68,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6582ef0ce552bf4cf384ed84",
+          "comment": "Wow!! Such a top notch experience with Zain again! He is one of the best freelancers that I have worked with on Fiverr. This is the second time that I've worked with Zain. He consistently provided 5 star service! If I could give him TEN STARS, I definitely would! He was way faster at delivering than expected. I am completely satisfied and happy with the list of influencers. His communication was extremely good and he seemed to understand what I was looking for without much detailed direction from me. The project turned out greater than I could have ever expected. I will highly and strongly recommend him to anyone and I'll be sure to use his services again! Thank you so much Zain for continually assisting me in making my visions come to life!",
+          "comment_language": "en",
+          "username": "amandavalentin5",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-20T13:45:03",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1BE1876D43",
+          "score": 0.8314182,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 314800964,
+          "gig_slug": "find-best-influencer-list-for-instagram-tiktok-youtube-influencer-marketing",
+          "gig_category": 2,
+          "gig_sub_category": 212,
+          "gig_nested_sub_category": 2110,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 38,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6592a085e981f90001b470a8",
+          "comment": "Zain is a great seller and I'm thrilled with the results! I needed help finding influencers for my niche and Zain gave me way more than I signed up for. Zain really cares about his clients. He took the time to understand my brand and what I was looking for. The influencers he found were spot on and showed that he really gets what my customers like. He communicated well, making sure I was happy with the choices and that everything matched what I wanted. The quality of the influencers he recommended reflected a deep understanding of my target audience and brand values. I'm super thankful for his hard work and I'm excited to work with him again in the future. I highly recommend him!",
+          "comment_language": "en",
+          "username": "maverickanthony",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b6a5564bdb8e83945837d9386b82bb4d-1705792675451/d1fde32e-844f-4ffa-9b23-079d7e9865b5.jpg",
+          "created_at": "2024-01-01T11:24:05",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO829B6CE3246",
+          "score": 0.7582369,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 314800964,
+          "gig_slug": "find-best-influencer-list-for-instagram-tiktok-youtube-influencer-marketing",
+          "gig_category": 2,
+          "gig_sub_category": 212,
+          "gig_nested_sub_category": 2110,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6567c6129246fb00018cc80c",
+          "comment": "Zain asked me many questions to try to find the best contacts for me. I really appreciated that he put this much effort.\n\nI also liked that he gave me several documents explaining how to approach influencers and how to collaborate.",
+          "comment_language": "en",
+          "username": "perscorp",
+          "reviewer_country_code": "PE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/1295892/original/pers-logo-black.png",
+          "created_at": "2023-11-29T23:15:52",
+          "value": 5,
+          "reviewer_country": "Peru",
+          "encrypted_order_id": "FO729663E1E47",
+          "score": 0.7576276,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 314800964,
+          "gig_slug": "find-best-influencer-list-for-instagram-tiktok-youtube-influencer-marketing",
+          "gig_category": 2,
+          "gig_sub_category": 212,
+          "gig_nested_sub_category": 2110,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 61,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a0424e2ffdc500015ecdcc",
+          "comment": "Outstanding experience with this seller! Zain was awesome for finding the best influencers on Instagram to talk about my brand. He can search for influencers based on who you want to reach and what your brand is about. Zain's proficiency in identifying influencers who align perfectly with my brand was truly impressive. Zain's dedication to client satisfaction was evident in the final results. He demonstrated a deep understanding of my target audience and marketing goals. The attention to detail and strategic approach showcased Zain's commitment to delivering results. I would highly recommend Zain's services and look forward to future collaborations for continued brand success.",
+          "comment_language": "en",
+          "username": "emma__ava66",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/caf18c278138a0db0a7fa6adb04b53c5-1704056067007/459ceea5-3e29-4a09-b872-76931ee3852f.jpg",
+          "created_at": "2024-01-11T19:32:50",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO511EB4CD7C1",
+          "score": 0.7418606,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 314800964,
+          "gig_slug": "find-best-influencer-list-for-instagram-tiktok-youtube-influencer-marketing",
+          "gig_category": 2,
+          "gig_sub_category": 212,
+          "gig_nested_sub_category": 2110,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 215,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 11
+      },
+      "user_id": 150425393,
+      "seller_username": "zain_ahmad78",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.9,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 5
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 208
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 150425393,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 150425393,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 314800964,
+      "category_id": 2,
+      "sub_category_id": 212,
+      "nested_sub_category_id": 2110,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "find-best-influencer-list-for-instagram-tiktok-youtube-influencer-marketing",
+      "title": "find best instagram, youtube, tiktok influencers list for influencer marketing",
+      "seller_name": "zain_ahmad78",
+      "seller_id": 150425393,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e29e4898cf966a4662a06178421796b9-1683392648276/6cea764d-65f1-4533-bbd1-7b4de1ee8c05.png",
+      "seller_display_name": "Zain Ahmad",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/314800964/original/e6eeb8dd8e8a3c4cea9e497b128bfc56bbcca819.jpg",
+          "type": "ImageAsset",
+          "id": "314800964_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/314800964/original/fdbb48214cf3ed1badad31056c4b6621ea6efea2.png",
+          "type": "ImageAsset",
+          "id": "314800964_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/314800964/original/37420280c1e654983ea7f862ca9d55b7d9c26896.png",
+          "type": "ImageAsset",
+          "id": "314800964_3"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "target_audience",
+          "value": [
+            "beauty_fashion",
+            "sports_recreation_fitness"
+          ]
+        },
+        {
+          "type": "platform_type",
+          "value": [
+            "instagram"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 214,
+      "buying_review_rating": 4.9,
+      "seller_url": "/zain_ahmad78",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 215,
+        "score": 4.9496126
+      },
+      "gig_url": "/zain_ahmad78/find-best-influencer-list-for-instagram-tiktok-youtube-influencer-marketing",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "seller": {
+    "user": {
+      "id": "152069600",
+      "name": "mr_sufyan12",
+      "isActivationCompleted": true,
+      "joinedAt": 1684879160,
+      "profile": {
+        "displayName": "Sufyan Khattak"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/c426bffe7af43f797bd3f25111deb047-1684879550181/44b335e8-38cf-42a5-b4b1-770419a3dadc.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "318558646"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hi! \nThanks for visiting to my profile\nI am an experienced wordpress developer and designer having experience of more than 7+ years. I can build custom website for you from scratch. I can also help you to clone, revamp, redesign, customize, migrate your wordpress website.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Digitech",
+        "certificationName": "Best Php programmer",
+        "year": 2016
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computerengineering",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "University of Sindh Jamshoro",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa6590565f07789006290",
+        "name": "HTML",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc1",
+        "name": "CSS programming",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS programmer"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP developer"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2627
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 42
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65a44155be67470001ed0411",
+          "comment": "very quick response!",
+          "comment_language": "sr",
+          "username": "naveed_panhwar",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1f92ec503d0aee00480708cba8b04382-1502206201692546066708/JPEG_20230820_204105_5780744417332489877.jpg",
+          "created_at": "2024-01-14T20:17:42",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/cc10557456f40053ce0928011a7d41e1-1705263374/images%20%284%29%20%2819%29.jpeg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/cc10557456f40053ce0928011a7d41e1-1705263374/images%20%284%29%20%2819%29.jpeg",
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO823E026EDC4",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 318558646,
+          "gig_slug": "revamp-redesign-clone-customize-duplicate-and-migrate-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2627,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6579fb04f28d2d76f0d4d158",
+          "comment": "Excellent Work",
+          "comment_language": "unknown",
+          "username": "gradynix",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-14T04:33:55",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/56e19023eaa229549094d15b8f9e432d-1702300233/images%20%284%29%20%2818%29.jpeg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/56e19023eaa229549094d15b8f9e432d-1702300233/images%20%284%29%20%2818%29.jpeg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO7237C1D3DC5",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 318558646,
+          "gig_slug": "revamp-redesign-clone-customize-duplicate-and-migrate-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2627,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65721feddd06ee2ddce17e8d",
+          "comment": "Thankyou so much for awesome work done",
+          "comment_language": "en",
+          "username": "roshonmathews",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-08T05:18:50",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51D2AC41485",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 318558646,
+          "gig_slug": "revamp-redesign-clone-customize-duplicate-and-migrate-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2627,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 25,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "656f39bdb884bd0001a41b94",
+          "comment": "perfect solution and quick help",
+          "comment_language": "en",
+          "username": "reserver63",
+          "reviewer_country_code": "TR",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8e9d5a2ce5fa995e4c1bf0dccf5e0f67-1621586995607/a24d32bf-969f-4927-a79b-57ac63e1b599.jpg",
+          "created_at": "2023-12-05T14:55:31",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/b1e8aa130a997993d86dbde9c12b9fbe-1701781317/IMG-20231204-WA0003.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/b1e8aa130a997993d86dbde9c12b9fbe-1701781317/IMG-20231204-WA0003.jpg",
+          "reviewer_country": "Turkey",
+          "encrypted_order_id": "FO411C6B818C2",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 318558646,
+          "gig_slug": "revamp-redesign-clone-customize-duplicate-and-migrate-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2627,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "656de6336ca1610001905196",
+          "comment": "He has created perfect website . he is talented",
+          "comment_language": "en",
+          "username": "reserver63",
+          "reviewer_country_code": "TR",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8e9d5a2ce5fa995e4c1bf0dccf5e0f67-1621586995607/a24d32bf-969f-4927-a79b-57ac63e1b599.jpg",
+          "created_at": "2023-12-04T14:47:04",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/8ad56064ac346e62dd25be0be557d770-1701700284/IMG-20231204-WA0003.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/8ad56064ac346e62dd25be0be557d770-1701700284/IMG-20231204-WA0003.jpg",
+          "reviewer_country": "Turkey",
+          "encrypted_order_id": "FO111C40126C5",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 318558646,
+          "gig_slug": "revamp-redesign-clone-customize-duplicate-and-migrate-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2627,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 42,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 31,
+        "business": 0
+      },
+      "user_id": 152069600,
+      "seller_username": "mr_sufyan12",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 41
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 152069600,
+      "reviews": [
+        {
+          "id": "64b2574afb1ebb00019fc7d1",
+          "comment": "Thank you so much!",
+          "comment_language": "en",
+          "username": "mr_profexsional",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6d3b87b6dfc017c74d40dcc549aa18b9-1661322967982/1f6f711c-e389-435a-b99a-d4d72cd1b9a7.jpg",
+          "created_at": "2023-07-15T08:22:34",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 152069600,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 318558646,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2627,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "revamp-redesign-clone-customize-duplicate-and-migrate-wordpress-website",
+      "title": "redesign, clone, edit, update, rebuild, fix css or revamp wordpress website",
+      "seller_name": "mr_sufyan12",
+      "seller_id": 152069600,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c426bffe7af43f797bd3f25111deb047-1684879550181/44b335e8-38cf-42a5-b4b1-770419a3dadc.png",
+      "seller_display_name": "Sufyan Khattak",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/318558646/original/d89fec05c8908b62fc60e8deba8928f652961c12.png",
+          "type": "ImageAsset",
+          "id": "318558646_1"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "wordpress"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "landing_page",
+            "education",
+            "entertainment",
+            "wedding"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "python",
+            "php"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 42,
+      "buying_review_rating": 5,
+      "seller_url": "/mr_sufyan12",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 42,
+        "score": 4.9761906
+      },
+      "gig_url": "/mr_sufyan12/revamp-redesign-clone-customize-duplicate-and-migrate-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

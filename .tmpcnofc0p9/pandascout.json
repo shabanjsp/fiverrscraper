@@ -1,0 +1,942 @@
+{
+  "seller": {
+    "user": {
+      "id": "123471749",
+      "name": "pandascout",
+      "isActivationCompleted": true,
+      "joinedAt": 1647248782,
+      "profile": {
+        "displayName": "Panda S."
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/cff669d4e5f333cebd79225018f27a1b-1649965239076/038eff0c-c14a-4900-9de2-64767b2441e1.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "252312428"
+        },
+        {
+          "id": "257117108"
+        },
+        {
+          "id": "257126526"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Certified Website Designer and Developer",
+    "description": "Hello, this is Ala Uddin. I'm a certified Website developer and designer with 4+ years of experience. I've expertise in WebFlow, WordPress, and GoDaddy platforms. Also, WebFlow CMS integration and interaction and animation specialist. I have built many websites on different platforms with user-friendly interfaces and responsiveness on all devices. I have worked from simple to complex but stunning website designs. All your Website solutions are here. Don't look for further contact now for a free consultation.",
+    "isVerified": false,
+    "hasLoyaltyScores": true,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Complete Web Design: from Figma to Webflow to Freelancing",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Figma UI UX Design Essentials",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science and engineering",
+        "toYear": 2022,
+        "countryCode": "BD",
+        "school": "Royal University of Dhaka",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "diploma in computer engineering",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "brahmanbaria polytechnic institute",
+        "degreeTitle": "CERTIFICATE"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web designer"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "jQuery expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c6c",
+        "name": "Webflow",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Webflow expert"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bootstrap expert"
+      },
+      {
+        "id": "617fa6550565f07789006167",
+        "name": "Godaddy",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Godaddy expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cd3",
+        "name": "Wix",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wix expert"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO expert"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Social media marketer"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2613
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2614
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "654f113caeacfa0001f5b273",
+          "title": "SOSPRINT Website Design",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "654f113caeacfa0001f5b274",
+                "attachment": {
+                  "metadata": {
+                    "height": 2400,
+                    "width": 3200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/055ebbfcd3acae55c3e335a1fc9d53c3-1699680540487/Shot1.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "654f57eeaeacfa0001f5c558",
+          "title": "Modern Ecommerce Website Design",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "654f57eeaeacfa0001f5c55a",
+                "attachment": {
+                  "metadata": {
+                    "height": 2400,
+                    "width": 3200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/725864ef41fad34043c507c0a3861cc4-1699698633937/shot%201.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "654f5b2e88797200015284f1",
+          "title": "Modern Website Design & Develop",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "654f5b2e88797200015284f2",
+                "attachment": {
+                  "metadata": {
+                    "height": 2400,
+                    "width": 3200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/5554a4af774a37a9dae8c9856bc8d8c1-1699699476429/shot%201.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "654f6349aeacfa0001f5c90b",
+          "title": "Online Shop Design",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "654f6349aeacfa0001f5c90c",
+                "attachment": {
+                  "metadata": {
+                    "height": 2400,
+                    "width": 3200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/cd20a411d83e603b5e555d7e609a5a8b-1699701444344/shot%201.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "658001a1488bd700018d10ba",
+          "title": "AI Website Development",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "658001a1488bd700018d10bb",
+                "attachment": {
+                  "metadata": {
+                    "height": 552,
+                    "width": 736
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/a04f939719e4dcc7ef0d82ce7f2ef71d-1702887825840/pandascout-webflow-portfolio-Cover-page%20(1).png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 5
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1654498508
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 210
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65ae0513e7303e000182d9a7",
+          "comment": "I love Panda and the whole team, they are INCREDIBLE and I recommend them to the highest degree! I have another order with them open to finish in the next few days, then you can check out our website and see results!! Beautiful",
+          "comment_language": "en",
+          "username": "colinhartlieb",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/aa4c9f710780cb6ff98448e5d1857e1e-816711701598171061.186226/7E03BCB9-108C-450E-A6F4-837E6FD32B48",
+          "created_at": "2024-01-22T06:24:38",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/3c48fd9baf44af0abb07567b52bc1442-1703679382/screencapture-colinswolfpack-2023-12-27-18_16_08.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/3c48fd9baf44af0abb07567b52bc1442-1703679382/screencapture-colinswolfpack-2023-12-27-18_16_08.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO211C157DBC4",
+          "score": 0.7433543,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 257117108,
+          "gig_slug": "create-your-kajabi-online-course-and-kajabi-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 30,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6552389f163f3500012d536b",
+          "comment": "I reached out to PandaScout as I came across a challenge with our webflow website, and reached out to several other webflow developers on Fiverr, they couldn't help me. Panda S. accepted the challenge and helped me figured everything out in a super professional manner, the communication is super smooth, and I couldn't happier with the final result. Highly recommend PandaS to anyone who needs a Webflow professional for your website.",
+          "comment_language": "en",
+          "username": "movingcastletea",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-13T15:51:57",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/c2be293bf3a584af538914f4e5445d7b-1699850699/lumen-nature.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/c2be293bf3a584af538914f4e5445d7b-1699850699/lumen-nature.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO72937DA70C7",
+          "score": 0.7291558,
+          "reviewer_industry": [
+            "travel_or_tourism"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 252312428,
+          "gig_slug": "professional-seo-optimized-webflow-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2613,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "658ddad9d628ec00018542ee",
+          "comment": "Pandascout has gone above and beyond the scope of work. The willingness to revise the work multiple times just to get it right is admirable. If you are looking for a Webflow professional, Pandascout should be your first choice. I highly recommend this seller over others. I will be working on more projects with Pandascout.",
+          "comment_language": "en",
+          "username": "niimedia",
+          "reviewer_country_code": "NZ",
+          "created_at": "2023-12-28T20:43",
+          "value": 5,
+          "reviewer_country": "New Zealand",
+          "encrypted_order_id": "FO81D7B779502",
+          "score": 0.66745514,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 252312428,
+          "gig_slug": "professional-seo-optimized-webflow-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2613,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 28,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a50494be67470001ed70b3",
+          "comment": "My fav company to work with of all times and I tried many on fiverr. Smart, professional, attentive and fast! Customer support mastered to perfection. They are replying quick, offering video calls to solve issues quickly. I love working with them and recommend to anyone.",
+          "comment_language": "en",
+          "username": "libra_8",
+          "reviewer_country_code": "MT",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/eccd3c490a4a5cec933bdad8d0a1e8a8-1519748143475/b7c34fdd-6626-4fde-a7ef-eb93589b0c75.JPG",
+          "created_at": "2024-01-15T10:11:13",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/5ca196d3ee7f197a0bd6e76b66acae98-1704895610/screencapture-familyhousedesign-portfolio-portfolio-fhd-2024-01-10-20_06_34.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/5ca196d3ee7f197a0bd6e76b66acae98-1704895610/screencapture-familyhousedesign-portfolio-portfolio-fhd-2024-01-10-20_06_34.png",
+          "reviewer_country": "Malta",
+          "encrypted_order_id": "FO111E1D1BB45",
+          "score": 0.66349745,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 252312428,
+          "gig_slug": "professional-seo-optimized-webflow-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2613,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 104,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65aec68f08246e65371f12c8",
+          "comment": "Exceptional work, the project was to develop a baseline Webflow site based on our Figma designs, the work was meticulous and well delivered, and reviews were short as the work done was very accurate, however, any challenges were sorted very quickly. Look forward to working with you again.",
+          "comment_language": "en",
+          "username": "miguelcosta237",
+          "reviewer_country_code": "AE",
+          "created_at": "2024-01-22T19:59:12",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/b868eedc47967bd320e6a28ab1a85621-1705918094/uco-net.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/b868eedc47967bd320e6a28ab1a85621-1705918094/uco-net.png",
+          "reviewer_country": "United Arab Emirates",
+          "encrypted_order_id": "FO423E12F0EC8",
+          "score": 0.55144083,
+          "reviewer_industry": [
+            "technology"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 252312428,
+          "gig_slug": "professional-seo-optimized-webflow-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2613,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 210,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 162,
+        "business": 16
+      },
+      "user_id": 123471749,
+      "seller_username": "pandascout",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 7
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 195
+        }
+      ],
+      "average_valuation": 4.8,
+      "dynamicTranslations": {
+        "travel_or_tourism": "Travel & Tourism",
+        "art_and_design": "Art & Design",
+        "technology": "Technology"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 123471749,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 123471749,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 252312428,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2613,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "professional-seo-optimized-webflow-website",
+      "title": "design or develop webflow website, figma to webflow, webflow expert",
+      "seller_name": "pandascout",
+      "seller_id": 123471749,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/cff669d4e5f333cebd79225018f27a1b-1649965239076/038eff0c-c14a-4900-9de2-64767b2441e1.png",
+      "seller_display_name": "Panda S.",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/252312428/original/8b23c4397d934b6fcee0f9c52590bfde439465e4.png",
+          "type": "ImageAsset",
+          "id": "252312428_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176282548",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/9d646d38afc9d1facd707f73ce83a9ba-1706657945/screencapture-hostay-webflow-io-2024-01-31-05_38_44.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176164850",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/68c3fabe07ed286e8bff7d820ed8ae4a-1706415940/Collinsviolet.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176128826",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4af3a9a8b934840b70fa49cdaf37888b-1706335758/reazapp.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175944713",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/bb29df5818126de78fe8c1f9eecd3c85-1705983522/premium.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175923720",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c0d9aba6d617c26dd27eda30fd934d29-1705941425/healplaninvest.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "video",
+            "form"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "brackets_tournaments",
+            "comparison_tables",
+            "before_after_slider",
+            "charts_graphs",
+            "pricing_tables",
+            "audio_player",
+            "image_hotspot"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 203,
+      "buying_review_rating": 4.8,
+      "seller_url": "/pandascout",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 210,
+        "score": 4.8428574
+      },
+      "gig_url": "/pandascout/professional-seo-optimized-webflow-website",
+      "is_seller_unavailable": false,
+      "price_i": 150,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 257117108,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-your-kajabi-online-course-and-kajabi-website",
+      "title": "design, redesign, update, edit, clone copy or revamp wordpress website",
+      "seller_name": "pandascout",
+      "seller_id": 123471749,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/cff669d4e5f333cebd79225018f27a1b-1649965239076/038eff0c-c14a-4900-9de2-64767b2441e1.png",
+      "seller_display_name": "Panda S.",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/257117108/original/69b0a59558105e1e937b4932c15d5572b307934f.jpg",
+          "type": "ImageAsset",
+          "id": "257117108_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "174906986",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3c48fd9baf44af0abb07567b52bc1442-1703679382/screencapture-colinswolfpack-2023-12-27-18_16_08.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171663252",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/90a3bf0b6435834eb526c30e160317cb-1696944340/Colinhart%20(1).png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170474201",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/75eee68cd8ad8ccb1c9d6fa3667d5904-1694618152/screencapture-beratrading-2023-09-13-21_15_32.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170439097",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3beee7eace5948493e9a1eec3ef25280-1694549183/marko.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170419424",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4ce9e4f61cf03244357a0df8b895ae16-1694523761/Screenshot_2.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "video",
+            "form",
+            "chat",
+            "membership",
+            "faq",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 7,
+      "buying_review_rating": 5,
+      "seller_url": "/pandascout",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 210,
+        "score": 4.8428574
+      },
+      "gig_url": "/pandascout/create-your-kajabi-online-course-and-kajabi-website",
+      "is_seller_unavailable": false,
+      "price_i": 95,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 257126526,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2614,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-or-redesign-responsive-godaddy-website-or-ecommerce-store",
+      "title": "design or redesign responsive godaddy website or ecommerce store",
+      "seller_name": "pandascout",
+      "seller_id": 123471749,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/cff669d4e5f333cebd79225018f27a1b-1649965239076/038eff0c-c14a-4900-9de2-64767b2441e1.png",
+      "seller_display_name": "Panda S.",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/257126526/original/f7e6606254a201c216b77388b56e795ceaf8e0b0.png",
+          "type": "ImageAsset",
+          "id": "257126526_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "video",
+            "form",
+            "events",
+            "music",
+            "chat",
+            "membership",
+            "map",
+            "faq",
+            "gallery",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "the_poynt",
+            "godaddy_email_marketing",
+            "contact_widgets",
+            "godaddy_reseller_store",
+            "google_reviews",
+            "testimonials_slider",
+            "event_calendar",
+            "amazon_reviews",
+            "social_share_buttons",
+            "logo_showcase"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/pandascout",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 210,
+        "score": 4.8428574
+      },
+      "gig_url": "/pandascout/design-or-redesign-responsive-godaddy-website-or-ecommerce-store",
+      "is_seller_unavailable": false,
+      "price_i": 90,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "seller": {
+    "user": {
+      "id": "120918596",
+      "name": "witeluxe",
+      "isActivationCompleted": true,
+      "joinedAt": 1643469561,
+      "profile": {
+        "displayName": "Antoine P"
+      },
+      "address": {
+        "countryName": "France",
+        "countryCode": "FR"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "FR",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/f9042a9a7356e851fc5920bbc82645e6-1682462952951/8e2f1d7c-5ed2-44e9-9103-c94489c6e662.png"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "268589758"
+        },
+        {
+          "id": "272172945"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I'm Antoine, your go-to professional translator! With 4+ years of experience and 500+ Fiverr orders completed, I specialize in accurate, detail-oriented, and efficient translations. Notable projects include the books \"1984\" and \"Torn\". My customer-focused approach ensures open communication, timely results, and a seamless experience.\r\nIf you need more info or have any questions, feel free to contact me!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "seller",
+        "toYear": 2018,
+        "countryCode": "FR",
+        "school": "baccalaureate",
+        "degreeTitle": "OTHER"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6760565f07789006b12",
+        "name": "Translation",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Translator"
+      },
+      {
+        "id": "617fa6440565f07789005c51",
+        "name": "Copywriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Copywriter"
+      },
+      {
+        "id": "617fa6440565f07789005c4e",
+        "name": "Copy editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Copy editor"
+      },
+      {
+        "id": "617fa6440565f07789005c50",
+        "name": "Copy typing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Copy typing expert"
+      },
+      {
+        "id": "617fa64c0565f07789005ecc",
+        "name": "English to French translation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "English to French translator"
+      },
+      {
+        "id": "617fa6520565f0778900609a",
+        "name": "French to English translation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "French to English translator"
+      },
+      {
+        "id": "617fa6520565f07789006096",
+        "name": "French proofreading",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "French proofreader"
+      },
+      {
+        "id": "617fa66d0565f0778900682d",
+        "name": "Proofreading",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Proofreader"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 108,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6368e4d2da0f180001675447",
+          "title": "Torn - The book",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6368e4d2da0f180001675448",
+                "attachment": {
+                  "metadata": {
+                    "height": 601,
+                    "width": 400
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/14c532e5d308de2552a6f2c85ba888df-1667818696763/1479765051.0.l.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "643faa639d466900015d168e",
+          "title": "1984 - George Orwell",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "643faa639d466900015d168f",
+                "attachment": {
+                  "metadata": {
+                    "height": 2097,
+                    "width": 1400
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/66c80620419290361b0725ed9efe930a-1681893976621/1984.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 315
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 2
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "656b8cf09b6e4000017d25d9",
+          "comment": "Antoine was very easy to get in touch with and provided an honest quote for a lengthy project. He delivered everything ahead of time and was communicative throughout the process. I would absolutely work with him again and would recommend him to anyone looking for quality proofreading services.",
+          "comment_language": "en",
+          "username": "nicolasrouleau",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-12-02T20:03",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO61D6DCB6D04",
+          "score": 0.53420126,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 268589758,
+          "gig_slug": "translate-anything-you-want-from-english-to-french",
+          "gig_category": 5,
+          "gig_sub_category": 108,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6574db4486d74b00018752d0",
+          "comment": "The job was done very quickly and at a higl level. All the requirements were met, so just to summarize - I had to give zero revision, for they were not necessary, as the translation was done according to the task from the beggining. Definetely will buy again, thanks for your cooperation!",
+          "comment_language": "en",
+          "username": "denyszharov",
+          "reviewer_country_code": "UA",
+          "created_at": "2023-12-09T21:28:51",
+          "value": 5,
+          "reviewer_country": "Ukraine",
+          "encrypted_order_id": "FO71DA2B52883",
+          "score": 0.4899328,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 268589758,
+          "gig_slug": "translate-anything-you-want-from-english-to-french",
+          "gig_category": 5,
+          "gig_sub_category": 108,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b7b31fda9df3104e856d9e",
+          "comment": "First time working with Antoine, 100% pleased with the result. For such a large translation task, the turnaround was incredibly fast and the translated documents look excellent, showing superb attention to detail. Communication efficient, professional, and very pleasant. Thank you Antoine, will be back with more orders for sure! ",
+          "comment_language": "en",
+          "username": "skippain",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-29T14:21:03",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO31DF8300C87",
+          "score": 0.41095036,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 268589758,
+          "gig_slug": "translate-anything-you-want-from-english-to-french",
+          "gig_category": 5,
+          "gig_sub_category": 108,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 328,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b80989da9df3104e85799f",
+          "comment": "Came to Antoine on the weekend with a project that was required right away. He took it and completed it very well. Very satisfied. Highly recommend.",
+          "comment_language": "en",
+          "username": "francois2284",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-29T22:07:26",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO523FDE4E1C7",
+          "score": 0.39345193,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 268589758,
+          "gig_slug": "translate-anything-you-want-from-english-to-french",
+          "gig_category": 5,
+          "gig_sub_category": 108,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65c0feeb7b1c502f9afe5fe1",
+          "comment": "Excellent work, with quick turnaround and exceptional attention to detail, plus efficient and quick communication. I'd 100% recommend working with Antoine and will definitely use his translation services again. Many thanks!",
+          "comment_language": "en",
+          "username": "skippain",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-02-05T16:33:12",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO31E02E5BA87",
+          "score": 0.35145682,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 268589758,
+          "gig_slug": "translate-anything-you-want-from-english-to-french",
+          "gig_category": 5,
+          "gig_sub_category": 108,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 328,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 315,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1,
+        "business": 23
+      },
+      "user_id": 120918596,
+      "seller_username": "witeluxe",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 311
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 120918596,
+      "reviews": [
+        {
+          "id": "65aab6c9ecc5110001c217da",
+          "comment": "Thank you so much brother 😊. ",
+          "comment_language": "en",
+          "username": "supriya2580",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8363f389cbf97d3eb087353b8cff9b59-686559991572676947519/JPEG_20191102_124208_7826462130390027853.jpg",
+          "created_at": "2024-01-19T17:52:10",
+          "value": 5
+        },
+        {
+          "id": "65a812622f49060001a22a10",
+          "comment": "Always a pleasure to work for him. Thank you so much brother 😊",
+          "comment_language": "en",
+          "username": "supriya2580",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8363f389cbf97d3eb087353b8cff9b59-686559991572676947519/JPEG_20191102_124208_7826462130390027853.jpg",
+          "created_at": "2024-01-17T17:46:10",
+          "value": 5
+        },
+        {
+          "id": "65a6872fbe67470001ee559d",
+          "comment": "Thank you so much Brother ☺️",
+          "comment_language": "en",
+          "username": "supriya2580",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8363f389cbf97d3eb087353b8cff9b59-686559991572676947519/JPEG_20191102_124208_7826462130390027853.jpg",
+          "created_at": "2024-01-16T13:39:59",
+          "value": 5
+        },
+        {
+          "id": "659701ac369cc900011ec84e",
+          "comment": "Always pleasure to work for him. Thanks you much brother.",
+          "comment_language": "en",
+          "username": "supriya2580",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8363f389cbf97d3eb087353b8cff9b59-686559991572676947519/JPEG_20191102_124208_7826462130390027853.jpg",
+          "created_at": "2024-01-04T19:06:20",
+          "value": 5
+        },
+        {
+          "id": "654e21ff3023ba0001a64834",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "supriya2580",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8363f389cbf97d3eb087353b8cff9b59-686559991572676947519/JPEG_20191102_124208_7826462130390027853.jpg",
+          "created_at": "2023-11-10T12:28:47",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 120918596,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/Paris",
+    "recent_utc_offset": -60
+  },
+  "gigsData": [
+    {
+      "gig_id": 268589758,
+      "category_id": 5,
+      "sub_category_id": 108,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "translate-anything-you-want-from-english-to-french",
+      "title": "manually translate english to french or french to english",
+      "seller_name": "witeluxe",
+      "seller_id": 120918596,
+      "seller_country": "FR",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f9042a9a7356e851fc5920bbc82645e6-1682462952951/8e2f1d7c-5ed2-44e9-9103-c94489c6e662.png",
+      "seller_display_name": "Antoine P",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/268589758/original/6a3df49c7d76b48871871852f60a8d94d19fe652.png",
+          "type": "ImageAsset",
+          "id": "268589758_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "165618863",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5509a32b2eda8604aff4924bc0ac0824-1685105867/2.jpeg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "languages_pair",
+          "value": [
+            "french",
+            "english",
+            "english",
+            "french"
+          ]
+        },
+        {
+          "type": "document_type",
+          "value": [
+            "contractual_legal"
+          ]
+        },
+        {
+          "type": "industry_expertise",
+          "value": [
+            "business_finance"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 278,
+      "buying_review_rating": 5,
+      "seller_url": "/witeluxe",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 315,
+        "score": 4.9456677
+      },
+      "gig_url": "/witeluxe/translate-anything-you-want-from-english-to-french",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 272172945,
+      "category_id": 5,
+      "sub_category_id": 108,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "perfectly-translate-english-to-french-or-french-to-english",
+      "title": "translate your business papers from english to french or french to english",
+      "seller_name": "witeluxe",
+      "seller_id": 120918596,
+      "seller_country": "FR",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f9042a9a7356e851fc5920bbc82645e6-1682462952951/8e2f1d7c-5ed2-44e9-9103-c94489c6e662.png",
+      "seller_display_name": "Antoine P",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/272172945/original/3f30daca763e841a89cbad859a8d953f7c9acb9c.png",
+          "type": "ImageAsset",
+          "id": "272172945_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "languages_pair",
+          "value": [
+            "english",
+            "french",
+            "french",
+            "english"
+          ]
+        },
+        {
+          "type": "document_type",
+          "value": [
+            "general_conversational"
+          ]
+        },
+        {
+          "type": "industry_expertise",
+          "value": [
+            "business_finance"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/witeluxe",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 315,
+        "score": 4.9456677
+      },
+      "gig_url": "/witeluxe/perfectly-translate-english-to-french-or-french-to-english",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "seller": {
+    "user": {
+      "id": "101415015",
+      "name": "fpsamurai",
+      "isActivationCompleted": true,
+      "joinedAt": 1612083805,
+      "profile": {
+        "displayName": "Fpsamurai"
+      },
+      "address": {
+        "countryName": "Mexico",
+        "countryCode": "MX"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        },
+        {
+          "code": "ES",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/81e122285b3cd5aafe8813699a547d77-1618877272554/359bcbfa-834c-4e96-884b-4efeb26f633f.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "203123906"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Multidisciplinary visual artist focused on pixel art. Currently developing his own video game. Lover of rainy days, corgis, video games of course and sushi.\r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66a0565f07789006777",
+        "name": "Pixel art",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Pixel artist"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 365,
+        "nestedCategoryId": 2249
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 177
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "NO_LEVEL",
+    "responseTime": {
+      "inHours": 5
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65ce48054061f717dafe16ff",
+          "comment": "Awesome work!!",
+          "comment_language": "en",
+          "username": "silveroria",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1c0329d775129daa23df5f93abc1bcf9-1681517462043/561f5e86-b0fc-49c3-8741-3161221b9e1e.PNG",
+          "created_at": "2024-02-16T03:53:24",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO71E21EF6C03",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 203123906,
+          "gig_slug": "make-pixel-art-for-you",
+          "gig_category": 3,
+          "gig_sub_category": 365,
+          "gig_nested_sub_category": 2249,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65cdf24b3001ff08172cb8d5",
+          "comment": "Wow that was super fast and really good. ",
+          "comment_language": "en",
+          "username": "retrobox",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/dc80172241239b64aa50e69cc6d5566c-1640159633207/fab9be31-d99c-4ab3-8e51-35c90e3efd03.png",
+          "created_at": "2024-02-15T11:16:12",
+          "value": 4,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/2f5eda348f93c0d949a19278c974191a-1707995616/sample.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/2f5eda348f93c0d949a19278c974191a-1707995616/sample.png",
+          "reviewer_country": "India",
+          "encrypted_order_id": "FO412146196C2",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 203123906,
+          "gig_slug": "make-pixel-art-for-you",
+          "gig_category": 3,
+          "gig_sub_category": 365,
+          "gig_nested_sub_category": 2249,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 38,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65ccf73d3001ff08172c9de0",
+          "comment": "Awesome work",
+          "comment_language": "en",
+          "username": "silveroria",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1c0329d775129daa23df5f93abc1bcf9-1681517462043/561f5e86-b0fc-49c3-8741-3161221b9e1e.PNG",
+          "created_at": "2024-02-15T07:25:57",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO2C0CB07842",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 203123906,
+          "gig_slug": "make-pixel-art-for-you",
+          "gig_category": 3,
+          "gig_sub_category": 365,
+          "gig_nested_sub_category": 2249,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65cb9fdacef38f741c5847e3",
+          "comment": "Awesome work as always",
+          "comment_language": "en",
+          "username": "silveroria",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1c0329d775129daa23df5f93abc1bcf9-1681517462043/561f5e86-b0fc-49c3-8741-3161221b9e1e.PNG",
+          "created_at": "2024-02-14T03:14:51",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO82A26D4F346",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 203123906,
+          "gig_slug": "make-pixel-art-for-you",
+          "gig_category": 3,
+          "gig_sub_category": 365,
+          "gig_nested_sub_category": 2249,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c9c6c73a97302a996bfa81",
+          "comment": "Awesome work!",
+          "comment_language": "en",
+          "username": "silveroria",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1c0329d775129daa23df5f93abc1bcf9-1681517462043/561f5e86-b0fc-49c3-8741-3161221b9e1e.PNG",
+          "created_at": "2024-02-12T07:28:05",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO61E167F7684",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 203123906,
+          "gig_slug": "make-pixel-art-for-you",
+          "gig_category": 3,
+          "gig_sub_category": 365,
+          "gig_nested_sub_category": 2249,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 177,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 83,
+        "business": 2
+      },
+      "user_id": 101415015,
+      "seller_username": "fpsamurai",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 5
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 172
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 101415015,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 101415015,
+    "currency": "USD",
+    "locale": "es",
+    "timezone": "America/Mexico_City",
+    "recent_utc_offset": 360
+  },
+  "gigsData": [
+    {
+      "gig_id": 203123906,
+      "category_id": 3,
+      "sub_category_id": 365,
+      "nested_sub_category_id": 2249,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "make-pixel-art-for-you",
+      "title": "make pixel art for you",
+      "seller_name": "fpsamurai",
+      "seller_id": 101415015,
+      "seller_country": "MX",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/81e122285b3cd5aafe8813699a547d77-1618877272554/359bcbfa-834c-4e96-884b-4efeb26f633f.jpg",
+      "seller_display_name": "Fpsamurai",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/203123906/original/cd134b613a133a47b8442fea4654b97611bd4572.png",
+          "type": "ImageAsset",
+          "id": "203123906_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/203123906/original/c16fe6a6be9428ef7eaf4f132fe6d4f3bba78db3.png",
+          "type": "ImageAsset",
+          "id": "203123906_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/203123906/original/0844e5d36339e67ab01e4851d3dcd58e6b2ac28b.png",
+          "type": "ImageAsset",
+          "id": "203123906_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176944024",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/2f5eda348f93c0d949a19278c974191a-1707995616/sample.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176477006",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/36365619c1d3da6fc6a092b80cd923d1-1707054244/tile%201.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        },
+        {
+          "code": "es",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "game_dimension",
+          "value": [
+            "2d"
+          ]
+        },
+        {
+          "type": "style",
+          "value": [
+            "pixel"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "jpg",
+            "png",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 177,
+      "buying_review_rating": 5,
+      "seller_url": "/fpsamurai",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 177,
+        "score": 4.8405957
+      },
+      "gig_url": "/fpsamurai/make-pixel-art-for-you",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

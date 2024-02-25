@@ -1,0 +1,829 @@
+{
+  "seller": {
+    "user": {
+      "id": "131312344",
+      "name": "khairul_it",
+      "isActivationCompleted": true,
+      "joinedAt": 1659363359,
+      "profile": {
+        "displayName": "Md Khairul Mia"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "IT",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ce000c6a8f3dcfd53efbaa28cef44e01-1688582409455/4c12f036-ac92-4ee7-b55c-88c00f262c30.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "268238467"
+        },
+        {
+          "id": "269815753"
+        },
+        {
+          "id": "279998527"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Magician of social media marketing",
+    "description": "I'm Khairul, a full-time digital marketer specializing in Ecommerce Business Development. My goal is to help online businesses grow and increase sales through diverse marketing platforms. I prioritize both promotion and profitability. Services I provide include social media marketing, Facebook ads, Google Ads, Shopify store promotion, web and ad content creation, and Google top-ranking services. With extensive experience in health, fitness, beauty products, fashion, clothing, and real estate industries, I deliver high-quality, satisfactory, and profitable solutions.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Bright Career It",
+        "certificationName": "Facebook Ads",
+        "year": 2014
+      },
+      {
+        "receivedFrom": "Creativeit",
+        "certificationName": "Digital Marketing",
+        "year": 2012
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "marketingmanagement",
+        "toYear": 2020,
+        "countryCode": "BD",
+        "school": "Ananda mohan university",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa64f0565f07789005f72",
+        "name": "Facebook ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook ads expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f75",
+        "name": "Facebook analytics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook analytics expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f7e",
+        "name": "Facebook management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook manager"
+      },
+      {
+        "id": "617fa64f0565f07789005f76",
+        "name": "Facebook API",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook API developer"
+      },
+      {
+        "id": "617fa65b0565f0778900633c",
+        "name": "Instagram captions",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram caption writer"
+      },
+      {
+        "id": "617fa65b0565f07789006342",
+        "name": "Instagram hashtags",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram hashtags expert"
+      },
+      {
+        "id": "617fa65b0565f0778900633b",
+        "name": "Instagram ads management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram ads manager"
+      },
+      {
+        "id": "617fa65b0565f07789006344",
+        "name": "Instagram management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram manager"
+      },
+      {
+        "id": "617fa65b0565f0778900633d",
+        "name": "Instagram content",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram content creator"
+      },
+      {
+        "id": "617fa6760565f07789006af8",
+        "name": "TikTok ads management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "TikTok ads manager"
+      },
+      {
+        "id": "61a4d8b0758d756a25307bd6",
+        "name": "Pinterest marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Pinterest marketing expert"
+      },
+      {
+        "id": "617fa6770565f07789006b49",
+        "name": "Twitter ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Twitter ads manager"
+      },
+      {
+        "id": "617fa6620565f07789006504",
+        "name": "Linkedin ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Linkedin ads manager"
+      },
+      {
+        "id": "617fa6550565f07789006172",
+        "name": "Google ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google ad manager"
+      },
+      {
+        "id": "617fa67e0565f07789006d49",
+        "name": "YouTube ads creation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "YouTube ads creator"
+      },
+      {
+        "id": "617fa6710565f0778900696d",
+        "name": "Shopify dropshipping",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify dropshipping expert"
+      },
+      {
+        "id": "617fa6710565f07789006971",
+        "name": "Shopify store design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify store designer"
+      },
+      {
+        "id": "617fa6490565f07789005de8",
+        "name": "Dropshipping store",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Dropshipping store expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 67,
+        "nestedCategoryId": 2688
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64b437cd6d828c000160abe8",
+          "title": "facebook ads results",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "654cf3009baa5e00016db4b7",
+                "attachment": {
+                  "metadata": {
+                    "height": 845,
+                    "width": 1877
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d74155966ac7ad6de95deb49b315a824-1699541750942/Screenshot_57.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64b43848afa9690001bd9f77",
+          "title": "facebook & Instagram ads",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "64b43848afa9690001bd9f78",
+                "attachment": {
+                  "metadata": {
+                    "height": 1125,
+                    "width": 1125
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/f71acbbb48261aa6eeb1ff81ce2488a7-1689532473989/WhatsApp%20Image%202023-07-16%20at%203.20.52%20PM.jpeg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65bbea9d6c1afe00019689fc",
+          "title": "Facebook And Instagram ads",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65bbea9d6c1afe00019689fd",
+                "attachment": {
+                  "metadata": {
+                    "height": 828,
+                    "width": 1574
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/4e90651601387a0292c0d1c70ae2bd5b-1706814073096/Screenshot_97.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 3
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1659366059
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 58
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "654d1be3f8dffe00010ffc8e",
+          "comment": "Khairul was very responsive and knowledgeable. I ordered the 30-day package, so I'll have to wait and see how things go. Wish me luck!",
+          "comment_language": "en",
+          "username": "adrianbailey183",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-09T17:52:54",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/c1068f963d526427b27ceb4559c5bf8a-1699551088/Screenshot_58.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/c1068f963d526427b27ceb4559c5bf8a-1699551088/Screenshot_58.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82F15E30F08",
+          "score": 0.65186644,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 268238467,
+          "gig_slug": "be-your-shopify-facebook-ads-instagram-ads-campaign-manager",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2688,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 24,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65966e8e93c3a40076969c35",
+          "comment": "Exceptional! Khairul embodies innovation, showcasing professionalism in every aspect of their work. His politeness and timely delivery are commendable. From start to finish, their service was impeccable. A pleasure to work with someone so dedicated. I highly recommend this seller for an outstanding experience.",
+          "comment_language": "en",
+          "username": "mssalkey",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-04T08:40:56",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO411DEA3D142",
+          "score": 0.4379596,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 268238467,
+          "gig_slug": "be-your-shopify-facebook-ads-instagram-ads-campaign-manager",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2688,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 72,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "654bdb6ef8dffe00010f08d6",
+          "comment": "Great and quick Work. I´m curious about the end result, so far very happy with Khalrul, and excited about the coming work.",
+          "comment_language": "en",
+          "username": "zaktrends",
+          "reviewer_country_code": "DE",
+          "created_at": "2023-11-08T19:04:39",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/77e88c8f731375a94d6fc3dcbb17101e-1699469881/Screenshot_51.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/77e88c8f731375a94d6fc3dcbb17101e-1699469881/Screenshot_51.png",
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO5234C45F0C7",
+          "score": 0.34979135,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 268238467,
+          "gig_slug": "be-your-shopify-facebook-ads-instagram-ads-campaign-manager",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2688,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65b9441bda9df3104e8594a9",
+          "comment": "Great job, this was our first order. I will definitely hire you again for my work. Thanks, Khairul",
+          "comment_language": "en",
+          "username": "haroldcolema",
+          "reviewer_country_code": "SG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1a18e7b35e88acd0209f6fad9088d4e2-1705600008406/de69e737-a2b0-4af4-8414-b1162df873b2.jpg",
+          "created_at": "2024-01-30T18:47:17",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/138af7b175af1a8d5ca5ab9c437ba365-1706635077/WhatsApp%20Image%202024-01-30%20at%2010.53.17%20PM.jpeg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/138af7b175af1a8d5ca5ab9c437ba365-1706635077/WhatsApp%20Image%202024-01-30%20at%2010.53.17%20PM.jpeg",
+          "reviewer_country": "Singapore",
+          "encrypted_order_id": "FO424034863C8",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 268238467,
+          "gig_slug": "be-your-shopify-facebook-ads-instagram-ads-campaign-manager",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2688,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 26,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65ad7c8c08246e65371ef498",
+          "comment": " The fast delivery and Thank you for so kindly and skillfully explaining the functions of advertising!",
+          "comment_language": "en",
+          "username": "marrybrandonn",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b7ff1e5353575e7589112532c4a9e496-1699850223827/43c0f633-b09b-4038-b2cf-98dfddec49b8.jpg",
+          "created_at": "2024-01-21T20:23:18",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/830f17a92fc9e025a8d9855bef1f45d5-1705867067/WhatsApp%20Image%202024-01-22%20at%201.32.54%20AM.jpeg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/830f17a92fc9e025a8d9855bef1f45d5-1705867067/WhatsApp%20Image%202024-01-22%20at%201.32.54%20AM.jpeg",
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO217F5659586",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 268238467,
+          "gig_slug": "be-your-shopify-facebook-ads-instagram-ads-campaign-manager",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2688,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 101,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 58,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 50,
+        "business": 16
+      },
+      "user_id": 131312344,
+      "seller_username": "khairul_it",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 57
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 131312344,
+      "reviews": [
+        {
+          "id": "63624fe6652bac0001284460",
+          "comment": "Im happy to work with him. Great person",
+          "comment_language": "en-US",
+          "username": "helen_amy69",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f990c96c1b44f4f1d44ba8b6baedad33-1331579471671793627280/JPEG_20221223_170706_4247391685869528166.jpg",
+          "created_at": "2022-11-02T11:09:26",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 131312344,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 268238467,
+      "category_id": 2,
+      "sub_category_id": 67,
+      "nested_sub_category_id": 2688,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-shopify-facebook-ads-instagram-ads-campaign-manager",
+      "title": "setup and manage shopify facebook ads campaign, instagram ads for shopify store",
+      "seller_name": "khairul_it",
+      "seller_id": 131312344,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ce000c6a8f3dcfd53efbaa28cef44e01-1688582409455/4c12f036-ac92-4ee7-b55c-88c00f262c30.jpg",
+      "seller_display_name": "Md Khairul Mia",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/268238467/original/5d55d47d2350d4fdc1853e230abd00d754c145fc.jpg",
+          "type": "ImageAsset",
+          "id": "268238467_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "65abc201b955c100201ad6dc",
+          "id": 9825737
+        }
+      ],
+      "attachments": [
+        {
+          "id": "65abc201b955c100201ad6dc",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/pab82gvmdndvckta2yiq",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_0.988831,PLACEHOLDER/pab82gvmdndvckta2yiq.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176268422",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/138af7b175af1a8d5ca5ab9c437ba365-1706635077/WhatsApp%20Image%202024-01-30%20at%2010.53.17%20PM.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175891645",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/830f17a92fc9e025a8d9855bef1f45d5-1705867067/WhatsApp%20Image%202024-01-22%20at%201.32.54%20AM.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175890979",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3786fefe3f66ca35a066b1bde02b3d03-1705865808/WhatsApp%20Image%202024-01-21%20at%205.18.47%20PM.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174646179",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/cd337cc7256893ba23d9a324ff014bc5-1703009038/Screenshot_69.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174445487",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b18742202b9e3ffe10994639beea9ae3-1702565978/Screenshot_66.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "facebook",
+            "instagram",
+            "pinterest"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "animals_pets",
+            "beauty_cosmetics",
+            "fashion_apparel",
+            "marketing_advertising",
+            "sports_fitness"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 56,
+      "buying_review_rating": 5,
+      "seller_url": "/khairul_it",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 58,
+        "score": 4.9827585
+      },
+      "gig_url": "/khairul_it/be-your-shopify-facebook-ads-instagram-ads-campaign-manager",
+      "is_seller_unavailable": false,
+      "price_i": 45,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 279998527,
+      "category_id": 2,
+      "sub_category_id": 67,
+      "nested_sub_category_id": 2688,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-a-creative-shopify-facebook-ads-specialist-fb-ads-expert-and-fb-video-ads",
+      "title": "setup shopify facebook ads campaigns, instagram ads, fb marketing, shopify ads",
+      "seller_name": "khairul_it",
+      "seller_id": 131312344,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ce000c6a8f3dcfd53efbaa28cef44e01-1688582409455/4c12f036-ac92-4ee7-b55c-88c00f262c30.jpg",
+      "seller_display_name": "Md Khairul Mia",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/279998527/original/a860cc8228ec9a0f062fe7ac5c9279ce0cb8b24d.jpeg",
+          "type": "ImageAsset",
+          "id": "279998527_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "65b51207e2be7d000e5f1b42",
+          "id": 9870466
+        }
+      ],
+      "attachments": [
+        {
+          "id": "65b51207e2be7d000e5f1b42",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/olwfcxyvgssq04ahphaz",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_1.452331,PLACEHOLDER/olwfcxyvgssq04ahphaz.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "facebook",
+            "instagram",
+            "tiktok"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/khairul_it",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 58,
+        "score": 4.9827585
+      },
+      "gig_url": "/khairul_it/do-a-creative-shopify-facebook-ads-specialist-fb-ads-expert-and-fb-video-ads",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 269815753,
+      "category_id": 2,
+      "sub_category_id": 67,
+      "nested_sub_category_id": 2688,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "set-up-facebook-and-instagram-ads-campaigns",
+      "title": "setup shopify facebook ads campaign, fb marketing, fb advertising, instagram ads",
+      "seller_name": "khairul_it",
+      "seller_id": 131312344,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ce000c6a8f3dcfd53efbaa28cef44e01-1688582409455/4c12f036-ac92-4ee7-b55c-88c00f262c30.jpg",
+      "seller_display_name": "Md Khairul Mia",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/269815753/original/9ffd9b0bafa0f83cc07f0b6588619f7540dbc70a.jpeg",
+          "type": "ImageAsset",
+          "id": "269815753_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "facebook",
+            "instagram",
+            "tiktok"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/khairul_it",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 58,
+        "score": 4.9827585
+      },
+      "gig_url": "/khairul_it/set-up-facebook-and-instagram-ads-campaigns",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

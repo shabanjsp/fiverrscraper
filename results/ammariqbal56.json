@@ -1,0 +1,506 @@
+{
+  "seller": {
+    "user": {
+      "id": "125926249",
+      "name": "ammariqbal56",
+      "isActivationCompleted": true,
+      "joinedAt": 1651417386,
+      "profile": {
+        "displayName": "Ammar Iqbal"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/493f6be4c91ea07e4d7a100fbd005839-1651417827095/8a01b38a-451f-4360-b030-9688020bb7b6.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "254390590"
+        },
+        {
+          "id": "255891357"
+        },
+        {
+          "id": "271674254"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hi there! I’m a skilled blog writer with both the technical knowledge and creative skills required to provide the highest-quality articles and blogs \n\n \n\nHere's what you can expect from me:\n\n100% Plagiarism Free | Everything I sell is hand-written by me.\nReady to Publish | All deliveries come with a Grammarly score of 95+ and no grammatical or spelling errors.\n100% Satisfaction Guaranteed | Your satisfaction is my top priority.\nUnlimited Free Revisions | I include free revisions on every tier order, unlike my competitors.\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "internal medicine",
+        "toYear": 2018,
+        "countryCode": "PK",
+        "school": "University of veterinary & Animal Sciences",
+        "degreeTitle": "ASSOCIATE"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006d19",
+        "name": "Writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Writer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": 2771
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 12
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "64182ce1a1a16c0001467cad",
+          "comment": "Delivered right on time. Did exactly what was asked and very easy to communicate with",
+          "comment_language": "en",
+          "username": "xinglaw",
+          "reviewer_country_code": "US",
+          "created_at": "2023-03-20T19:09:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2B06593D42",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 254390590,
+          "gig_slug": "write-scientific-research-articles-reports-and-summary-of-biology-or-chemistry",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2771,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 416
+        },
+        {
+          "id": "6406fd1cd0886b000115490a",
+          "comment": "Impeccable work, Ammar is a true professional in his field,fast,precise and respects deliveries..... Recommended",
+          "comment_language": "en",
+          "username": "latteket",
+          "reviewer_country_code": "US",
+          "created_at": "2023-03-07T10:56:28",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO11077448445",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 254390590,
+          "gig_slug": "write-scientific-research-articles-reports-and-summary-of-biology-or-chemistry",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2771,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 411
+        },
+        {
+          "id": "63dccfde29ccd10001769347",
+          "comment": "Pleased with the work done. The article reflected what I asked for. Very professional work. Even goes beyond the limit word count .I would have no hesitation in using his services again",
+          "comment_language": "en",
+          "username": "clarkthomas45",
+          "reviewer_country_code": "US",
+          "created_at": "2023-02-03T09:18:08",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2ADD423542",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 254390590,
+          "gig_slug": "write-scientific-research-articles-reports-and-summary-of-biology-or-chemistry",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2771,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 245
+        },
+        {
+          "id": "63aafd1209d2ee000113428c",
+          "comment": "Absolutely phenomenal job, I highly recommend him.incredible turn around time as well. I actually appreciate your work",
+          "comment_language": "en",
+          "username": "mwhite78",
+          "reviewer_country_code": "US",
+          "created_at": "2022-12-27T14:44:41",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO62028C117C6",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 254390590,
+          "gig_slug": "write-scientific-research-articles-reports-and-summary-of-biology-or-chemistry",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2771,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 350
+        },
+        {
+          "id": "6395ac1659d2ef0001b25382",
+          "comment": "Great man with amazing writing skills. Follows instructions and responds very quickly to correct any problem.10/10 service",
+          "comment_language": "en",
+          "username": "fionamiller45",
+          "reviewer_country_code": "GB",
+          "created_at": "2022-12-11T10:10:15",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO51FFB942CC7",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 254390590,
+          "gig_slug": "write-scientific-research-articles-reports-and-summary-of-biology-or-chemistry",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2771,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 12,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 125926249,
+      "seller_username": "ammariqbal56",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 12
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 125926249,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 125926249,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 254390590,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2771,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-scientific-research-articles-reports-and-summary-of-biology-or-chemistry",
+      "title": "write scientific research articles, reports and summary of biology or chemistry",
+      "seller_name": "ammariqbal56",
+      "seller_id": 125926249,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/493f6be4c91ea07e4d7a100fbd005839-1651417827095/8a01b38a-451f-4360-b030-9688020bb7b6.jpg",
+      "seller_display_name": "Ammar Iqbal",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/254390590/original/990f1a394904d5b52c76c3370e98b8d6e940c825.png",
+          "type": "ImageAsset",
+          "id": "254390590_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 12,
+      "buying_review_rating": 5,
+      "seller_url": "/ammariqbal56",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/ammariqbal56/write-scientific-research-articles-reports-and-summary-of-biology-or-chemistry",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 255891357,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-dog-articles-and-pet-blog",
+      "title": "write dog articles and pet blog",
+      "seller_name": "ammariqbal56",
+      "seller_id": 125926249,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/493f6be4c91ea07e4d7a100fbd005839-1651417827095/8a01b38a-451f-4360-b030-9688020bb7b6.jpg",
+      "seller_display_name": "Ammar Iqbal",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/255891357/original/826d1d6481d5e2c6be56dbb927809b41abaf45ed.jpg",
+          "type": "ImageAsset",
+          "id": "255891357_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "urdu"
+          ]
+        },
+        {
+          "type": "topic",
+          "value": [
+            "fitness",
+            "health_medical"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "conversational",
+            "educational"
+          ]
+        },
+        {
+          "type": "article_type",
+          "value": [
+            "long_form_article",
+            "informational",
+            "research_article"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/ammariqbal56",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/ammariqbal56/write-dog-articles-and-pet-blog",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 271674254,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "make-a-powerpoint-presentation-on-biology",
+      "title": "make a powerpoint presentation on biology",
+      "seller_name": "ammariqbal56",
+      "seller_id": 125926249,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/493f6be4c91ea07e4d7a100fbd005839-1651417827095/8a01b38a-451f-4360-b030-9688020bb7b6.jpg",
+      "seller_display_name": "Ammar Iqbal",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/271674254/original/48519ac9b4078d9e8622aa464f07bd3dc0a4d783.jpg",
+          "type": "ImageAsset",
+          "id": "271674254_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "topic",
+          "value": [
+            "environment",
+            "health_medical"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "professional_formal",
+            "educational"
+          ]
+        },
+        {
+          "type": "article_type",
+          "value": [
+            "instructional_how_to",
+            "informational",
+            "review"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/ammariqbal56",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/ammariqbal56/make-a-powerpoint-presentation-on-biology",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

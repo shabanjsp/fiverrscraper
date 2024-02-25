@@ -1,0 +1,153 @@
+{
+  "seller": {
+    "user": {
+      "id": "164197144",
+      "name": "william009090",
+      "isActivationCompleted": true,
+      "joinedAt": 1700431069,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Finland",
+        "countryCode": "FI"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/5c705268091c8b2f4640180732404983-1641971441700431333283/JPEG_20231120_000212_7204686279548729700.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "CAD",
+    "rate": 1.4157398373,
+    "template": "C${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "C$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 164197144,
+      "seller_username": "william009090",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 164197144,
+      "reviews": [
+        {
+          "id": "655bfb14e4ce9600013343b1",
+          "comment": "Thank you for choosing my services on Fiverr! It was a pleasure working with you. Your clear communication made the process smooth. Much appreciated!",
+          "comment_language": "en",
+          "username": "sahidulislambsl",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b9a698669e4f5e09cc0762d261b97ec0-1690457144747/aa6ef26d-ce84-4c3e-8158-3084b74dff2e.jpg",
+          "created_at": "2023-11-21T00:34:28",
+          "value": 5
+        },
+        {
+          "id": "655b6668e4ce96000132b511",
+          "comment": "thanks",
+          "comment_language": "unknown",
+          "username": "rakhib_ul",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4f0a955955e8bc9f89bef4d080e94fc3-1698867068063/62f53444-5001-46c6-9171-ebc08a0f01db.jpg",
+          "created_at": "2023-11-20T14:00:08",
+          "value": 5
+        },
+        {
+          "id": "655b479225bcfb00013d2f5c",
+          "comment": "My only goal is to make you happy, Thank you so much for your valuable feedback.",
+          "comment_language": "en",
+          "username": "sopna_akter8",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7c5e5be23c2195fbf08364c1b4feaa71-1705251610523/1dd952a9-c2d6-4546-8755-3fb7f91676d5.jpg",
+          "created_at": "2023-11-20T11:48:34",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 164197144,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": null,
+    "recent_utc_offset": 0
+  },
+  "gigsData": []
+}

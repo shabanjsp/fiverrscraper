@@ -1,0 +1,826 @@
+{
+  "seller": {
+    "user": {
+      "id": "137691178",
+      "name": "umair_sch",
+      "isActivationCompleted": true,
+      "joinedAt": 1667829247,
+      "profile": {
+        "displayName": "Umair L"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "PA",
+          "level": "FLUENT"
+        },
+        {
+          "code": "HI",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/0be677d455a687951a0a04e43be20493-1668085542554/f64452dc-4e4e-4c0e-a137-32bda2cec289.jpeg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "332890119"
+        },
+        {
+          "id": "332923332"
+        },
+        {
+          "id": "334052715"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Full Stack web Developer",
+    "description": "With over a decade of experience as a Full Stack Developer, I specialize in the MEAN, MERN, and MEVN stacks.  My proficiency spans a range of technologies: on the front-end, I specialize in ReactJS, Redux, React Native, Context API, HTML/CSS, ASP. NET and Vanilla JS. On the back-end, I'm adept with NodeJS, ExpressJS, a variety of templating engines like Handlebars, EJS, and Pug, and am well-versed with REST APIs. My portfolio boasts more than 50 live projects, showcasing my extensive expertise in the development industry. Let's join forces and transform your visions into digital reality!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Knowledge Streams",
+        "certificationName": "MERN Bootcamp",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "Frontend Developement",
+        "year": 2016
+      },
+      {
+        "receivedFrom": "Google",
+        "certificationName": "Full Stack Web Developer",
+        "year": 2017
+      },
+      {
+        "receivedFrom": "Academia",
+        "certificationName": "Javascript Fundamentals",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2014,
+        "countryCode": "PK",
+        "school": "The University Of Lahore",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa6380565f077890058c3",
+        "name": "App development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App developer"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Front-end web developer"
+      },
+      {
+        "id": "617fa63b0565f07789005990",
+        "name": "Back-end development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Back-end developer"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      },
+      {
+        "id": "617fa6380565f077890058bc",
+        "name": "API integration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "API integration expert"
+      },
+      {
+        "id": "617fa6640565f077890065a0",
+        "name": "MEAN stack",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MEAN stack expert"
+      },
+      {
+        "id": "617fa66e0565f07789006880",
+        "name": "React Native",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "React Native expert"
+      },
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Full stack web developer"
+      },
+      {
+        "id": "617fa64e0565f07789005f60",
+        "name": "Express.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Express.js expert"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Node.js expert"
+      },
+      {
+        "id": "617fa66a0565f0778900675c",
+        "name": "PHP development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP developer"
+      },
+      {
+        "id": "617fa6510565f07789006036",
+        "name": "Flutter development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter developer"
+      },
+      {
+        "id": "617fa6590565f07789006290",
+        "name": "HTML",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html expert"
+      },
+      {
+        "id": "617fa6450565f07789005cbf",
+        "name": "CSS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS expert"
+      },
+      {
+        "id": "617fa6370565f07789005884",
+        "name": "Angular Material",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Angular Material expert"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa6770565f07789006b58",
+        "name": "UI & UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI & UX designer"
+      },
+      {
+        "id": "617fa6770565f07789006b5a",
+        "name": "UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI designer"
+      },
+      {
+        "id": "617fa6720565f077890069d9",
+        "name": "Software engineering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Software engineer"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bootstrap expert"
+      },
+      {
+        "id": "61a4d8b4758d756a25307be3",
+        "name": "Redux",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Redux developer"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "React expert"
+      },
+      {
+        "id": "617fa6370565f07789005873",
+        "name": "Android development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Android developer"
+      },
+      {
+        "id": "617fa65c0565f07789006393",
+        "name": "iOS development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "iOS developer"
+      },
+      {
+        "id": "617fa6480565f07789005dba",
+        "name": "Django",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Django developer"
+      },
+      {
+        "id": "617fa6600565f07789006498",
+        "name": "Laravel development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Laravel developer"
+      },
+      {
+        "id": "617fa67a0565f07789006c25",
+        "name": "Vue.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Vue.js expert"
+      },
+      {
+        "id": "617fa6470565f07789005d50",
+        "name": "Debugging",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Debugging expert"
+      },
+      {
+        "id": "617fa6390565f07789005926",
+        "name": "ASP.NET",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "ASP.NET developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 122,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 140,
+        "nestedCategoryId": 2041
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 6
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 3
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6585a2cae4afb812c47f5a0b",
+          "comment": "Great communication, very fast to respond. Service as described, followed all instructions and went over and beyond. Would definitely recommend him, he is very sweet and kind. He squeezed me in last second. Produced phenomenal work and I will be sure to work again with him.",
+          "comment_language": "en",
+          "username": "raymon991",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-22T19:39:32",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31DB9DC5607",
+          "score": 0.67111564,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 332890119,
+          "gig_slug": "your-professional-mean-mern-mevn-stack-developer",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 38,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6579a839f28d2d76f0d4c9cb",
+          "comment": "It was outstanding working with him such a professional and friendly person worked as per my information, satisfied with the final result.",
+          "comment_language": "en",
+          "username": "johnwast",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-13T12:49:45",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO117BDE20387",
+          "score": 0.39840418,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 332890119,
+          "gig_slug": "your-professional-mean-mern-mevn-stack-developer",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 51,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6585ab38e4afb812c47f5a62",
+          "comment": "Awesome communication and very easy to use. The seller is perfect if you want your work to be done professionally and on time",
+          "comment_language": "en",
+          "username": "kaile71",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-22T19:39:20",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217C7E58D86",
+          "score": 0.27402848,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 332890119,
+          "gig_slug": "your-professional-mean-mern-mevn-stack-developer",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 36,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b78a6441e5c52d8c234b21",
+          "comment": "Wonderful job overall. Superb service throughout. I am so glad to use service. Will Highly recommend.",
+          "comment_language": "en",
+          "username": "lafamen",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-29T13:20:19",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO423FBE570C8",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 332890119,
+          "gig_slug": "your-professional-mean-mern-mevn-stack-developer",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 45,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65214bee6d421d00014b91fe",
+          "comment": "I hired umair to integrate Stripe payments into my SAAS application developed in MEAN Stack, with Angular JS. He was very responsive and helpful throughout the process, and he was always willing to answer my questions and address my concerns. I am very happy with the results of the project, and I highly recommend umair for any Stripe payment integration needs.",
+          "comment_language": "en",
+          "username": "suhankaf",
+          "reviewer_country_code": "US",
+          "created_at": "2023-10-26T10:35:19",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31751B7B585",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 332890119,
+          "gig_slug": "your-professional-mean-mern-mevn-stack-developer",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 48,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 6,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 137691178,
+      "seller_username": "umair_sch",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 6
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 137691178,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 137691178,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 332890119,
+      "category_id": 10,
+      "sub_category_id": 140,
+      "nested_sub_category_id": 2041,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "your-professional-mean-mern-mevn-stack-developer",
+      "title": "be your professional mean mern mevn stack developer",
+      "seller_name": "umair_sch",
+      "seller_id": 137691178,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0be677d455a687951a0a04e43be20493-1668085542554/f64452dc-4e4e-4c0e-a137-32bda2cec289.jpeg",
+      "seller_display_name": "Umair L",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/332890119/original/8035224c2ce9ca50b60c36fae91e05641da6adf4.png",
+          "type": "ImageAsset",
+          "id": "332890119_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/332890119/original/3d831fd5dba74ccbeb8f4bc09272a801d1a30a83.jpeg",
+          "type": "ImageAsset",
+          "id": "332890119_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "pa",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "programming_language",
+          "value": [
+            "asp_net"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "from_psd_file",
+            "performance",
+            "security",
+            "w3c_validation",
+            "design"
+          ]
+        },
+        {
+          "type": "frontend_framework",
+          "value": [
+            "react_js",
+            "angularjs",
+            "vue_js",
+            "bootstrap",
+            "tailwind_css"
+          ]
+        },
+        {
+          "type": "backend_framework",
+          "value": [
+            "django",
+            "laravel",
+            "express_js",
+            "node_js",
+            "meteor_js"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 6,
+      "buying_review_rating": 5,
+      "seller_url": "/umair_sch",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 6,
+        "score": 5
+      },
+      "gig_url": "/umair_sch/your-professional-mean-mern-mevn-stack-developer",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 332923332,
+      "category_id": 3,
+      "sub_category_id": 122,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-graphics-or-uiux-designer",
+      "title": "be your graphics or uiux designer",
+      "seller_name": "umair_sch",
+      "seller_id": 137691178,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0be677d455a687951a0a04e43be20493-1668085542554/f64452dc-4e4e-4c0e-a137-32bda2cec289.jpeg",
+      "seller_display_name": "Umair L",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/332923332/original/50d4d78c5c9165db8b93a6c1b9829a6c83817a3d.png",
+          "type": "ImageAsset",
+          "id": "332923332_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/332923332/original/a7abf2c2a13e5a8018353c2cdd6aad1931edc314.png",
+          "type": "ImageAsset",
+          "id": "332923332_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/332923332/original/4d45f2278455fdb9868dd95341b034b0bd4ef218.png",
+          "type": "ImageAsset",
+          "id": "332923332_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "pa",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/umair_sch",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 6,
+        "score": 5
+      },
+      "gig_url": "/umair_sch/be-your-graphics-or-uiux-designer",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 334052715,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-react-native-developer",
+      "title": "be your react native developer",
+      "seller_name": "umair_sch",
+      "seller_id": 137691178,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0be677d455a687951a0a04e43be20493-1668085542554/f64452dc-4e4e-4c0e-a137-32bda2cec289.jpeg",
+      "seller_display_name": "Umair L",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/334052715/original/9971aaf540b6c44ecf4627bc1cf50300b906f3db.png",
+          "type": "ImageAsset",
+          "id": "334052715_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "pa",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "ios_android_dual"
+          ]
+        },
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "development_technology",
+          "value": [
+            "react_native"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "streaming",
+            "restaurant",
+            "taxi",
+            "social_networking",
+            "health_fitness",
+            "maps_navigation",
+            "education",
+            "iot"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "localization",
+            "performance",
+            "security",
+            "design",
+            "firebase",
+            "api_integration"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/umair_sch",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 6,
+        "score": 5
+      },
+      "gig_url": "/umair_sch/be-your-react-native-developer",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

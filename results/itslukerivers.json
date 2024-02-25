@@ -1,0 +1,156 @@
+{
+  "seller": {
+    "user": {
+      "id": "145125774",
+      "name": "itslukerivers",
+      "isActivationCompleted": true,
+      "joinedAt": 1676555638,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 145125774,
+      "seller_username": "itslukerivers",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 145125774,
+      "reviews": [
+        {
+          "id": "655d85ee4a2e4b0001730479",
+          "comment": "Great experience, Thank you so much!",
+          "comment_language": "en",
+          "username": "art8ight",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c845c6e8ff41023027c2a7ce91497a38-1626677199760/534c25d0-35d4-4a50-a112-d1b69bdb6772.jpg",
+          "created_at": "2023-11-22T04:39:10",
+          "value": 5
+        },
+        {
+          "id": "6499169ac8d6160001db09b8",
+          "comment": "Thank you for taking out your precious time in giving your feedback. It was a top-notch experience working with you. Hoping to serve you again.",
+          "comment_language": "en",
+          "username": "morningdesigns",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7b2d176ce55c6687621ef550280be312-1624979093566/941f31c8-1365-4eee-b834-d6a80033c1c4.jpg",
+          "created_at": "2023-06-26T04:39:54",
+          "value": 5
+        },
+        {
+          "id": "6497d127e56347000193c0ea",
+          "comment": "Outstanding experience, Thank you so much!",
+          "comment_language": "en",
+          "username": "art8ight",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c845c6e8ff41023027c2a7ce91497a38-1626677199760/534c25d0-35d4-4a50-a112-d1b69bdb6772.jpg",
+          "created_at": "2023-06-25T05:31:19",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 145125774,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

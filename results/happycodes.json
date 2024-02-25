@@ -1,0 +1,622 @@
+{
+  "seller": {
+    "user": {
+      "id": "132547882",
+      "name": "happycodes",
+      "isActivationCompleted": true,
+      "joinedAt": 1660979604,
+      "profile": {
+        "displayName": "Pratyaaksh P"
+      },
+      "address": {
+        "countryName": "India",
+        "countryCode": "IN"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "HI",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "SA",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/c25c2dfc3a48c085fd13194e3deef9c4-1660979938160/53349ebc-1957-43c0-bb2c-3cc33b56cf54.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "296088850"
+        },
+        {
+          "id": "296096682"
+        },
+        {
+          "id": "366001010"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Welcome to my Fiverr profile! I am a highly skilled and experienced Shopify expert, dedicated to providing professional and efficient services to help take your online store to the next level. I specialize in creating custom and visually appealing Shopify stores that are not only easy to navigate, but also optimized for conversions and search engines. My services include theme customization, app integration, store setup, and much more. I pride myself on my attention to detail, quick turnaround times, and excellent communication skills. Let's work together to build a stunning  online store",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6710565f0778900696d",
+        "name": "Shopify dropshipping",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify dropshipping expert"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      },
+      {
+        "id": "617fa6710565f0778900696e",
+        "name": "Shopify listing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify listing expert"
+      },
+      {
+        "id": "617fa6490565f07789005de8",
+        "name": "Dropshipping store",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Dropshipping store expert"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2610
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2619
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6586e2971b049e00014f8b04",
+          "title": " Shopify Store - Skincare brand",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6586e2971b049e00014f8b05",
+                "attachment": {
+                  "metadata": {
+                    "height": 768,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c8fa2ce8a2991e4a791503d6464d08dc-1703338269496/Screenshot%20(1565).png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 1
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 4
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.6273325,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65805bf3e552bf4cf384c9a5",
+          "comment": "Amazing work, professional",
+          "comment_language": "en",
+          "username": "avibay",
+          "reviewer_country_code": "IL",
+          "created_at": "2023-12-18T15:13:49",
+          "value": 5,
+          "reviewer_country": "Israel",
+          "encrypted_order_id": "FO3BE1ADF041",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 296088850,
+          "gig_slug": "build-a-high-converting-dropshipping-shopify-store",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2610,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 48,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "657f0de07125b21fbc843fd7",
+          "comment": "A completely professional person",
+          "comment_language": "en",
+          "username": "avibay",
+          "reviewer_country_code": "IL",
+          "created_at": "2023-12-17T15:04:42",
+          "value": 5,
+          "reviewer_country": "Israel",
+          "encrypted_order_id": "FO6298F56DF48",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 296088850,
+          "gig_slug": "build-a-high-converting-dropshipping-shopify-store",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2610,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 48,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "63cd26ed87253d00016e5162",
+          "comment": "Amazing work once again. Quick delivery and extremely cooperative. Thank you ",
+          "comment_language": "en",
+          "username": "adeebakram",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ad3d5ad609ad869d01319c1db3b930d4-1664747841964/afe07e7a-f3e4-4692-9b95-00280804eda8.png",
+          "created_at": "2023-01-22T14:10:29",
+          "value": 5,
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO42075ED97C8",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 296096682,
+          "gig_slug": "do-shopify-custom-coding-or-bug-fixing-and-customization",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2619,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 8
+        },
+        {
+          "id": "63c85be9e42ca80001ecef80",
+          "comment": "Great experience with him. Understood my requirements extremely well and delivered the work quickly. Was bery cooperative throughout! Thank you. Surely going to work more together ",
+          "comment_language": "en",
+          "username": "adeebakram",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ad3d5ad609ad869d01319c1db3b930d4-1664747841964/afe07e7a-f3e4-4692-9b95-00280804eda8.png",
+          "created_at": "2023-01-18T20:56:55",
+          "value": 5,
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO615A11E5D82",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 296096682,
+          "gig_slug": "do-shopify-custom-coding-or-bug-fixing-and-customization",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2619,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 8
+        }
+      ],
+      "has_next": false,
+      "total_count": 4,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 2
+      },
+      "user_id": 132547882,
+      "seller_username": "happycodes",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 4
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 132547882,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 132547882,
+    "currency": "INR",
+    "locale": "en-US",
+    "timezone": "Asia/Kolkata",
+    "recent_utc_offset": -330
+  },
+  "gigsData": [
+    {
+      "gig_id": 296088850,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2610,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-a-high-converting-dropshipping-shopify-store",
+      "title": "create a professional shopify store or dropshipping store",
+      "seller_name": "happycodes",
+      "seller_id": 132547882,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c25c2dfc3a48c085fd13194e3deef9c4-1660979938160/53349ebc-1957-43c0-bb2c-3cc33b56cf54.jpg",
+      "seller_display_name": "Pratyaaksh P",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/296088850/original/cc1e7ceff81392da2899954a2eeb0e4ade597780.jpg",
+          "type": "ImageAsset",
+          "id": "296088850_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/296088850/original/d1a2c03e79192687a53375b0a22df29fb35e6cc6.jpg",
+          "type": "ImageAsset",
+          "id": "296088850_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 4
+        },
+        {
+          "code": "sa",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "chat",
+            "membership",
+            "faq",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "free_shipping_bar",
+            "product_reviews",
+            "product_filter_search",
+            "store_locator",
+            "pagefly"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/happycodes",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 4,
+        "score": 5
+      },
+      "gig_url": "/happycodes/build-a-high-converting-dropshipping-shopify-store",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 296096682,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2619,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-shopify-custom-coding-or-bug-fixing-and-customization",
+      "title": "do shopify custom coding or bug fixing and customization",
+      "seller_name": "happycodes",
+      "seller_id": 132547882,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c25c2dfc3a48c085fd13194e3deef9c4-1660979938160/53349ebc-1957-43c0-bb2c-3cc33b56cf54.jpg",
+      "seller_display_name": "Pratyaaksh P",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/296096682/original/c89fe0c5fcfa96abe946e73c576c4cf7a376c5e2.jpg",
+          "type": "ImageAsset",
+          "id": "296096682_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/296096682/original/411ed620fa24f0650619fd992698934012b74784.jpg",
+          "type": "ImageAsset",
+          "id": "296096682_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 4
+        },
+        {
+          "code": "sa",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "shopify"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "landing_page",
+            "education",
+            "nonprofit",
+            "online_communities"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "java",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/happycodes",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 4,
+        "score": 5
+      },
+      "gig_url": "/happycodes/do-shopify-custom-coding-or-bug-fixing-and-customization",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 366001010,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2610,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-shopify-expert-and-shopify-theme-developer",
+      "title": "be your shopify expert and shopify theme developer",
+      "seller_name": "happycodes",
+      "seller_id": 132547882,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c25c2dfc3a48c085fd13194e3deef9c4-1660979938160/53349ebc-1957-43c0-bb2c-3cc33b56cf54.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/366001010/original/4364c7922fb5ce2390b10d5093390b8c2c7a8bca.jpg",
+          "type": "ImageAsset",
+          "id": "366001010_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/366001010/original/534ef0d9c454b8d5a1856e193e98a8050d3ab62f.png",
+          "type": "ImageAsset",
+          "id": "366001010_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 4
+        },
+        {
+          "code": "sa",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "customer_support",
+            "inventory",
+            "video",
+            "form",
+            "chat",
+            "membership",
+            "map",
+            "faq",
+            "gallery"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "nudgify",
+            "free_shipping_bar",
+            "product_reviews",
+            "product_filter_search",
+            "store_locator",
+            "pagefly"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/happycodes",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 0,
+        "score": 0
+      },
+      "gig_url": "/happycodes/be-your-shopify-expert-and-shopify-theme-developer",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

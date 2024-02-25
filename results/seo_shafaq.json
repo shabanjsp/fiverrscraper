@@ -1,0 +1,710 @@
+{
+  "seller": {
+    "user": {
+      "id": "119839860",
+      "name": "seo_shafaq",
+      "isActivationCompleted": true,
+      "joinedAt": 1641996277,
+      "profile": {
+        "displayName": "Shafaq"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "IT",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/c71a85475f7352173d79d5365b00f03c-1691561077437/65ccbca2-022b-409b-859d-e49599d6d10d.png"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "240380505"
+        },
+        {
+          "id": "330352471"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hire me to help you write content that converts.\r\n\r\nI'm a content writer and SEO strategist with over 7 years of experience helping businesses of all sizes achieve their marketing goals. I have a knack for finding the perfect words to capture your brand's voice and tell your story in an engaging way that resonates with your target audience.\r\n\r\nI'm also an expert in SEO, so I can help you create content that ranks high in search engines and drives traffic to your website. I'll work with you to develop a content marketing strategy that is tailored to your specific needs and goals.\r\n\r\nContact me today!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Google",
+        "certificationName": "Google Ads Expert",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "Google",
+        "certificationName": "Google Analytics Expert",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "Microsoft",
+        "certificationName": "Microsoft Ads",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "SEO Mastery",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "SEMrush",
+        "certificationName": "Technical SEO",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "HubSpot",
+        "certificationName": "SEO Training",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "marketing management",
+        "toYear": 2016,
+        "countryCode": "PK",
+        "school": "Comsats University",
+        "degreeTitle": "MBA"
+      },
+      {
+        "degree": "seo expert",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "Corvit Lahore",
+        "degreeTitle": "CERTIFICATE"
+      },
+      {
+        "degree": "webdesign",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "EVS Professional Training",
+        "degreeTitle": "CERTIFICATE"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "SEO expert"
+      },
+      {
+        "id": "617fa6560565f077890061dd",
+        "name": "Guest posting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Guest posting expert"
+      },
+      {
+        "id": "617fa6610565f077890064ff",
+        "name": "Link building",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Link building expert"
+      },
+      {
+        "id": "617fa6550565f07789006191",
+        "name": "Google SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google SEO expert"
+      },
+      {
+        "id": "617fa65f0565f07789006452",
+        "name": "Keyword research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Keyword researcher"
+      },
+      {
+        "id": "617fa63c0565f07789005a0c",
+        "name": "Blog writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blog writer"
+      },
+      {
+        "id": "617fa6390565f0778900591c",
+        "name": "Articles writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Articles writer"
+      },
+      {
+        "id": "617fa6620565f0778900653a",
+        "name": "Long form article writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Long form article article writer"
+      },
+      {
+        "id": "617fa65b0565f0778900634c",
+        "name": "Instructional how to article writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instructional how to article writer"
+      },
+      {
+        "id": "617fa6770565f07789006b1b",
+        "name": "Travel blogging",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Travel blogger"
+      },
+      {
+        "id": "617fa64f0565f07789005f9f",
+        "name": "Fashion blogging",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Fashion blogger"
+      },
+      {
+        "id": "617fa6510565f07789006041",
+        "name": "Food blogging",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Food blogger"
+      },
+      {
+        "id": "617fa6440565f07789005c51",
+        "name": "Copywriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Copywriter"
+      },
+      {
+        "id": "617fa6430565f07789005c35",
+        "name": "Content writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Content writer"
+      },
+      {
+        "id": "617fa64b0565f07789005e76",
+        "name": "Email copywriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email copywriter"
+      },
+      {
+        "id": "617fa6600565f0778900648a",
+        "name": "Landing page copy",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page copywriter"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": 2767
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65397fc2430a4800015bbd67",
+          "title": "Monthly Blog Post Service",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65397fc2430a4800015bbd68",
+                "attachment": {
+                  "metadata": {
+                    "height": 1650,
+                    "width": 1275
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/0dbcbd5b2a667169a0bf777413333833-1698266452257/P1.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 1
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 79
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "655eda891ed21300014cca87",
+          "comment": "Shafaq, I sincerely appreciate your exceptional work. You wrote two well-written and researched articles, which included beautiful pictures to compliment the articles. My order was finished on time and above the required word count. I am very pleased with your work and will definitely be hiring you again very soon. Your service is awesome",
+          "comment_language": "en",
+          "username": "reid88alfie",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-23T05:10:10",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO311B16C1843",
+          "score": 0.68247753,
+          "reviewer_industry": [
+            "food_and_beverage"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 330352471,
+          "gig_slug": "write-bulk-seo-articles-and-blog-posts",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2767,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 18,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655bfd9be4ce960001334514",
+          "comment": "Fabulous work from this writer! The communication was stellar. When she needed a little more time to finish the work and do a good job, she requested in a timely manner. Then delivered the content and I am HIGHLY satisfied. Great work. And I will definitely use her again!",
+          "comment_language": "en",
+          "username": "nicolecanfield",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-21T02:18:29",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31D377CD187",
+          "score": 0.45368558,
+          "reviewer_industry": [
+            "marketing_or_advertising",
+            "religion_and_spirituality"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 240380505,
+          "gig_slug": "do-monthly-off-page-seo-service",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2767,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 13,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6560b2ca1ed21300014dfcf2",
+          "comment": "Thanks for great service ..will buy again.",
+          "comment_language": "en",
+          "username": "manjunath20",
+          "reviewer_country_code": "IN",
+          "created_at": "2023-11-24T19:12:44",
+          "value": 5,
+          "reviewer_country": "India",
+          "encrypted_order_id": "FO31D51D61A07",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 240380505,
+          "gig_slug": "do-monthly-off-page-seo-service",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2767,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "655fcad11ed21300014d7fb4",
+          "comment": "Wonderful article and very pleasant to deal with. Would recommend.",
+          "comment_language": "en",
+          "username": "inspiredprofess",
+          "reviewer_country_code": "AU",
+          "created_at": "2023-11-23T22:59:12",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO8236C0A18C4",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 330352471,
+          "gig_slug": "write-bulk-seo-articles-and-blog-posts",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2767,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "654af1def8dffe00010e4f5c",
+          "comment": "Shafaq communicated well and followed the brief to produce a well-researched and informative article on the subject matter. Given the limited word count I was impressed how much detail was included in the article. Thanks!",
+          "comment_language": "en",
+          "username": "apex_seo_ppc",
+          "reviewer_country_code": "AU",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/80b46898af96089daa03ba01ea2c78c5-1698113783181/6fb3aae4-1afc-4a4b-bdf9-f003db62dc88.png",
+          "created_at": "2023-11-08T04:53:30",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO3BB9FD0141",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 330352471,
+          "gig_slug": "write-bulk-seo-articles-and-blog-posts",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2767,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 79,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 15,
+        "business": 3
+      },
+      "user_id": 119839860,
+      "seller_username": "seo_shafaq",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 76
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "food_and_beverage": "Food & Beverage",
+        "marketing_or_advertising": "Marketing & Advertising",
+        "religion_and_spirituality": "Religion & Spirituality"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 119839860,
+      "reviews": [
+        {
+          "id": "65551c16d1cd3b0001266061",
+          "comment": "thanks for choosing my service. It was my first order with a great experience. ",
+          "comment_language": "en",
+          "username": "edhalinkbuild45",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/196b0e71e652a9ed57f9df527f903ad8-1679934502361/7fdcd95b-a8a1-4a8f-81f7-1b4de94c4ed2.jpeg",
+          "created_at": "2023-11-15T19:29:26",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 119839860,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 240380505,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2767,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-monthly-off-page-seo-service",
+      "title": "write 30 bulk SEO articles and blog posts monthly",
+      "seller_name": "seo_shafaq",
+      "seller_id": 119839860,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c71a85475f7352173d79d5365b00f03c-1691561077437/65ccbca2-022b-409b-859d-e49599d6d10d.png",
+      "seller_display_name": "Shafaq",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/240380505/original/173807b956e8f66c56ee4ba9af637f9af825d9f2.png",
+          "type": "ImageAsset",
+          "id": "240380505_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/240380505/original/907a0472a106999544fd09a333974e0415904bc5.png",
+          "type": "ImageAsset",
+          "id": "240380505_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6525246701a9d70001bfe2be",
+          "discount_percentage": 10
+        },
+        {
+          "id": "6525246701a9d70001bfe2bf",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "food_beverage",
+            "marketing_advertising",
+            "services",
+            "technology",
+            "travel_tourism"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "entertaining",
+            "professional_formal",
+            "conversational"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 45,
+      "buying_review_rating": 4.9,
+      "seller_url": "/seo_shafaq",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 79,
+        "score": 4.9029536
+      },
+      "gig_url": "/seo_shafaq/do-monthly-off-page-seo-service",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 330352471,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2767,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-bulk-seo-articles-and-blog-posts",
+      "title": "be your monthly bulk SEO articles and blog content writer",
+      "seller_name": "seo_shafaq",
+      "seller_id": 119839860,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c71a85475f7352173d79d5365b00f03c-1691561077437/65ccbca2-022b-409b-859d-e49599d6d10d.png",
+      "seller_display_name": "Shafaq",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/330352471/original/e1da8248bad39da8e07f7c6951dad7b58c009b42.png",
+          "type": "ImageAsset",
+          "id": "330352471_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/330352471/original/b2dcc3897b1b43891b2b6dbfc226f27b27919eea.png",
+          "type": "ImageAsset",
+          "id": "330352471_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "172145759",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/19921c1b86ee7a38b7092badd61663f0-1697887301/Leadership.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "it",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6525313701a9d70001c05645",
+          "discount_percentage": 10
+        },
+        {
+          "id": "6525313701a9d70001c05646",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "food_beverage",
+            "marketing_advertising",
+            "services",
+            "technology",
+            "travel_tourism"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "entertaining",
+            "professional_formal",
+            "conversational"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 11,
+      "buying_review_rating": 5,
+      "seller_url": "/seo_shafaq",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 79,
+        "score": 4.9029536
+      },
+      "gig_url": "/seo_shafaq/write-bulk-seo-articles-and-blog-posts",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

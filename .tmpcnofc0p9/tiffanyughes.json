@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "161705379",
+      "name": "tiffanyughes",
+      "isActivationCompleted": true,
+      "joinedAt": 1697012103,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "SGD",
+    "rate": 1.4122632309,
+    "template": "S${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "S$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 161705379,
+      "seller_username": "tiffanyughes",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 161705379,
+      "reviews": [
+        {
+          "id": "654cddd1f8dffe00010fb77f",
+          "comment": "Awesome experience ..",
+          "comment_language": "en",
+          "username": "texas_studios",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/113148b517aad0416ccbc051481dad4d-1644421702807/248768ca-22b4-4585-8a7b-2a3e62dc52ec.jpg",
+          "created_at": "2023-11-09T13:25:37",
+          "value": 5
+        },
+        {
+          "id": "654cddc5f8dffe00010fb76e",
+          "comment": "Awesome experience ..",
+          "comment_language": "en",
+          "username": "texas_studios",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/113148b517aad0416ccbc051481dad4d-1644421702807/248768ca-22b4-4585-8a7b-2a3e62dc52ec.jpg",
+          "created_at": "2023-11-09T13:25:25",
+          "value": 5
+        },
+        {
+          "id": "654cddbbf8dffe00010fb760",
+          "comment": "Awesome experience ..",
+          "comment_language": "en",
+          "username": "texas_studios",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/113148b517aad0416ccbc051481dad4d-1644421702807/248768ca-22b4-4585-8a7b-2a3e62dc52ec.jpg",
+          "created_at": "2023-11-09T13:25:15",
+          "value": 5
+        },
+        {
+          "id": "654b125bf8dffe00010e5fb4",
+          "comment": "Thanks !\n",
+          "comment_language": "unknown",
+          "username": "dynamicsdesignz",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/22f08dfbaf47e57403f63b2b4907f823-1664365762969/fc9a7ca8-9d41-40d1-93b4-3f5bc9590756.jpg",
+          "created_at": "2023-11-08T04:45:15",
+          "value": 5
+        },
+        {
+          "id": "654b123ef8dffe00010e5fa5",
+          "comment": "Thanks",
+          "comment_language": "unknown",
+          "username": "dynamicsdesignz",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/22f08dfbaf47e57403f63b2b4907f823-1664365762969/fc9a7ca8-9d41-40d1-93b4-3f5bc9590756.jpg",
+          "created_at": "2023-11-08T04:44:46",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161705379,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/London",
+    "recent_utc_offset": 0
+  },
+  "gigsData": []
+}

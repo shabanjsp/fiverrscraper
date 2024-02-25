@@ -1,0 +1,440 @@
+{
+  "seller": {
+    "user": {
+      "id": "162786745",
+      "name": "mr_hasnain132",
+      "isActivationCompleted": true,
+      "joinedAt": 1698455810,
+      "profile": {
+        "displayName": "Hasnain"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/a640160fac4834daf184c2e8a3a5dd61-1698456240823/30bc9589-e54b-44a0-9887-225625b9d72c.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "347505062"
+        },
+        {
+          "id": "348168341"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello I am an experienced video having experience in editing all types of videos. i also have lots of experience with corporate on working in their projects. The tool that i used to edit videos is adobe premier pro and adobe after effects.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "microsoft",
+        "certificationName": "best video composer",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "media science",
+        "toYear": 2018,
+        "countryCode": "PK",
+        "school": "National University of Modern Languages (NUML)",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 169,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 99,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 26
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "659a879593c3a4007696ab80",
+          "comment": "I honestly think that he did a great job. I will hire him again in the near future. He did exactly what I wanted and even better than I expected. Great job.",
+          "comment_language": "en",
+          "username": "raymon991",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-07T11:14:53",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82FBA07CF08",
+          "score": 0.6550932,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 348168341,
+          "gig_slug": "do-professional-article-synopsis-paper-and-research-work",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 38,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6569f2f7f32ad8000152206c",
+          "comment": "He is a very talented professional and his overall input was very much appreciated. Husnain goes above and beyond. I'm very thankful for Husnain's help.",
+          "comment_language": "en",
+          "username": "dapizznite",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-02T13:19:11",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO729686D72C7",
+          "score": 0.4878306,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 348168341,
+          "gig_slug": "do-professional-article-synopsis-paper-and-research-work",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a125352ffdc500015f5267",
+          "comment": "if you want your work done on time with quality should have to buy this gig. Amazing service. Highly recommended",
+          "comment_language": "en",
+          "username": "jeniferlena6",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-12T20:12:55",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO523D67776C7",
+          "score": 0.32195106,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 348168341,
+          "gig_slug": "do-professional-article-synopsis-paper-and-research-work",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 52,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65af9de8c4638c6c0eac619f",
+          "comment": "This seller is truly amazing! He is very quick to responses. I would love to work with him again in near future. Thanks!",
+          "comment_language": "en",
+          "username": "ijacksonv",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-23T11:08:38",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO317F670F185",
+          "score": 0.27029437,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 348168341,
+          "gig_slug": "do-professional-article-synopsis-paper-and-research-work",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 41,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b773beda9df3104e856760",
+          "comment": "Excellent job, very clear communication, and done very quickly. Will definitely work with him again. Would confidently recommend.",
+          "comment_language": "en",
+          "username": "agdaraz52",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-29T10:11:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO111FECF0745",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 348168341,
+          "gig_slug": "do-professional-article-synopsis-paper-and-research-work",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 48,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 26,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 162786745,
+      "seller_username": "mr_hasnain132",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 25
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 162786745,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162786745,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 348168341,
+      "category_id": 5,
+      "sub_category_id": 169,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-professional-article-synopsis-paper-and-research-work",
+      "title": "do professional article, synopsis, paper and research work",
+      "seller_name": "mr_hasnain132",
+      "seller_id": 162786745,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a640160fac4834daf184c2e8a3a5dd61-1698456240823/30bc9589-e54b-44a0-9887-225625b9d72c.jpg",
+      "seller_display_name": "Hasnain",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/348168341/original/1cc464ee687ce2f46100593d599e992fb09658f8.png",
+          "type": "ImageAsset",
+          "id": "348168341_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "research"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 26,
+      "buying_review_rating": 4.9,
+      "seller_url": "/mr_hasnain132",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 26,
+        "score": 4.923077
+      },
+      "gig_url": "/mr_hasnain132/do-professional-article-synopsis-paper-and-research-work",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 347505062,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "run-your-raw-footage-into-video-with-b-roll",
+      "title": "run your raw footage into video with b roll",
+      "seller_name": "mr_hasnain132",
+      "seller_id": 162786745,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/a640160fac4834daf184c2e8a3a5dd61-1698456240823/30bc9589-e54b-44a0-9887-225625b9d72c.jpg",
+      "seller_display_name": "Hasnain",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/347505062/original/4d9569939c6a8f74565687a5d4e866a6fc67681f.png",
+          "type": "ImageAsset",
+          "id": "347505062_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "653c681e12c0710020e16afb",
+          "id": 9366086
+        }
+      ],
+      "attachments": [
+        {
+          "id": "653c681e12c0710020e16afb",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/cx74ssufmjlvcwdy9opw",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/cx74ssufmjlvcwdy9opw.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "corporate_videos"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/mr_hasnain132",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 26,
+        "score": 4.923077
+      },
+      "gig_url": "/mr_hasnain132/run-your-raw-footage-into-video-with-b-roll",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

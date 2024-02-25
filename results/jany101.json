@@ -1,0 +1,330 @@
+{
+  "seller": {
+    "user": {
+      "id": "155574583",
+      "name": "jany101",
+      "isActivationCompleted": true,
+      "joinedAt": 1689087797,
+      "profile": {
+        "displayName": "Mahmuda Jany"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/0471972eef919426f76496dad28549a4-1705675541283/d53a8fbd-258c-47d1-824b-b79d005064ce.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "360774369"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Video Editor",
+    "description": "Hello, I am Mahmuda Akter. I am a professional video editor. Furthermore, I am a hard worker, I enjoy my work. If you hired me, I will give your 100% to your work, which will please you and encourage me. Your satisfaction in my inspiration.\r\n\r\nWork experience are,\r\n\r\n1-Adobe Premiere Pro\r\n2-Adobe After Affect\r\n3-Adobe Audition",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Creative IT",
+        "certificationName": "Video Editor",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Creative IT",
+        "certificationName": "Digital Marketing",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "sociology",
+        "toYear": 2022,
+        "countryCode": "BD",
+        "school": "Noakhali Government College",
+        "degreeTitle": "MA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      },
+      {
+        "id": "617fa67e0565f07789006d55",
+        "name": "YouTube video",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "YouTube video creator"
+      },
+      {
+        "id": "617fa67e0565f07789006d56",
+        "name": "YouTube video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "YouTube video editor"
+      },
+      {
+        "id": "617fa6440565f07789005c4b",
+        "name": "Cooking",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cooking expert"
+      },
+      {
+        "id": "617fa66e0565f07789006892",
+        "name": "Real estate video",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Real estate video creator"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 20,
+        "subCategoryId": 99,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1706116510
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bb41e2d966f80001d3c132",
+          "comment": "Excellent work. Great quality with the quick delivery as well. Would highly recommend. ",
+          "comment_language": "en",
+          "username": "fahadr123",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bac836fddcdb22d53fd2902994530a5b-1545955591687865942115/JPEG_20230627_163900_8424961865779600372.jpg",
+          "created_at": "2024-02-01T08:14:09",
+          "value": 5,
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO61E05B51084",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360774369,
+          "gig_slug": "provide-professionally-edit-videos-youtube-videos-editing",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 79,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 155574583,
+      "seller_username": "jany101",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 155574583,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 155574583,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 360774369,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "provide-professionally-edit-videos-youtube-videos-editing",
+      "title": "provide professionally youtube video editing in 24 hours",
+      "seller_name": "jany101",
+      "seller_id": 155574583,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0471972eef919426f76496dad28549a4-1705675541283/d53a8fbd-258c-47d1-824b-b79d005064ce.png",
+      "seller_display_name": "Mahmuda Jany",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "65b53ff54d41b4000ea359ae",
+          "id": 9871626
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/360774369/original/0a3effd735bb5b64f87369c51af2217cac870f51.png",
+          "type": "ImageAsset",
+          "id": "360774369_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/360774369/original/c86ad99851d9c5d2d96df6ed39982d2aae72d717.png",
+          "type": "ImageAsset",
+          "id": "360774369_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/360774369/original/18474524a175a0e63c06bc05083fee8df194a932.png",
+          "type": "ImageAsset",
+          "id": "360774369_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "65b53ff54d41b4000ea359ae",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/s3lalgykf3ygpjy3jncc",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/s3lalgykf3ygpjy3jncc.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "youtube_videos"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/jany101",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/jany101/provide-professionally-edit-videos-youtube-videos-editing",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

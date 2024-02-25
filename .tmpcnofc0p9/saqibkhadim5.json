@@ -1,0 +1,687 @@
+{
+  "seller": {
+    "user": {
+      "id": "140058464",
+      "name": "saqibkhadim5",
+      "isActivationCompleted": true,
+      "joinedAt": 1670935015,
+      "profile": {
+        "displayName": "Saqib Khadim"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/43dc9e3454ed04e3419b948548290bfc-1699880254407/75709deb-96fe-42ff-a3c0-b70bbb09fe78.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "344443438"
+        },
+        {
+          "id": "358998462"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I'm a professional Full Stack developer with 7+ years of experience in Full-Stack Web development. I am enthusiastic, dedicated, and fun to work with. During my journey along with the evolution of technology, I picked my \"Must Have\" technologies to work with, which include JavaScript, jQuery, Vue Js, NodeJS, React Js, Restful Web APIs, HTML5, CSS3 & Bootstrap. Hence by Profession a Full-stack developer, By heart a machine learning student. Anything related to PHP, LARAVEL, CODEIGNITER, YII, or any other database, Bring it On!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Prudential",
+        "certificationName": "PMP",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "Coursole",
+        "certificationName": "Graphics Designer",
+        "year": 2014
+      },
+      {
+        "receivedFrom": "Superior University",
+        "certificationName": "Web Developer",
+        "year": 2015
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Certified WordPress Developer",
+        "year": 2014
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Certified FrontEnd Developer",
+        "year": 2016
+      },
+      {
+        "receivedFrom": "Superior University",
+        "certificationName": "Flutter Progaming",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "project management",
+        "toYear": 2015,
+        "countryCode": "PK",
+        "school": "superior University",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6600565f07789006498",
+        "name": "Laravel development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Laravel developer"
+      },
+      {
+        "id": "61a4d8a8758d756a25307ba4",
+        "name": "Bootstrap 5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bootstrap 5 developer"
+      },
+      {
+        "id": "617fa6450565f07789005cbf",
+        "name": "CSS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa63c0565f07789005a06",
+        "name": "Blockchain development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blockchain developer"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "jQuery expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcd",
+        "name": "NFT marketplace development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "NFT marketplace developer"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO expert"
+      },
+      {
+        "id": "617fa63d0565f07789005a5e",
+        "name": "Branding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Branding expert"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6370565f0778900586f",
+        "name": "Android app",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Android app expert"
+      },
+      {
+        "id": "617fa6340565f07789005788",
+        "name": ".NET development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": ".NET developer"
+      },
+      {
+        "id": "617fa6470565f07789005d76",
+        "name": "DevOps",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "DevOps expert"
+      },
+      {
+        "id": "617fa6510565f07789006035",
+        "name": "Flutter",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter expert"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa63e0565f07789005a8a",
+        "name": "Business analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business analysis expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 10
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.4457364994,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bc9ee81e5a9c1c6f4bb4b4",
+          "comment": "I am thoroughly impressed with Saqib's professionalism, communication skills, responsiveness, and ability to create visually appealing websites. I plan to continue utilizing his services to enhance the appearance of my company's websites.",
+          "comment_language": "en",
+          "username": "arthur_miller74",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-02-02T09:42:55",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO412031B18C2",
+          "score": 0.6279125,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358998462,
+          "gig_slug": "design-and-build-a-responsive-custom-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 23,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a53bde153b6e7b15cf3a0c",
+          "comment": "Thank you team! Will come back",
+          "comment_language": "en",
+          "username": "makuzawilly",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-16T08:05:32",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO15F980FC81",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358998462,
+          "gig_slug": "design-and-build-a-responsive-custom-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6574c50fe0e98673f946f4e8",
+          "comment": "Exceptional communication; all our requests and desired changes were incorporated within 24 hours, from text to images—it was flawless. Thank you immensely.",
+          "comment_language": "en",
+          "username": "hankabbey18",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-12-12T07:42:48",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO717B8791981",
+          "score": 0,
+          "reviewer_industry": [
+            "technology",
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 344443438,
+          "gig_slug": "transform-figma-wireframes-into-the-best-react-and-nodejs",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 354,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6571ba9e0f67331689ce1aaa",
+          "comment": "He's a pleasure to collaborate with, delivering exactly what I needed! I'll definitely turn to him for any future Node JS work",
+          "comment_language": "en",
+          "username": "cwhilcher",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-07T12:33:47",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO6238D6154C6",
+          "score": 0,
+          "reviewer_industry": [
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 344443438,
+          "gig_slug": "transform-figma-wireframes-into-the-best-react-and-nodejs",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 85,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "655754eb1cde5f0001c89ca4",
+          "comment": "Highly professional, transparent about time expectations and pleasantly surprised by an early completion.",
+          "comment_language": "en",
+          "username": "carolyncreswel",
+          "reviewer_country_code": "AU",
+          "created_at": "2023-11-21T09:34:10",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO41794877F84",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 344443438,
+          "gig_slug": "transform-figma-wireframes-into-the-best-react-and-nodejs",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2617,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 81,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 10,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 2,
+        "business": 2
+      },
+      "user_id": 140058464,
+      "seller_username": "saqibkhadim5",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 10
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {}
+    },
+    "selling_reviews": {
+      "user_id": 140058464,
+      "reviews": [
+        {
+          "id": "63ce26d387253d00016f17ea",
+          "comment": "Cool customer. Good understanding. Pleasure to work with. ",
+          "comment_language": "en",
+          "username": "aaron_finn",
+          "reviewer_country_code": "LK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/78e9deef594678ccf444ac99142e8717-1635410559950/7e5b17d5-50cd-4957-b90e-dd697be87146.jpg",
+          "created_at": "2023-01-23T06:18:59",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 140058464,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 344443438,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "transform-figma-wireframes-into-the-best-react-and-nodejs",
+      "title": "transform figma design into the best react, next and nodejs",
+      "seller_name": "saqibkhadim5",
+      "seller_id": 140058464,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/43dc9e3454ed04e3419b948548290bfc-1699880254407/75709deb-96fe-42ff-a3c0-b70bbb09fe78.jpg",
+      "seller_display_name": "Saqib Khadim",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/344443438/original/8e1e5e3d72a60b9f12634cff7271c71d3244ef45.png",
+          "type": "ImageAsset",
+          "id": "344443438_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/344443438/original/65fed46e91398cf6c6143bc9f21a09e033feeec6.jpg",
+          "type": "ImageAsset",
+          "id": "344443438_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "landing_page"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "asp_net",
+            "html_css",
+            "php",
+            "python",
+            "react"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "gallery",
+            "booking",
+            "portfolio",
+            "dashboard"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/saqibkhadim5",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 10,
+        "score": 5
+      },
+      "gig_url": "/saqibkhadim5/transform-figma-wireframes-into-the-best-react-and-nodejs",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 358998462,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-and-build-a-responsive-custom-wordpress-website",
+      "title": "design and build a responsive, custom wordpress website",
+      "seller_name": "saqibkhadim5",
+      "seller_id": 140058464,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/43dc9e3454ed04e3419b948548290bfc-1699880254407/75709deb-96fe-42ff-a3c0-b70bbb09fe78.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/358998462/original/d2f70f1eb87924b1bb760244f21920ae2c084cde.jpg",
+          "type": "ImageAsset",
+          "id": "358998462_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/358998462/original/c5c8da14fab8ac098252b4ce71cda67833111a8d.jpg",
+          "type": "ImageAsset",
+          "id": "358998462_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "events",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "all_in_one_seo_pack",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "opencart",
+            "paypal",
+            "w3_total_cache",
+            "woocommerce",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/saqibkhadim5",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 10,
+        "score": 5
+      },
+      "gig_url": "/saqibkhadim5/design-and-build-a-responsive-custom-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "seller": {
+    "user": {
+      "id": "165023631",
+      "name": "godev_",
+      "isActivationCompleted": true,
+      "joinedAt": 1701582811,
+      "profile": {
+        "displayName": "Atiqul Islam"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "HE",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/5332117b02b2794cee16843a2fdd7da8-1706606252865/689f5779-8dd0-4a7d-b756-c9ca04122c0b.png"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "355496939"
+        },
+        {
+          "id": "357397420"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "WordPress Website Specialist with Elementor Pro, Divi",
+    "description": "Hey, I'm Atiqul, experienced web wizard with a solid four years of expertise in WordPress, Elementor Pro, Divi, and more.\r\n\r\nI'm all about crafting pixel-perfect websites that not only look good but work like a charm. With a knack for turning ideas into interactive online experiences, I bring your vision to life. From seamless WordPress customization to rocking it with Elementor Pro and Divi, I've got the tools to make your website stand out.\r\n\r\nLet's make your online presence shine – your dream website is just a chat away! ✨🌐",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "eShikhon",
+        "certificationName": "Web Development",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "Creative IT Institute",
+        "certificationName": "Web Development",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "habibullah bahar university",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa65b0565f07789006348",
+        "name": "Install WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress instalation expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress SEO expert"
+      },
+      {
+        "id": "617fa66d0565f07789006849",
+        "name": "Python",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Python developer"
+      },
+      {
+        "id": "617fa6660565f0778900664c",
+        "name": "MySQL",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MySQL expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c7d",
+        "name": "Website builders & CMS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website builders & cms expert"
+      },
+      {
+        "id": "617fa6620565f07789006528",
+        "name": "LMS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "LMS expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c86",
+        "name": "Website editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website editor"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6600565f0778900648c",
+        "name": "Landing page development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page developer"
+      },
+      {
+        "id": "617fa6600565f0778900648d",
+        "name": "Landing page optimization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page optimization expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c87",
+        "name": "Website landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website landing page expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf8",
+        "name": "WordPress landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress landing page expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa6480565f07789005db4",
+        "name": "Divi theme development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Divi theme developer"
+      },
+      {
+        "id": "617fa6480565f07789005db3",
+        "name": "Divi",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Divi expert"
+      },
+      {
+        "id": "617fa67d0565f07789006d11",
+        "name": "WP installation & setup",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WP installation & setup expert"
+      },
+      {
+        "id": "617fa6570565f077890061e8",
+        "name": "Gutenberg",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Gutenberg expert"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Customer service representative"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Illustrator expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65ae076943fa890001be0e23",
+          "title": "Interior Design Landing Page",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65ae076943fa890001be0e24",
+                "attachment": {
+                  "metadata": {
+                    "height": 1266,
+                    "width": 2064
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7c7ae835dc945bfefeefca467b2f252d-1705903964593/Interior%20Design%20Landing%20Page.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65ae078b43fa890001be0e34",
+          "title": "Beauty Store Landing Page",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65ae078b43fa890001be0e35",
+                "attachment": {
+                  "metadata": {
+                    "height": 1266,
+                    "width": 2064
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/2e1aef211a057996cb70d2d1c000b00c-1705904005372/Beauty%20Store%20Landing%20Page.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65ae07a540feba0001a43936",
+          "title": "Digital Studio Landing Page",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "65ae07a540feba0001a43937",
+                "attachment": {
+                  "metadata": {
+                    "height": 1266,
+                    "width": 2064
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/61d15ab9eec399405bd7bef775931a4a-1705904032210/Digital%20Studio%20Landing%20Page.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 3
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1702365201
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 15
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "658728aaaedd4320285f31be",
+          "comment": "Godev is a great person to work with. He is very professional and competed my web page in a timely manner.",
+          "comment_language": "en",
+          "username": "donaldahardage",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/38229aad05b21aae67c0a82109aec221-1653381867095/ffdd687a-741b-4dc8-ac8d-ceb7faa8c122.jpg",
+          "created_at": "2023-12-24T13:05:08",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82F954FBF08",
+          "score": 0.27088448,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 355496939,
+          "gig_slug": "design-redesign-revamp-wordpress-website-with-elementor-or-figma-to-wordpress",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 409,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b74ed141e5c52d8c234693",
+          "comment": "Professional and timely and delivered exactly what I needed when I needed it",
+          "comment_language": "en",
+          "username": "rosemaryddrummo",
+          "reviewer_country_code": "NZ",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e2a0122b26b59c44d96e8adb0efae771-1656657096305/8bb718a5-4350-47f3-b67e-a8e3a91bd15b.jpg",
+          "created_at": "2024-01-29T07:59:48",
+          "value": 5,
+          "reviewer_country": "New Zealand",
+          "encrypted_order_id": "FO629FD32E748",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 355496939,
+          "gig_slug": "design-redesign-revamp-wordpress-website-with-elementor-or-figma-to-wordpress",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 53,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b111ce500eff518645ba62",
+          "comment": "One of the best wordpress developer i have work with, Great experience.",
+          "comment_language": "en",
+          "username": "julionfernandez",
+          "reviewer_country_code": "",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/05e496a48f0d5dce10eae7f7990b2da9-1655838565659/e0188a02-3215-45f6-9f01-7362949ad393.jpg",
+          "created_at": "2024-01-24T13:44:26",
+          "value": 5,
+          "reviewer_country": "",
+          "encrypted_order_id": "FO2BFBFD4342",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 355496939,
+          "gig_slug": "design-redesign-revamp-wordpress-website-with-elementor-or-figma-to-wordpress",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 162,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b0f2f97716c46252980b2d",
+          "comment": "Easy to communicate with and Great Wordpress developer.",
+          "comment_language": "en",
+          "username": "deborahwrocha",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/550d40fa1c6c038454abd0cbb56fecda-1650110102774/3ef87aeb-70bd-41ee-b99a-3b3dec239459.jpg",
+          "created_at": "2024-01-24T11:58:05",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51DF3F5D005",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 355496939,
+          "gig_slug": "design-redesign-revamp-wordpress-website-with-elementor-or-figma-to-wordpress",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 285,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65af675f08246e65371f1e20",
+          "comment": "It was a pleasure to work with. Keep up the good work!",
+          "comment_language": "en",
+          "username": "dorothyvryan",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-23T07:42:29",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51DF23F9C05",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 355496939,
+          "gig_slug": "design-redesign-revamp-wordpress-website-with-elementor-or-figma-to-wordpress",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 67,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 15,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 165023631,
+      "seller_username": "godev_",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 15
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 165023631,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165023631,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 355496939,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-redesign-revamp-wordpress-website-with-elementor-or-figma-to-wordpress",
+      "title": "design, build wordpress website, wordpress blog website or figma to elementor",
+      "seller_name": "godev_",
+      "seller_id": 165023631,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5332117b02b2794cee16843a2fdd7da8-1706606252865/689f5779-8dd0-4a7d-b756-c9ca04122c0b.png",
+      "seller_display_name": "Atiqul Islam",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/355496939/original/845570575c2386040a23cf263babd59238a3f009.jpg",
+          "type": "ImageAsset",
+          "id": "355496939_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/355496939/original/0f317e051115b51c497fcc35ea68e9b38a31ba97.jpg",
+          "type": "ImageAsset",
+          "id": "355496939_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "he",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "65a662e8cf98e20001f0ec2e",
+          "discount_percentage": 5
+        },
+        {
+          "id": "65a662e8cf98e20001f0ec2f",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "analytics",
+            "form",
+            "membership",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 15,
+      "buying_review_rating": 5,
+      "seller_url": "/godev_",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 15,
+        "score": 5
+      },
+      "gig_url": "/godev_/design-redesign-revamp-wordpress-website-with-elementor-or-figma-to-wordpress",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 357397420,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-elementor-landing-page-responsive-wordpress-landing-page",
+      "title": "build elementor landing page, responsive wordpress landing page",
+      "seller_name": "godev_",
+      "seller_id": 165023631,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5332117b02b2794cee16843a2fdd7da8-1706606252865/689f5779-8dd0-4a7d-b756-c9ca04122c0b.png",
+      "seller_display_name": "Atiqul Islam",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357397420/original/2815fc5e378007557a0b70b0ac43db8d9293d3c0.jpg",
+          "type": "ImageAsset",
+          "id": "357397420_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "he",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "65915b86f55fee0001876029",
+          "discount_percentage": 5
+        },
+        {
+          "id": "65915b86f55fee000187602a",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "landing_page"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "inventory",
+            "form",
+            "chat",
+            "membership",
+            "faq",
+            "gallery"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/godev_",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 15,
+        "score": 5
+      },
+      "gig_url": "/godev_/build-elementor-landing-page-responsive-wordpress-landing-page",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

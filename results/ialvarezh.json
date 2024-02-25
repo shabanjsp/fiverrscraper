@@ -1,0 +1,168 @@
+{
+  "seller": {
+    "user": {
+      "id": "147886988",
+      "name": "ialvarezh",
+      "isActivationCompleted": true,
+      "joinedAt": 1679843189,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Guatemala",
+        "countryCode": "GT"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 147886988,
+      "seller_username": "ialvarezh",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 147886988,
+      "reviews": [
+        {
+          "id": "6561fab8644f4e0001d8a568",
+          "comment": "Great experience, Thank you so much!",
+          "comment_language": "en",
+          "username": "art8ight",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c845c6e8ff41023027c2a7ce91497a38-1626677199760/534c25d0-35d4-4a50-a112-d1b69bdb6772.jpg",
+          "created_at": "2023-11-25T13:46:32",
+          "value": 5
+        },
+        {
+          "id": "655cdca35c052f0001b92024",
+          "comment": "good experience ",
+          "comment_language": "en",
+          "username": "ninjadesigners",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6ce4e38e55d60bd2893cdf26f9a3d034-588830741669287217963/JPEG_20221124_162337_8964409335961237040.jpg",
+          "created_at": "2023-11-21T16:36:51",
+          "value": 5
+        },
+        {
+          "id": "6557f6461cde5f0001c930ec",
+          "comment": "Kind and result-oriented communication. \nThanks a lot!",
+          "comment_language": "en",
+          "username": "digitaldeniz",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4fcf9878e7092ff42b6b58548b279fdd-1601585927381/104ad3b6-1373-455b-bca1-76c939ae017e.jpg",
+          "created_at": "2023-11-17T23:24:54",
+          "value": 5
+        },
+        {
+          "id": "644801459db116000195b27b",
+          "comment": "Thank you so much for the experience, I wish you all the best and I'm always here for you. ❤️❤️",
+          "comment_language": "en",
+          "username": "cecilialorsten",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7d177a7bf398b16a5b73b887879b5c64-1651757256372/9880571e-9ea9-4e47-9b4a-ed925dc8ee2b.jpg",
+          "created_at": "2023-04-25T16:35:17",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 147886988,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Guatemala",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

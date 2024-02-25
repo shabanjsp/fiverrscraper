@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "165278445",
+      "name": "manaeli",
+      "isActivationCompleted": true,
+      "joinedAt": 1701930241,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 165278445,
+      "seller_username": "manaeli",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 165278445,
+      "reviews": [
+        {
+          "id": "65af3b3ea8e68f00011397ae",
+          "comment": "Working with Manaeli was an amazing experience. Thank you.",
+          "comment_language": "en",
+          "username": "app_cake",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2f184bbb2c35df9cbed3a1391b5f33e4-1698576348620/4bf8a6a0-ede4-475a-8bd5-30ed37bc898b.png",
+          "created_at": "2024-01-23T04:06:22",
+          "value": 5
+        },
+        {
+          "id": "65ac9b8bf47f62000187ab4d",
+          "comment": "Very helpful buyer, love to work with him.",
+          "comment_language": "en",
+          "username": "ui_verse",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9b26a2ad64e2e48b4560c0d800344aa6-1706440035083/d9dd688a-810d-4828-a057-1cb22de3041f.jpg",
+          "created_at": "2024-01-21T04:20:27",
+          "value": 5
+        },
+        {
+          "id": "65ab557decc5110001c26a74",
+          "comment": "Amazing experience working with you thanks!",
+          "comment_language": "en",
+          "username": "adsfrenzy",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9bf408283dd1bb74d1276629047cb115-1682868270925/13426284-2360-4501-8143-71fd6180bacf.png",
+          "created_at": "2024-01-20T05:09:17",
+          "value": 5
+        },
+        {
+          "id": "65a892062f49060001a27493",
+          "comment": "Customer satisfaction is my first priority. Thank you so much and best of luck.\n",
+          "comment_language": "en",
+          "username": "digital_bee1",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/459039c9b7f32d6f57676715d8296f60-1672835348431/d84ee1b9-d675-4f8b-b4a2-da6fd68086b5.png",
+          "created_at": "2024-01-18T02:50:47",
+          "value": 5
+        },
+        {
+          "id": "65a75c4fbe67470001eede17",
+          "comment": "Great Buyer. Stay blessed, and I am here when you need me.",
+          "comment_language": "en",
+          "username": "webgenius0",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/262164f1e5ae888fe0652def6077c6a9-1706351291929/8025c51b-ef37-496a-b3f0-d67eb9f209e5.png",
+          "created_at": "2024-01-17T04:49:19",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165278445,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

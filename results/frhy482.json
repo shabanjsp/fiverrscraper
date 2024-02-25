@@ -1,0 +1,833 @@
+{
+  "seller": {
+    "user": {
+      "id": "113606281",
+      "name": "frhy482",
+      "isActivationCompleted": true,
+      "joinedAt": 1630999370,
+      "profile": {
+        "displayName": "Alinya"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 5,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "238067031"
+        },
+        {
+          "id": "315179313"
+        },
+        {
+          "id": "320572694"
+        },
+        {
+          "id": "344933632"
+        },
+        {
+          "id": "344934353"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Thanks for checking my profile.\r\nI'm a Professional VIDEO EDITOR and a YOGA INSTRUCTOR with more than 5 years of experience. My primary motive is to deliver a unique product that brings your imagination to life.\r\n\r\nMy main goal is to provide the best possible service to every single one of my clients, each project is seen as a huge blessing and honor to work on and we make sure always do more than we get compensated for.\r\n\r\nI love to be part of someone's success story, Make me part of yours!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "facebook marketing",
+        "toYear": 2005,
+        "countryCode": "AU",
+        "school": "paavai college of engineering",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      },
+      {
+        "id": "617fa6690565f0778900674c",
+        "name": "Photo editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photo editor"
+      },
+      {
+        "id": "617fa6480565f07789005d8f",
+        "name": "Digital marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital marketer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 7,
+        "subCategoryId": 523,
+        "nestedCategoryId": 2662
+      },
+      {
+        "categoryId": 12,
+        "subCategoryId": 463,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 482,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 40
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "NO_LEVEL",
+    "responseTime": {
+      "inHours": 25
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6582bfe55c478900012b3894",
+          "comment": "on time and gave quality videos thanks! ",
+          "comment_language": "en",
+          "username": "artstyintro",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-20T10:37:30",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO311D575F4C3",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 315179313,
+          "gig_slug": "create-300-cooking-recipes-videos-for-youtube-video",
+          "gig_category": 7,
+          "gig_sub_category": 523,
+          "gig_nested_sub_category": 2662,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6581a7cf1105490001baa822",
+          "comment": "Thank you ",
+          "comment_language": "en",
+          "username": "beth05",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-20T07:07:20",
+          "value": 4.7,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31DB53B7907",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 344934353,
+          "gig_slug": "create-300-cooking-recipes-videos-for-youtube-video-d1ee",
+          "gig_category": 20,
+          "gig_sub_category": 482,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 77,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "657f0a6edbf8680001012800",
+          "comment": "Good value for price. Originally didn’t receive all videos but was sent more after. Pleased with service.",
+          "comment_language": "en",
+          "username": "frankieg15",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2d8d5f822d6e0b6422c1920eb67a1df5-820800441692933623.512703/5FF13BF5-0C33-4577-B1D6-B294AAC8DD75",
+          "created_at": "2023-12-18T02:17:04",
+          "value": 4.7,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO82F82B93308",
+          "score": 0,
+          "reviewer_industry": [
+            "beauty_and_cosmetics"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 315179313,
+          "gig_slug": "create-300-cooking-recipes-videos-for-youtube-video",
+          "gig_category": 7,
+          "gig_sub_category": 523,
+          "gig_nested_sub_category": 2662,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 30,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "657ee53fdbf8680001011443",
+          "comment": "Bonne expérience ",
+          "comment_language": "fr",
+          "username": "worldnftom",
+          "reviewer_country_code": "FR",
+          "created_at": "2023-12-31T12:10:27",
+          "value": 4,
+          "reviewer_country": "France",
+          "encrypted_order_id": "FO15EC59C881",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 315179313,
+          "gig_slug": "create-300-cooking-recipes-videos-for-youtube-video",
+          "gig_category": 7,
+          "gig_sub_category": 523,
+          "gig_nested_sub_category": 2662,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "655f99531ed21300014d5911",
+          "comment": "Didn’t delivery ",
+          "comment_language": "en",
+          "username": "eddieferreira",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7eacedda8c63684668d710a34ca58763-1532602200594/2018-07-10%2012.55.53.jpg",
+          "created_at": "2023-11-30T14:15:45",
+          "value": 1,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO2BCB4C6E42",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 238067031,
+          "gig_slug": "provide-300-relaxing-meditation-music-sleep-yoga-music-for-youtube-videos",
+          "gig_category": 12,
+          "gig_sub_category": 463,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 40,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 40,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 2,
+        "business": 1
+      },
+      "user_id": 113606281,
+      "seller_username": "frhy482",
+      "star_summary": {
+        "communication_valuation": 4.8,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 36
+        }
+      ],
+      "average_valuation": 4.8,
+      "dynamicTranslations": {
+        "beauty_and_cosmetics": "Beauty & Cosmetics"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 113606281,
+      "reviews": [
+        {
+          "id": "62850e98b8fb370001b30837",
+          "comment": "great thanks",
+          "comment_language": "en-US",
+          "username": "sajjadsub941ali",
+          "reviewer_country_code": "PK",
+          "created_at": "2022-05-18T15:19:52",
+          "value": 5
+        },
+        {
+          "id": "625f6694d10d1b00014ed0af",
+          "comment": "thanks you again buy my video",
+          "comment_language": "en-US",
+          "username": "sajjadsub941ali",
+          "reviewer_country_code": "PK",
+          "created_at": "2022-04-20T01:49:08",
+          "value": 5
+        },
+        {
+          "id": "6252c53f2780d70001cafa57",
+          "comment": "thanks great buyer",
+          "comment_language": "en-US",
+          "username": "sajjadsub941ali",
+          "reviewer_country_code": "PK",
+          "created_at": "2022-04-10T11:53:35",
+          "value": 5
+        },
+        {
+          "id": "624db42c4910a70001b1bfdf",
+          "comment": "great",
+          "comment_language": "en-US",
+          "username": "sajjadsub941ali",
+          "reviewer_country_code": "PK",
+          "created_at": "2022-04-06T15:39:24",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 113606281,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 315179313,
+      "category_id": 7,
+      "sub_category_id": 523,
+      "nested_sub_category_id": 2662,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-300-cooking-recipes-videos-for-youtube-video",
+      "title": "create 300 cooking  recipes videos for youtube video",
+      "seller_name": "frhy482",
+      "seller_id": 113606281,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/946944ebbbfdc8756a38776d376cc4f0-1630999887350/7b21953b-2438-450d-b002-7ce9718cbeb2.jpg",
+      "seller_display_name": "Alinya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/315179313/original/eaf0ac94191ee803dbaafef6311b548731c101d5.png",
+          "type": "ImageAsset",
+          "id": "315179313_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "purpose",
+          "value": [
+            "social_media"
+          ]
+        },
+        {
+          "type": "service_type",
+          "value": [
+            "cooking_video"
+          ]
+        },
+        {
+          "type": "dish",
+          "value": [
+            "fast_food"
+          ]
+        },
+        {
+          "type": "world_cuisine_type",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 29,
+      "buying_review_rating": 4.9,
+      "seller_url": "/frhy482",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 40,
+        "score": 4.8083334
+      },
+      "gig_url": "/frhy482/create-300-cooking-recipes-videos-for-youtube-video",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 344933632,
+      "category_id": 20,
+      "sub_category_id": 482,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-500-motivational-short-instagram-reels-and-youtube-short",
+      "title": "create 500 motivational short instagram reels and youtube short",
+      "seller_name": "frhy482",
+      "seller_id": 113606281,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/946944ebbbfdc8756a38776d376cc4f0-1630999887350/7b21953b-2438-450d-b002-7ce9718cbeb2.jpg",
+      "seller_display_name": "Alinya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6528b1905e73f0001400a49f",
+          "id": 9279936
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/344933632/original/e31ff37dd405270d928b4653845ec35e3677b218.png",
+          "type": "ImageAsset",
+          "id": "344933632_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/344933632/original/853f3779eb4f7fbc829763a598b98b870406f8ed.png",
+          "type": "ImageAsset",
+          "id": "344933632_2"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6528b1905e73f0001400a49f",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/utems1r6uvje6bzzbokr",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/utems1r6uvje6bzzbokr.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "youtube"
+          ]
+        },
+        {
+          "type": "video_style",
+          "value": [
+            "mixed_media"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "reels",
+            "shorts"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 6,
+      "buying_review_rating": 5,
+      "seller_url": "/frhy482",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 40,
+        "score": 4.8083334
+      },
+      "gig_url": "/frhy482/create-500-motivational-short-instagram-reels-and-youtube-short",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 344934353,
+      "category_id": 20,
+      "sub_category_id": 482,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-300-cooking-recipes-videos-for-youtube-video-d1ee",
+      "title": "create 300 cooking recipes videos for youtube video",
+      "seller_name": "frhy482",
+      "seller_id": 113606281,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/946944ebbbfdc8756a38776d376cc4f0-1630999887350/7b21953b-2438-450d-b002-7ce9718cbeb2.jpg",
+      "seller_display_name": "Alinya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/344934353/original/57cb3912d5d1e88ee1c4567c05ca4cbe78c8d085.png",
+          "type": "ImageAsset",
+          "id": "344934353_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6528b3654b29be0023fecc4e",
+          "id": 9279955
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6528b3654b29be0023fecc4e",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/pvqpzggnugqc1brtuqzp",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/pvqpzggnugqc1brtuqzp.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "youtube"
+          ]
+        },
+        {
+          "type": "video_style",
+          "value": [
+            "mixed_media"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "reels",
+            "shorts"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 4.8,
+      "seller_url": "/frhy482",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 40,
+        "score": 4.8083334
+      },
+      "gig_url": "/frhy482/create-300-cooking-recipes-videos-for-youtube-video-d1ee",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 238067031,
+      "category_id": 12,
+      "sub_category_id": 463,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "provide-300-relaxing-meditation-music-sleep-yoga-music-for-youtube-videos",
+      "title": "provide 300 relaxing meditation music sleep, yoga music for youtube videos",
+      "seller_name": "frhy482",
+      "seller_id": 113606281,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/946944ebbbfdc8756a38776d376cc4f0-1630999887350/7b21953b-2438-450d-b002-7ce9718cbeb2.jpg",
+      "seller_display_name": "Alinya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "61d29d7cf5eed40017f4d02a",
+          "id": "238067031_61d29d7cf5eed40017f4d02a"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/238067031/original/355ed9b96cf90d62dd5f4be0110c49769a1653d9.png",
+          "type": "ImageAsset",
+          "id": "238067031_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "61d29d7cf5eed40017f4d02a",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/g5ucvjvb2oa0zbr4bvog"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "mixing_style",
+          "value": [
+            "seamless_loop",
+            "solfeggio",
+            "other_none"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 0.6,
+      "seller_url": "/frhy482",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 40,
+        "score": 4.8083334
+      },
+      "gig_url": "/frhy482/provide-300-relaxing-meditation-music-sleep-yoga-music-for-youtube-videos",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 320572694,
+      "category_id": 20,
+      "sub_category_id": 482,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-600-funny-pets-shorts-youtube-shorts-and-instagram-reels",
+      "title": "create 500 motivational shorts instagram reels and youtube short",
+      "seller_name": "frhy482",
+      "seller_id": 113606281,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/946944ebbbfdc8756a38776d376cc4f0-1630999887350/7b21953b-2438-450d-b002-7ce9718cbeb2.jpg",
+      "seller_display_name": "Alinya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/320572694/original/8b3469b82976e77a4501e7aa1737e346e41c38fc.png",
+          "type": "ImageAsset",
+          "id": "320572694_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/320572694/original/a391638b627e2868cabe0e8317d4db2e2a648c66.png",
+          "type": "ImageAsset",
+          "id": "320572694_2"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "64e40d7fe96124001dce88a0",
+          "id": 8957352
+        }
+      ],
+      "attachments": [
+        {
+          "id": "64e40d7fe96124001dce88a0",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/gbq5gpzqm1tjxgvw0hlv",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_0.978077,PLACEHOLDER/gbq5gpzqm1tjxgvw0hlv.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "youtube"
+          ]
+        },
+        {
+          "type": "video_style",
+          "value": [
+            "mixed_media"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "reels",
+            "shorts"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/frhy482",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 40,
+        "score": 4.8083334
+      },
+      "gig_url": "/frhy482/create-600-funny-pets-shorts-youtube-shorts-and-instagram-reels",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

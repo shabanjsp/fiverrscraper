@@ -1,0 +1,383 @@
+{
+  "seller": {
+    "user": {
+      "id": "157902501",
+      "name": "azka_azeem",
+      "isActivationCompleted": true,
+      "joinedAt": 1691941264,
+      "profile": {
+        "displayName": "Azka Azeem"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/cce12b472a2c7b71ca86f2b6d1798d1d-1694328169298/e14257ad-dbbf-473e-ac67-372c762ed17a.jpeg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "360937251"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello everyone, I'm a graduate of Mathematics degree. I am best experienced in mathematics and statistics. Are you confused about mathematics or any kind of statistics project? And do you want any help in probability? Then contact me to solve your problems as I'm good at those areas. I can solve math and for you. And you can get the best as my desire is to serve my clients the best satisfied and reliable service.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "university",
+        "certificationName": "tutoing",
+        "year": 2023
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "mathematics",
+        "toYear": 2022,
+        "countryCode": "PK",
+        "school": "COMSATS University, Pakistan",
+        "degreeTitle": "PHD"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6740565f07789006a3d",
+        "name": "Statistical analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Statistical analyst"
+      },
+      {
+        "id": "617fa6640565f07789006597",
+        "name": "Math algebra",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Math algebra expert"
+      },
+      {
+        "id": "617fa6610565f077890064fb",
+        "name": "Linear algebra",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Linear algebr expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 7,
+        "subCategoryId": 77,
+        "nestedCategoryId": 2430
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 5
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c5f3974f8eaf753b0b7dc6",
+          "comment": "Nicely work done highly recommended",
+          "comment_language": "en",
+          "username": "matthewallison8",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-09T09:42:59",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3120C071AC3",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360937251,
+          "gig_slug": "assist-in-mathematics-statistics-calculus-algebra-probability-math-assignment",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 48,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b15f4c7716c46252981859",
+          "comment": "Outstanding work. Well communication and fast delivery. I will work with you in future also. Many thanks",
+          "comment_language": "en",
+          "username": "johaniarrobino",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-24T19:05:02",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO417F8CAFF84",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360937251,
+          "gig_slug": "assist-in-mathematics-statistics-calculus-algebra-probability-math-assignment",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 26,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "651858ede4aac80001718b81",
+          "comment": "This was awesome! Thank you so much for handling my project so quickly, professionally, and free from plagiarism. Thank you so much",
+          "comment_language": "en",
+          "username": "stevenramirez9",
+          "reviewer_country_code": "US",
+          "created_at": "2023-10-14T17:20",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82E9F004708",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 338858533,
+          "gig_slug": "help-in-international-relations-political-science-and-international-politics",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 27,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65170ca8e4aac8000170b6de",
+          "comment": "I am very happy with the overall experience I had with this seller. She was professional, efficient, and she delivered a high-quality. I would definitely recommend.",
+          "comment_language": "en",
+          "username": "sheldonschleb",
+          "reviewer_country_code": "US",
+          "created_at": "2023-10-13T17:42:15",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2174DD34386",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 338858533,
+          "gig_slug": "help-in-international-relations-political-science-and-international-politics",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "651511555ae7540001e7e020",
+          "comment": "I am extremely pleased with the work that was done, and I want to express my utmost satisfaction with the quality. It was executed exceptionally well.",
+          "comment_language": "en",
+          "username": "josejimene6",
+          "reviewer_country_code": "US",
+          "created_at": "2023-09-28T11:03:19",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1174A526587",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 338858533,
+          "gig_slug": "help-in-international-relations-political-science-and-international-politics",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 28,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 5,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 157902501,
+      "seller_username": "azka_azeem",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 5
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 157902501,
+      "reviews": [
+        {
+          "id": "656361beb4b7f1000142ae81",
+          "comment": "Great working for them\n",
+          "comment_language": "en",
+          "username": "zarwa_mehar",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a1ea67ec7f87cd94c62bc62a3ee12d54-1697995009074/0d8f6863-3ff6-44e4-98eb-53f94a9cd7f9.jpeg",
+          "created_at": "2023-11-26T15:18:22",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 157902501,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 360937251,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2430,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "assist-in-mathematics-statistics-calculus-algebra-probability-math-assignment",
+      "title": "assist in mathematics, statistics, calculus algebra probability, math assignment",
+      "seller_name": "azka_azeem",
+      "seller_id": 157902501,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/cce12b472a2c7b71ca86f2b6d1798d1d-1694328169298/e14257ad-dbbf-473e-ac67-372c762ed17a.jpeg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/360937251/original/f9b9795b520e276e03c9138c73e7175f8a033ade.jpg",
+          "type": "ImageAsset",
+          "id": "360937251_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "basic_math",
+            "finite_math",
+            "statistics"
+          ]
+        },
+        {
+          "type": "grade_level",
+          "value": [
+            "graduate"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/azka_azeem",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/azka_azeem/assist-in-mathematics-statistics-calculus-algebra-probability-math-assignment",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

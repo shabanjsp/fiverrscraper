@@ -1,0 +1,852 @@
+{
+  "seller": {
+    "user": {
+      "id": "67282436",
+      "name": "narayanbnl",
+      "isActivationCompleted": true,
+      "joinedAt": 1516981473,
+      "profile": {
+        "displayName": "Narayan"
+      },
+      "address": {
+        "countryName": "India",
+        "countryCode": "IN"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/f09476dc6d91486d388c99e09cc08f2e-672824361647918585.744285/BAA98E65-4E03-458A-B22C-70275E1C37DE"
+    },
+    "approvedGigsCount": 5,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "315774598"
+        },
+        {
+          "id": "325397429"
+        },
+        {
+          "id": "327058661"
+        },
+        {
+          "id": "330713038"
+        },
+        {
+          "id": "333728203"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Our Concern is Quality not Quantity",
+    "description": "Hello my, Dear !! My name is Ram narayan and I am a professional graphic designer and 2D Animator. I have 4 years of experience. I like my work so I do it with my heart.\r\nI am an expert in illustrator, Photoshop, Animate cc and After effects.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "bachelor of computer applications bca",
+        "toYear": 2016,
+        "countryCode": "IN",
+        "school": "Punjab universty",
+        "degreeTitle": "OTHER"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6370565f0778900588d",
+        "name": "Animation",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Animator"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 20,
+        "subCategoryId": 228,
+        "nestedCategoryId": 2441
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 235,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 482,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 9
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c48e74f67a3a0001f0bc31",
+          "comment": "Good work on the storyboard",
+          "comment_language": "en",
+          "username": "trisinghd",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-02-08T08:21:45",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO41204FE6E42",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 333728203,
+          "gig_slug": "create-2d-premium-quality-animation-for-youtube",
+          "gig_category": 20,
+          "gig_sub_category": 482,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 89,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65ad129ae7303e00018255ed",
+          "comment": "Excellent work on the animation. ",
+          "comment_language": "en",
+          "username": "trisinghd",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-21T13:54:41",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO211EB03AEC4",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 333728203,
+          "gig_slug": "create-2d-premium-quality-animation-for-youtube",
+          "gig_category": 20,
+          "gig_sub_category": 482,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 89,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6595adfbde307a0001edb6bd",
+          "comment": "Excellent visualisation and storytelling.",
+          "comment_language": "en",
+          "username": "trisinghd",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-03T19:00:17",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO311DEB00BC3",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 333728203,
+          "gig_slug": "create-2d-premium-quality-animation-for-youtube",
+          "gig_category": 20,
+          "gig_sub_category": 482,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 89,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "658dd124d628ec0001853bbe",
+          "comment": "Outstanding work on the animation again. Excellent attention to details. Highly recommended",
+          "comment_language": "en",
+          "username": "trisinghd",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-12-28T19:50:59",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO4239F08CEC8",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 333728203,
+          "gig_slug": "create-2d-premium-quality-animation-for-youtube",
+          "gig_category": 20,
+          "gig_sub_category": 482,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 89,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6576de5ca20623000191d0d9",
+          "comment": "Excellent work. Very talented and creative animator and storyteller. Many different angles were used in the animation. Highly recommended.",
+          "comment_language": "en",
+          "username": "trisinghd",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-12-11T10:36:51",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO21D8FF17788",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 333728203,
+          "gig_slug": "create-2d-premium-quality-animation-for-youtube",
+          "gig_category": 20,
+          "gig_sub_category": 482,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 89,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 9,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 67282436,
+      "seller_username": "narayanbnl",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 9
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 67282436,
+      "reviews": [
+        {
+          "id": "65b2a4e8756b9d0001745029",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "provideos1",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6c848b8b1eb383d3ec0e0561d8fde094-1697392305734/bf524337-b21d-4894-8834-e7c25113cbeb.jpg",
+          "created_at": "2024-01-25T18:14",
+          "value": 5
+        },
+        {
+          "id": "65afebc2756b9d000172ab3c",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "mannan110",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7e6b8c14d6f1ff1d5e771a90f7da059f-1542866601701023872875/JPEG_20231126_233752_6316955184262510057.jpg",
+          "created_at": "2024-01-23T16:39:30",
+          "value": 5
+        },
+        {
+          "id": "65a3f014be67470001ecb7db",
+          "comment": "Love to do this Job with You.",
+          "comment_language": "en",
+          "username": "mannan110",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7e6b8c14d6f1ff1d5e771a90f7da059f-1542866601701023872875/JPEG_20231126_233752_6316955184262510057.jpg",
+          "created_at": "2024-01-14T14:30:44",
+          "value": 5
+        },
+        {
+          "id": "659d61df369cc9000122b0ce",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "mannan110",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7e6b8c14d6f1ff1d5e771a90f7da059f-1542866601701023872875/JPEG_20231126_233752_6316955184262510057.jpg",
+          "created_at": "2024-01-09T15:10:24",
+          "value": 5
+        },
+        {
+          "id": "65998ad0369cc9000120504e",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "mannan110",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7e6b8c14d6f1ff1d5e771a90f7da059f-1542866601701023872875/JPEG_20231126_233752_6316955184262510057.jpg",
+          "created_at": "2024-01-06T17:16:01",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 67282436,
+    "currency": "INR",
+    "locale": "en-US",
+    "timezone": "Asia/Kolkata",
+    "recent_utc_offset": -330
+  },
+  "gigsData": [
+    {
+      "gig_id": 333728203,
+      "category_id": 20,
+      "sub_category_id": 482,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-2d-premium-quality-animation-for-youtube",
+      "title": "create 2d premium quality animation for youtube",
+      "seller_name": "narayanbnl",
+      "seller_id": 67282436,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f09476dc6d91486d388c99e09cc08f2e-672824361647918585.744285/BAA98E65-4E03-458A-B22C-70275E1C37DE",
+      "seller_display_name": "Narayan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 1,
+          "attachment_id": "64d9251b78610f000e2129ca",
+          "id": 8903858
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/333728203/original/71323b1646db9c4b2386230111e7654b0a465754.png",
+          "type": "ImageAsset",
+          "id": "333728203_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/333728203/original/d886754f2c5af3c5f90c439dd59d29de536d8842.png",
+          "type": "ImageAsset",
+          "id": "333728203_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/333728203/original/c1c964ec2b888eb3e8bc8b8bfe165620e00e848f.png",
+          "type": "ImageAsset",
+          "id": "333728203_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "64d9251b78610f000e2129ca",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/biqvtrsyhu1inn9cmvr3",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/biqvtrsyhu1inn9cmvr3.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "youtube"
+          ]
+        },
+        {
+          "type": "video_style",
+          "value": [
+            "animation"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "stories"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 7,
+      "buying_review_rating": 5,
+      "seller_url": "/narayanbnl",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/narayanbnl/create-2d-premium-quality-animation-for-youtube",
+      "is_seller_unavailable": false,
+      "price_i": 60,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 327058661,
+      "category_id": 20,
+      "sub_category_id": 482,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "2d-animation-videos-for-youtube",
+      "title": "2d animation videos for youtube",
+      "seller_name": "narayanbnl",
+      "seller_id": 67282436,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f09476dc6d91486d388c99e09cc08f2e-672824361647918585.744285/BAA98E65-4E03-458A-B22C-70275E1C37DE",
+      "seller_display_name": "Narayan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 1,
+          "attachment_id": "64ac4a5bdd7c61001d22a7ce",
+          "id": 8687077
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/327058661/original/6d2f49ecc6ad76c93b1b6ed6594f6cb745afcecc.png",
+          "type": "ImageAsset",
+          "id": "327058661_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/327058661/original/43a1ce458df57f77c4efff3dd4b016a83c2444fd.png",
+          "type": "ImageAsset",
+          "id": "327058661_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/327058661/original/acec99bafb0b177136dfe537922478771c4a0a52.png",
+          "type": "ImageAsset",
+          "id": "327058661_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "64ac4a5bdd7c61001d22a7ce",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ew36ojffw1qmdznox342",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/ew36ojffw1qmdznox342.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "youtube"
+          ]
+        },
+        {
+          "type": "video_style",
+          "value": [
+            "animation"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "stories"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/narayanbnl",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/narayanbnl/2d-animation-videos-for-youtube",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 315774598,
+      "category_id": 20,
+      "sub_category_id": 228,
+      "nested_sub_category_id": 2441,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "2d-animation-videos-for-animate-cc-and-vyond",
+      "title": "2d animation videos for animate cc and vyond",
+      "seller_name": "narayanbnl",
+      "seller_id": 67282436,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f09476dc6d91486d388c99e09cc08f2e-672824361647918585.744285/BAA98E65-4E03-458A-B22C-70275E1C37DE",
+      "seller_display_name": "Narayan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "645744798e223e0021d2a5c0",
+          "id": 8333632
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/315774598/original/b6d10a196d169c6c8d5eef18ca1ac89c1089a8f2.png",
+          "type": "ImageAsset",
+          "id": "315774598_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/315774598/original/b9589a68cda265a303fa7e2e9af9a348c019b6c8.png",
+          "type": "ImageAsset",
+          "id": "315774598_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/315774598/original/a0ab0334511f63de268e5d4f46de94eb2ee664c4.png",
+          "type": "ImageAsset",
+          "id": "315774598_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "645744798e223e0021d2a5c0",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/b0p79ogtbozdwcoig7zh",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/b0p79ogtbozdwcoig7zh.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "explainer_type",
+          "value": [
+            "illustration"
+          ]
+        },
+        {
+          "type": "software_expertise",
+          "value": [
+            "animate_cc"
+          ]
+        },
+        {
+          "type": "industry_expertise",
+          "value": [
+            "beauty_cosmetics",
+            "education",
+            "marketing_advertising",
+            "public_sector",
+            "technology"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "marketing_advertising_explainer"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/narayanbnl",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/narayanbnl/2d-animation-videos-for-animate-cc-and-vyond",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 325397429,
+      "category_id": 20,
+      "sub_category_id": 235,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "2d-character-designer-for-animate-cc",
+      "title": "2d character designer for animate cc",
+      "seller_name": "narayanbnl",
+      "seller_id": 67282436,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f09476dc6d91486d388c99e09cc08f2e-672824361647918585.744285/BAA98E65-4E03-458A-B22C-70275E1C37DE",
+      "seller_display_name": "Narayan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/325397429/original/0a50aadbd43774c9e75f3dd1f7934dc5d5897020.png",
+          "type": "ImageAsset",
+          "id": "325397429_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/325397429/original/d9ac8bfdfd339b5b22b460c5445a8dd0745583ef.png",
+          "type": "ImageAsset",
+          "id": "325397429_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/325397429/original/157cae27a72f009b07032e89e1f7ac3466d0c0a0.jpeg",
+          "type": "ImageAsset",
+          "id": "325397429_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 1,
+          "attachment_id": "64a06502bf09ba000edc599b",
+          "id": 8633921
+        }
+      ],
+      "attachments": [
+        {
+          "id": "64a06502bf09ba000edc599b",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/nvpefblt5vlwoipenggm",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/nvpefblt5vlwoipenggm.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "animation_type",
+          "value": [
+            "2d"
+          ]
+        },
+        {
+          "type": "character_style",
+          "value": [
+            "cartoon"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "social_media_promotion"
+          ]
+        },
+        {
+          "type": "software",
+          "value": [
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/narayanbnl",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/narayanbnl/2d-character-designer-for-animate-cc",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 330713038,
+      "category_id": 20,
+      "sub_category_id": 235,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "2d-animation-for-youtube",
+      "title": "2d animation for youtube",
+      "seller_name": "narayanbnl",
+      "seller_id": 67282436,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f09476dc6d91486d388c99e09cc08f2e-672824361647918585.744285/BAA98E65-4E03-458A-B22C-70275E1C37DE",
+      "seller_display_name": "Narayan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 1,
+          "attachment_id": "64c4fcddd9e7e80014cd0c32",
+          "id": 8806318
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/330713038/original/d9155ccae4977b53b2021e48f310515d2a9e49c9.png",
+          "type": "ImageAsset",
+          "id": "330713038_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/330713038/original/f7406e367e82933320d680aa54e38df98f615763.png",
+          "type": "ImageAsset",
+          "id": "330713038_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/330713038/original/0727dcc7ef9e10ec74cae177b8c6143883ba82f1.png",
+          "type": "ImageAsset",
+          "id": "330713038_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "64c4fcddd9e7e80014cd0c32",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/w9b9nyq57wlmofklhbqd",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/w9b9nyq57wlmofklhbqd.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "animation_type",
+          "value": [
+            "2d"
+          ]
+        },
+        {
+          "type": "character_style",
+          "value": [
+            "cartoon"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "social_media_promotion"
+          ]
+        },
+        {
+          "type": "software",
+          "value": [
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/narayanbnl",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/narayanbnl/2d-animation-for-youtube",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "164845702",
+      "name": "loyloyet",
+      "isActivationCompleted": true,
+      "joinedAt": 1701331427,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 164845702,
+      "seller_username": "loyloyet",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 164845702,
+      "reviews": [
+        {
+          "id": "65b89188f760630001ea7316",
+          "comment": "Thanks!",
+          "comment_language": "unknown",
+          "username": "ayeshashaikh1",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3db311ae95ecd169e1ea4b1227f84490-1703079544701/241d9d67-480f-46d5-b749-1f366a6de26a.jpg",
+          "created_at": "2024-01-30T06:04:56",
+          "value": 5
+        },
+        {
+          "id": "65b37042756b9d000174b720",
+          "comment": "awesome",
+          "comment_language": "en",
+          "username": "farhan_mk2",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8374d5dfa18978bd0a912629e7d5efef-1698071461808/24f51d57-2fbe-4980-ab24-8d02bce8a115.jpeg",
+          "created_at": "2024-01-26T08:41:38",
+          "value": 5
+        },
+        {
+          "id": "65b33b77756b9d000174a0d9",
+          "comment": "thank you",
+          "comment_language": "en",
+          "username": "justkhan",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/daa90da4b0d067fb1fc4926ee8ba572b-1307287321696145565610/JPEG_20231001_123243_2223167563250411054.jpg",
+          "created_at": "2024-01-26T04:56:23",
+          "value": 5
+        },
+        {
+          "id": "65b223c7756b9d000173f209",
+          "comment": "Thank you for the project ",
+          "comment_language": "en",
+          "username": "brandmoose",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1881daa0a07605432d39f93c4c3ec641-1620229111369/3dc95718-1f3b-4db2-a4bd-df7f9b735884.jpg",
+          "created_at": "2024-01-25T09:03:03",
+          "value": 5
+        },
+        {
+          "id": "65b213aa756b9d000173ead3",
+          "comment": "Great Experience with the buyer :) ",
+          "comment_language": "en",
+          "username": "amanprasla786",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d7b9ca98ebf8c403749994f9efadc192-1631394601975/8a5f856c-fafb-4b20-8221-13e82bcd137b.png",
+          "created_at": "2024-01-25T07:54:18",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 164845702,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/London",
+    "recent_utc_offset": 0
+  },
+  "gigsData": []
+}

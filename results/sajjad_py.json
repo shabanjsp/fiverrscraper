@@ -1,0 +1,806 @@
+{
+  "seller": {
+    "user": {
+      "id": "126568981",
+      "name": "sajjad_py",
+      "isActivationCompleted": true,
+      "joinedAt": 1652548754,
+      "profile": {
+        "displayName": "Ai Maverick"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/712bb8cb8bb37b18a87ac7ccffcd2ca5-1706551715480/698726a4-324d-4479-b31d-db66bb516fcf.jpg"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "326954371"
+        },
+        {
+          "id": "331493074"
+        },
+        {
+          "id": "334259226"
+        },
+        {
+          "id": "347675609"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Senior Machine Learning Engineer",
+    "description": "I am a seasoned Machine Learning Engineer renowned for my proficiency in crafting comprehensive end-to-end ML systems. My specialization spans Generative AI and NLP, where I excel in training neural networks on expansive datasets and adeptly managing full-stack ML projects. \r\n\r\nBeyond engineering, my expertise extends to the broader domains of Data Science and AI, driving groundbreaking innovation in the field.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Python Developer",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Coursera",
+        "certificationName": "Machine Learning",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Tensorflow",
+        "certificationName": "TensorFlow Developer",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Coursera - DeepLearning.AI",
+        "certificationName": "Generative Adversarial Networks Specialization",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Coursera - DeepLearning.AI",
+        "certificationName": "Natural Language Processing Specialization",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "Machine Learning A-Z",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "ZeroToMastery",
+        "certificationName": "Pytorch Mastery",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Coursera - DeepLearning.AI",
+        "certificationName": "MLOPs Specialization",
+        "year": 2022
+      },
+      {
+        "receivedFrom": "Full Stack Deep Learning",
+        "certificationName": "Large Language Models",
+        "year": 2023
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2019,
+        "countryCode": "PK",
+        "school": "namal college mianwali",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "artificial intelligence",
+        "toYear": 2023,
+        "countryCode": "PK",
+        "school": "COMSATS University, Pakistan",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66d0565f07789006849",
+        "name": "Python",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Python developer"
+      },
+      {
+        "id": "617fa6630565f0778900654e",
+        "name": "Machine learning",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Machine learning expert"
+      },
+      {
+        "id": "617fa6460565f07789005d26",
+        "name": "Data science",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data scientist"
+      },
+      {
+        "id": "617fa6470565f07789005d57",
+        "name": "Deep learning",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Deep learning expert"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcb",
+        "name": "Neural network",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Neural network expert"
+      },
+      {
+        "id": "61a4d8b5758d756a25307bf0",
+        "name": "SQL",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SQL developer"
+      },
+      {
+        "id": "63bfc041ba2e2d0001fa29f5",
+        "name": "ChatGPT",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "ChatGPT expert"
+      },
+      {
+        "id": "617fa63a0565f07789005981",
+        "name": "AWS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AWS expert"
+      },
+      {
+        "id": "617fa6660565f07789006654",
+        "name": "Natural language processing (NLP)",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Natural language processing (NLP) expert"
+      },
+      {
+        "id": "617fa6400565f07789005b39",
+        "name": "Chatbot development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Chatbot developer"
+      },
+      {
+        "id": "617fa6640565f077890065c9",
+        "name": "Microsoft Azure",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Microsoft Azure expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 520,
+        "nestedCategoryId": 2715
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 520,
+        "nestedCategoryId": 2802
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 520,
+        "nestedCategoryId": 2803
+      },
+      {
+        "categoryId": 23,
+        "subCategoryId": 457,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64fd5c72116c4b0001282ada",
+          "title": "LinkedinGPT 💙🤖",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "64fd5c72116c4b0001282adb",
+                "attachment": {
+                  "metadata": {
+                    "height": 400,
+                    "width": 640
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/32a961d87b028da31cdb74f110bd6a5d-1694325856318/linkedingpt.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64f2fee17cb048000168cede",
+          "title": "ConversaDocs",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64f2fee17cb048000168cedf",
+                "attachment": {
+                  "metadata": {
+                    "height": 840,
+                    "width": 1600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/36b42865348a6e36074d8c73872cae11-1693646544121/ConversaDocs.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64fd5d43dd540c0001029eda",
+          "title": "LLM Storyteller ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64fd5d43dd540c0001029edb",
+                "attachment": {
+                  "metadata": {
+                    "height": 868,
+                    "width": 1714
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/f8b787d2e5070189106cde51ec4b27de-1694326075372/LLM.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64f300db14774e0001cbc619",
+          "title": "Football Player Tracking System",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64f300db14774e0001cbc61a",
+                "attachment": {
+                  "metadata": {
+                    "height": 720,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/ely3bvazfjf3jbjpnmpi.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 43
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "NO_LEVEL",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6581e1a3e552bf4cf384e1ad",
+          "comment": "Choosing AI Maverick on Fiverr for this chatbot / LLM creation project was a decision that truly paid off.\n\nTrue to his nickname, AI Maverick demonstrated a pioneering approach in every aspect of the work. The provider’s expertise in LLM technology is indisputable, and the dedication to client satisfaction is commendable.\n\nAI Maverick is not only technically proficient but also extraordinarily client-friendly, making the entire process smooth and enjoyable.\n\nAI Maverick's performance confirms that his moniker is well-deserved. I recommend him to anyone seeking AI chatbot development services.",
+          "comment_language": "en",
+          "username": "mbuchi",
+          "reviewer_country_code": "CH",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/106b661ccd8461e48dafe514d9acdd2d-1623102300267/1c2d890e-7461-45f1-9f26-a10116cd1157.jpg",
+          "created_at": "2023-12-19T18:32:51",
+          "value": 5,
+          "reviewer_country": "Switzerland",
+          "encrypted_order_id": "FO31DBA548087",
+          "score": 0.81896544,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 326954371,
+          "gig_slug": "build-ai-chatbots-for-large-docs-using-langchain-gpt-and-pinecone",
+          "gig_category": 10,
+          "gig_sub_category": 520,
+          "gig_nested_sub_category": 2715,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 177,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6598f66b369cc900011ff7ac",
+          "comment": "sajjad, built a great app for the purpose I’m going to be using it for and shows good skills in Python and Ai coding, he is happy to spend the time needed to get all the correct functionality into the app that’s required,  thank you 🙏🏻 ",
+          "comment_language": "en",
+          "username": "chippz082",
+          "reviewer_country_code": "AU",
+          "created_at": "2024-01-06T06:44:26",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO61DB3590584",
+          "score": 0.6097674,
+          "reviewer_industry": [
+            "gaming"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 347675609,
+          "gig_slug": "do-machine-learning-deep-learning-nlp-and-mlops-projects",
+          "gig_category": 23,
+          "gig_sub_category": 457,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 60,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65765ca4a206230001919656",
+          "comment": "Excellent work. The experience was everything I desired: accurate understanding of my requirements; fast development of the software; clear communication throughout the process; virtuoso mastery of all aspects of machine learning and LLMs and other cutting-edge AI; high-quality code. It wholeheartedly recommend the seller to others for AI projects.",
+          "comment_language": "en",
+          "username": "michfrr",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-11T02:15",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO117AC878587",
+          "score": 0.6035932,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 331493074,
+          "gig_slug": "train-finetune-large-language-models-gpt-llama-chatgpt-langchain-autogpt-llm-nlp",
+          "gig_category": 10,
+          "gig_sub_category": 520,
+          "gig_nested_sub_category": 2802,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65938bd76fc708262bc6bff2",
+          "comment": "Did a great job. I am highly satisified with the result. He knows his stuff and knows how to be productive with it. It was a highly collaborative arrangement involving advanced machine learning. His deep understanding of this area, excellent work ethic, and fluency in English made the project a pleasing success.",
+          "comment_language": "en",
+          "username": "michfrr",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-02T05:29:41",
+          "value": 4.3,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO6296DECCA48",
+          "score": 0.54666173,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 347675609,
+          "gig_slug": "do-machine-learning-deep-learning-nlp-and-mlops-projects",
+          "gig_category": 23,
+          "gig_sub_category": 457,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65afbae8a8e68f000113d50e",
+          "comment": "Highly professional!\nHigh attention to details, fast delivery with caring attitude to ensure you are 100% satisfied!\nThis is my second project with Ai Maverick and I highly recommend to work with him.",
+          "comment_language": "en",
+          "username": "perl123",
+          "reviewer_country_code": "IL",
+          "created_at": "2024-01-23T13:12:32",
+          "value": 5,
+          "reviewer_country": "Israel",
+          "encrypted_order_id": "FO829D8F49F46",
+          "score": 0.39136633,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 326954371,
+          "gig_slug": "build-ai-chatbots-for-large-docs-using-langchain-gpt-and-pinecone",
+          "gig_category": 10,
+          "gig_sub_category": 520,
+          "gig_nested_sub_category": 2715,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 43,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 6,
+        "business": 1
+      },
+      "user_id": 126568981,
+      "seller_username": "sajjad_py",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 38
+        }
+      ],
+      "average_valuation": 4.8,
+      "dynamicTranslations": {
+        "gaming": "Gaming"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 126568981,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 126568981,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 326954371,
+      "category_id": 10,
+      "sub_category_id": 520,
+      "nested_sub_category_id": 2715,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-ai-chatbots-for-large-docs-using-langchain-gpt-and-pinecone",
+      "title": "build chatgpt chatbots for large docs using langchain gpt and pinecone",
+      "seller_name": "sajjad_py",
+      "seller_id": 126568981,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/712bb8cb8bb37b18a87ac7ccffcd2ca5-1706551715480/698726a4-324d-4479-b31d-db66bb516fcf.jpg",
+      "seller_display_name": "Ai Maverick",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/326954371/original/907443e290d6c418ac2c5f0cb4f66cde9d09eb30.png",
+          "type": "ImageAsset",
+          "id": "326954371_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "170164691",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/de5019a326a746789ad6395fdcc75bbf-1694015971/Screenshot%202023-09-06%20205900.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "169958425",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e28e734ce21b724fddb1b5bdb808143a-1693583997/llama-chatbot.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "ai_agent",
+          "value": [
+            "langchain"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "python",
+            "javascript",
+            "keras",
+            "pytortch",
+            "tensorflow"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 10,
+      "buying_review_rating": 5,
+      "seller_url": "/sajjad_py",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 43,
+        "score": 4.837209
+      },
+      "gig_url": "/sajjad_py/build-ai-chatbots-for-large-docs-using-langchain-gpt-and-pinecone",
+      "is_seller_unavailable": false,
+      "price_i": 90,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 347675609,
+      "category_id": 23,
+      "sub_category_id": 457,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-machine-learning-deep-learning-nlp-and-mlops-projects",
+      "title": "do machine learning, deep learning, nlp, generative ai, mlops projects",
+      "seller_name": "sajjad_py",
+      "seller_id": 126568981,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/712bb8cb8bb37b18a87ac7ccffcd2ca5-1706551715480/698726a4-324d-4479-b31d-db66bb516fcf.jpg",
+      "seller_display_name": "Ai Maverick",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/347675609/original/335d59e8babb973b1b611f50648e17e4630f0199.jpg",
+          "type": "ImageAsset",
+          "id": "347675609_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/347675609/original/59d776da2f1b49b8b211e008ec9deb3cd86e03fd.png",
+          "type": "ImageAsset",
+          "id": "347675609_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 4.9,
+      "seller_url": "/sajjad_py",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 43,
+        "score": 4.837209
+      },
+      "gig_url": "/sajjad_py/do-machine-learning-deep-learning-nlp-and-mlops-projects",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 331493074,
+      "category_id": 10,
+      "sub_category_id": 520,
+      "nested_sub_category_id": 2802,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "train-finetune-large-language-models-gpt-llama-chatgpt-langchain-autogpt-llm-nlp",
+      "title": "finetune large language model, deploy llm, build langchain app",
+      "seller_name": "sajjad_py",
+      "seller_id": 126568981,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/712bb8cb8bb37b18a87ac7ccffcd2ca5-1706551715480/698726a4-324d-4479-b31d-db66bb516fcf.jpg",
+      "seller_display_name": "Ai Maverick",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/331493074/original/3abcbca5c361dc584b9a661a372620648173b17f.png",
+          "type": "ImageAsset",
+          "id": "331493074_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/331493074/original/20fd7763d9ad0e5688f509cbdcabce97dfb51809.png",
+          "type": "ImageAsset",
+          "id": "331493074_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "ai_engine",
+          "value": [
+            "gpt"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "python",
+            "javascript",
+            "keras",
+            "pytorch",
+            "tensorflow"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 4.6,
+      "seller_url": "/sajjad_py",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 43,
+        "score": 4.837209
+      },
+      "gig_url": "/sajjad_py/train-finetune-large-language-models-gpt-llama-chatgpt-langchain-autogpt-llm-nlp",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 334259226,
+      "category_id": 10,
+      "sub_category_id": 520,
+      "nested_sub_category_id": 2803,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-chatgpt-chatbot-do-machine-learning-and-langchain-app",
+      "title": "create chatgpt chatbot, do machine learning and langchain app",
+      "seller_name": "sajjad_py",
+      "seller_id": 126568981,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/712bb8cb8bb37b18a87ac7ccffcd2ca5-1706551715480/698726a4-324d-4479-b31d-db66bb516fcf.jpg",
+      "seller_display_name": "Ai Maverick",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/334259226/original/475b936e0ef67c8f314f24f759ccb3d7376a8247.png",
+          "type": "ImageAsset",
+          "id": "334259226_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/334259226/original/1f77d3d59286e5503ff2e950f1bfae2d03e2f93d.jpeg",
+          "type": "ImageAsset",
+          "id": "334259226_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/334259226/original/4628bdc3c0d774fe30529305b89bd7c1822ff321.png",
+          "type": "ImageAsset",
+          "id": "334259226_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "ai_engine",
+          "value": [
+            "langchain"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "python",
+            "javascript",
+            "keras",
+            "pytorch",
+            "tensorflow"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/sajjad_py",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 43,
+        "score": 4.837209
+      },
+      "gig_url": "/sajjad_py/create-chatgpt-chatbot-do-machine-learning-and-langchain-app",
+      "is_seller_unavailable": false,
+      "price_i": 120,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

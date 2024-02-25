@@ -1,0 +1,1136 @@
+{
+  "seller": {
+    "user": {
+      "id": "80131211",
+      "name": "khanzada0089",
+      "isActivationCompleted": true,
+      "joinedAt": 1568384460,
+      "profile": {
+        "displayName": "Khanzada Haider"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "AR",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/9fbb29e62e1f47bc0c7d1102f54e6eb4-801312111573880803912/JPEG_20191116_100642_1481868736.jpg"
+    },
+    "approvedGigsCount": 7,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "136576884"
+        },
+        {
+          "id": "151347067"
+        },
+        {
+          "id": "171046186"
+        },
+        {
+          "id": "232418165"
+        },
+        {
+          "id": "241188075"
+        },
+        {
+          "id": "253925017"
+        },
+        {
+          "id": "277790312"
+        }
+      ]
+    },
+    "notableClients": [
+      {
+        "endedAt": 1648771200,
+        "startedAt": 1648771200,
+        "description": "It was a long project and rotate digital was my repetitive buyer I do many orders for them.",
+        "company": {
+          "description": "We help moving business owners double their sales by getting them found on Google ",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/c0c96ca0830209d34c71a92fbf3a18e7-1657534261007/rotate_digital_logo_separate-long.png"
+            }
+          },
+          "name": "Rotate Digital",
+          "industry": {
+            "slug": "Financial Consulting"
+          }
+        }
+      }
+    ],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Quality is my priority",
+    "description": "I am a data science student and I have \r\nyears of experience in model creating, transcription, web development, cross-platform app development, content writing, SEO ranking and professional slides editing.\r\n\r\nI can work in any field as a freelancer. So, don't hesitate to ask anything.\r\n\r\nI am here to work with great and diverse people and help the world with my abilities.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2022,
+        "countryCode": "PK",
+        "school": "COMSATS Institute of Information Technology",
+        "degreeTitle": "OTHER"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6770565f07789006b54",
+        "name": "Typing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Typist"
+      },
+      {
+        "id": "617fa6640565f077890065d6",
+        "name": "Microsoft Word",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Microsoft Word expert"
+      },
+      {
+        "id": "617fa6640565f077890065cc",
+        "name": "Microsoft Excel",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Microsoft Excel expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa6390565f0778900591d",
+        "name": "Artificial Intelligence",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Artificial Intelligence expert"
+      },
+      {
+        "id": "617fa6630565f0778900654e",
+        "name": "Machine learning",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Machine learning expert"
+      },
+      {
+        "id": "617fa6370565f07789005873",
+        "name": "Android development",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Android developer"
+      },
+      {
+        "id": "617fa66e0565f07789006880",
+        "name": "React Native",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "React Native expert"
+      },
+      {
+        "id": "617fa6650565f07789006614",
+        "name": "MongoDB",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "MongoDB expert"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Node.js expert"
+      },
+      {
+        "id": "617fa65c0565f07789006393",
+        "name": "iOS development",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "iOS developer"
+      },
+      {
+        "id": "617fa6510565f07789006036",
+        "name": "Flutter development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter developer"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "SEO expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 480,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 109,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 140,
+        "nestedCategoryId": 2041
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 384,
+        "nestedCategoryId": 2781
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65393be57a11100001a2c674",
+          "title": "Self driving car, Reinforcement ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65393be57a11100001a2c675",
+                "attachment": {
+                  "metadata": {
+                    "height": 848,
+                    "width": 464
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/am1v6sc2pczd70hyzsho.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 1
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1685445114
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 345
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c7be11cef38f741c57ec08",
+          "comment": "Amazing, accurate and fast! Thank you so much! I will be back for more! Highly recommended!",
+          "comment_language": "en",
+          "username": "mitchanelson7",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-11T03:02:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO4180FEA4B84",
+          "score": 0,
+          "reviewer_industry": [
+            "education",
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 136576884,
+          "gig_slug": "provide-awesome-60-mins-transcripts-of-audio-or-video",
+          "gig_category": 5,
+          "gig_sub_category": 109,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "653ca86e6ebe57000192d867",
+          "comment": "The file was not transcribed, it was put through OCR software. There were multiple spelling mistakes, the file was produced in multiple (over 10) fonts and styles. It was messy and frankly unusable. I felt unhappy with the experience overall.",
+          "comment_language": "en",
+          "username": "bbenio",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-11-06T17:32:42",
+          "value": 1.7,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO8232670D6C4",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 136576884,
+          "gig_slug": "provide-awesome-60-mins-transcripts-of-audio-or-video",
+          "gig_category": 5,
+          "gig_sub_category": 109,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6525e8c571a9df0001e24fbf",
+          "comment": "Last few interviews were terrible. First were great.",
+          "comment_language": "en",
+          "username": "rishikayathi317",
+          "reviewer_country_code": "US",
+          "created_at": "2023-10-11T05:02:19",
+          "value": 3,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2175775A986",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 151347067,
+          "gig_slug": "do-perfect-transcription-in-5-hours",
+          "gig_category": 5,
+          "gig_sub_category": 109,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6525e60f71a9df0001e24e41",
+          "comment": "very responsive and did good work on the first few interviews but with the later interviews it was not as good.",
+          "comment_language": "en",
+          "username": "rishikayathi317",
+          "reviewer_country_code": "US",
+          "created_at": "2023-10-11T04:58:17",
+          "value": 3,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41D31655B06",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 171046186,
+          "gig_slug": "transcribe-all-kind-of-audios-videos-or-links",
+          "gig_category": 5,
+          "gig_sub_category": 109,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "651d97c342ff830001b698b9",
+          "comment": "good Jon fast respond ",
+          "comment_language": "nn",
+          "username": "ahmedbarakat561",
+          "reviewer_country_code": "US",
+          "created_at": "2023-10-04T16:51:24",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31D270D1A87",
+          "score": 0,
+          "reviewer_industry": [
+            "education"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 151347067,
+          "gig_slug": "do-perfect-transcription-in-5-hours",
+          "gig_category": 5,
+          "gig_sub_category": 109,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 205,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 345,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 3,
+        "business": 12
+      },
+      "user_id": 80131211,
+      "seller_username": "khanzada0089",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 13
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 325
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "education": "Education",
+        "financial_services_or_banking": "Financial & Business Services "
+      }
+    },
+    "selling_reviews": {
+      "user_id": 80131211,
+      "reviews": [
+        {
+          "id": "5f709eb897fbf2000116142d",
+          "comment": "It was great.\r\nThank you!!!",
+          "comment_language": "en-US",
+          "username": "zedexluke",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3c88ae1fb903031faa4a09c4e6c2521f-1601104238679/d360712f-07c9-427a-a5b8-6adb71ebd414.jpg",
+          "created_at": "2020-09-27T14:16:24",
+          "value": 5
+        },
+        {
+          "id": "5f03fee08afbf200010d88bb",
+          "comment": "brilliant experience",
+          "comment_language": "la",
+          "username": "dataentrybadar",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0abf7eac800ba825dabbb64f16f6c617-1673681896353/ece7e074-4e19-49a2-b975-64aa0ec58c47.jpg",
+          "created_at": "2020-07-07T04:49:36",
+          "value": 5
+        },
+        {
+          "id": "5e9daa494b6c140001f3ef23",
+          "comment": "khanzada was brilliant buyer",
+          "comment_language": "en-US",
+          "username": "dataentrybadar",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0abf7eac800ba825dabbb64f16f6c617-1673681896353/ece7e074-4e19-49a2-b975-64aa0ec58c47.jpg",
+          "created_at": "2020-04-20T13:57:29",
+          "value": 5
+        },
+        {
+          "id": "5e648d9e9ac22f0001734e70",
+          "comment": "it was good",
+          "comment_language": "en-US",
+          "username": "android_web_",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/05307edb01333f67882d4a540a1bd9b7-846803751582745586324/JPEG_20200227_003300_240097587.jpg",
+          "created_at": "2020-03-08T06:15:59",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 80131211,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 136576884,
+      "category_id": 5,
+      "sub_category_id": 109,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "provide-awesome-60-mins-transcripts-of-audio-or-video",
+      "title": "transcribe audio transcripts or do video transcription",
+      "seller_name": "khanzada0089",
+      "seller_id": 80131211,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9fbb29e62e1f47bc0c7d1102f54e6eb4-801312111573880803912/JPEG_20191116_100642_1481868736.jpg",
+      "seller_display_name": "Khanzada Haider",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/136576884/original/9402571b2584362d8d199971ab5435e790f3adbf.png",
+          "type": "ImageAsset",
+          "id": "136576884_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "109038601",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/447547e195528575a31cf5dbf2d8a07b-1576683112/Annotation%202019-12-18%20203044.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "108416691",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/9312716710c1a8ce932eb757ce43c1df-1574762406/Annotation%202019-11-26%20145912.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "107827170",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5d6801641df4f5c0018ca482dbb78a9c-1573010862/th.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 304,
+      "buying_review_rating": 4.9,
+      "seller_url": "/khanzada0089",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 345,
+        "score": 4.9254384
+      },
+      "gig_url": "/khanzada0089/provide-awesome-60-mins-transcripts-of-audio-or-video",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 151347067,
+      "category_id": 5,
+      "sub_category_id": 109,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-perfect-transcription-in-5-hours",
+      "title": "transcribe any audio or do video transcription in 24 hours",
+      "seller_name": "khanzada0089",
+      "seller_id": 80131211,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9fbb29e62e1f47bc0c7d1102f54e6eb4-801312111573880803912/JPEG_20191116_100642_1481868736.jpg",
+      "seller_display_name": "Khanzada Haider",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/151347067/original/6b00a6a655b02e265c1962e926af86085fab047b.png",
+          "type": "ImageAsset",
+          "id": "151347067_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 21,
+      "buying_review_rating": 4.7,
+      "seller_url": "/khanzada0089",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 345,
+        "score": 4.9254384
+      },
+      "gig_url": "/khanzada0089/do-perfect-transcription-in-5-hours",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 171046186,
+      "category_id": 5,
+      "sub_category_id": 109,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "transcribe-all-kind-of-audios-videos-or-links",
+      "title": "transcribe all kind of audios, videos or links",
+      "seller_name": "khanzada0089",
+      "seller_id": 80131211,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9fbb29e62e1f47bc0c7d1102f54e6eb4-801312111573880803912/JPEG_20191116_100642_1481868736.jpg",
+      "seller_display_name": "Khanzada Haider",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/171046186/original/df517432b2149db7aae5daede8382e11162499bf.png",
+          "type": "ImageAsset",
+          "id": "171046186_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 11,
+      "buying_review_rating": 4.8,
+      "seller_url": "/khanzada0089",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 345,
+        "score": 4.9254384
+      },
+      "gig_url": "/khanzada0089/transcribe-all-kind-of-audios-videos-or-links",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 253925017,
+      "category_id": 10,
+      "sub_category_id": 140,
+      "nested_sub_category_id": 2041,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "develop-a-web-app-using-react-js-node-js-and-javascript",
+      "title": "develop a web app using react js node js and javascript",
+      "seller_name": "khanzada0089",
+      "seller_id": 80131211,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9fbb29e62e1f47bc0c7d1102f54e6eb4-801312111573880803912/JPEG_20191116_100642_1481868736.jpg",
+      "seller_display_name": "Khanzada Haider",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/253925017/original/261c1ca4f7735a830c533cd7c5bcd389c1129d74.png",
+          "type": "ImageAsset",
+          "id": "253925017_1"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "programming_language",
+          "value": [
+            "javascript"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_compatibility",
+            "performance",
+            "security",
+            "design",
+            "databases"
+          ]
+        },
+        {
+          "type": "frontend_framework",
+          "value": [
+            "react_js",
+            "angularjs",
+            "jquery",
+            "bootstrap",
+            "tailwind_css"
+          ]
+        },
+        {
+          "type": "backend_framework",
+          "value": [
+            "django",
+            "laravel",
+            "node_js",
+            "cakephp",
+            "flask"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 6,
+      "buying_review_rating": 4.7,
+      "seller_url": "/khanzada0089",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 345,
+        "score": 4.9254384
+      },
+      "gig_url": "/khanzada0089/develop-a-web-app-using-react-js-node-js-and-javascript",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 232418165,
+      "category_id": 20,
+      "sub_category_id": 384,
+      "nested_sub_category_id": 2781,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-subtitles-of-any-videos-in-english",
+      "title": "do subtitles of any videos in english, free transcription",
+      "seller_name": "khanzada0089",
+      "seller_id": 80131211,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9fbb29e62e1f47bc0c7d1102f54e6eb4-801312111573880803912/JPEG_20191116_100642_1481868736.jpg",
+      "seller_display_name": "Khanzada Haider",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/232418165/original/5c0ae0e31c7d16de1a0c8c51b08f1f48e258663b.png",
+          "type": "ImageAsset",
+          "id": "232418165_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "61933ab418644400169d03d7",
+          "id": 5735801
+        }
+      ],
+      "attachments": [
+        {
+          "id": "61933ab418644400169d03d7",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/sop9hz4xcjpucqvgzctc",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/sop9hz4xcjpucqvgzctc.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/khanzada0089",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 345,
+        "score": 4.9254384
+      },
+      "gig_url": "/khanzada0089/do-subtitles-of-any-videos-in-english",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 241188075,
+      "category_id": 3,
+      "sub_category_id": 480,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-special-nft-art-collection-with-100-1k-10k-nfts",
+      "title": "do remarkable nft art collection with 100, 1k, 10k nfts",
+      "seller_name": "khanzada0089",
+      "seller_id": 80131211,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9fbb29e62e1f47bc0c7d1102f54e6eb4-801312111573880803912/JPEG_20191116_100642_1481868736.jpg",
+      "seller_display_name": "Khanzada Haider",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/241188075/original/3fc23a2a0f3e65d2fd017b0486da87852e7c7c78.png",
+          "type": "ImageAsset",
+          "id": "241188075_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "art_dimension",
+          "value": [
+            "2d"
+          ]
+        },
+        {
+          "type": "style",
+          "value": [
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/khanzada0089",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 345,
+        "score": 4.9254384
+      },
+      "gig_url": "/khanzada0089/do-special-nft-art-collection-with-100-1k-10k-nfts",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 277790312,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "develop-ios-app-iphone-and-android-app-or-cross-platform",
+      "title": "develop IOS app iphone and android app or cross platform",
+      "seller_name": "khanzada0089",
+      "seller_id": 80131211,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9fbb29e62e1f47bc0c7d1102f54e6eb4-801312111573880803912/JPEG_20191116_100642_1481868736.jpg",
+      "seller_display_name": "Khanzada Haider",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/277790312/original/ab8d7a86e41aedc7867d98483aa7208582854e59.png",
+          "type": "ImageAsset",
+          "id": "277790312_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "ios_android_dual"
+          ]
+        },
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "react_native",
+            "python",
+            "java",
+            "javascript"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "power_apps",
+            "flutterflow",
+            "passion_io",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "delivery",
+            "restaurant",
+            "shopping",
+            "taxi",
+            "booking",
+            "finance",
+            "education",
+            "iot",
+            "lifestyle"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "performance",
+            "security",
+            "design",
+            "data_storage",
+            "firebase"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/khanzada0089",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 345,
+        "score": 4.9254384
+      },
+      "gig_url": "/khanzada0089/develop-ios-app-iphone-and-android-app-or-cross-platform",
+      "is_seller_unavailable": false,
+      "price_i": 120,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

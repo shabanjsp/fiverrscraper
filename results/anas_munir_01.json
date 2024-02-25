@@ -1,0 +1,741 @@
+{
+  "seller": {
+    "user": {
+      "id": "103865025",
+      "name": "anas_munir_01",
+      "isActivationCompleted": true,
+      "joinedAt": 1616074203,
+      "profile": {
+        "displayName": "Anas"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "BASIC"
+        },
+        {
+          "code": "NL",
+          "level": "BASIC"
+        },
+        {
+          "code": "ES",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/0fc5e4423de4ce77b600ac877b83a52c-1629593238999/cc3ec2e3-c935-415e-8e63-eef2aa199542.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "217703726"
+        },
+        {
+          "id": "259812111"
+        }
+      ]
+    },
+    "notableClients": [
+      {
+        "endedAt": 1669852800,
+        "startedAt": 1651363200,
+        "description": "I completed their Klaviyo email marketing automation flow project and their sales increased by 25% from the ground through my klaviyo marketing setup. I worked with them for 8 months. ",
+        "company": {
+          "description": "Sleep & Sound is an Australian-based sleep and hearing protection store.",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/38eef2d7d223535f7a067185afd48754-1655283956/6233161e5a08511b0c6f712b.png"
+            }
+          },
+          "name": "Sleep & Sound",
+          "industry": {
+            "slug": "Health & Wellness"
+          }
+        }
+      }
+    ],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Klaviyo I MailChimp I Shopify",
+    "description": "Hey there, \r\n\r\nThis is Anas Munir. I am an innovative, highly self-motivated 24/7 Freelancer with distinguished performance in the...\r\n\r\n👉 Full Stack MailChimp, Klaviyo, smsBump Email+SMS Marketing, Sales Funnel, Automation Flows & Campaigns.\r\n\r\n👉 Shopify dropshipping Website Development, Theme Customization, Product Uploading.\r\n\r\nAlways feel free to ask me about Email & SMS Marketing automation flows & knock me to see my previous project's performance results, work\r\n\r\nI have helped 200+ E-commerce websites, dropshipping stores get started with Email Marketing Automation flows and campaigns. \r\n\r\nCheers!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "National Institute of Engineering and technology",
+        "certificationName": "Professional freelancing, Outsourcing Course",
+        "year": 2017
+      },
+      {
+        "receivedFrom": "Instructory",
+        "certificationName": "Professional Email Marketing on MailChimp",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Instructory",
+        "certificationName": "Facebook Ads Experts With Live Projects",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "Codeman BD",
+        "certificationName": "shopify ecommerce website Development",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Codeman BD",
+        "certificationName": "Fiverr Success Tricks & Earning ",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Klaviyo Success Academy",
+        "certificationName": "Klaviyo Advanced Email Marketing ",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "higher secondary certificate",
+        "toYear": 2016,
+        "countryCode": "BD",
+        "school": "Jhalokathi N. S. Kamil madrasah",
+        "degreeTitle": "CERTIFICATE"
+      },
+      {
+        "degree": "public administration",
+        "toYear": 2022,
+        "countryCode": "BD",
+        "school": "University of Dhaka",
+        "degreeTitle": "BA"
+      },
+      {
+        "degree": "theological studies",
+        "toYear": 2023,
+        "countryCode": "BD",
+        "school": "Dhaka Alia Madrasah",
+        "degreeTitle": "BA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6790565f07789006bdc",
+        "name": "Virtual assistance",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Virtual assistant"
+      },
+      {
+        "id": "617fa6630565f0778900655c",
+        "name": "Mailchimp",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mailchimp expert"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Customer service representative"
+      },
+      {
+        "id": "617fa65f0565f07789006465",
+        "name": "Klaviyo",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Klaviyo expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e82",
+        "name": "Email marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email marketer"
+      },
+      {
+        "id": "617fa6480565f07789005d8f",
+        "name": "Digital marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital marketer"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6710565f0778900696f",
+        "name": "Shopify marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify marketing expert"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      },
+      {
+        "id": "617fa64b0565f07789005e73",
+        "name": "Email automations",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email automations expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e76",
+        "name": "Email copywriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email copywriter"
+      },
+      {
+        "id": "617fa6720565f077890069ac",
+        "name": "SMS marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SMS marketer"
+      },
+      {
+        "id": "617fa6720565f077890069ab",
+        "name": "SMS automation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SMS automation expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 194,
+        "nestedCategoryId": 2427
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 446,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1616346558
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 218
+    },
+    "isOnVacation": true,
+    "vacation": {
+      "startsAt": 1708192807,
+      "endsAt": 1708711199,
+      "awayMessage": "Hey, I'm on vacation. Looking forward to working with you when I'm back!",
+      "isContactAllowed": false
+    },
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "656f1979080ac40001093fc9",
+          "comment": "I like how Anas was available and worked quickly.\nJust a little disappointed that I choosed him because he wrote he speaks french witch is actually not the case. I needed to rework on each Klaviyo flows to correct them in good french. This required me not expected working time. \nIf you are english speaking man, do not hesitate to choose Anas.",
+          "comment_language": "en",
+          "username": "ecom_web3",
+          "reviewer_country_code": "FR",
+          "created_at": "2023-12-05T12:46:57",
+          "value": 4,
+          "reviewer_country": "France",
+          "encrypted_order_id": "FO71D9326E983",
+          "score": 0.76799273,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 217703726,
+          "gig_slug": "mailchimp-expert-newsletter-automation-klaviyo-shopify-email-flows-sales-funnel",
+          "gig_category": 2,
+          "gig_sub_category": 194,
+          "gig_nested_sub_category": 2427,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6561722faa5c750001c9faa9",
+          "comment": "Anas went above and beyond. He even fixed up a few things before I proceeded with the order! \nHe also gave more than what was offered and I will be using Anas for all of my email flows for each business we operate. He is exceptional",
+          "comment_language": "en",
+          "username": "hardcorepcs",
+          "reviewer_country_code": "NZ",
+          "created_at": "2023-11-25T04:13:35",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/4b3be1d9d82e4d50dad4d7c4e7c5a486-1700842211/flows.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/4b3be1d9d82e4d50dad4d7c4e7c5a486-1700842211/flows.png",
+          "reviewer_country": "New Zealand",
+          "encrypted_order_id": "FO82F3D922F08",
+          "score": 0.67848635,
+          "reviewer_industry": [
+            "beauty_and_cosmetics"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 217703726,
+          "gig_slug": "mailchimp-expert-newsletter-automation-klaviyo-shopify-email-flows-sales-funnel",
+          "gig_category": 2,
+          "gig_sub_category": 194,
+          "gig_nested_sub_category": 2427,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65760ad55485e04ba6ac4490",
+          "comment": "Anas exceeded my expectations, and I will absolutely be working with him again in the future. I asked him to create automated email flows for my business, which would save me 10-15 hours of work learning. He delivered exactly what I wanted and more.",
+          "comment_language": "en",
+          "username": "bjanderson53",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-10T22:20:28",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f1f3e7bf6515f0fe5b5dac78dff1d5fe-1702170104/flows.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f1f3e7bf6515f0fe5b5dac78dff1d5fe-1702170104/flows.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO517B3282583",
+          "score": 0.6736623,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 217703726,
+          "gig_slug": "mailchimp-expert-newsletter-automation-klaviyo-shopify-email-flows-sales-funnel",
+          "gig_category": 2,
+          "gig_sub_category": 194,
+          "gig_nested_sub_category": 2427,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "658df05ed628ec0001855034",
+          "comment": "I had been very busy during the holidays and Anas was very patient with me I really appreciated that. Other that that he's very helpful, really responsive and always happy to answer your questions. \nRecommend!",
+          "comment_language": "en",
+          "username": "yousca47",
+          "reviewer_country_code": "AE",
+          "created_at": "2023-12-29T00:13:34",
+          "value": 5,
+          "reviewer_country": "United Arab Emirates",
+          "encrypted_order_id": "FO723B212F0C5",
+          "score": 0.5330148,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 217703726,
+          "gig_slug": "mailchimp-expert-newsletter-automation-klaviyo-shopify-email-flows-sales-funnel",
+          "gig_category": 2,
+          "gig_sub_category": 194,
+          "gig_nested_sub_category": 2427,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 22,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6584e76f5c478900012cb2b4",
+          "comment": "Anas was great to work with! He is very professional and delivered beyond what I was expecting. He is very patient with answering any questions and took care of every request I had. I will definitely be using his services again the future and I highly recommend!",
+          "comment_language": "en",
+          "username": "jcrobinson919",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/eea28ce58bdcbe44aceb7e40e007fe43-1054310571699622943.946898/39A8AA74-FC49-4049-859D-D0D8DE3060FE",
+          "created_at": "2023-12-22T01:52:20",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/33ef875fb05d915ef5b166fbfe63822d-1703207463/flows.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/33ef875fb05d915ef5b166fbfe63822d-1703207463/flows.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO211D57EAFC4",
+          "score": 0.49239826,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 217703726,
+          "gig_slug": "mailchimp-expert-newsletter-automation-klaviyo-shopify-email-flows-sales-funnel",
+          "gig_category": 2,
+          "gig_sub_category": 194,
+          "gig_nested_sub_category": 2427,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 218,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 142,
+        "business": 20
+      },
+      "user_id": 103865025,
+      "seller_username": "anas_munir_01",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 5
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 212
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "beauty_and_cosmetics": "Beauty & Cosmetics"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 103865025,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 103865025,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 217703726,
+      "category_id": 2,
+      "sub_category_id": 194,
+      "nested_sub_category_id": 2427,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "mailchimp-expert-newsletter-automation-klaviyo-shopify-email-flows-sales-funnel",
+      "title": "setup shopify klaviyo mailchimp email marketing campaign automation flows",
+      "seller_name": "anas_munir_01",
+      "seller_id": 103865025,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0fc5e4423de4ce77b600ac877b83a52c-1629593238999/cc3ec2e3-c935-415e-8e63-eef2aa199542.jpg",
+      "seller_display_name": "Anas",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/217703726/original/23daeb5f83b5f7d29be0001238b870e53e47bdca.jpg",
+          "type": "ImageAsset",
+          "id": "217703726_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/217703726/original/06736ff3dd0d1c19fffacc0ad99f15c2e41cba69.jpg",
+          "type": "ImageAsset",
+          "id": "217703726_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/217703726/original/a557486c0a99594dfef9f760c372ccd509c8a88f.jpg",
+          "type": "ImageAsset",
+          "id": "217703726_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "177034813",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/08d44ec7100f455e15ef4aa4c2f7d4cf-1708174206/flows.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176950559",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/07f21dc8b4cf97e108c021024ace66ae-1708006126/flows-3.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176009596",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/1ff6d51f144901c0716b1f6b92e48c61-1706106551/flows-1.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175914145",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/2a5a443826cad842a8174ac2bf614eee-1705927355/flows.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175765649",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/ea73136a6b667c9eb0e806fba5d9c80d-1705601100/dfje.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 1
+        },
+        {
+          "code": "nl",
+          "level": 1
+        },
+        {
+          "code": "es",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "email_platform",
+          "value": [
+            "mailchimp",
+            "klaviyo"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "arabic",
+            "english",
+            "french",
+            "russian",
+            "spanish"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 176,
+      "buying_review_rating": 5,
+      "seller_url": "/anas_munir_01",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 218,
+        "score": 4.8703246
+      },
+      "gig_url": "/anas_munir_01/mailchimp-expert-newsletter-automation-klaviyo-shopify-email-flows-sales-funnel",
+      "is_seller_unavailable": true,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 259812111,
+      "category_id": 2,
+      "sub_category_id": 446,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "shopify-klaviyo-smsbump-shopify-marketing-sms-marketing-klaviyo-automation-flow",
+      "title": "setup shopify klaviyo, smsbump SMS, email marketing, automation flows",
+      "seller_name": "anas_munir_01",
+      "seller_id": 103865025,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0fc5e4423de4ce77b600ac877b83a52c-1629593238999/cc3ec2e3-c935-415e-8e63-eef2aa199542.jpg",
+      "seller_display_name": "Anas",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/259812111/original/dc081950a3abf002050bd52b967d9729f26812d7.jpg",
+          "type": "ImageAsset",
+          "id": "259812111_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/259812111/original/afa1616247fbc36ab53a18df1cecccf2c836b1cb.jpg",
+          "type": "ImageAsset",
+          "id": "259812111_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/259812111/original/22c95b42dcf689d561b469eab496b34d6fc72a7f.jpg",
+          "type": "ImageAsset",
+          "id": "259812111_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175399094",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/567c1e69d544f913ef948a909725cf28-1704872858/flows-2.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175117423",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/fcaef3b023070bad603153112a318136-1704251070/flows.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175033449",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5ef42aca1b464fef88246da883311e1b-1704005260/flows-3.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174856025",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5c1ae880b77d7c45d5b2cc2c4592c8d3-1703514581/flows.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174720087",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3c246c4a75066c8a2fbb6779dbec9fb9-1703167026/flows.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 1
+        },
+        {
+          "code": "nl",
+          "level": 1
+        },
+        {
+          "code": "es",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "klaviyo",
+            "other"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "arabic",
+            "danish",
+            "dutch",
+            "english",
+            "french",
+            "italian",
+            "spanish"
+          ]
+        },
+        {
+          "type": "messaging_type",
+          "value": [
+            "event_based_automation"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 38,
+      "buying_review_rating": 5,
+      "seller_url": "/anas_munir_01",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 218,
+        "score": 4.8703246
+      },
+      "gig_url": "/anas_munir_01/shopify-klaviyo-smsbump-shopify-marketing-sms-marketing-klaviyo-automation-flow",
+      "is_seller_unavailable": true,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "seller": {
+    "user": {
+      "id": "140041925",
+      "name": "faiso345",
+      "isActivationCompleted": true,
+      "joinedAt": 1670915789,
+      "profile": {
+        "displayName": "Faisal Khan"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/89e69c2dd5cedc4942d4956c118ae245-1673309643783/67db68e9-91b4-4974-b086-ecc0cd65af75.jpeg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "301390621"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello my name is Faisal , For four and a half year I worked as a product manager , and Advertising Specialist in an Amazon FBA consulting Agency I have in depth training and experience in product research. Selling on amazon changed my life and goal is to help as many people as I can. Feel free to reach out for a free consultation.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "english",
+        "toYear": 2019,
+        "countryCode": "PK",
+        "school": "BZU Multan",
+        "degreeTitle": "BA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6360565f07789005855",
+        "name": "Amazon product research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Amazon product research expert"
+      },
+      {
+        "id": "617fa66c0565f07789006804",
+        "name": "Product hunting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Product hunting expert"
+      },
+      {
+        "id": "617fa6360565f07789005854",
+        "name": "Amazon product listing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Amazon product listing expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 8,
+        "subCategoryId": 423,
+        "nestedCategoryId": 2353
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 19
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "654cebe8f8dffe00010fc63a",
+          "comment": "Highly Recommend ✨",
+          "comment_language": "en",
+          "username": "muhammadsher952",
+          "reviewer_country_code": "PK",
+          "created_at": "2023-11-09T14:26:12",
+          "value": 5,
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO71D6C02AB03",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 301390621,
+          "gig_slug": "do-amazon-fba-product-research-fba-product-research-pl",
+          "gig_category": 8,
+          "gig_sub_category": 423,
+          "gig_nested_sub_category": 2353,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "654c5981f8dffe00010f6133",
+          "comment": "Good job, he is fast in delivery and also responds to messages quickly. thank you for your services. 🤝",
+          "comment_language": "en",
+          "username": "alkamidb",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/77ae2cc76c42e3b23c434b095e767f36-1696639018897/6a90e60e-bc47-495e-9b7f-11e6912adb80.png",
+          "created_at": "2023-11-09T07:03:43",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO6234894B1C6",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 301390621,
+          "gig_slug": "do-amazon-fba-product-research-fba-product-research-pl",
+          "gig_category": 8,
+          "gig_sub_category": 423,
+          "gig_nested_sub_category": 2353,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 33,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6549215e7cc0090001fcb725",
+          "comment": "Super recomendable, la verdad que el informe final es muy completo",
+          "comment_language": "es",
+          "username": "arieldascenzi",
+          "reviewer_country_code": "AR",
+          "created_at": "2023-11-06T17:25:53",
+          "value": 4,
+          "reviewer_country": "Argentina",
+          "encrypted_order_id": "FO729275670C7",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 301390621,
+          "gig_slug": "do-amazon-fba-product-research-fba-product-research-pl",
+          "gig_category": 8,
+          "gig_sub_category": 423,
+          "gig_nested_sub_category": 2353,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "652ac51fdcd88800018c4d27",
+          "comment": "Faisal is a diligent and good product researcher. Thanks for the detailed report. I would love to work with you in the future. You deserve a five star review.",
+          "comment_language": "en",
+          "username": "irfan_hussain75",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/41ec11f2d5465763d79bb8ef42352fa0-1680179275215/2371af9f-2f1a-4a0f-8a4d-8d162847bf82.png",
+          "created_at": "2023-10-14T16:43:28",
+          "value": 5,
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO41D3DDB5D86",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 301390621,
+          "gig_slug": "do-amazon-fba-product-research-fba-product-research-pl",
+          "gig_category": 8,
+          "gig_sub_category": 423,
+          "gig_nested_sub_category": 2353,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "651c601c342f330001e6168d",
+          "comment": "Good job, I liked the analysis of the product you found for the US and Canadian market. Fast delivery and good communication. I will continue hiring your services 🤝",
+          "comment_language": "en",
+          "username": "alkamidb",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/77ae2cc76c42e3b23c434b095e767f36-1696639018897/6a90e60e-bc47-495e-9b7f-11e6912adb80.png",
+          "created_at": "2023-10-03T18:40:54",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15D44DAC01",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 301390621,
+          "gig_slug": "do-amazon-fba-product-research-fba-product-research-pl",
+          "gig_category": 8,
+          "gig_sub_category": 423,
+          "gig_nested_sub_category": 2353,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 33,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 19,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 140041925,
+      "seller_username": "faiso345",
+      "star_summary": {
+        "communication_valuation": 4.8,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 17
+        }
+      ],
+      "average_valuation": 4.8
+    },
+    "selling_reviews": {
+      "user_id": 140041925,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 140041925,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 301390621,
+      "category_id": 8,
+      "sub_category_id": 423,
+      "nested_sub_category_id": 2353,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-amazon-fba-product-research-fba-product-research-pl",
+      "title": "do product research for amazon private label fba",
+      "seller_name": "faiso345",
+      "seller_id": 140041925,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/89e69c2dd5cedc4942d4956c118ae245-1673309643783/67db68e9-91b4-4974-b086-ecc0cd65af75.jpeg",
+      "seller_display_name": "Faisal Khan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/301390621/original/6a7e98b80d8cb6e88aa3f2516bccf75f2b6f3492.jpeg",
+          "type": "ImageAsset",
+          "id": "301390621_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/301390621/original/ab4dcdc29d4083466acd0ec04ee5caa7c3849ff6.png",
+          "type": "ImageAsset",
+          "id": "301390621_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/301390621/original/6fffb48e47ff27d96d15682e32f8d76bc3a68c29.png",
+          "type": "ImageAsset",
+          "id": "301390621_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry",
+          "value": [
+            "business",
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "platform",
+          "value": [
+            "alibaba"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 19,
+      "buying_review_rating": 4.8,
+      "seller_url": "/faiso345",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 19,
+        "score": 4.8421054
+      },
+      "gig_url": "/faiso345/do-amazon-fba-product-research-fba-product-research-pl",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,816 @@
+{
+  "seller": {
+    "user": {
+      "id": "150038013",
+      "name": "itsgolangdev",
+      "isActivationCompleted": true,
+      "joinedAt": 1682418795,
+      "profile": {
+        "displayName": "Asad"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ff827d0d8907905ecf56647708039bc0-1690718616010/895e63f1-776d-4247-9492-bd038c2cc19e.jpg"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "314622191"
+        },
+        {
+          "id": "316363422"
+        },
+        {
+          "id": "317925843"
+        },
+        {
+          "id": "356933428"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I am an experienced Golang developer and product executive, with a focus on product integrations and API development. As an OAuth2 expert, I am skilled in implementing secure authentication and authorization protocols, making me a trusted partner for API integrations with a variety of platforms, including Mailchimp, Hubspot, Drip, Aweber,  Shopify and many others.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "bechlor of computer science",
+        "toYear": 2021,
+        "countryCode": "PK",
+        "school": "Fast-NUCES ",
+        "degreeTitle": "OTHER"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66c0565f07789006821",
+        "name": "Programming",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Programmer"
+      },
+      {
+        "id": "617fa6750565f07789006abb",
+        "name": "Technical documentation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Technical documentation expert"
+      },
+      {
+        "id": "617fa6470565f07789005d3d",
+        "name": "Database programming",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Database programmer"
+      },
+      {
+        "id": "617fa6420565f07789005bbd",
+        "name": "Coding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Coding expert"
+      },
+      {
+        "id": "617fa66f0565f077890068c2",
+        "name": "Rest API",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Rest API expert"
+      },
+      {
+        "id": "617fa6550565f07789006160",
+        "name": "Go programming",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Go programmer"
+      },
+      {
+        "id": "617fa66b0565f077890067c2",
+        "name": "PostgreSQL",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PostgreSQL expert"
+      },
+      {
+        "id": "617fa63a0565f07789005985",
+        "name": "AWS S3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AWS S3 expert"
+      },
+      {
+        "id": "617fa6550565f0778900614c",
+        "name": "GitHub",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "GitHub expert"
+      },
+      {
+        "id": "617fa6550565f0778900614b",
+        "name": "Git",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Git expert"
+      },
+      {
+        "id": "617fa6380565f077890058bb",
+        "name": "API development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "API developer"
+      },
+      {
+        "id": "617fa6550565f07789006176",
+        "name": "Google API",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google API expert"
+      },
+      {
+        "id": "617fa6380565f077890058bc",
+        "name": "API integration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "API integration expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f76",
+        "name": "Facebook API",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook API developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c52",
+        "name": "Web API",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web API expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c53",
+        "name": "Web application development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web application developer"
+      },
+      {
+        "id": "617fa6380565f077890058c3",
+        "name": "App development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App developer"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "React expert"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Node.js expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 140,
+        "nestedCategoryId": 2041
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 140,
+        "nestedCategoryId": 2704
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 5
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6581ec641105490001bae4b7",
+          "comment": "Great guy to work with. Very knowledgeable, hardworking, always available to chat and very friendly and transparent. I would recommend him anytime and any day. Thank you 🙏🏾 ",
+          "comment_language": "en",
+          "username": "drewkennedy4",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7b8d84bbb8c98ef267cc0464b7dfc79c-703589581674833683.081198/64292897-BB21-4713-832A-0EF9A8D466CD",
+          "created_at": "2023-12-20T04:09:54",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82990F7D2C6",
+          "score": 0.426761,
+          "reviewer_industry": [
+            "retail_and_wholesale"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 316363422,
+          "gig_slug": "implement-login-using-google-linkedin-facebook-and-github-for-your-website",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2704,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 21,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "64f5ac61e941070001a0c6b8",
+          "comment": "Really Good and helped alot",
+          "comment_language": "en",
+          "username": "shah250",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-09-04T10:09:37",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO622B53A8DC6",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 314622191,
+          "gig_slug": "do-your-golang-project-with-scalable-rest-api-and-psql",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "64ef65cfa112ab00014ede05",
+          "comment": "Great and redid with further instruction",
+          "comment_language": "en",
+          "username": "shah250",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-08-30T16:51:04",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO722B08475C5",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 314622191,
+          "gig_slug": "do-your-golang-project-with-scalable-rest-api-and-psql",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6456406aceb82300014d8a6e",
+          "comment": "The seller was so nice! He helped us with the code and he understood the requirements. I totally recommend working with him.",
+          "comment_language": "en",
+          "username": "escoda",
+          "reviewer_country_code": "ES",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c93fdecf7d218959ec232828bba95ecf-1564830374739/10e7aaee-2c83-4716-b3ae-dff8aed59ff4.png",
+          "created_at": "2023-05-06T11:57:43",
+          "value": 5,
+          "reviewer_country": "Spain",
+          "encrypted_order_id": "FO210CFD5A1C4",
+          "score": 0,
+          "reviewer_industry": [
+            "food_and_beverage"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 314622191,
+          "gig_slug": "do-your-golang-project-with-scalable-rest-api-and-psql",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 12,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "64538616e786d50001118a44",
+          "comment": "The seller was highly responsive, communicated effectively, and finished the project before the deadline. He has great coding skills, which resulted in a high-quality work. Overall, my experience working with him was great, and I would highly recommend him to others seeking similar services.",
+          "comment_language": "en",
+          "username": "ranahasan571",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9cb6a402ef65703d71b1cd8eb8cf019e-1668743991366/ded658a5-1934-488d-9f79-5ea2b82ab43a.jpeg",
+          "created_at": "2023-05-04T10:22:11",
+          "value": 5,
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO216660D4D86",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 314622191,
+          "gig_slug": "do-your-golang-project-with-scalable-rest-api-and-psql",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 4
+        }
+      ],
+      "has_next": false,
+      "total_count": 5,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 150038013,
+      "seller_username": "itsgolangdev",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 5
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "retail_and_wholesale": "Retail & Wholesale",
+        "food_and_beverage": "Food & Beverage"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 150038013,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 150038013,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 314622191,
+      "category_id": 10,
+      "sub_category_id": 140,
+      "nested_sub_category_id": 2041,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-your-golang-project-with-scalable-rest-api-and-psql",
+      "title": "do your golang project with scalable rest api and psql",
+      "seller_name": "itsgolangdev",
+      "seller_id": 150038013,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ff827d0d8907905ecf56647708039bc0-1690718616010/895e63f1-776d-4247-9492-bd038c2cc19e.jpg",
+      "seller_display_name": "Asad",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/314622191/original/7cd2975ca665ce913016275afc98b536c0058ddf.png",
+          "type": "ImageAsset",
+          "id": "314622191_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "programming_language",
+          "value": [
+            "go"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_compatibility",
+            "from_psd_file",
+            "performance",
+            "security",
+            "databases"
+          ]
+        },
+        {
+          "type": "frontend_framework",
+          "value": [
+            "react_js"
+          ]
+        },
+        {
+          "type": "backend_framework",
+          "value": [
+            "node_js"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 5,
+      "seller_url": "/itsgolangdev",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/itsgolangdev/do-your-golang-project-with-scalable-rest-api-and-psql",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 316363422,
+      "category_id": 10,
+      "sub_category_id": 140,
+      "nested_sub_category_id": 2704,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "implement-login-using-google-linkedin-facebook-and-github-for-your-website",
+      "title": "implement oauth2 sso social login for your application",
+      "seller_name": "itsgolangdev",
+      "seller_id": 150038013,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ff827d0d8907905ecf56647708039bc0-1690718616010/895e63f1-776d-4247-9492-bd038c2cc19e.jpg",
+      "seller_display_name": "Asad",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/316363422/original/4b1acaace5f8dc3997360928ee4c6b21ab6be8ec.png",
+          "type": "ImageAsset",
+          "id": "316363422_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "programming_language",
+          "value": [
+            "go"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "algorithms_data_structures",
+            "performance",
+            "security",
+            "design"
+          ]
+        },
+        {
+          "type": "frontend_framework",
+          "value": [
+            "react_js",
+            "jquery",
+            "bootstrap",
+            "tailwind_css"
+          ]
+        },
+        {
+          "type": "backend_framework",
+          "value": [
+            "node_js"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/itsgolangdev",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/itsgolangdev/implement-login-using-google-linkedin-facebook-and-github-for-your-website",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 317925843,
+      "category_id": 10,
+      "sub_category_id": 140,
+      "nested_sub_category_id": 2704,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-api-integration-with-marketing-platfoms-development-and-fixing",
+      "title": "do API integration with marketing platfoms, development and fixing",
+      "seller_name": "itsgolangdev",
+      "seller_id": 150038013,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ff827d0d8907905ecf56647708039bc0-1690718616010/895e63f1-776d-4247-9492-bd038c2cc19e.jpg",
+      "seller_display_name": "Asad",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/317925843/original/0a55106dfbf6fac45d660a05f23f53ed3d48f789.png",
+          "type": "ImageAsset",
+          "id": "317925843_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "programming_language",
+          "value": [
+            "go"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "algorithms_data_structures",
+            "debugging",
+            "performance",
+            "security"
+          ]
+        },
+        {
+          "type": "frontend_framework",
+          "value": [
+            "react_js",
+            "angularjs",
+            "bootstrap",
+            "tailwind_css"
+          ]
+        },
+        {
+          "type": "backend_framework",
+          "value": [
+            "node_js"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/itsgolangdev",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/itsgolangdev/do-api-integration-with-marketing-platfoms-development-and-fixing",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 356933428,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "develop-fully-functional-golang-apps-for-you",
+      "title": "develop fully functional golang apps for you",
+      "seller_name": "itsgolangdev",
+      "seller_id": 150038013,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ff827d0d8907905ecf56647708039bc0-1690718616010/895e63f1-776d-4247-9492-bd038c2cc19e.jpg",
+      "seller_display_name": "Asad",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/356933428/original/7b7d0c8ea5c942e0656316c194f6186c3a9cfb28.png",
+          "type": "ImageAsset",
+          "id": "356933428_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "java",
+            "go",
+            "react"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "shipping",
+            "inventory",
+            "map",
+            "faq",
+            "booking",
+            "portfolio",
+            "dashboard",
+            "reviews"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/itsgolangdev",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/itsgolangdev/develop-fully-functional-golang-apps-for-you",
+      "is_seller_unavailable": false,
+      "price_i": 3000,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "seller": {
+    "user": {
+      "id": "165979369",
+      "name": "ecom_andreu",
+      "isActivationCompleted": true,
+      "joinedAt": 1702934910,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 165979369,
+      "seller_username": "ecom_andreu",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 165979369,
+      "reviews": [
+        {
+          "id": "65d45aa16c0b230001a1e38d",
+          "comment": "awesome buyer 😊😁❤🔥😊🔥😊😳🔥❤😁❤❤😁❤😁🔥❤🔥😊",
+          "comment_language": "en",
+          "username": "ali_85",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b43c42eaff2ff0165f39e155edef4ce6-1631546644829/ebfc8555-744e-4ae0-a622-7de520703bbe.jpg",
+          "created_at": "2024-02-20T07:54:09",
+          "value": 5
+        },
+        {
+          "id": "65d291319687bf0001da651b",
+          "comment": "A pleasure to work with! Thank you so much for your feedback!",
+          "comment_language": "en",
+          "username": "antonfm",
+          "reviewer_country_code": "MX",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0b19d4f5fbfe15bd09036ab5f17964c1-1668663615575/01c4bd29-60f0-4c5b-aaac-9c0501a60941.jpg",
+          "created_at": "2024-02-18T23:22:25",
+          "value": 5
+        },
+        {
+          "id": "65a4df13be67470001ed5a71",
+          "comment": "Great Buyer! so humble and polite. love to work with him again",
+          "comment_language": "en",
+          "username": "zunaira_sheikh_",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fdb507db8233ccc96945984f7d0c80ac-1684311848535/3ae7503b-86e1-4d16-b8bd-53e16700287f.jpg",
+          "created_at": "2024-01-15T07:30:27",
+          "value": 5
+        },
+        {
+          "id": "659082c2d628ec000186b51b",
+          "comment": "He is so polite and knows what he actually want.   Great buyer.  Love to work with him again\n",
+          "comment_language": "en",
+          "username": "zunaira_sheikh_",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fdb507db8233ccc96945984f7d0c80ac-1684311848535/3ae7503b-86e1-4d16-b8bd-53e16700287f.jpg",
+          "created_at": "2023-12-30T20:51:14",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165979369,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/Madrid",
+    "recent_utc_offset": -60
+  },
+  "gigsData": []
+}

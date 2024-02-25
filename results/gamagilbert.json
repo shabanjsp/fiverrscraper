@@ -1,0 +1,168 @@
+{
+  "seller": {
+    "user": {
+      "id": "136100004",
+      "name": "gamagilbert",
+      "isActivationCompleted": true,
+      "joinedAt": 1665725778,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Australia",
+        "countryCode": "AU"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 136100004,
+      "seller_username": "gamagilbert",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 136100004,
+      "reviews": [
+        {
+          "id": "65c58fee75092800011706b4",
+          "comment": "Bundle of thanks sir.",
+          "comment_language": "en",
+          "username": "nadeem_xpert",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ca07cde3376f59a78d10237098a36b5d-1576422227859/b1bdebfd-d58a-4644-8616-105f21efac78.jpg",
+          "created_at": "2024-02-09T02:37:34",
+          "value": 5
+        },
+        {
+          "id": "65c373410dcd5400015c2918",
+          "comment": "A good experience, Thank you for your order.",
+          "comment_language": "en",
+          "username": "samiirak",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d7eefbda4ad71b4f4d2ee7210e701e45-1610734158368/82ad306f-9693-4b0a-ab2a-bf38e3058946.jpg",
+          "created_at": "2024-02-07T12:10:41",
+          "value": 5
+        },
+        {
+          "id": "64177067dae8cd000187fe3e",
+          "comment": "A good experience.",
+          "comment_language": "en",
+          "username": "samiirak",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d7eefbda4ad71b4f4d2ee7210e701e45-1610734158368/82ad306f-9693-4b0a-ab2a-bf38e3058946.jpg",
+          "created_at": "2023-03-19T20:28:23",
+          "value": 5
+        },
+        {
+          "id": "634eb513ea9aa70001ce421b",
+          "comment": "thank you",
+          "comment_language": "en-US",
+          "username": "hamza_shopify",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3d83e0f3ea0a08437fdb971b56e0096-1569829467653/2313b10b-2fbf-43c0-9c39-5a248b10b255.jpg",
+          "created_at": "2022-10-18T14:15:47",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 136100004,
+    "currency": "AUD",
+    "locale": "en-US",
+    "timezone": "Australia/Perth",
+    "recent_utc_offset": -480
+  },
+  "gigsData": []
+}

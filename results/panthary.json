@@ -1,0 +1,176 @@
+{
+  "seller": {
+    "user": {
+      "id": "120031",
+      "name": "panthary",
+      "isActivationCompleted": true,
+      "joinedAt": 1288397005,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Australia",
+        "countryCode": "AU"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 120031,
+      "seller_username": "panthary",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 120031,
+      "reviews": [
+        {
+          "id": "65cc82689016e9000141b211",
+          "comment": "A good buyer to work with.",
+          "comment_language": "en",
+          "username": "samiirak",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d7eefbda4ad71b4f4d2ee7210e701e45-1610734158368/82ad306f-9693-4b0a-ab2a-bf38e3058946.jpg",
+          "created_at": "2024-02-14T09:05:44",
+          "value": 5
+        },
+        {
+          "id": "65ca39581199570001016a1f",
+          "comment": "he didn't discuss anything with me before placing the order and wasn't expecting such type of a topic and such type of requirements. I will not work with him again.",
+          "comment_language": "en",
+          "username": "writendesign7",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/634f94f98d2be8b174d06fbd999f745a-1673960003113/9b1fcd04-a76b-473f-bfed-f583052a9a0b.jpg",
+          "created_at": "2024-02-12T15:29:29",
+          "value": 1
+        },
+        {
+          "id": "65c97b23d6ade10001a28485",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "afridiseo",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8b992ae4eb9e2ed429e6bd34972e3e71-1593774800340/55fc30c4-457e-4e16-9a2c-2234306ced23.jpg",
+          "created_at": "2024-02-12T01:57:55",
+          "value": 5
+        },
+        {
+          "id": "65c8a3a14c71a90001ae41d3",
+          "comment": "It was an amazing experience working with the buyer 😊",
+          "comment_language": "en",
+          "username": "sarwatraja",
+          "reviewer_country_code": "AE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/596f943410ade679e12bd63c205fc3b8-1629297224441/953f357d-66b7-42c9-ad1b-472e64aaa669.jpg",
+          "created_at": "2024-02-11T10:38:25",
+          "value": 5
+        },
+        {
+          "id": "65adf836e7303e000182d42b",
+          "comment": "Quiet on the communication, but a good experience overall!",
+          "comment_language": "en",
+          "username": "mary_maxine",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ef10d0a35e92117ab5db93dbde868641-1704056200130/598a77ad-ea19-4d72-b190-180500257dfc.jpg",
+          "created_at": "2024-01-22T05:08:06",
+          "value": 4
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 120031,
+    "currency": "AUD",
+    "locale": "en-US",
+    "timezone": "Australia/Adelaide",
+    "recent_utc_offset": -630
+  },
+  "gigsData": []
+}

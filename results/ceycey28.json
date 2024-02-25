@@ -1,0 +1,176 @@
+{
+  "seller": {
+    "user": {
+      "id": "74675291",
+      "name": "ceycey28",
+      "isActivationCompleted": true,
+      "joinedAt": 1549136403,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Netherlands",
+        "countryCode": "NL"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 74675291,
+      "seller_username": "ceycey28",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 74675291,
+      "reviews": [
+        {
+          "id": "65c96491d6ade10001a283a2",
+          "comment": "Thank you for hiring me",
+          "comment_language": "en",
+          "username": "nomeetaalii",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d5303e3cd850024b04c2c5be3f9927d4-1701777981673/803f5b6f-4750-47ba-a8bf-4e749e28da4c.jpg",
+          "created_at": "2024-02-12T00:21:37",
+          "value": 5
+        },
+        {
+          "id": "65c8109a4c71a90001ae1a2d",
+          "comment": "great buyer",
+          "comment_language": "en",
+          "username": "ecommerce_drive",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9c3c822a2d543d1180214567894d2038-1652822393305/34078271-181a-49ab-b122-66c2c7f859f2.png",
+          "created_at": "2024-02-11T00:11:06",
+          "value": 5
+        },
+        {
+          "id": "65c7f3b19534600001be54eb",
+          "comment": "very cooperative and nice person",
+          "comment_language": "en",
+          "username": "ronaldoweb",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2a1413f0da78d9e455e3d2f7f9b23632-1696198342223/16aa466b-05f6-4c55-adad-9302817204e7.jpeg",
+          "created_at": "2024-02-10T22:07:45",
+          "value": 5
+        },
+        {
+          "id": "6557858b1cde5f0001c8c95b",
+          "comment": "Great experience, thank you!",
+          "comment_language": "en",
+          "username": "felixnguyen",
+          "reviewer_country_code": "TW",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/eae5b1c127bdf1cc0f102ff1b7d86b91-653528181553675103.631573/4F380C68-E831-4462-849E-79FCBF260848",
+          "created_at": "2023-11-17T15:23:55",
+          "value": 5
+        },
+        {
+          "id": "654d231df8dffe000110048b",
+          "comment": "always great client",
+          "comment_language": "en",
+          "username": "creative425u",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/adcccab0b8d879afcd10ad3584742e18-1706523267063/598c224a-3448-4295-8eca-3d2b4f3b0bb7.png",
+          "created_at": "2023-11-09T18:21:17",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 74675291,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/Amsterdam",
+    "recent_utc_offset": -60
+  },
+  "gigsData": []
+}

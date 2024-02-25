@@ -1,0 +1,755 @@
+{
+  "seller": {
+    "user": {
+      "id": "122231139",
+      "name": "wp_arju",
+      "isActivationCompleted": true,
+      "joinedAt": 1645370496,
+      "profile": {
+        "displayName": "Arju Akter"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "NL",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/1b4275089a63511ff7305690e00bab24-1688651643251/7735d4d4-bd72-47b1-8146-d37b610cafc3.png"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "326285558"
+        },
+        {
+          "id": "333510944"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Web Developer, Designer, CMS Expert",
+    "description": "My name is Arju Akter, a certified Web Developer with over 6+ years of experience. \r\n\r\nExpert in WordPress | WooCommerce | Elementor | Divi | Wix | Squarespace | Shopify | Custom CSS and other CMS platforms.\r\n\r\nAlso, I'm managing a strong and experienced team with multiple departments. I am committed to delivering high-quality work results at an affordable price.\r\n\r\nI'm always on top of project communication and updates. Just let me know what task you need help with, and I will get to it; no time wasted. I look forward to working with you! Thanks",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Creative IT Institute",
+        "certificationName": "Full Stack Web Development",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "Udemy",
+        "certificationName": "The Complete Web Developer in 2023: Zero to Mastery",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "bachelor of computer science",
+        "toYear": 2020,
+        "countryCode": "BD",
+        "school": "North South University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa6480565f07789005db3",
+        "name": "Divi",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Divi expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cd3",
+        "name": "Wix",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wix expert"
+      },
+      {
+        "id": "617fa6730565f07789006a2f",
+        "name": "Squarespace",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Squarespace expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WooCommerce expert"
+      },
+      {
+        "id": "617fa6460565f07789005d06",
+        "name": "Data entry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data entry expert"
+      },
+      {
+        "id": "617fa63a0565f07789005989",
+        "name": "B2B lead generation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "B2B lead generator"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c6c",
+        "name": "Webflow",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Webflow expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa6490565f07789005de8",
+        "name": "Dropshipping store",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Dropshipping store expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfd",
+        "name": "Wordpress theme customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress theme customization expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cbf",
+        "name": "CSS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS expert"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2615
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64d7a075caf0fa000184e730",
+          "title": "WordPress Website Design",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64d7a075caf0fa000184e731",
+                "attachment": {
+                  "metadata": {
+                    "height": 4610,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3339797f82e33e282e5f18dda07e7f7a-1691852995400/WordPress%20Website%20Design.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64d7a1d4caf0fa000184e7bf",
+          "title": "eCommerce Website Design",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64d7a1d4caf0fa000184e7c0",
+                "attachment": {
+                  "metadata": {
+                    "height": 2560,
+                    "width": 874
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/f05b4dc29c8e0d3db2e8a96f652f7b2d-1691853347018/eCommerce%20Website%20Design.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64d7a2295ce16700018fd25e",
+          "title": "Landing Page Design",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64d7a2295ce16700018fd25f",
+                "attachment": {
+                  "metadata": {
+                    "height": 5862,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/cc2cb158d8bfb6fad1c05b5d4a7fac15-1691853432742/Landing%20Page%20Design.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64d7a29f39a8260001a915e4",
+          "title": "WordPress Website Redesign",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64d7a29f39a8260001a915e5",
+                "attachment": {
+                  "metadata": {
+                    "height": 9210,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3a5c50562f37975c125459b03925ee05-1691853547573/WordPress%20Website%20Redesign.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 83
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b0a7957716c462529805b8",
+          "comment": "Exceptional Service and Genuine Care - Five Stars for Aryu\n\nI recently had the pleasure of working with Aryu, and I am compelled to share my exceptional experience. From the onset, the communication was impressively prompt, suggesting a dedicated team behind the scenes ensuring timely responses.\n\nWhat stood out to me most was the team's openness and receptiveness. It was clear that they were not just going through the motions; they genuinely wanted to ensure my satisfaction with the services. In an era where many companies prioritize profits over customer experience, Aryu's approach was refreshingly customer-centric.\n\nThe representative I interacted with, in particular, demonstrated a strong desire to understand and meet my needs. Her willingness to compromise and work collaboratively with me was not only appreciated but also quite rare in today's business landscape. This level of personalized service left me profoundly grateful.\n\nWhile the final results are yet to be fully seen as I look forward to adding content to my website, the current progress is promising. The assurance of continued support over the next 15 days is comforting, and I am optimistic about the functionality and future of my project.\n\nIn summary, Aryu has exceeded my expectations in every regard. I am happy with the current outcome and eager to see the continued evolution of my project with their help. I wholeheartedly give Aryu a five-star rating and thank them for their outstanding service.",
+          "comment_language": "en",
+          "username": "aaltimas",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-24T10:36:22",
+          "value": 4.7,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/38a05a2aefb8dbf8cfabb901f7d42b22-1705895339/screencapture-my-life-raw-and-real-org-2024-01-22-09_51_01.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/38a05a2aefb8dbf8cfabb901f7d42b22-1705895339/screencapture-my-life-raw-and-real-org-2024-01-22-09_51_01.png",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO21DD6BA7E08",
+          "score": 0.8639537,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 326285558,
+          "gig_slug": "design-redesign-build-copy-clone-create-fix-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65a6876c8fefc71572d7ce25",
+          "comment": "Exceptional Website Developer - A True Professional!\n\nI recently had the pleasure of working with an Arju and her team, and I cannot express enough how impressed I am with their skills and professionalism. From the initial consultation to the final delivery, the experience was seamless and enjoyable.\n\nArju demonstrated a deep understanding of web development trends and technologies, ensuring that my website not only met but exceeded my expectations. The attention to detail was remarkable, and they were able to translate my vision into a visually stunning and user-friendly website.\n\nCommunication throughout the project was excellent. She was always prompt in responding to my queries, providing regular updates, and addressing any concerns I had. She was patient in explaining technical aspects and ensuring that I felt comfortable with the decisions being made.\n\nOne of the aspects I appreciated the most was their creativity. She brought innovative ideas to the table, enhancing the overall design and functionality of the website. Arju and her team showed a keen eye for aesthetics, resulting in a website that not only performs well but also looks modern and engaging.\n\nThe project was completed within the agreed-upon timeframe, and she went above and beyond to ensure that everything was thoroughly tested and optimised. Post-launch support is expected to be exceptional based on additional conversations we've had.\n\nIn conclusion, working with Arju has been an absolute pleasure. The technical expertise, communication skills, and commitment to delivering a high-quality product make them a standout professional in their field. I wholeheartedly recommend their services to anyone seeking a top-notch website development experience.",
+          "comment_language": "en",
+          "username": "mobinet34",
+          "reviewer_country_code": "HK",
+          "created_at": "2024-01-16T13:45:07",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/5ad24f5b730734f89b316ad4f92162ff-1705411520/screencapture-mobinet-radiantmtech-2024-01-16-19_26_36.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/5ad24f5b730734f89b316ad4f92162ff-1705411520/screencapture-mobinet-radiantmtech-2024-01-16-19_26_36.png",
+          "reviewer_country": "Hong Kong",
+          "encrypted_order_id": "FO31DCDEE1C07",
+          "score": 0.8356179,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 326285558,
+          "gig_slug": "design-redesign-build-copy-clone-create-fix-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65b4c2ff41e5c52d8c231bce",
+          "comment": "Arju was absolutely amazing. We had so many issues with our website from other developers and Arju took our nightmare and turned the dream we had into a reality. We cannot Thank her enough. She was very responsive to every question. she was would always reply even if it was to let us know she would get back to us later. \n\nHIGHLY Recommend Arju!! ",
+          "comment_language": "en",
+          "username": "mussmuzz",
+          "reviewer_country_code": "AU",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a56ecf1915bae1c65d09486c7f2229db-262493901705454492996/JPEG_20240117_122132_1110088663917019166.jpg",
+          "created_at": "2024-01-27T08:54:50",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/5c45fb47e19fc447d2f38b03846ea7db-1706164824/screencapture-elzascents-au-2024-01-25-12_41_08.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/5c45fb47e19fc447d2f38b03846ea7db-1706164824/screencapture-elzascents-au-2024-01-25-12_41_08.png",
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO117EE6C0787",
+          "score": 0.8056804,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 326285558,
+          "gig_slug": "design-redesign-build-copy-clone-create-fix-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "658022269a8f046b55ba1331",
+          "comment": "We are extremely impressed by the overall experience with this GIG and to say the least we will certainly be recommending our client bank and contacts to utilise this GIG for all its Web and related services at the first point.\n\nWell done and may your superb service continue for a long time to come.\n\nThank you once again !!!",
+          "comment_language": "en",
+          "username": "rafiq2507",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/36a881d79207c76fc561efda3ff6ca21-819203541706474700.964624/42D5A833-CD52-43C5-B60F-FA223B7B76E7",
+          "created_at": "2023-12-18T10:44:26",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/03335ea9c1f3a008bf66f63fa9cfcb8b-1702894911/screencapture-britfund-co-uk-2023-12-18-16_23_32.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/03335ea9c1f3a008bf66f63fa9cfcb8b-1702894911/screencapture-britfund-co-uk-2023-12-18-16_23_32.png",
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO411C94BBD42",
+          "score": 0.75123215,
+          "reviewer_industry": [
+            "media_or_entertainment"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 326285558,
+          "gig_slug": "design-redesign-build-copy-clone-create-fix-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 41,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "654f55f6163f3500012b78a3",
+          "comment": " Working with Arju has been very positive experience for me. she is professional, responds very quickly, which i personally appreciate. She and her team work at a high pace. I would definitely recommend her. Price-quality ratio is also excellent. I would certainly engage her again for mutiple projects. ",
+          "comment_language": "en",
+          "username": "ilhamandaloussi",
+          "reviewer_country_code": "NL",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a1da9e0cedfa0f22951012c577bbe627-1696708191303/5b27c4ce-9304-48c2-8c6c-ac424d4277d6.JPG",
+          "created_at": "2023-11-11T10:26:30",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f680f21a3069a97214614142fdd78467-1698649660/Ilhamandaloussi.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f680f21a3069a97214614142fdd78467-1698649660/Ilhamandaloussi.png",
+          "reviewer_country": "Netherlands",
+          "encrypted_order_id": "FO51D32C79085",
+          "score": 0.57094526,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 326285558,
+          "gig_slug": "design-redesign-build-copy-clone-create-fix-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 83,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 63,
+        "business": 1
+      },
+      "user_id": 122231139,
+      "seller_username": "wp_arju",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 80
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "media_or_entertainment": "Media & Entertainment"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 122231139,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 122231139,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 326285558,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-redesign-build-copy-clone-create-fix-or-revamp-wordpress-website",
+      "title": "design, redesign, build, copy, clone, create, fix or revamp wordpress website",
+      "seller_name": "wp_arju",
+      "seller_id": 122231139,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1b4275089a63511ff7305690e00bab24-1688651643251/7735d4d4-bd72-47b1-8146-d37b610cafc3.png",
+      "seller_display_name": "Arju Akter",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/326285558/original/d12f13b869d847366da66eac0929a0bc15be8100.jpg",
+          "type": "ImageAsset",
+          "id": "326285558_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176054397",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/68cd411b9e3a99efc7068e771130558c-1706191423/screencapture-webdoctor-ie-2024-01-25-20_03_56.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176040020",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5c45fb47e19fc447d2f38b03846ea7db-1706164824/screencapture-elzascents-au-2024-01-25-12_41_08.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175900524",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/38a05a2aefb8dbf8cfabb901f7d42b22-1705895339/screencapture-my-life-raw-and-real-org-2024-01-22-09_51_01.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175841429",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/464adf5b1a938256c4b7af14f41c82ec-1705756817/screencapture-infront-2024-01-20-19_21_34.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175662102",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5ad24f5b730734f89b316ad4f92162ff-1705411520/screencapture-mobinet-radiantmtech-2024-01-16-19_26_36.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "nl",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "form",
+            "events",
+            "chat",
+            "faq",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 81,
+      "buying_review_rating": 4.9,
+      "seller_url": "/wp_arju",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 83,
+        "score": 4.8915663
+      },
+      "gig_url": "/wp_arju/design-redesign-build-copy-clone-create-fix-or-revamp-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 333510944,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2615,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-wordpress-ecommerce-website-or-online-store-using-woocommerce",
+      "title": "build wordpress ecommerce website or online store using woocommerce",
+      "seller_name": "wp_arju",
+      "seller_id": 122231139,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1b4275089a63511ff7305690e00bab24-1688651643251/7735d4d4-bd72-47b1-8146-d37b610cafc3.png",
+      "seller_display_name": "Arju Akter",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/333510944/original/5e9c04c41ecdce69c4be46a500559fe57fdbf818.jpg",
+          "type": "ImageAsset",
+          "id": "333510944_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "nl",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "shipping",
+            "events",
+            "chat",
+            "membership",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "woocommerce_stripe_payment_gateway",
+            "woocommerce_wallet",
+            "woocommerce_multilingual",
+            "booster_for_woocommerce",
+            "sendcloud_for_woocommerce",
+            "smart_manager_for_woocommerce",
+            "product_enquiry_for_woocommerce"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 3.2,
+      "seller_url": "/wp_arju",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 83,
+        "score": 4.8915663
+      },
+      "gig_url": "/wp_arju/build-wordpress-ecommerce-website-or-online-store-using-woocommerce",
+      "is_seller_unavailable": false,
+      "price_i": 85,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

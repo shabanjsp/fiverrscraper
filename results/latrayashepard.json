@@ -1,0 +1,181 @@
+{
+  "seller": {
+    "user": {
+      "id": "100819388",
+      "name": "latrayashepard",
+      "isActivationCompleted": true,
+      "joinedAt": 1611158267,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 100819388,
+      "seller_username": "latrayashepard",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 100819388,
+      "reviews": [
+        {
+          "id": "65bddbb8b2f0e00001432a37",
+          "comment": "Nice client",
+          "comment_language": "unknown",
+          "username": "wix_guru",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7b10e9c86546ccc86598099d1f4f69f3-1684237297228/47617297-b07e-4c64-904e-5ed29e166c74.jpg",
+          "created_at": "2024-02-03T06:22:48",
+          "value": 5
+        },
+        {
+          "id": "65a689c0be67470001ee5766",
+          "comment": "Wonderful experience!",
+          "comment_language": "unknown",
+          "username": "arianelaurent",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/652d937fc1eb2f1aeaaf8e90b391cf6f-1648463853714/9abdadb8-bba4-43eb-8731-395cd6cbf1d5.jpg",
+          "created_at": "2024-01-16T13:50:56",
+          "value": 5
+        },
+        {
+          "id": "659c543a369cc900012210e6",
+          "comment": "Lovely experience! ",
+          "comment_language": "en",
+          "username": "arianelaurent",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/652d937fc1eb2f1aeaaf8e90b391cf6f-1648463853714/9abdadb8-bba4-43eb-8731-395cd6cbf1d5.jpg",
+          "created_at": "2024-01-08T19:59:54",
+          "value": 5
+        },
+        {
+          "id": "653db02b1ac06200012fe339",
+          "comment": "Great experience!!",
+          "comment_language": "en",
+          "username": "arianelaurent",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/652d937fc1eb2f1aeaaf8e90b391cf6f-1648463853714/9abdadb8-bba4-43eb-8731-395cd6cbf1d5.jpg",
+          "created_at": "2023-10-29T01:06:51",
+          "value": 5
+        },
+        {
+          "id": "64e3bb783b7aec0001de30a2",
+          "comment": "Great Experience. Thank You! ",
+          "comment_language": "en",
+          "username": "gaganrk",
+          "reviewer_country_code": "LK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b918422f8693a1826e03b08ec5eb6ccd-1522996865505/e8c133b8-0376-4a55-ab92-29d1b410b6f0.jpg",
+          "created_at": "2023-08-21T19:31:04",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 100819388,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

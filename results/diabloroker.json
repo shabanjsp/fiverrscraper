@@ -1,0 +1,205 @@
+{
+  "seller": {
+    "user": {
+      "id": "131297",
+      "name": "diabloroker",
+      "isActivationCompleted": true,
+      "joinedAt": 1290063113,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/a0cddeb3f8b3e3f50b2c1e3bbd7ce118-1541197028296/0da0e039-dc12-45ac-ac01-a9005c2c072f.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "4d245ae00000000071673284",
+          "comment": "Communicated in timely manner.",
+          "comment_language": "en",
+          "username": "pukkabird",
+          "reviewer_country_code": "US",
+          "created_at": "2011-01-05T11:49:52",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "",
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 162026,
+          "gig_slug": "help-you-step-by-step-on-getting-your-corporation-or-limited-liablity-company-aka-llc-filed",
+          "gig_category": 8,
+          "gig_sub_category": 31,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 5
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 131297,
+      "seller_username": "diabloroker",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 131297,
+      "reviews": [
+        {
+          "id": "65ac040af47f62000187615f",
+          "comment": "Great experience, Thank you so much!",
+          "comment_language": "en",
+          "username": "art8ight",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c845c6e8ff41023027c2a7ce91497a38-1626677199760/534c25d0-35d4-4a50-a112-d1b69bdb6772.jpg",
+          "created_at": "2024-01-20T17:34:03",
+          "value": 5
+        },
+        {
+          "id": "63470be81153ca00013c773c",
+          "comment": "Thank you so much!! This was an amazing experience and I look forward to future projects!",
+          "comment_language": "en-US",
+          "username": "marko_vlajic",
+          "reviewer_country_code": "BA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cad2bff31997be7c73b7dd7421ec9e92-1605892928205/464a551a-eb18-4984-9f74-258dc3402ece.jpg",
+          "created_at": "2022-10-12T18:48:08",
+          "value": 5
+        },
+        {
+          "id": "6232325844f3b00001c057f5",
+          "comment": "Thank you.",
+          "comment_language": "en-US",
+          "username": "proshopify983",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/75bbd6197833e8d5073baca360fc1aa7-1612929005184/b1ce0e21-4b4f-48f1-a9a3-8b6ea8bab6b6.jpg",
+          "created_at": "2022-03-16T18:54:16",
+          "value": 5
+        },
+        {
+          "id": "61db340058a74e0001bad7bb",
+          "comment": "Oh thank you so much, I have much enjoyed helping with the project! Thanks a lot!",
+          "comment_language": "en-US",
+          "username": "dasunmadushanka",
+          "reviewer_country_code": "LK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1985b096d4c3f4c9b2cfd31d1f7f107f-1540453635815/e38b14b5-cb66-4161-bdff-7296834f1961.jpg",
+          "created_at": "2022-01-09T19:14:08",
+          "value": 5
+        },
+        {
+          "id": "61688f2ef1e1e100019d9596",
+          "comment": "Thank you.",
+          "comment_language": "en-US",
+          "username": "proshopify983",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/75bbd6197833e8d5073baca360fc1aa7-1612929005184/b1ce0e21-4b4f-48f1-a9a3-8b6ea8bab6b6.jpg",
+          "created_at": "2021-10-14T20:12:30",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 131297,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Los_Angeles",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}

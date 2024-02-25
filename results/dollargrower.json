@@ -1,0 +1,163 @@
+{
+  "seller": {
+    "user": {
+      "id": "64063216",
+      "name": "dollargrower",
+      "isActivationCompleted": true,
+      "joinedAt": 1499921392,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 32
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 64063216,
+      "seller_username": "dollargrower",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 64063216,
+      "reviews": [
+        {
+          "id": "65cc73ca9016e9000141ac5b",
+          "comment": "I'm grateful for your helpful suggestions. It was a great experience to cooperate with you. I'm eager to work with you on another project shortly.",
+          "comment_language": "en",
+          "username": "explorance",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2f8183a34090160bfec3a5ace135caef-1657014585878/b001047c-188d-4c66-bf3e-fc724ae8f757.jpg",
+          "created_at": "2024-02-14T08:03:22",
+          "value": 5
+        },
+        {
+          "id": "5e313450dccb70000104a7fc",
+          "comment": "Clear expectations and very pleasant to work with.\r\n",
+          "comment_language": "en-US",
+          "username": "weperfectionist",
+          "reviewer_country_code": "AE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ffc13a6326576eab1aa379f00ef48680-1629201228504/8ac708c4-4ccb-4c95-87ea-13c12cc0faf5.jpg",
+          "created_at": "2020-01-29T07:29:20",
+          "value": 5
+        },
+        {
+          "id": "5c77802104041b000137f3b9",
+          "comment": "Outstanding Experience!",
+          "comment_language": "en-US",
+          "username": "cristiansticea",
+          "reviewer_country_code": "RO",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/70e1da9caa6a87a77c2f1f55c913c62a-118629161539024412963/JPEG_20181008_214652_6764496491905339525.jpg",
+          "created_at": "2019-02-28T06:30:57",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 64063216,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Los_Angeles",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}

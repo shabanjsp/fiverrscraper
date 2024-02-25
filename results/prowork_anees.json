@@ -1,0 +1,1813 @@
+{
+  "seller": {
+    "user": {
+      "id": "116102646",
+      "name": "prowork_anees",
+      "isActivationCompleted": true,
+      "joinedAt": 1635235986,
+      "profile": {
+        "displayName": "Aneesartist"
+      },
+      "address": {
+        "countryName": "Sri Lanka",
+        "countryCode": "LK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "TA",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg"
+    },
+    "approvedGigsCount": 12,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "229994793"
+        },
+        {
+          "id": "229992208"
+        },
+        {
+          "id": "230114498"
+        },
+        {
+          "id": "230117832"
+        },
+        {
+          "id": "230179243"
+        },
+        {
+          "id": "230417805"
+        },
+        {
+          "id": "239935406"
+        },
+        {
+          "id": "248398689"
+        },
+        {
+          "id": "248914237"
+        },
+        {
+          "id": "287610775"
+        },
+        {
+          "id": "321535573"
+        },
+        {
+          "id": "322281430"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Your Satisfaction is My First Priority!",
+    "description": "My name is Anees. I am in Sri Lanka. I am pursuing a degree in art and design. I have been doing portrait, landscape, book cover page, line art, watercolor art, oilpainting, creative art, still lifes, design work etc. I have been drawing and selling portrait paintings for many years. I have 10 years experience in this. I have also painted murals in many parts of Sri Lanka. I will draw the sketches as per your taste. You can talk to me normally. I will answer all your questions. Thanks",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Graduated",
+        "certificationName": "BFA",
+        "year": 2017
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "art and design",
+        "toYear": 2017,
+        "countryCode": "LK",
+        "school": "University of Jaffna",
+        "degreeTitle": "BFA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      },
+      {
+        "id": "617fa66b0565f077890067b4",
+        "name": "Portrait art",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Portrait artist"
+      },
+      {
+        "id": "617fa6690565f07789006735",
+        "name": "Pet portrait illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Pet portrait illustrator"
+      },
+      {
+        "id": "617fa67a0565f07789006c3f",
+        "name": "Watercolor illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Watercolor illustrator"
+      },
+      {
+        "id": "617fa6680565f077890066dd",
+        "name": "Painting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Painter"
+      },
+      {
+        "id": "617fa6600565f07789006490",
+        "name": "Landscape design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landscape designer"
+      },
+      {
+        "id": "617fa6610565f077890064f6",
+        "name": "Line art",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Line artist"
+      },
+      {
+        "id": "617fa6710565f07789006992",
+        "name": "Sketch drawing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Sketch drawing artist"
+      },
+      {
+        "id": "617fa6780565f07789006b89",
+        "name": "Vector illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Vector illustrator"
+      },
+      {
+        "id": "617fa6670565f07789006672",
+        "name": "NFT art",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "NFT artist"
+      },
+      {
+        "id": "617fa6670565f07789006671",
+        "name": "NFT",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "NFT expert"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcd",
+        "name": "NFT marketplace development",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "NFT marketplace developer"
+      },
+      {
+        "id": "617fa6600565f07789006495",
+        "name": "Landscape planning & design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landscape planning & design expert"
+      },
+      {
+        "id": "617fa67a0565f07789006c41",
+        "name": "Watercolor painting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Watercolor painter"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6350565f077890057e2",
+        "name": "Adobe Animate",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Adobe Animate expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 50,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 154,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 340,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 385,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 480,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 7,
+        "subCategoryId": 310,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 7,
+        "subCategoryId": 321,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 235,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 350,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6502d30aa82ecc0001b99d23",
+          "title": "watercolor portrait",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6502d30aa82ecc0001b99d24",
+                "attachment": {
+                  "metadata": {
+                    "height": 1802,
+                    "width": 2219
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7edf48ae5d4620babe55c0497416145a-1694683595298/watercolor%2011.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6502d6253689190001bc5d43",
+          "title": "color pencil portrait",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "650548e33689190001bd2876",
+                "attachment": {
+                  "metadata": {
+                    "height": 1920,
+                    "width": 1714
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/e026861fbaa43cc7340976228926fe29-1694845002390/InShot_20201030_051544933-01.jpeg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "650541f7658b540001efceea",
+          "title": "Stipple Portrait",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "650541f7658b540001efceeb",
+                "attachment": {
+                  "metadata": {
+                    "height": 3997,
+                    "width": 3445
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c892988386b1bb299b2011498adafb23-1694843281755/IMG_20221224_052707a.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6505459d033e8c0001b016b5",
+          "title": "portrait drawing",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "6505459d033e8c0001b016b6",
+                "attachment": {
+                  "metadata": {
+                    "height": 3221,
+                    "width": 4271
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/bc53b28e2caf1d74650285821c70b6d6-1694844180794/IMG_20211011_105047.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "650547e25ccb9400014a1909",
+          "title": "color soft-pastel",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "650547e25ccb9400014a190a",
+                "attachment": {
+                  "metadata": {
+                    "height": 1450,
+                    "width": 2051
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/b3d20fe309260a6b3143f631f4d85dfa-1694844767501/IMG_20200330_084458.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65054cf7658b540001efd26f",
+          "title": "oil paintings",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65054cf7658b540001efd270",
+                "attachment": {
+                  "metadata": {
+                    "height": 1439,
+                    "width": 1914
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/208c2701bc138acb6575afd988dae168-1694846081333/20200125_161658.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65054d7a658b540001efd2aa",
+          "title": "fan art",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65054d7a658b540001efd2ab",
+                "attachment": {
+                  "metadata": {
+                    "height": 3971,
+                    "width": 2819
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/67fa7c6a6f50b296c86d2e6592543cee-1694846246528/IMG_20211104_015256.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 7
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 113
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 5
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65cb32cecef38f741c583925",
+          "comment": "aadasdsadasfag",
+          "comment_language": "vo",
+          "username": "newtofiverrrrr",
+          "reviewer_country_code": "NL",
+          "created_at": "2024-02-13T09:20:46",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/26b7c5e1a2809e07ea5de0ef9792236d-1707815543/IMG_20240213_083458-02-01.jpeg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/26b7c5e1a2809e07ea5de0ef9792236d-1707815543/IMG_20240213_083458-02-01.jpeg",
+          "reviewer_country": "The Netherlands",
+          "encrypted_order_id": "FO724236187C5",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 230114498,
+          "gig_slug": "draw-unique-hand-drawn-watercolor-and-pastel-illustrations",
+          "gig_category": 3,
+          "gig_sub_category": 480,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "652844aeefcd9a0001da5011",
+          "comment": "It was a good portrait but could have been better",
+          "comment_language": "en",
+          "username": "sandeshtallera",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e02fdbabb1ffacc24e8ea4d91e51bd6d-1668537030409/f9e57d54-4fd7-4508-9580-160b7eb7945e.JPG",
+          "created_at": "2023-10-12T19:24:17",
+          "value": 4,
+          "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/jxkjv1s1i9izyf2iowe7.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/jxkjv1s1i9izyf2iowe7.png",
+          "reviewer_country": "India",
+          "encrypted_order_id": "FO61D2455C584",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 229992208,
+          "gig_slug": "draw-a-pencil-and-charcoal-portrait-for-you",
+          "gig_category": 3,
+          "gig_sub_category": 50,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6524af35bc27150001589ea3",
+          "comment": "fantastic work.",
+          "comment_language": "unknown",
+          "username": "animizemike",
+          "reviewer_country_code": "AU",
+          "created_at": "2023-10-10T04:39",
+          "value": 4.7,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/fedcb45f96fb6c09ed207006540ff8bc-1696850376/IMG_20231009_155516-01.jpeg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/fedcb45f96fb6c09ed207006540ff8bc-1696850376/IMG_20231009_155516-01.jpeg",
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO62306039DC6",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 229992208,
+          "gig_slug": "draw-a-pencil-and-charcoal-portrait-for-you",
+          "gig_category": 3,
+          "gig_sub_category": 50,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "64e7a9f27da640000178a570",
+          "comment": "Amazing work",
+          "comment_language": "unknown",
+          "username": "thomasmcmill805",
+          "reviewer_country_code": "US",
+          "created_at": "2023-08-24T19:06:35",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2B8B341B42",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 239935406,
+          "gig_slug": "create-hand-drawn-portrait-making-video",
+          "gig_category": 7,
+          "gig_sub_category": 310,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 100,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "64cabfc72bb77e0001c72b94",
+          "comment": "beautiful work! Your skills are a wonder of the world. ",
+          "comment_language": "en",
+          "username": "tinylilrobots",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2dc7d24a6f5fd0a1fe51503faae2c0bb-1563049411690176072749/JPEG_20230724_012112_525769172693852142.jpg",
+          "created_at": "2023-08-02T20:45:30",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO416F05E3784",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 230179243,
+          "gig_slug": "be-your-drawing-video-content-creator-for-youtube-and-tiktok",
+          "gig_category": 20,
+          "gig_sub_category": 235,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 113,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 54,
+        "business": 2
+      },
+      "user_id": 116102646,
+      "seller_username": "prowork_anees",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 7
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 104
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 116102646,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 116102646,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Colombo",
+    "recent_utc_offset": -330
+  },
+  "gigsData": [
+    {
+      "gig_id": 230114498,
+      "category_id": 3,
+      "sub_category_id": 480,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "draw-unique-hand-drawn-watercolor-and-pastel-illustrations",
+      "title": "draw unique hand drawn watercolor nft fan art",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/230114498/original/a25725a84fdefaee471dc00bcf4fdd58c7405265.jpeg",
+          "type": "ImageAsset",
+          "id": "230114498_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/230114498/original/b09839aa6fba669fcf6e447ca7e29d2033791d9c.jpeg",
+          "type": "ImageAsset",
+          "id": "230114498_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/230114498/original/332c066239223c573ee5a88c27eaa692b34139d6.jpeg",
+          "type": "ImageAsset",
+          "id": "230114498_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "621f2bcb285daa000eb91ad6",
+          "id": 6178826
+        }
+      ],
+      "attachments": [
+        {
+          "id": "621f2bcb285daa000eb91ad6",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/b7fwmgebu19flfvtz7sy",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_18.508785,PLACEHOLDER/b7fwmgebu19flfvtz7sy.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176849651",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/26b7c5e1a2809e07ea5de0ef9792236d-1707815543/IMG_20240213_083458-02-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "147671186",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d417e1fdaff34917ccc208b7c462b810-1652918292/IMG_20220519_044126-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "147661915",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/82914f5cf29a5f1e7a81dbd810884fc4-1652902118/IMG_20220519_003416-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "147564550",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/092c92bcf38e58550944a93770aa516f-1652744228/IMG_20220517_050344-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "147518781",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/332465ba6797b27e8356494bba6a5a52-1652669109/IMG_20220516_080904-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "art_dimension",
+          "value": [
+            "2d"
+          ]
+        },
+        {
+          "type": "style",
+          "value": [
+            "cartoon_comic"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 75,
+      "buying_review_rating": 4.8,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/draw-unique-hand-drawn-watercolor-and-pastel-illustrations",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 230117832,
+      "category_id": 3,
+      "sub_category_id": 480,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "draw-any-person-character-design-or-animal",
+      "title": "create nft hand drawing art with time lapse fan art promotion video",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/230117832/original/bb100d39d42734b4969702a3b9f575aeb8ee9951.jpeg",
+          "type": "ImageAsset",
+          "id": "230117832_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/230117832/original/8638de54d0020efa77b15d6a42ff14c2ced3d393.jpeg",
+          "type": "ImageAsset",
+          "id": "230117832_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/230117832/original/c51609644bd2621fe945030a13dafe844ac29b77.jpeg",
+          "type": "ImageAsset",
+          "id": "230117832_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "621f2ca5c3c83f0011b6a4ea",
+          "id": 6178837
+        }
+      ],
+      "attachments": [
+        {
+          "id": "621f2ca5c3c83f0011b6a4ea",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zq8lctwia9izhzpp0wdc",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/zq8lctwia9izhzpp0wdc.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "151322441",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zsszjgxq0wadzfe3v26e",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/zsszjgxq0wadzfe3v26e.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "150991929",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b6e1497e34c6b4e48797ae81c1e60d08-1658945238/IMG_20220727_225433-02.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "150693377",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d5568f2e619ee1f9a83f5d1e8d0cdbfc-1658410685/IMG_20220721_190332-02.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "150596413",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/1d693db4a06edc75071a9c81e4397f39-1658245439/IMG_20220719_204717-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "147851407",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/obyrgl9p0j4yecjby0db",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/obyrgl9p0j4yecjby0db.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "art_dimension",
+          "value": [
+            "3d"
+          ]
+        },
+        {
+          "type": "style",
+          "value": [
+            "realistic"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 12,
+      "buying_review_rating": 5,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/draw-any-person-character-design-or-animal",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 229992208,
+      "category_id": 3,
+      "sub_category_id": 50,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "draw-a-pencil-and-charcoal-portrait-for-you",
+      "title": "draw a pencil and charcoal portrait for you",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/229992208/original/35bc2655a1dcc42e28dde001b27ae8d3ffa5b111.jpeg",
+          "type": "ImageAsset",
+          "id": "229992208_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/229992208/original/086593f4ae758c3877950c5072bce53d3fd102f2.jpeg",
+          "type": "ImageAsset",
+          "id": "229992208_2"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "617bebaff122a9000f1d0db4",
+          "id": 5672578
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/229992208/original/4199f2cd274c0a67ad29747c9c63a6ab252658b1.jpeg",
+          "type": "ImageAsset",
+          "id": "229992208_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "617bebaff122a9000f1d0db4",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/qrht0zmktk3uenqugith",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_3.229271,PLACEHOLDER/qrht0zmktk3uenqugith.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "171614055",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/fedcb45f96fb6c09ed207006540ff8bc-1696850376/IMG_20231009_155516-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171308201",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/jxkjv1s1i9izyf2iowe7",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/jxkjv1s1i9izyf2iowe7.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "158562372",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b74ac006ca17d6d226c482dca8a4f5c8-1672658757/IMG_20230102_165524_291.jpeg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "illustration_style",
+          "value": [
+            "realistic_drawing"
+          ]
+        },
+        {
+          "type": "artistic_technique",
+          "value": [
+            "pencil"
+          ]
+        },
+        {
+          "type": "theme",
+          "value": [
+            "educational",
+            "concept_art",
+            "fan_art"
+          ]
+        },
+        {
+          "type": "main_type",
+          "value": [
+            "anatomy",
+            "landscape",
+            "people"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 9,
+      "buying_review_rating": 4.9,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/draw-a-pencil-and-charcoal-portrait-for-you",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 230179243,
+      "category_id": 20,
+      "sub_category_id": 235,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-drawing-video-content-creator-for-youtube-and-tiktok",
+      "title": "create nft fan art hand drawn promotional video for discord",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/230179243/original/9d41c2bf772b0293f5d82b2a816ae84c128a9786.jpeg",
+          "type": "ImageAsset",
+          "id": "230179243_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/230179243/original/683b37bf978b493ab8dddfa500a3bc9c85bc55d7.jpeg",
+          "type": "ImageAsset",
+          "id": "230179243_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/230179243/original/a396c3481818133de29bf87f48ca38e2dd4ce30a.jpeg",
+          "type": "ImageAsset",
+          "id": "230179243_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "621f2d5b2b636d0022a0befc",
+          "id": 6178845
+        }
+      ],
+      "attachments": [
+        {
+          "id": "621f2d5b2b636d0022a0befc",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/t6116hi56og7bqzduyou",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/t6116hi56og7bqzduyou.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "142554032",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a17d0b10d501dcf0092def7c44e58866-1644184576/IMG_20220207_032418-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "142395029",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/uzrrshh2bhk3uvk3a7ze",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/uzrrshh2bhk3uvk3a7ze.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "animation_type",
+          "value": [
+            "3d"
+          ]
+        },
+        {
+          "type": "character_style",
+          "value": [
+            "realistic"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "other"
+          ]
+        },
+        {
+          "type": "software",
+          "value": [
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/be-your-drawing-video-content-creator-for-youtube-and-tiktok",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 248914237,
+      "category_id": 3,
+      "sub_category_id": 340,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "draw-a-chibi-anime-character-nft-hand-drawing",
+      "title": "do custom pet portrait, cat portrait, dog portrait drawing",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/248914237/original/f9c856ce963cdbe84905e59ff667b7d77eacec4e.jpg",
+          "type": "ImageAsset",
+          "id": "248914237_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/248914237/original/a803c4aab3f19269e1dca8ad7404b971e0eda024.jpg",
+          "type": "ImageAsset",
+          "id": "248914237_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "146107722",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/fa80cdc1e9baec6589426361167227c5-1650233120/20220418_031937-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "145477921",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/9ead4f11320321905594beca42a1913a-1649188467/IMG_20220406_011636-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "145111196",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/qpyfbs0ydhenahvuy4wd",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/qpyfbs0ydhenahvuy4wd.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "illustration_type",
+          "value": [
+            "pet_portrait"
+          ]
+        },
+        {
+          "type": "illustration_style",
+          "value": [
+            "realistic"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 4.9,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/draw-a-chibi-anime-character-nft-hand-drawing",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 230417805,
+      "category_id": 7,
+      "sub_category_id": 321,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-time-lapse-process-video-of-your-portrait-sketch",
+      "title": "create a time lapse process video of your portrait sketch",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/230417805/original/6fb4e6a1252407753fc951c9fa934bab477f8cce.jpeg",
+          "type": "ImageAsset",
+          "id": "230417805_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "617c4b2da5a699000fe2763c",
+          "id": 5673940
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/230417805/original/9970854ac5774c8da8056f4fd92634cbe2d2f9d1.jpeg",
+          "type": "ImageAsset",
+          "id": "230417805_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/230417805/original/08b76162abf1d9f7b1b8a6ff1a05d8f9a6e50cfe.jpeg",
+          "type": "ImageAsset",
+          "id": "230417805_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "617c4b2da5a699000fe2763c",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/rkrsikij10aoomfjjyc2",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/rkrsikij10aoomfjjyc2.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "occasion",
+          "value": [
+            "wedding"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 4.5,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/create-a-time-lapse-process-video-of-your-portrait-sketch",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 239935406,
+      "category_id": 7,
+      "sub_category_id": 310,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-hand-drawn-portrait-making-video",
+      "title": "create hand drawn portrait making video",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/239935406/original/31693ec9c9a90ffd81e09247aaf989d55480bb56.jpeg",
+          "type": "ImageAsset",
+          "id": "239935406_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/239935406/original/f0666202d63e793e4c48f56bf36794d91dc66266.jpeg",
+          "type": "ImageAsset",
+          "id": "239935406_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/239935406/original/2a59c8caff9b637d670096742fb57fe64ae15ed9.jpeg",
+          "type": "ImageAsset",
+          "id": "239935406_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "634b0f5314fa11001a32d9e0",
+          "id": 7261538
+        }
+      ],
+      "attachments": [
+        {
+          "id": "634b0f5314fa11001a32d9e0",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/l1zyyjxcwasrdrjxlmuf",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_18.921889,PLACEHOLDER/l1zyyjxcwasrdrjxlmuf.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "arts_crafts_creation"
+          ]
+        },
+        {
+          "type": "art_type",
+          "value": [
+            "hand_drawing_painting"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/create-hand-drawn-portrait-making-video",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 229994793,
+      "category_id": 3,
+      "sub_category_id": 385,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "hand-drawn-pencil-portrait-for-artistic-style",
+      "title": "turn your photo into realistic sketch",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "617bec0d4096510019f556c0",
+          "id": 5672583
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/229994793/original/4653808023c7b248e07faedb654786fb1363293c.jpeg",
+          "type": "ImageAsset",
+          "id": "229994793_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/229994793/original/200b1d7e551d2a483d3471ef747058a1d9ad77f2.jpeg",
+          "type": "ImageAsset",
+          "id": "229994793_2"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "617bec0d4096510019f556c0",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/j34czbiljjvwztech1jf",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_6.904979,PLACEHOLDER/j34czbiljjvwztech1jf.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "155344218",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3b7c64d76a0763d24169b7656d7cf189-1666642819/IMG_20221025_014456-01.jpeg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "tattoo_style",
+          "value": [
+            "linework"
+          ]
+        },
+        {
+          "type": "color_type",
+          "value": [
+            "black_white"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/hand-drawn-pencil-portrait-for-artistic-style",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 248398689,
+      "category_id": 3,
+      "sub_category_id": 154,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "draw-anime-manga-nft-style-art-for-you",
+      "title": "do trendy watercolor hand draw t shirt design for you",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/248398689/original/a9602acef43555d1af332e9ba53f438c1a3c0aca.jpeg",
+          "type": "ImageAsset",
+          "id": "248398689_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/248398689/original/40ce2d45363d4417d3e71a5f95eee9b734ffd7b1.jpeg",
+          "type": "ImageAsset",
+          "id": "248398689_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/248398689/original/e5ee69e84a556f215be072c1136c9fce57e82e8a.jpeg",
+          "type": "ImageAsset",
+          "id": "248398689_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6230b8504d86c700231a448c",
+          "id": 6235175
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6230b8504d86c700231a448c",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/segtygeztr9rmp1e9d9p",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/segtygeztr9rmp1e9d9p.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "merch_type",
+          "value": [
+            "t_shirts"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/draw-anime-manga-nft-style-art-for-you",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 287610775,
+      "category_id": 7,
+      "sub_category_id": 321,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-funny-happy-birthday-cartoon",
+      "title": "draw your dogs or any pets into cartoon portrait",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/287610775/original/a8b4d8c074620387b81965e58d8bb695ccf8b9ac.jpg",
+          "type": "ImageAsset",
+          "id": "287610775_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/287610775/original/165f873f959304874cf9fd4d5ce2b7883ca73255.jpg",
+          "type": "ImageAsset",
+          "id": "287610775_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "occasion",
+          "value": [
+            "birthday"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/create-a-funny-happy-birthday-cartoon",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 321535573,
+      "category_id": 3,
+      "sub_category_id": 340,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-custom-pet-portrait-dog-portrait-cat-portrait-drawing",
+      "title": "do custom pet portrait, dog portrait, cat portrait drawing",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/321535573/original/2bbac2a263faec72fa064be081f4e37ae15403df.jpg",
+          "type": "ImageAsset",
+          "id": "321535573_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/321535573/original/74fe9c63ccf005fef76935d0095dc39f50748fe9.jpeg",
+          "type": "ImageAsset",
+          "id": "321535573_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/321535573/original/ae94c05e7966f6fd96db566699d1dadb8acba1f4.jpg",
+          "type": "ImageAsset",
+          "id": "321535573_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "illustration_type",
+          "value": [
+            "pet_portrait"
+          ]
+        },
+        {
+          "type": "illustration_style",
+          "value": [
+            "watercolor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/do-custom-pet-portrait-dog-portrait-cat-portrait-drawing",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 322281430,
+      "category_id": 20,
+      "sub_category_id": 350,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "make-drawing-and-coloring-videos-for-youtube-channel",
+      "title": "make drawing and coloring videos for youtube channel",
+      "seller_name": "prowork_anees",
+      "seller_id": 116102646,
+      "seller_country": "LK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4f3cbed3e9fdda59995f42eb019601c1-1161026461635770401970/JPEG_20211101_180955_5593309176606817687.jpg",
+      "seller_display_name": "Aneesartist",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "64888b1d4ac14a002070f2f8",
+          "id": 8533668
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/322281430/original/dae36d3b8068633ffcffbb3d14f257c3eb91a5ae.jpeg",
+          "type": "ImageAsset",
+          "id": "322281430_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/322281430/original/d65e99ad55829e04c6c8485ae314ad374ae7ff8d.jpeg",
+          "type": "ImageAsset",
+          "id": "322281430_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/322281430/original/1ad9c43d29dcc75c660cfbd3bfdb92c4e37f094c.jpeg",
+          "type": "ImageAsset",
+          "id": "322281430_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "64888b1d4ac14a002070f2f8",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/itjqwffnhaiahx2jkfu7",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/itjqwffnhaiahx2jkfu7.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ta",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "animation_style",
+          "value": [
+            "2d"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/prowork_anees",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 113,
+        "score": 4.8613567
+      },
+      "gig_url": "/prowork_anees/make-drawing-and-coloring-videos-for-youtube-channel",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

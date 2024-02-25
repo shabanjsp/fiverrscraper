@@ -1,0 +1,2847 @@
+{
+  "seller": {
+    "user": {
+      "id": "86027067",
+      "name": "saadrazadigital",
+      "isActivationCompleted": true,
+      "joinedAt": 1585725918,
+      "profile": {
+        "displayName": "Saad Raza"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG"
+    },
+    "approvedGigsCount": 16,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "161213366"
+        },
+        {
+          "id": "166137579"
+        },
+        {
+          "id": "162970623"
+        },
+        {
+          "id": "172618839"
+        },
+        {
+          "id": "177148373"
+        },
+        {
+          "id": "168265382"
+        },
+        {
+          "id": "188183152"
+        },
+        {
+          "id": "201835594"
+        },
+        {
+          "id": "225919613"
+        },
+        {
+          "id": "216197115"
+        },
+        {
+          "id": "226092323"
+        },
+        {
+          "id": "271743033"
+        },
+        {
+          "id": "290877828"
+        },
+        {
+          "id": "290906659"
+        },
+        {
+          "id": "290913803"
+        },
+        {
+          "id": "292266068"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "I'm an SEO Expert, let me rank in your heart!",
+    "description": "Hi, my name is Saad Raza. I'm a certified SEO expert with over 10 years of hands-on experience. I am highly skilled in different types of search engine optimization (SEO) such as on-page optimization, link building, technical and local SEO. I use only white hat SEO techniques recommended by Google. I've been in the SEO business for long, providing result-oriented SEO services to my clients. I hope you will enjoy working with me. To get professional SEO services feel free to reach me out.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Certified From Google Digital Garage",
+        "certificationName": "Fundamentals Of Digital Marketing",
+        "year": 2016
+      },
+      {
+        "receivedFrom": "Certified From SEMrush Academy",
+        "certificationName": "SEO Fundamentals ",
+        "year": 2016
+      },
+      {
+        "receivedFrom": "Certified From Digiskills Academy",
+        "certificationName": "SEO Expert",
+        "year": 2016
+      },
+      {
+        "receivedFrom": "Certified From Google Ads Academy",
+        "certificationName": "Google Ads",
+        "year": 2017
+      },
+      {
+        "receivedFrom": "Certified From Google Analytics Academy",
+        "certificationName": "Google Analytics",
+        "year": 2017
+      },
+      {
+        "receivedFrom": "Certified From Hubspot Academy",
+        "certificationName": "Social Media Marketing",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "Certified From Hubspot Academy",
+        "certificationName": "Email Marketing",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "marketing",
+        "toYear": 2020,
+        "countryCode": "PK",
+        "school": "karachi university",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "SEO expert"
+      },
+      {
+        "id": "617fa6670565f0778900669b",
+        "name": "On-page SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "On-page SEO expert"
+      },
+      {
+        "id": "617fa6610565f077890064ff",
+        "name": "Link building",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Link building expert"
+      },
+      {
+        "id": "617fa6700565f0778900694d",
+        "name": "SEO audit",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO audit expert"
+      },
+      {
+        "id": "617fa6620565f0778900652f",
+        "name": "Local SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Local SEO expert"
+      },
+      {
+        "id": "617fa6750565f07789006ac2",
+        "name": "Technical SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Technical SEO expert"
+      },
+      {
+        "id": "617fa67e0565f07789006d53",
+        "name": "YouTube SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "YouTube SEO expert"
+      },
+      {
+        "id": "617fa6380565f077890058ca",
+        "name": "App store optimization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App store optimization expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c7a",
+        "name": "Website audit",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website auditer"
+      },
+      {
+        "id": "617fa67b0565f07789006c78",
+        "name": "Website analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website analyst"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress SEO expert"
+      },
+      {
+        "id": "61a4d8b4758d756a25307be9",
+        "name": "Shopify SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify SEO expert"
+      },
+      {
+        "id": "617fa6710565f07789006951",
+        "name": "SEO writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO writer"
+      },
+      {
+        "id": "617fa6550565f07789006191",
+        "name": "Google SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google SEO expert"
+      },
+      {
+        "id": "617fa6700565f0778900694e",
+        "name": "SEO consulting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO consultant"
+      },
+      {
+        "id": "617fa6370565f07789005859",
+        "name": "Amazon SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Amazon SEO expert"
+      },
+      {
+        "id": "617fa64e0565f07789005f27",
+        "name": "Etsy SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Etsy SEO expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 59,
+        "nestedCategoryId": 2140
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 65,
+        "nestedCategoryId": 2070
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 65,
+        "nestedCategoryId": 2153
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 65,
+        "nestedCategoryId": 2154
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 65,
+        "nestedCategoryId": 2155
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": 2772
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2626
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "63f9ce9588bc44000154d45b",
+          "title": " Footwear - eCommerce SEO",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63f9ce9588bc44000154d45c",
+                "attachment": {
+                  "metadata": {
+                    "height": 750,
+                    "width": 1000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/cfa0ace1d74feb08c63ae5a56443c2c0-1677315711992/seo-footwear-brand.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63f9cf141a48cb0001ebe88e",
+          "title": "Interior Designer SEO",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63f9cf141a48cb0001ebe88f",
+                "attachment": {
+                  "metadata": {
+                    "height": 750,
+                    "width": 1000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/f64778e418700e5a1bfd6a6625a9497b-1677315853662/seo-interior-brand.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63f9cf7a2ade6d000187ef41",
+          "title": "Essential Oils - eCommerce SEO",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63f9cf7a2ade6d000187ef42",
+                "attachment": {
+                  "metadata": {
+                    "height": 750,
+                    "width": 1000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/a5e10c2d89de6e99d60279f4b5b7c859-1677315958046/seo-naturaloils-brand.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63f9cfeb36187c0001ca5262",
+          "title": "Activewear - eCommerce SEO",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63f9cfeb36187c0001ca5263",
+                "attachment": {
+                  "metadata": {
+                    "height": 750,
+                    "width": 1000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c9641df5a042bd86bd69ace3c95c35d9-1677316068517/seo-ecommerce-brand.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63f9d0661a48cb0001ebe901",
+          "title": "DFSK - Automotive SEO",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63f9d0661a48cb0001ebe902",
+                "attachment": {
+                  "metadata": {
+                    "height": 750,
+                    "width": 1000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/addc97640e256f8b4009f5e9d30118dd-1677316194427/seo-automobile-brand.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63f9d0ab2ade6d000187efb0",
+          "title": "Healthcare SEO",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63f9d0ab2ade6d000187efb1",
+                "attachment": {
+                  "metadata": {
+                    "height": 750,
+                    "width": 1000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/b2734fbb33d4ce78e8800e9e1c400a73-1677316255894/seo-healthcare-brand.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63f9d11b2ade6d000187efcf",
+          "title": "Courses - eCommerce SEO",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63f9d11b2ade6d000187efd0",
+                "attachment": {
+                  "metadata": {
+                    "height": 750,
+                    "width": 1000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1dff890b094d4d3a285f00a245300891-1677316371480/seo-education-brand.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63f9d15d88bc44000154d55a",
+          "title": "Thrift Store - eCommerce SEO",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63f9d15d88bc44000154d55b",
+                "attachment": {
+                  "metadata": {
+                    "height": 2000,
+                    "width": 2667
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d49a1609769324655d5dad77b5f11092-1677316433402/seo-ecommerce-brand-preloved.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 8
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 374
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65a82da9dadac264a8201442",
+          "comment": "Saad helped me with all of my questions and was very professional in helping me and patiently getting back to me if I was unclear on something.",
+          "comment_language": "en",
+          "username": "ldl6767",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-18T09:58:42",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/544bb64957f6f572941ba9ffc6d33a2d-1705146135/Screenshot%202024-01-12%20235930.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/544bb64957f6f572941ba9ffc6d33a2d-1705146135/Screenshot%202024-01-12%20235930.png",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO523DB0C01C7",
+          "score": 0.39613077,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 161213366,
+          "gig_slug": "create-optimize-xml-sitemap-and-robots-txt-for-your-website",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2154,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6595a953de307a0001edb2ed",
+          "comment": "Great Job! Seller was very informative and didn’t attempt to take advantage given my lack of knowledge. Would definitely recommend his services. ",
+          "comment_language": "en",
+          "username": "uniquedesignsby",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-03T18:37:23",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/83d2e17b45dd9c8b1614d70853ec9775-1704225318/Screenshot%202023-12-27%20184020.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/83d2e17b45dd9c8b1614d70853ec9775-1704225318/Screenshot%202023-12-27%20184020.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO717D6FA5D81",
+          "score": 0.38732308,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 161213366,
+          "gig_slug": "create-optimize-xml-sitemap-and-robots-txt-for-your-website",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2154,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 13,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6574bd5386d74b0001873fad",
+          "comment": "Saad was extremely helpful and fast! He explained everything I needed to do and was online with me throughout the process. Thank you so much! ",
+          "comment_language": "en",
+          "username": "quasarkeys",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b0b82bc09200191d2d6bbebd22aefe67-842250131581258307080/JPEG_20200209_092506_4042525754319450873.jpg",
+          "created_at": "2023-12-09T19:46:41",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/24636ed442aece37c1e21fd3f7ad94d4-1702143594/Screenshot%202023-12-09%20223931.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/24636ed442aece37c1e21fd3f7ad94d4-1702143594/Screenshot%202023-12-09%20223931.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO62983296CC8",
+          "score": 0.36183888,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 161213366,
+          "gig_slug": "create-optimize-xml-sitemap-and-robots-txt-for-your-website",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2154,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6586c43a5c478900012db963",
+          "comment": "Was incredibly helpful with a quick response time and fast turnaround, will be using him again in future, highly recommend!",
+          "comment_language": "en",
+          "username": "whiskeymanmusic",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-12-23T11:28:08",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO211D9E4A444",
+          "score": 0.26178625,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 161213366,
+          "gig_slug": "create-optimize-xml-sitemap-and-robots-txt-for-your-website",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2154,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65c614bed8c6512d985b9b9d",
+          "comment": "thank you Saad Raza his work is very good and fast I recommend anyone to work with him. ",
+          "comment_language": "en",
+          "username": "abdul_kh_qalkwi",
+          "reviewer_country_code": "EG",
+          "created_at": "2024-02-09T12:05:09",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/e55e34559024a18db10d4f5e07aea962-1707413070/Screenshot%202024-01-25%20005410.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/e55e34559024a18db10d4f5e07aea962-1707413070/Screenshot%202024-01-25%20005410.png",
+          "reviewer_country": "Egypt",
+          "encrypted_order_id": "FO8301EDD3F08",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 166137579,
+          "gig_slug": "setup-google-analytics-search-console-and-tag-manager-523b",
+          "gig_category": 2,
+          "gig_sub_category": 59,
+          "gig_nested_sub_category": 2140,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 374,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 149,
+        "business": 26
+      },
+      "user_id": 86027067,
+      "seller_username": "saadrazadigital",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 368
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 86027067,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 86027067,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 161213366,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2154,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-optimize-xml-sitemap-and-robots-txt-for-your-website",
+      "title": "create optimize XML sitemap and robots txt for your website",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/161213366/original/8dfea2ba12f9c714a6ea35f735cf3322d1686dd5.jpg",
+          "type": "ImageAsset",
+          "id": "161213366_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/161213366/original/41ddf4b7c72fd2ddebb58717e1093f7b82e41c45.jpg",
+          "type": "ImageAsset",
+          "id": "161213366_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/161213366/original/891e6b4a55acee51b02859241cb2697c5c1e5c7a.jpg",
+          "type": "ImageAsset",
+          "id": "161213366_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "arts",
+            "beauty_cosmetics",
+            "crypto_blockchain",
+            "construction",
+            "dental_care",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "fashion_apparel",
+            "financial_services_banking",
+            "food_beverage",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "medical_pharmaceutical",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "science",
+            "services",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "punjabi",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 250,
+      "buying_review_rating": 4.9,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/create-optimize-xml-sitemap-and-robots-txt-for-your-website",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 166137579,
+      "category_id": 2,
+      "sub_category_id": 59,
+      "nested_sub_category_id": 2140,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "setup-google-analytics-search-console-and-tag-manager-523b",
+      "title": "setup google analytics, search console and tag manager",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/166137579/original/64e916a704b371d738a20a6799eff79b5724f427.jpg",
+          "type": "ImageAsset",
+          "id": "166137579_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176661670",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e55e34559024a18db10d4f5e07aea962-1707413070/Screenshot%202024-01-25%20005410.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175517977",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/9bbcbeba4acc09cd201251ca1abd2c8c-1705089132/Screenshot%202024-01-12%20235930.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "167699141",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/db741fff6610545703c1a942016b93ba-1689188146/Screenshot%202023-07-12%20235518.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "166204184",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/0f239ef3e18946c13ad04ebb81c49739-1686234649/image%20(20).png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "156706683",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/edb1981624b99274a134d4db6dad6e2c-1669033698/image%20(22).png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 62,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/setup-google-analytics-search-console-and-tag-manager-523b",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 177148373,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2154,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-complete-seo-of-your-shopify-store-for-improve-rankings",
+      "title": "be your shopify SEO expert to skyrocket your sales",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/177148373/original/4472705acadb0d72cee123d97f5298c23b3c011a.jpg",
+          "type": "ImageAsset",
+          "id": "177148373_1"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "604c9594e1da400001f9a12f",
+          "discount_percentage": 0
+        },
+        {
+          "id": "604c9594e1da400001f9a130",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "arts",
+            "beauty_cosmetics",
+            "crypto_blockchain",
+            "construction",
+            "dental_care",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "fashion_apparel",
+            "financial_services_banking",
+            "food_beverage",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "medical_pharmaceutical",
+            "photography_videography",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "science",
+            "services",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 20,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/do-complete-seo-of-your-shopify-store-for-improve-rankings",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 172618839,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2154,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "setup-schema-markup-and-rich-snippets-into-your-website",
+      "title": "setup schema markup and rich snippets into your website",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/172618839/original/0d798b66414f5ea29b78c54905494a58e70f6880.jpg",
+          "type": "ImageAsset",
+          "id": "172618839_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "140586595",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/11a256ab8441dc63c24bb20c604c2c88-1640081154/Screenshot.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "124987362",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/fecffd4dacc0c0a79594a177c414562f-1611489161/Adding%20Image.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "122825945",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d54c6681a6097399f023e2e6c9bed8e6-1607257902/Preview.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "120364740",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5dbe881bbd4041e9915f79f8229a92bb-1602440450/Schema.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "arts",
+            "beauty_cosmetics",
+            "crypto_blockchain",
+            "construction",
+            "dental_care",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "fashion_apparel",
+            "financial_services_banking",
+            "food_beverage",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "photography_videography",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "science",
+            "services",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "punjabi",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 14,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/setup-schema-markup-and-rich-snippets-into-your-website",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 188183152,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2155,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-high-quality-web-2-0-backlinks-for-you",
+      "title": "build high quality web 2 0 backlinks for you",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/188183152/original/d81a3f5b72ce5ce1f48799df7e4d06feb3a6ce6b.jpg",
+          "type": "ImageAsset",
+          "id": "188183152_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "604c95e33bcda00001609666",
+          "discount_percentage": 0
+        },
+        {
+          "id": "604c95e33bcda00001609667",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "business",
+            "e_commerence",
+            "health_wellness",
+            "kids_and_family",
+            "news",
+            "real_estate",
+            "retail_wholesale",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "punjabi",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/build-high-quality-web-2-0-backlinks-for-you",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 216197115,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2153,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "fix-wordpress-seo-issues-for-improving-rankings",
+      "title": "do wordpress SEO and fix all issues for your website",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/216197115/original/2b9e077b1d856b1ee9da086e87f805f6d1a0ddd4.jpg",
+          "type": "ImageAsset",
+          "id": "216197115_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "60f31004ffc05800014b102b",
+          "discount_percentage": 5
+        },
+        {
+          "id": "60f31004ffc05800014b102c",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "beauty_cosmetics",
+            "education",
+            "fashion_apparel",
+            "food_beverage",
+            "health_wellness",
+            "marketing_advertising",
+            "retail_wholesale",
+            "services",
+            "sports_and_recreation",
+            "technology_internet"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/fix-wordpress-seo-issues-for-improving-rankings",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 226092323,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2155,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "provide-monthly-off-page-seo-service-for-your-website",
+      "title": "provide monthly off page SEO service for your website",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/226092323/original/a77093f8760ad001b6302e81fa167d1bb2a47984.jpg",
+          "type": "ImageAsset",
+          "id": "226092323_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6150ad33fbc72b0001271a30",
+          "discount_percentage": 5
+        },
+        {
+          "id": "6150ad33fbc72b0001271a31",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "arts",
+            "business",
+            "crypto_blockchain",
+            "e_commerence",
+            "education",
+            "environmental",
+            "games",
+            "government_public_sector",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "medical_pharmaceutical",
+            "news",
+            "non_profit",
+            "real_estate",
+            "retail_wholesale",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/provide-monthly-off-page-seo-service-for-your-website",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 162970623,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-best-seo-keyword-research-for-your-website",
+      "title": "do best SEO keyword research for your website",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/162970623/original/c8c6dde5311ab1573d6fee19e1b79bf6de97d3f1.jpg",
+          "type": "ImageAsset",
+          "id": "162970623_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "arts",
+            "beauty_cosmetics",
+            "crypto_blockchain",
+            "dental_care",
+            "construction",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "fashion_apparel",
+            "financial_services_banking",
+            "food_beverage",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "photography_videography",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "science",
+            "services",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "punjabi",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/do-best-seo-keyword-research-for-your-website",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 168265382,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "research-blog-topic-ideas-for-any-niche-with-keywords",
+      "title": "research blog topic ideas for any niche with keywords",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/168265382/original/409d2121c3b30640278d556bc0c18a63933a62eb.jpg",
+          "type": "ImageAsset",
+          "id": "168265382_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "arts",
+            "business",
+            "e_commerence",
+            "education",
+            "health_wellness",
+            "kids_and_family",
+            "real_estate",
+            "retail_wholesale",
+            "society_and_culture",
+            "technology_internet"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "punjabi",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/research-blog-topic-ideas-for-any-niche-with-keywords",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 225919613,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2155,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-forum-backlinks-high-quality-posting-for-you",
+      "title": "do forum backlinks high quality posting for you",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/225919613/original/f1ea082ad70822dadb367d65602fd31001d055b5.jpg",
+          "type": "ImageAsset",
+          "id": "225919613_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "614ef12a367f3e000145f4ff",
+          "discount_percentage": 5
+        },
+        {
+          "id": "614ef12a367f3e000145f500",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "arts",
+            "business",
+            "crypto_blockchain",
+            "e_commerence",
+            "education",
+            "environmental",
+            "financial_services_banking",
+            "games",
+            "government_public_sector",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "medical_pharmaceutical",
+            "news",
+            "non_profit",
+            "real_estate",
+            "retail_wholesale",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/do-forum-backlinks-high-quality-posting-for-you",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 290877828,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2153,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-webflow-seo-expert-to-skyrocket-your-traffic",
+      "title": "be your webflow SEO expert to skyrocket your traffic",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/290877828/original/f453055b655c89d0b7cbc884625e46f2803029a4.jpg",
+          "type": "ImageAsset",
+          "id": "290877828_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "654d33ec8411570001dd9613",
+          "discount_percentage": 5
+        },
+        {
+          "id": "654d33ec8411570001dd9614",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "education",
+            "fashion_apparel",
+            "health_wellness",
+            "lifestyle",
+            "marketing_advertising",
+            "retail_wholesale",
+            "services",
+            "sports_and_recreation",
+            "technology_internet",
+            "travel_tourism"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/be-your-webflow-seo-expert-to-skyrocket-your-traffic",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 292266068,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2155,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "increase-ahrefs-domain-rating-dr-for-your-website",
+      "title": "increase ahrefs domain rating dr for your website",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/292266068/original/2e9c36487aa16f6d98080d06692be9981cd9a9ff.jpg",
+          "type": "ImageAsset",
+          "id": "292266068_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/292266068/original/953e3a1799f0cf054fb6d25a6c38da2425ef8aca.jpg",
+          "type": "ImageAsset",
+          "id": "292266068_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/292266068/original/ee07cae17bed229ff4ea01243efdfea39f43b736.jpg",
+          "type": "ImageAsset",
+          "id": "292266068_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "arts",
+            "beauty_cosmetics",
+            "crypto_blockchain",
+            "construction",
+            "dental_care",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "fashion_apparel",
+            "financial_services_banking",
+            "food_beverage",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "medical_pharmaceutical",
+            "non_profit",
+            "photography_videography",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "science",
+            "services",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/increase-ahrefs-domain-rating-dr-for-your-website",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 201835594,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2626,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "install-free-ssl-certificate-and-cdn-with-cloudflare",
+      "title": "install free ssl certificate and CDN with cloudflare",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/201835594/original/c950622bda56ebe1dd57d3d76b62e0db5ba60688.jpg",
+          "type": "ImageAsset",
+          "id": "201835594_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "wordpress"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business",
+            "blog",
+            "portfolio",
+            "saas"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/install-free-ssl-certificate-and-cdn-with-cloudflare",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 271743033,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2772,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-up-to-20-000-words-bulk-articles-and-blog-posts",
+      "title": "write up to 20,000 words bulk articles and blog posts",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/271743033/original/f6187f1bc1d3e990437121ba1b8914b03e8dd0ff.jpg",
+          "type": "ImageAsset",
+          "id": "271743033_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "63013b4bf3130300013da4ea",
+          "discount_percentage": 5
+        },
+        {
+          "id": "63013b4bf3130300013da4eb",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "marketing_advertising",
+            "retail_wholesale",
+            "services",
+            "technology",
+            "writing_publishing"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "persuasive",
+            "professional_formal",
+            "informative"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/write-up-to-20-000-words-bulk-articles-and-blog-posts",
+      "is_seller_unavailable": false,
+      "price_i": 65,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 290906659,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2154,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-squarespace-seo-expert-to-skyrocket-your-traffic",
+      "title": "be your squarespace SEO expert to skyrocket your traffic",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/290906659/original/81ec03f81a7cc8de4f8a9ef87cacc75d67de3cd6.jpg",
+          "type": "ImageAsset",
+          "id": "290906659_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "arts",
+            "beauty_cosmetics",
+            "crypto_blockchain",
+            "construction",
+            "dental_care",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "fashion_apparel",
+            "financial_services_banking",
+            "food_beverage",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "photography_videography",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "services",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/be-your-squarespace-seo-expert-to-skyrocket-your-traffic",
+      "is_seller_unavailable": false,
+      "price_i": 200,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 290913803,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2153,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-complete-seo-for-your-wix-website-to-improve-rankings",
+      "title": "do complete SEO for your wix website to improve rankings",
+      "seller_name": "saadrazadigital",
+      "seller_id": 86027067,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/17571a9ed5e62a1f74e611344f60e3bc-1692641696809/cefa6042-5ca6-4d4a-ac2d-84511472a0bd.JPEG",
+      "seller_display_name": "Saad Raza",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/290913803/original/f72597a3d08918ed54312948cf8449c9484f40e0.jpg",
+          "type": "ImageAsset",
+          "id": "290913803_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "654d344f1cd62f0001909055",
+          "discount_percentage": 5
+        },
+        {
+          "id": "654d344f1cd62f0001909056",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "education",
+            "fashion_apparel",
+            "financial_services_banking",
+            "health_wellness",
+            "lifestyle",
+            "marketing_advertising",
+            "services",
+            "sports_and_recreation",
+            "technology_internet",
+            "travel_tourism"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/saadrazadigital",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 374,
+        "score": 4.9616756
+      },
+      "gig_url": "/saadrazadigital/do-complete-seo-for-your-wix-website-to-improve-rankings",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

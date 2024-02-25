@@ -1,0 +1,888 @@
+{
+  "seller": {
+    "user": {
+      "id": "944823",
+      "name": "design2thrive",
+      "isActivationCompleted": true,
+      "joinedAt": 1347271685,
+      "profile": {
+        "displayName": "Taylor K."
+      },
+      "address": {
+        "countryName": "Singapore",
+        "countryCode": "SG"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/04adb21b2edcd5d770aab18eda19e3c8-1648995135237/59f4897c-7d2c-46ac-8dc0-3443adc1c5c5.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "98728822"
+        },
+        {
+          "id": "1033851"
+        },
+        {
+          "id": "1028924"
+        }
+      ]
+    },
+    "notableClients": [
+      {
+        "endedAt": 1630454400,
+        "startedAt": 1619827200,
+        "description": "Collaborated with Fiverr on some banner ads design and resizing of creatives on Figma.",
+        "company": {
+          "description": "Fiverr's mission is to change how the world works together. Fiverr connects businesses with freelancers offering digital services in 300+ categories.",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/25bc0861a8579b6493c51a7e06c29420-1643199859/61a87d8f84d88e25cd784b0d.png"
+            }
+          },
+          "name": "Fiverr",
+          "industry": {
+            "slug": "Internet Software & Services"
+          }
+        }
+      },
+      {
+        "endedAt": 1661990400,
+        "startedAt": 1646092800,
+        "description": "Worked with a marketing manager from MBT.com  on their website banners.",
+        "company": {
+          "description": "MBT is a manufacturer and retailer of men's and women's footwear.",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/babd917dc7c3dd5e9bd0a3b24455f571-1655293419626/mbt.png"
+            }
+          },
+          "name": "MBT",
+          "industry": {
+            "slug": "Shoemaking"
+          }
+        }
+      },
+      {
+        "endedAt": 1588291200,
+        "startedAt": 1588291200,
+        "description": "Work with agents of RE/MAX on their branding",
+        "company": {
+          "description": "RE/MAX is a global real estate franchisor based in southern Africa.",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/71f3589ec5d82317c21dda47a1bb1fa4-1655282930/623309d95a08511b0c6f707a.png"
+            }
+          },
+          "name": "RE/MAX",
+          "industry": {
+            "slug": "Commercial Real Estate"
+          }
+        }
+      }
+    ],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Your Choice for a Graphic Designer and Video Editing Specialist",
+    "description": "A Veteran on Fiverr. I am a Graphics Designer and Video Editor with 12+ years of solid professional experience. I live, eat and breathe design which has been a passion of mine since 14. \r\n\r\nI design to inspire, I design to thrive. \r\n \r\n Get in touch. Thanks!\r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": true,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": {
+      "type": "IMAGE",
+      "scanStatus": "PASSED",
+      "fileName": "untitled.png",
+      "previewUrl": {
+        "transformation": "SELLER_PROFILE_COVER_WIDE_PREVIEW",
+        "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_seller_cover_wide/v1/secured-attachments/seller/profile_background_image/baa6cd41d2d9c00df69971288cb5a876-1639071787323/untitled.png?__cld_token__=exp=1707969167~hmac=0c670b800006bfa93ffa67eb7d6aa6089525ada38465293966852336f4e4f60e"
+      }
+    },
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6350565f077890057e1",
+        "name": "Adobe After Effects",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Adobe After Effects expert"
+      },
+      {
+        "id": "617fa6440565f07789005c6b",
+        "name": "Corporate video",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Corporate vide producer"
+      },
+      {
+        "id": "617fa63b0565f077890059af",
+        "name": "Banner design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Banner desiger"
+      },
+      {
+        "id": "617fa6370565f0778900588a",
+        "name": "Animated banner design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Animated banner designer"
+      },
+      {
+        "id": "617fa64f0565f07789005f72",
+        "name": "Facebook ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook ads expert"
+      },
+      {
+        "id": "617fa6720565f077890069b6",
+        "name": "Social graphics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social graphics expert"
+      },
+      {
+        "id": "617fa6780565f07789006ba9",
+        "name": "Video ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video ads creator"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 148,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 149,
+        "nestedCategoryId": 2360
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 482,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "594f98105a37ed24750000d0",
+          "title": "Banners",
+          "items": {
+            "totalCount": 118,
+            "nodes": [
+              {
+                "id": "59d7e5e8c9e55237300000e3",
+                "attachment": {
+                  "metadata": null,
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/portfolio_project/item/db7c74ca9359c8fa237a4c2b32db66b2/4_34366775411_o.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "594f992a5a37ed24790000c9",
+          "title": "Infographics",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "59d7e5f3b56c411d5c0000d5",
+                "attachment": {
+                  "metadata": null,
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/portfolio_project/item/797a3001d08d573c4bd176ab16b89875/infographic_34435984232_o.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "594f99af5b9cd22afa0000df",
+          "title": "Logos",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "594f99af5b9cd22afa0000e0",
+                "attachment": {
+                  "metadata": null,
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/portfolio_project/item/95d58264b8dee0c383fb3e355518df73/logo_33675424294_o.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "594f9bc61c4b2c57b80000c2",
+          "title": "Flyers",
+          "items": {
+            "totalCount": 11,
+            "nodes": [
+              {
+                "id": "59d7e5dac9e55237330000f2",
+                "attachment": {
+                  "metadata": null,
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/portfolio_project/item/aea66d65c63047a8130e73ae61b96a51/flyer-design_34465179446_o.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "594f9c551c4b2c57b80000d3",
+          "title": "Book cover",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "59d7e608c9e55237330000fd",
+                "attachment": {
+                  "metadata": null,
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/portfolio_project/item/9b60b72a14409c21a6d7b1d831b3a338/book-cover_33655115244_o.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "5b453dc21c84a3000a0001c2",
+          "title": "Facebook Video Cover",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "5b453dc21c84a3000a0001c3",
+                "attachment": {
+                  "metadata": null,
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/gm1mw8qi7ik9njki8dtq.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 6
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 16950
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "TOP_RATED_SELLER",
+    "responseTime": {
+      "inHours": 3
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65770b1c5485e04ba6ac5079",
+          "comment": "Having completed 24 successful orders with Taylor K. on Fiverr, I can confidently say that he is a graphic design wizard. Taylor has consistently brought our brand's vision to life with unparalleled creativity and precision. Each project, from the first to the twenty-fourth, has been a testament to his exceptional skill and dedication to branding excellence. His work has not only enhanced our visual identity but has also contributed significantly to our market presence. I wholeheartedly recommend Taylor K. for anyone seeking outstanding graphic design and branding services on Fiverr. He's a true professional who delivers exceptional results every time!",
+          "comment_language": "en",
+          "username": "selfdefensemall",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c454f0705da3fbdde4641aea2ac25488-1257945061668987898.16895/262323F5-8383-4EFC-97B8-B9F9A735CEA6",
+          "created_at": "2023-12-11T13:38:05",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15EE7DB201",
+          "score": 0.73862267,
+          "reviewer_industry": [
+            "retail_and_wholesale"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 1033851,
+          "gig_slug": "design-an-attractive-and-professional-website-banner-or-header-only",
+          "gig_category": 3,
+          "gig_sub_category": 148,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 199,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6578829c5485e04ba6ac68d8",
+          "comment": "Excellent work once again! I highly recommend this seller because of timeliness, creativity and professionalism in the design. Even though prices have gone up across the board, there is still room for gained value in the fast delivery. It is useful even more, especially if you plan to reuse the design in different segments.",
+          "comment_language": "en",
+          "username": "sureshiyengar",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1318336939efe24561a0ec2dbde2700d-1628026793738/cdc76e4a-727a-4a52-8fc5-96d37fad4cad.png",
+          "created_at": "2023-12-12T15:56:33",
+          "value": 4.3,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO62398A304C6",
+          "score": 0.690083,
+          "reviewer_industry": [
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 1033851,
+          "gig_slug": "design-an-attractive-and-professional-website-banner-or-header-only",
+          "gig_category": 3,
+          "gig_sub_category": 148,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 318,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65786a5e152f1b00012f9ba0",
+          "comment": "Listen---When you need to design website banners, ads, headers, animated gif, hero images or flyer. Look no further than here. Design2thrive, Taylor and the rest of the team are the absolute best. Thank you!",
+          "comment_language": "en",
+          "username": "dcowan25",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/64403364/original/bigstock-Doctor-And-Nurses-5300612.jpg",
+          "created_at": "2023-12-12T14:21:03",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO62397CC3FC6",
+          "score": 0.65598017,
+          "reviewer_industry": [
+            "education"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 1033851,
+          "gig_slug": "design-an-attractive-and-professional-website-banner-or-header-only",
+          "gig_category": 3,
+          "gig_sub_category": 148,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 235,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a3b2f2be67470001ec92a9",
+          "comment": "Communication was smooth . However , there was some understanding regarding my request resulting in an ok final product . Improvements could’ve been made grasping clients needs for a more polished outcome . ",
+          "comment_language": "en",
+          "username": "nayefbuali",
+          "reviewer_country_code": "BH",
+          "created_at": "2024-01-14T10:56:01",
+          "value": 4,
+          "reviewer_country": "Bahrain",
+          "encrypted_order_id": "FO417D5B2A384",
+          "score": 0.55146563,
+          "reviewer_industry": [
+            "food_and_beverage"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 1033851,
+          "gig_slug": "design-an-attractive-and-professional-website-banner-or-header-only",
+          "gig_category": 3,
+          "gig_sub_category": 148,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b382ca41e5c52d8c2301b6",
+          "comment": "We really enjoy working with Taylor, He's easy to work with, communicative and very creative. His designs are excellent and engaging and on time delivery. We highly recommend ",
+          "comment_language": "en",
+          "username": "aran00790",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-26T10:35:01",
+          "value": 4.3,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO317F7AB4B85",
+          "score": 0.42228317,
+          "reviewer_industry": [
+            "retail_and_wholesale"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 1033851,
+          "gig_slug": "design-an-attractive-and-professional-website-banner-or-header-only",
+          "gig_category": 3,
+          "gig_sub_category": 148,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 16950,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1751,
+        "business": 736
+      },
+      "user_id": 944823,
+      "seller_username": "design2thrive",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 28
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 20
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 54
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 275
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 16573
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "retail_and_wholesale": "Retail & Wholesale",
+        "financial_services_or_banking": "Financial & Business Services ",
+        "education": "Education",
+        "food_and_beverage": "Food & Beverage"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 944823,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 944823,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Singapore",
+    "recent_utc_offset": -480
+  },
+  "gigsData": [
+    {
+      "gig_id": 1033851,
+      "category_id": 3,
+      "sub_category_id": 148,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-an-attractive-and-professional-website-banner-or-header-only",
+      "title": "design website banner, ads, header, animated gif, hero images or flyer",
+      "seller_name": "design2thrive",
+      "seller_id": 944823,
+      "seller_country": "SG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/04adb21b2edcd5d770aab18eda19e3c8-1648995135237/59f4897c-7d2c-46ac-8dc0-3443adc1c5c5.png",
+      "seller_display_name": "Taylor K.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/1033851/original/c2ee6cbbb8cb056246b311479f017a073536007b.jpg",
+          "type": "ImageAsset",
+          "id": "1033851_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/1033851/original/4680753bd2a6e4122389ab5c1ded85b767cb6f18.jpg",
+          "type": "ImageAsset",
+          "id": "1033851_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/1033851/original/2545be2062c6119c6c162d6fcd999d701adff5e1.jpg",
+          "type": "ImageAsset",
+          "id": "1033851_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "65a7e6d5badd520023a747c2",
+          "id": 9807832
+        }
+      ],
+      "attachments": [
+        {
+          "id": "65a7e6d5badd520023a747c2",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/u3eg4f8lpudixibm2eyj",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_12.498779,PLACEHOLDER/u3eg4f8lpudixibm2eyj.png"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 0
+        },
+        {
+          "code": "zh",
+          "level": 0
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "613dcc6b9e1def000122ee43",
+          "discount_percentage": 5
+        },
+        {
+          "id": "613dcc6b9e1def000122ee44",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "main_type",
+          "value": [
+            "static_banner"
+          ]
+        },
+        {
+          "type": "image_file_format",
+          "value": [
+            "gif",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 14059,
+      "buying_review_rating": 5,
+      "seller_url": "/design2thrive",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 16950,
+        "score": 4.926727
+      },
+      "gig_url": "/design2thrive/design-an-attractive-and-professional-website-banner-or-header-only",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 1028924,
+      "category_id": 3,
+      "sub_category_id": 149,
+      "nested_sub_category_id": 2360,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-an-attractive-and-professional-facebook-cover",
+      "title": "design facebook cover, ads, post or photo",
+      "seller_name": "design2thrive",
+      "seller_id": 944823,
+      "seller_country": "SG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/04adb21b2edcd5d770aab18eda19e3c8-1648995135237/59f4897c-7d2c-46ac-8dc0-3443adc1c5c5.png",
+      "seller_display_name": "Taylor K.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/1028924/original/bad882b48db1f5785c3882de2e8c6031bbf7c962.png",
+          "type": "ImageAsset",
+          "id": "1028924_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/1028924/original/bd3a495c555977b7a81a69f163c4bc580b449412.png",
+          "type": "ImageAsset",
+          "id": "1028924_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175931696",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c9d74694081d858726cf026aeb90e263-1705951519/1.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175885632",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/13f3a0a4e8b3d31d074cf4401f913be0-1705857465/2.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175635849",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/665387c77481d6f8c0a70bdedc95269e-1705349323/fb%20cover.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173571967",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c4ad08fe824d3ab25922ed3ac6040a16-1700739065/fb%20cover.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173230002",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/2554f72257767ad7a2ff34b0dd6078d2-1700058931/fb%20cover.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 0
+        },
+        {
+          "code": "zh",
+          "level": 0
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "613dcc300ebc1f0001d5c00a",
+          "discount_percentage": 5
+        },
+        {
+          "id": "613dcc300ebc1f0001d5c00b",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "instagram",
+            "facebook",
+            "linkedin",
+            "pinterest",
+            "twitter",
+            "youtube",
+            "tiktok",
+            "zoom"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 1657,
+      "buying_review_rating": 5,
+      "seller_url": "/design2thrive",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 16950,
+        "score": 4.926727
+      },
+      "gig_url": "/design2thrive/design-an-attractive-and-professional-facebook-cover",
+      "is_seller_unavailable": false,
+      "price_i": 35,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 98728822,
+      "category_id": 20,
+      "sub_category_id": 482,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-a-facebook-video-cover",
+      "title": "edit or create videos for youtube, instagram, facebook and other social media",
+      "seller_name": "design2thrive",
+      "seller_id": 944823,
+      "seller_country": "SG",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/04adb21b2edcd5d770aab18eda19e3c8-1648995135237/59f4897c-7d2c-46ac-8dc0-3443adc1c5c5.png",
+      "seller_display_name": "Taylor K.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6079b764a48e90001efe8868",
+          "id": 4820389
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/98728822/original/69a3a16b47fcef16af3d2b2fee9d522ccd56836d.jpg",
+          "type": "ImageAsset",
+          "id": "98728822_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/98728822/original/7c308b81d863ddb6d6f8d226d0bcff74cd57f425.jpg",
+          "type": "ImageAsset",
+          "id": "98728822_2"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6079b764a48e90001efe8868",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/pok3sioffgopiiw9noz5",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/pok3sioffgopiiw9noz5.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "173533451",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/bzgpuyhju2zwbgnhpx2m",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/bzgpuyhju2zwbgnhpx2m.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "172675702",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zncdadaoaf61ae4pwvj7",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/zncdadaoaf61ae4pwvj7.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 0
+        },
+        {
+          "code": "zh",
+          "level": 0
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "60f7f032af92010001cf610f",
+          "discount_percentage": 5
+        },
+        {
+          "id": "60f7f032af92010001cf6110",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "facebook"
+          ]
+        },
+        {
+          "type": "video_style",
+          "value": [
+            "mixed_media"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "posts_feeds",
+            "stories",
+            "reels"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 720,
+      "buying_review_rating": 5,
+      "seller_url": "/design2thrive",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 16950,
+        "score": 4.926727
+      },
+      "gig_url": "/design2thrive/design-a-facebook-video-cover",
+      "is_seller_unavailable": false,
+      "price_i": 65,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

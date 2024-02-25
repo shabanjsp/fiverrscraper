@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "163680134",
+      "name": "eddieanderson2",
+      "isActivationCompleted": true,
+      "joinedAt": 1699696864,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 163680134,
+      "seller_username": "eddieanderson2",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 163680134,
+      "reviews": [
+        {
+          "id": "65646fa5b4b7f10001435552",
+          "comment": "great buyer",
+          "comment_language": "en",
+          "username": "muzzamilsial",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/da45a40453baa7ded212f9a81396e042-1698256327707/6e81e56f-b943-40de-82b6-4bdea51826fc.jpeg",
+          "created_at": "2023-11-27T10:29:57",
+          "value": 5
+        },
+        {
+          "id": "6563816cb4b7f1000142c92a",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "jmeel_12",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b1661f8575f064879ad4e3e7a70ee9b4-1606128851704309642439/JPEG_20240104_002041_2291676752147171012.jpg",
+          "created_at": "2023-11-26T17:33:32",
+          "value": 5
+        },
+        {
+          "id": "65637bb5b4b7f1000142c407",
+          "comment": "cooperative man ",
+          "comment_language": "unknown",
+          "username": "noni758",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/98e0f160875c6c07a86f892b6c092a0e-1697738061561/677093e6-db10-4574-b0ce-949e34664841.jpg",
+          "created_at": "2023-11-26T17:09:09",
+          "value": 5
+        },
+        {
+          "id": "6561adc1644f4e0001d87d03",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "bilal_raza17",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5967c151baee10154ca1296dcbb91451-1632666171701105784834/JPEG_20231127_222303_6658698751207565782.jpg",
+          "created_at": "2023-11-25T08:18:09",
+          "value": 5
+        },
+        {
+          "id": "6560f934bc825f00018c57ef",
+          "comment": "Good experience",
+          "comment_language": "en",
+          "username": "miss_maryam13",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f316d27f7a202e2d89987a6cb47bdd78-1696672255157/1f1a776e-84b2-42ec-a0f4-0ec9c790e2a8.jpg",
+          "created_at": "2023-11-24T19:27:48",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 163680134,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": []
+}

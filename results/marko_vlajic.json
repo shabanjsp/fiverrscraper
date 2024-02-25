@@ -1,0 +1,861 @@
+{
+  "seller": {
+    "user": {
+      "id": "74597075",
+      "name": "marko_vlajic",
+      "isActivationCompleted": true,
+      "joinedAt": 1548844485,
+      "profile": {
+        "displayName": "Marko Vision"
+      },
+      "address": {
+        "countryName": "Bosnia and Herzegovina",
+        "countryCode": "BA"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "DE",
+          "level": "BASIC"
+        },
+        {
+          "code": "SR",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/cad2bff31997be7c73b7dd7421ec9e92-1605892928205/464a551a-eb18-4984-9f74-258dc3402ece.jpg"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "127034794"
+        },
+        {
+          "id": "148847025"
+        },
+        {
+          "id": "270098002"
+        },
+        {
+          "id": "360648920"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Graphic Designer",
+    "description": "I'm Marko, a seasoned graphic designer with an unwavering passion for the art of visual communication. With over 11 years in the industry, I've become a maestro in the world of logo design. \r\n\r\nFor more than a decade, I've been on a mission to transform concepts into compelling visuals. What fuels my creative fire is the ability to craft logos that not only look good but resonate deeply with the essence of your brand.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6430565f07789005bea",
+        "name": "Company branding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Company branding expert"
+      },
+      {
+        "id": "617fa6790565f07789006bf3",
+        "name": "Visual identity",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Visual identity expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "644bdab16a48d10001dd5781",
+          "title": "Negative Space Logo",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "644bdab16a48d10001dd5782",
+                "attachment": {
+                  "metadata": {
+                    "height": 1480,
+                    "width": 2248
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1406049a37d947db9e11b19833d79a4f-1682692757042/Artboard%2012-100.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6456bb4cee2dae0001dcc994",
+          "title": "Negative Space Logos",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6456c0f6ac204f0001889aec",
+                "attachment": {
+                  "metadata": {
+                    "height": 1247,
+                    "width": 1890
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/bb2a5305ff3104ee8ad820c89aa9c09f-1683407091994/Portfolio-Gift-Final.gif"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1582944681
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 440
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "656f6c1f15cad90001dfba6a",
+          "comment": "Year after year. \n\nDesign after design. \n\nWorking with Marko to extract the very best creative juices is a delight! \n\nIf you're a business owner with a BIG vision and need an artist that can bring that vision into digital reality, I'd highly recommend Marko to be on your team. \n\nHe's helped our organizations over the years to showcase unique and brand worthy designs. Marko will leave you wanting to immediately hire him again, simply to see what else he can create from a few typed out descriptions. \n\nThank you for always delivering the very best Marko.  You make the process so productive and very painless. \n\nYou're friend, Robert.",
+          "comment_language": "en",
+          "username": "trebormc3",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e3bb8b7be5616dd896303ab666efbea3-1698344834417/c9222b76-6e91-43ed-a593-ca5eb32e4696.PNG",
+          "created_at": "2023-12-05T20:07:26",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO523871CC0C7",
+          "score": 0.8212883,
+          "reviewer_industry": [
+            "retail_and_wholesale"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 148847025,
+          "gig_slug": "design-a-clever-business-logo",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6587dfe75c478900012e50e2",
+          "comment": "Yup. Completely recommend. Great experience and nothing was too much trouble. Offered ideas when I got stuck & was patient when I changed my mind. \nHighly recommend. I was very nervous about doing a design on an app but it was a pleasant surprise. \nThanks Marko. You will go far. ✨",
+          "comment_language": "en",
+          "username": "bylauryn",
+          "reviewer_country_code": "AU",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8a81d9be5cbd31caae9bc5d6490c98cd-1657196291702759410.045652/B341C6E2-F8DA-4881-8133-E431BEBE8CB0",
+          "created_at": "2023-12-24T13:37:24",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO117C49B7F87",
+          "score": 0.6277586,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 148847025,
+          "gig_slug": "design-a-clever-business-logo",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ad4bdde7303e0001827a2c",
+          "comment": "The BEST! Went to 4 other fiver designers for the same logo until I found Marko. He is a true professional they know what he is doing. I will use him for all projects going forward.",
+          "comment_language": "en",
+          "username": "jmoore1001",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-21T17:21:27",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO723DB3355C5",
+          "score": 0.55424315,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 127034794,
+          "gig_slug": "do-unique-minimalist-and-modern-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 23,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a790fefc24e50001bcec3e",
+          "comment": "Marko is very helpful and his designs are great. He listened to my design brief and delivered promptly. I would recommend the full service to get the most out of the design process and get best results. It’s worth it.\n",
+          "comment_language": "en",
+          "username": "gker16",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-17T09:13:10",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO623C84859C6",
+          "score": 0.54806113,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 148847025,
+          "gig_slug": "design-a-clever-business-logo",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "657b1454dbf8680001ff04b5",
+          "comment": "Marko took my ideas and gave me three incredible designs to choose from! It was hard to pick. He was also communicative, efficient, and a consummate professional. I would recommend him!",
+          "comment_language": "en",
+          "username": "harleycarrol",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-14T14:58:33",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81DAA8AF802",
+          "score": 0.5375108,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 148847025,
+          "gig_slug": "design-a-clever-business-logo",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 17,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 440,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 23,
+        "business": 15
+      },
+      "user_id": 74597075,
+      "seller_username": "marko_vlajic",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.9,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 13
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 423
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "retail_and_wholesale": "Retail & Wholesale"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 74597075,
+      "reviews": [
+        {
+          "id": "621968390be81100013895c1",
+          "comment": "Excellent buyer... Thank you....",
+          "comment_language": "en-US",
+          "username": "visual_fx",
+          "reviewer_country_code": "LK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2404eee0348c0907f132cc3041bf1d11-1690478220129/333162e1-3374-42e4-8c36-0e5c9e3f9c8f.jpg",
+          "created_at": "2022-02-25T23:37:29",
+          "value": 5
+        },
+        {
+          "id": "6213b5792d0c930001a7c142",
+          "comment": "Excellent Buyer.... Thank You....",
+          "comment_language": "en-US",
+          "username": "visual_fx",
+          "reviewer_country_code": "LK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2404eee0348c0907f132cc3041bf1d11-1690478220129/333162e1-3374-42e4-8c36-0e5c9e3f9c8f.jpg",
+          "created_at": "2022-02-21T15:53:29",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 74597075,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/Sarajevo",
+    "recent_utc_offset": -60
+  },
+  "gigsData": [
+    {
+      "gig_id": 148847025,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-a-clever-business-logo",
+      "title": "design a unique negative space logo design for your business",
+      "seller_name": "marko_vlajic",
+      "seller_id": 74597075,
+      "seller_country": "BA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/cad2bff31997be7c73b7dd7421ec9e92-1605892928205/464a551a-eb18-4984-9f74-258dc3402ece.jpg",
+      "seller_display_name": "Marko Vision",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/148847025/original/97568efeaacbf85c016dbc1b038ece8a3bf21436.jpg",
+          "type": "ImageAsset",
+          "id": "148847025_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/148847025/original/02914d38634ec61842ba16bf1f8b91a0c70ae850.jpg",
+          "type": "ImageAsset",
+          "id": "148847025_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/148847025/original/0eb9736c783b6b5835662de2c206a47ee3005d57.jpg",
+          "type": "ImageAsset",
+          "id": "148847025_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "169851468",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e09fd582c5dbad1705bc771b5e2e59a4-1693395244/Mockup-Logo.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "168545323",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/53654bd595dc92da92b25ab292e19414-1690847977/1.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "154801309",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/12fc06a3908b04f9380f2b442bf31a91-1665685061/The-Grit-Logo-3D.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "153534991",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e7188d2279b189785d701e84e129108f-1663437138/Adventure.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "152977234",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d0e88302cf20951f4328b7ce4013141d-1662479352/Homemate-Logo-Design.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 1
+        },
+        {
+          "code": "sr",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6182c410267b1c0001f7308d",
+          "discount_percentage": 10
+        },
+        {
+          "id": "6182c410267b1c0001f7308e",
+          "discount_percentage": 20
+        }
+      ],
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "lettering"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "wordmark"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 411,
+      "buying_review_rating": 4.9,
+      "seller_url": "/marko_vlajic",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 440,
+        "score": 4.866511
+      },
+      "gig_url": "/marko_vlajic/design-a-clever-business-logo",
+      "is_seller_unavailable": false,
+      "price_i": 95,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 127034794,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-unique-minimalist-and-modern-logo-design",
+      "title": "design a beautiful, minimalist, logo design for business",
+      "seller_name": "marko_vlajic",
+      "seller_id": 74597075,
+      "seller_country": "BA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/cad2bff31997be7c73b7dd7421ec9e92-1605892928205/464a551a-eb18-4984-9f74-258dc3402ece.jpg",
+      "seller_display_name": "Marko Vision",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/127034794/original/d29bc109da912f518086bac09bbe5abf69bdf459.png",
+          "type": "ImageAsset",
+          "id": "127034794_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/127034794/original/fe1b1a4c8f38e8ad7f957216844821bbd6523ccc.png",
+          "type": "ImageAsset",
+          "id": "127034794_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/127034794/original/985941c8b6915c36d55f8f5573819e1f0e2f8809.png",
+          "type": "ImageAsset",
+          "id": "127034794_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "114308164",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/218d764ded380da7a0634082ace79a0f-1590270045/Dog-Design.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "111500689",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/514bca951c541b82d6ddb3d8a43fbb47-1583863060/Fox-logo-1.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "111457107",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/badf5fa92a9ce386d50ad0729e93bd76-1583756263/9.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "111202435",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d6bef7d6fe7f2c96be494d49e1720225-1583081113/Omino-logo.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "110785380",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/9c280412fdd7010d0b5cc4877321e944-1581957753/Pizza-Logo.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 1
+        },
+        {
+          "code": "sr",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "flat_minimalist"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 20,
+      "buying_review_rating": 5,
+      "seller_url": "/marko_vlajic",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 440,
+        "score": 4.866511
+      },
+      "gig_url": "/marko_vlajic/do-unique-minimalist-and-modern-logo-design",
+      "is_seller_unavailable": false,
+      "price_i": 65,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 360648920,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-a-timeless-logo-for-business",
+      "title": "design a timeless logo for business",
+      "seller_name": "marko_vlajic",
+      "seller_id": 74597075,
+      "seller_country": "BA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/cad2bff31997be7c73b7dd7421ec9e92-1605892928205/464a551a-eb18-4984-9f74-258dc3402ece.jpg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/360648920/original/c068e56d112fe49a49ead569ddb4db6a8afa816a.jpg",
+          "type": "ImageAsset",
+          "id": "360648920_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/360648920/original/d0fe6969b805327f7440114a4e6658c5a4796d6c.jpg",
+          "type": "ImageAsset",
+          "id": "360648920_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/360648920/original/a9647b9d484f2e1a607dcc4eefdc9e23ac93c4a9.jpg",
+          "type": "ImageAsset",
+          "id": "360648920_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 1
+        },
+        {
+          "code": "sr",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "flat_minimalist"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "wordmark"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 5,
+      "seller_url": "/marko_vlajic",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 440,
+        "score": 4.866511
+      },
+      "gig_url": "/marko_vlajic/design-a-timeless-logo-for-business",
+      "is_seller_unavailable": false,
+      "price_i": 125,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 270098002,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-a-unique-logo-and-stationery-design-for-your-business",
+      "title": "design a unique logo and stationery design for your business",
+      "seller_name": "marko_vlajic",
+      "seller_id": 74597075,
+      "seller_country": "BA",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/cad2bff31997be7c73b7dd7421ec9e92-1605892928205/464a551a-eb18-4984-9f74-258dc3402ece.jpg",
+      "seller_display_name": "Marko Vision",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/270098002/original/b682a3f9d77910c2637a592c0486096e99b204c8.jpg",
+          "type": "ImageAsset",
+          "id": "270098002_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/270098002/original/922b38f18d15dc9ff9dd454e464f7e37d076dc07.png",
+          "type": "ImageAsset",
+          "id": "270098002_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/270098002/original/ec70b34ab269d51df10d3e134ca381b4efc96373.jpg",
+          "type": "ImageAsset",
+          "id": "270098002_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 1
+        },
+        {
+          "code": "sr",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "62f537d07813f00001ffb7c7",
+          "discount_percentage": 20
+        }
+      ],
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "flat_minimalist"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "wordmark",
+            "pictorial"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/marko_vlajic",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 440,
+        "score": 4.866511
+      },
+      "gig_url": "/marko_vlajic/design-a-unique-logo-and-stationery-design-for-your-business",
+      "is_seller_unavailable": false,
+      "price_i": 1895,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

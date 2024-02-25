@@ -1,0 +1,165 @@
+{
+  "seller": {
+    "user": {
+      "id": "164435434",
+      "name": "myqocom",
+      "isActivationCompleted": true,
+      "joinedAt": 1700760283,
+      "profile": {
+        "displayName": "Myqo"
+      },
+      "address": {
+        "countryName": "Greece",
+        "countryCode": "GR"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "EL",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/f6a965dd72f8fd06786b2c46f1832763-1706033193292/1a396662-ff5f-450b-b74f-0ef06914bf33.png"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "We are MYQO, we go beyond pixels to forge genuine connections between brands and their audience.\nJoin us in the realm where creativity sparks, and digital experiences become unforgettable stories.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 164435434,
+      "seller_username": "myqocom",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 164435434,
+      "reviews": [
+        {
+          "id": "65cf4bd35df9d20001ba1c93",
+          "comment": "A very, very first-rate buyer. I recommend! 😉",
+          "comment_language": "en",
+          "username": "ana_seo_85",
+          "reviewer_country_code": "BR",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f19fdb8b7960d74f8174212172ca2bc5-1637948340205/a57fcefc-187b-48e5-a1c7-b38097eb0c9c.jpg",
+          "created_at": "2024-02-16T11:49:39",
+          "value": 5
+        },
+        {
+          "id": "65c91cab5ecc160001867444",
+          "comment": "Outstanding Experience",
+          "comment_language": "en",
+          "username": "jacob21",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6640180a2dbba46cad4068dcd9ad47f1-1646966940115/25a12acd-5e46-4636-a01a-a289c6749009.png",
+          "created_at": "2024-02-11T19:14:52",
+          "value": 5
+        },
+        {
+          "id": "659bd1b2369cc90001219a0a",
+          "comment": "I don't know what to say. I will never forget this classy client ✔️",
+          "comment_language": "en",
+          "username": "nadiarseo",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/dd4061ab00d3a2fc3e9496e899c67d2e-1689503385208/5145693e-58fb-4ce8-bde4-fa76796d0884.jpeg",
+          "created_at": "2024-01-08T10:42:58",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 164435434,
+    "currency": "EUR",
+    "locale": "en-US",
+    "timezone": "Europe/Athens",
+    "recent_utc_offset": -120
+  },
+  "gigsData": []
+}

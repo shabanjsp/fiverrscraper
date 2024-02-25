@@ -1,0 +1,455 @@
+{
+  "seller": {
+    "user": {
+      "id": "109355624",
+      "name": "fatimatariq_",
+      "isActivationCompleted": true,
+      "joinedAt": 1624107601,
+      "profile": {
+        "displayName": "Fatima"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/fc3ba1f865d0efd718992c143489597a-1093556241628950177.929296/9B83FDA4-9134-4B23-9E97-53A12CE014BE"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "217819773"
+        },
+        {
+          "id": "311597869"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hi there, I am Dr. Fatima Tariq. I did my MBBS from one of the prestigious medical schools of my country. My years in medical school have helped me to polish my writing skills to perfection. Therefore, I have decided to offer my services on Fiverr. My writing is very concise, easy-to-read, and well-researched. I take pride in my ability to serve my clients to their satisfaction.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "mbbs",
+        "toYear": 2018,
+        "countryCode": "PK",
+        "school": "King Edward Medical College, Lahore",
+        "degreeTitle": "MD"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006d19",
+        "name": "Writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Writer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": 2769
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 105
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 4
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "657dedff95b13e3ed1ff3697",
+          "comment": "Can't get better, perfect content.",
+          "comment_language": "en",
+          "username": "chris_w00d",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-16T18:35:52",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15F008CE81",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 217819773,
+          "gig_slug": "write-medical-articles-and-blogs-as-a-doctor",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65738904e0e98673f946e771",
+          "comment": "Excellent work. Thank You",
+          "comment_language": "en",
+          "username": "lonehulsey",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-09T01:57:59",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15EDDC6601",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 217819773,
+          "gig_slug": "write-medical-articles-and-blogs-as-a-doctor",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 35,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6516f1aae4aac80001709898",
+          "comment": "very professional and perfect timing and excellent job",
+          "comment_language": "en",
+          "username": "yinkakujore",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-09-29T15:48:39",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO3174B05D785",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 217819773,
+          "gig_slug": "write-medical-articles-and-blogs-as-a-doctor",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6511a0436d46f300011d3950",
+          "comment": "very professional and on time",
+          "comment_language": "en",
+          "username": "yinkakujore",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-09-25T14:59:30",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO3BA20B7F41",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 217819773,
+          "gig_slug": "write-medical-articles-and-blogs-as-a-doctor",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6501bd8353c49a00014352a6",
+          "comment": "Seller wrote an article for our blog.  \n\nThanks!",
+          "comment_language": "en",
+          "username": "levelup3612",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/73de5360a176b47a73fc317afeff910e-1693831927057/d7d86068-eada-4f6f-b507-2953cddb778a.jpg",
+          "created_at": "2023-09-13T14:10:53",
+          "value": 4,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO4115C57B842",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 217819773,
+          "gig_slug": "write-medical-articles-and-blogs-as-a-doctor",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 417,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 105,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 9
+      },
+      "user_id": 109355624,
+      "seller_username": "fatimatariq_",
+      "star_summary": {
+        "communication_valuation": 4.8,
+        "recommend_valuation": 4.7,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 5
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 94
+        }
+      ],
+      "average_valuation": 4.8
+    },
+    "selling_reviews": {
+      "user_id": 109355624,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 109355624,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Riyadh",
+    "recent_utc_offset": -180
+  },
+  "gigsData": [
+    {
+      "gig_id": 217819773,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-medical-articles-and-blogs-as-a-doctor",
+      "title": "write medical articles and blogs as a doctor",
+      "seller_name": "fatimatariq_",
+      "seller_id": 109355624,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/fc3ba1f865d0efd718992c143489597a-1093556241628950177.929296/9B83FDA4-9134-4B23-9E97-53A12CE014BE",
+      "seller_display_name": "Fatima",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/217819773/original/64b1e506aa28b485938a73639a8fc35e37cb4305.jpeg",
+          "type": "ImageAsset",
+          "id": "217819773_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "topic",
+          "value": [
+            "health_medical",
+            "lifestyle"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "professional_formal",
+            "opinionated"
+          ]
+        },
+        {
+          "type": "article_type",
+          "value": [
+            "first_person_narrative",
+            "instructional_how_to",
+            "long_form_article"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 104,
+      "buying_review_rating": 4.8,
+      "seller_url": "/fatimatariq_",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 105,
+        "score": 4.7809525
+      },
+      "gig_url": "/fatimatariq_/write-medical-articles-and-blogs-as-a-doctor",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 311597869,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2769,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-medical-articles-and-health-blogs-as-a-doctor",
+      "title": "write medical articles and health blogs as a doctor",
+      "seller_name": "fatimatariq_",
+      "seller_id": 109355624,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/fc3ba1f865d0efd718992c143489597a-1093556241628950177.929296/9B83FDA4-9134-4B23-9E97-53A12CE014BE",
+      "seller_display_name": "Fatima",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/311597869/original/26c0d6458f9d70211bf4dd278154aa3c680cd629.jpg",
+          "type": "ImageAsset",
+          "id": "311597869_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "blog_topic",
+          "value": [
+            "beauty",
+            "fitness",
+            "wellness",
+            "other"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "persuasive",
+            "professional_formal",
+            "opinionated"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "product_reviews",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/fatimatariq_",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 105,
+        "score": 4.7809525
+      },
+      "gig_url": "/fatimatariq_/write-medical-articles-and-health-blogs-as-a-doctor",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

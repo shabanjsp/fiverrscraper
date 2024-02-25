@@ -1,0 +1,201 @@
+{
+  "seller": {
+    "user": {
+      "id": "160580041",
+      "name": "umme_kulsoom24",
+      "isActivationCompleted": true,
+      "joinedAt": 1695489854,
+      "profile": {
+        "displayName": "Umme"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/78785dd865e6b02e04e2409e06884219-1695489917829/29945179-293b-4bec-85e2-4cf1674f5554.png"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": false,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Trusted Social Media Manager ",
+    "description": "Hello, This is Umme Kulsoom, a certified Social Media Marketing Expert. Also expert in YouTube Marketing. I have a team of 10 certified expertise. Our main target is your satisfaction. Try us once hope will be surprised. If you want to know more about our service please inbox me. Thank You.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Kuet",
+        "certificationName": "Social Media Marketing Expert",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "google adwords",
+        "toYear": 2020,
+        "countryCode": "BD",
+        "school": "khulna Univercity",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media marketer"
+      },
+      {
+        "id": "617fa67e0565f07789006d51",
+        "name": "YouTube marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "YouTube marketer"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1705566339
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b2a94a500eff518645e300",
+          "comment": "She always completed jobs  efficiently, promptly and over delivers. she is easy to work with. Highly recommonded.",
+          "comment_language": "en",
+          "username": "teresawilliiss",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/979c50d178ec86a6cc7739107b4ae2ee-1700379191190/2b8b1de4-1197-4578-ac50-8de541ef50a4.jpg",
+          "created_at": "2024-01-26T02:26:05",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217F9F9FD86",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360341388,
+          "gig_slug": "do-organic-youtube-video-promotion-to-boost-your-channel",
+          "gig_category": 2,
+          "gig_sub_category": 69,
+          "gig_nested_sub_category": 2084,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 99,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 160580041,
+      "seller_username": "umme_kulsoom24",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 160580041,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 160580041,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": []
+}

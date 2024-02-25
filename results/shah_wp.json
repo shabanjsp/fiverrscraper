@@ -1,0 +1,851 @@
+{
+  "seller": {
+    "user": {
+      "id": "147330626",
+      "name": "shah_wp",
+      "isActivationCompleted": true,
+      "joinedAt": 1679166121,
+      "profile": {
+        "displayName": "Suffian Bukhari"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/7dae9e81608203f9fc251aa3d25f6674-1679169044097/38550e7f-6d0a-449c-981e-091b386ab710.png"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "307355985"
+        },
+        {
+          "id": "308862983"
+        },
+        {
+          "id": "312396455"
+        },
+        {
+          "id": "322876655"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hi there! I'm a freelance WordPress developer with 5 years of experience in building and maintaining WordPress websites. I'm passionate about creating high-quality websites that are visually appealing, user-friendly, and optimized for performance.\r\nMy expertise includes custom WordPress development, theme and plugin development, website customization, website optimization, and website migration. I am proficient in PHP, HTML, CSS, JavaScript, and MySQL and always stay up-to-date with the latest trends and advancements in WordPress development.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2016,
+        "countryCode": "PK",
+        "school": "Islamia University bahawalpur",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress customization expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c82",
+        "name": "Website creation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website creation expert"
+      },
+      {
+        "id": "617fa65b0565f07789006348",
+        "name": "Install WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress instalation expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf3",
+        "name": "WordPress consultation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress consultant"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfb",
+        "name": "WordPress security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress security expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfa",
+        "name": "WordPress performance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress performance expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e69",
+        "name": "Elementor",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e6a",
+        "name": "Elementor Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Elementor Pro expert"
+      },
+      {
+        "id": "617fa66f0565f077890068c3",
+        "name": "Restaurant design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Restaurant designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP developer"
+      },
+      {
+        "id": "617fa6600565f07789006497",
+        "name": "Laravel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Laravel expert"
+      },
+      {
+        "id": "617fa6420565f07789005bbc",
+        "name": "Codeigniter",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Codeigniter expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c7f",
+        "name": "Website consultation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website consultant"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2626
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 3
+    },
+    "isOnVacation": true,
+    "vacation": {
+      "startsAt": 1706727600,
+      "endsAt": 1708196399,
+      "awayMessage": "In Travelling",
+      "isContactAllowed": false
+    },
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 7
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65855d525c478900012ce8d2",
+          "comment": "An exceptional experience with the web developer! Their extensive experience shone through in the sleek, professional design and superb mobile optimization of our site. Their insightful suggestions and enhancements significantly elevated the overall quality and user experience.",
+          "comment_language": "en",
+          "username": "ghulamsajjad308",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/87414df92a586870c7e8b50585a94104-1148942531692437017647/JPEG_20230819_142332_6317170092458350257.jpg",
+          "created_at": "2023-12-22T10:03:18",
+          "value": 5,
+          "reviewer_country": "Pakistan",
+          "encrypted_order_id": "FO417CAAB0B84",
+          "score": 0.4841917,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 307355985,
+          "gig_slug": "expert-wordpress-developer-for-custom-website-design-and-development",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "657c7fac96423160e5ae1032",
+          "comment": "Quick and perfect delivery. I got what I needed on time and efficiently. It was perfect! Would definitely use again!\n",
+          "comment_language": "en",
+          "username": "frozin_parvin",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-15T16:48:03",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1BE0BA0C43",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 307355985,
+          "gig_slug": "expert-wordpress-developer-for-custom-website-design-and-development",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 264,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "64501ea8b7b82d0001194aa3",
+          "comment": "Shah is a very resourceful and experienced developer, his aesthetic sense and honesty makes him different from others. Cheers Shah, wish you all the best for future projects.",
+          "comment_language": "en",
+          "username": "broadica",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9e4d422fa2e23426094a714d9da7abda-1678050522194/66abd6de-6987-456b-8a94-2c4d2e69404f.png",
+          "created_at": "2023-05-01T20:25:02",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41BF97E5086",
+          "score": 0,
+          "reviewer_industry": [
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 307355985,
+          "gig_slug": "expert-wordpress-developer-for-custom-website-design-and-development",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 4
+        }
+      ],
+      "has_next": false,
+      "total_count": 3,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 1
+      },
+      "user_id": 147330626,
+      "seller_username": "shah_wp",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 3
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "financial_services_or_banking": "Financial & Business Services "
+      }
+    },
+    "selling_reviews": {
+      "user_id": 147330626,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 147330626,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Riyadh",
+    "recent_utc_offset": -180
+  },
+  "gigsData": [
+    {
+      "gig_id": 307355985,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "expert-wordpress-developer-for-custom-website-design-and-development",
+      "title": "design website with elementor pro, wordpress expert for business website",
+      "seller_name": "shah_wp",
+      "seller_id": 147330626,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/7dae9e81608203f9fc251aa3d25f6674-1679169044097/38550e7f-6d0a-449c-981e-091b386ab710.png",
+      "seller_display_name": "Suffian Bukhari",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/307355985/original/0320e2a36dc6e1f3613e5ec0099186573c6e37c5.png",
+          "type": "ImageAsset",
+          "id": "307355985_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/307355985/original/868c77c45e4e9df3ae05b64ccdb6be74d4eeb3b6.png",
+          "type": "ImageAsset",
+          "id": "307355985_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/307355985/original/fdf779d324db57e6b2315e8d5c625eb5573843a8.png",
+          "type": "ImageAsset",
+          "id": "307355985_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "forum",
+            "social_media",
+            "form",
+            "events",
+            "music",
+            "map",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "instagram",
+            "mailchimp",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/shah_wp",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/shah_wp/expert-wordpress-developer-for-custom-website-design-and-development",
+      "is_seller_unavailable": true,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 308862983,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-beautiful-and-functional-website-that-meets-your-needs",
+      "title": "wordpress website development, responsive website redesign",
+      "seller_name": "shah_wp",
+      "seller_id": 147330626,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/7dae9e81608203f9fc251aa3d25f6674-1679169044097/38550e7f-6d0a-449c-981e-091b386ab710.png",
+      "seller_display_name": "Suffian Bukhari",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/308862983/original/1e334fc02d998e16c32d43bc7fbeaa8b88536399.jpg",
+          "type": "ImageAsset",
+          "id": "308862983_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/308862983/original/c7d52040b270d2aaaeb7a28ea4dd53bad1a5a235.jpg",
+          "type": "ImageAsset",
+          "id": "308862983_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/308862983/original/e85f7204f08a7d08033d42ef326a19e12603f7a3.jpg",
+          "type": "ImageAsset",
+          "id": "308862983_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "video",
+            "events",
+            "chat",
+            "map",
+            "gallery",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/shah_wp",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/shah_wp/create-a-beautiful-and-functional-website-that-meets-your-needs",
+      "is_seller_unavailable": true,
+      "price_i": 120,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 312396455,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2626,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "install-and-configure-google-recaptcha-on-your-website",
+      "title": "add or fix captcha or recaptcha in wordpress website to stop spam service",
+      "seller_name": "shah_wp",
+      "seller_id": 147330626,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/7dae9e81608203f9fc251aa3d25f6674-1679169044097/38550e7f-6d0a-449c-981e-091b386ab710.png",
+      "seller_display_name": "Suffian Bukhari",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/312396455/original/1435b9da6d05ec4aaad520c4350b4a3c91fcad4d.png",
+          "type": "ImageAsset",
+          "id": "312396455_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "wordpress"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/shah_wp",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/shah_wp/install-and-configure-google-recaptcha-on-your-website",
+      "is_seller_unavailable": true,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 322876655,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-professionally-designed-landing-page-single-page-website",
+      "title": "professionally design landing page, single page website, build wordpress website",
+      "seller_name": "shah_wp",
+      "seller_id": 147330626,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/7dae9e81608203f9fc251aa3d25f6674-1679169044097/38550e7f-6d0a-449c-981e-091b386ab710.png",
+      "seller_display_name": "Suffian Bukhari",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/322876655/original/f85a4cf6a19fb454302c44da2596ba2c45df3b83.jpg",
+          "type": "ImageAsset",
+          "id": "322876655_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/322876655/original/1776e12dc1ba291b9321aff8af50cfd8b8945582.jpg",
+          "type": "ImageAsset",
+          "id": "322876655_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/322876655/original/da0948d0492a1348885964f894078bdb8d84ef2a.jpg",
+          "type": "ImageAsset",
+          "id": "322876655_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "648ccfc2879b36001a186131",
+          "id": 8553263
+        }
+      ],
+      "attachments": [
+        {
+          "id": "648ccfc2879b36001a186131",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zpktfnmluofpz7bd9fe4",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/zpktfnmluofpz7bd9fe4.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "landing_page"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "social_media",
+            "customer_support",
+            "inventory",
+            "form",
+            "events",
+            "chat",
+            "map",
+            "gallery",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/shah_wp",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/shah_wp/create-professionally-designed-landing-page-single-page-website",
+      "is_seller_unavailable": true,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,1416 @@
+{
+  "seller": {
+    "user": {
+      "id": "76524496",
+      "name": "downupmusic",
+      "isActivationCompleted": true,
+      "joinedAt": 1556214540,
+      "profile": {
+        "displayName": "Liv Volpe"
+      },
+      "address": {
+        "countryName": "Brazil",
+        "countryCode": "BR"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "PT",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/24e5816eaf33184902a6f588f5ef0c7e-1582912621266/1966c227-d058-4551-a2a1-c6266ef502a8.jpg"
+    },
+    "approvedGigsCount": 6,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "127713110"
+        },
+        {
+          "id": "127744330"
+        },
+        {
+          "id": "128729297"
+        },
+        {
+          "id": "142943971"
+        },
+        {
+          "id": "142951318"
+        },
+        {
+          "id": "142950203"
+        }
+      ]
+    },
+    "notableClients": [
+      {
+        "endedAt": null,
+        "startedAt": 1654041600,
+        "description": "We were signed by Warner Chappell Music Group to produce music for their sync department for film and media on a regular and recurrent basis.",
+        "company": {
+          "description": "Warner/Chappell Music, the global music publishing company of Warner Music Group, is home to a wide array of legendary songwriters and a rich catalog of contemporary hits and influential standards.",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/fc5cf746b7118b20a6f7262080829176-1643199889/61a87d9984d88e25cd784ba2.png"
+            }
+          },
+          "name": "Warner Chappell Music",
+          "industry": {
+            "slug": "Media"
+          }
+        }
+      },
+      {
+        "endedAt": null,
+        "startedAt": 1585699200,
+        "description": "Direct collaboration with Virgin Music's artist, Luiza Nis. We were hired to produce, mix and master various Virgin releases of Luiza. \n",
+        "company": {
+          "description": "Virgin Group Ltd. Virgin Group's date of incorporation is listed as 1989 by Companies House, who class it as a holding company; however Virgin's business and trading activities date back to the 1970s.",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/dcb99e98aaab816ff6a3d5177b9fb753-1643199926/61a87e77f3085f4291c4ac77.png"
+            }
+          },
+          "name": "Virgin",
+          "industry": {
+            "slug": "Professional Services"
+          }
+        }
+      }
+    ],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Recording Studio",
+    "description": "Welcome!\r\n\r\nWe are a music studio with 10+ years of experience and a vast body of work across independent to major artists, media companies and content creators from all over the world.\r\n\r\nSome of our clients: Virgin Music, Warner Chappell Music, Activision, Facebook, and many others.\r\nLet's make it happen!\r\n\r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6660565f07789006641",
+        "name": "Music production",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Music producer"
+      },
+      {
+        "id": "617fa6660565f07789006632",
+        "name": "Music composition",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Music composer"
+      },
+      {
+        "id": "617fa63a0565f07789005941",
+        "name": "Audio editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Audio editor"
+      },
+      {
+        "id": "617fa67a0565f07789006c08",
+        "name": "Vocal production",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Vocal producer"
+      },
+      {
+        "id": "617fa67a0565f07789006c09",
+        "name": "Vocal tuning",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Vocal tuning expert"
+      },
+      {
+        "id": "617fa6660565f0778900662f",
+        "name": "Music",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Music expert"
+      },
+      {
+        "id": "617fa63a0565f07789005944",
+        "name": "Audio mixing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Audio mixing engineer"
+      },
+      {
+        "id": "617fa63a0565f07789005946",
+        "name": "Audio production",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Audio producer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 12,
+        "subCategoryId": 10,
+        "nestedCategoryId": 2681
+      },
+      {
+        "categoryId": 12,
+        "subCategoryId": 157,
+        "nestedCategoryId": 2490
+      },
+      {
+        "categoryId": 12,
+        "subCategoryId": 157,
+        "nestedCategoryId": 2492
+      },
+      {
+        "categoryId": 12,
+        "subCategoryId": 349,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6346303ccee2c90001f4b181",
+          "title": "Mix & Master // Bea D. - Lilith",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6346303ccee2c90001f4b182",
+                "attachment": {
+                  "metadata": {
+                    "height": 720,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/ra7b53qcsdfyc3dabdtf.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "634624ebc15a3a00016a7325",
+          "title": "Official Score // E-Sports Event",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "634624ebc15a3a00016a7326",
+                "attachment": {
+                  "metadata": {
+                    "height": 480,
+                    "width": 854
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/pr5sgrbnwt8jk8znl5yl.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63462e033c92aa000114bda1",
+          "title": "Mix & Master // YSL - Seasons",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63462e033c92aa000114bda2",
+                "attachment": {
+                  "metadata": {
+                    "height": 480,
+                    "width": 854
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/sb0y1jtuctcucvhmxsj9.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "634629746a63b20001fb9f61",
+          "title": "Event Score // Activison",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "634629746a63b20001fb9f62",
+                "attachment": {
+                  "metadata": {
+                    "height": 480,
+                    "width": 854
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/kval5015oi8aojnpsxun.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63462ca6c15a3a00016a7429",
+          "title": "Production // Avori - Revive",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63462ca6c15a3a00016a742a",
+                "attachment": {
+                  "metadata": {
+                    "height": 720,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/px3g1vjgm2uuocor9clr.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 5
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1676326281
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 658
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "TOP_RATED_SELLER",
+    "responseTime": {
+      "inHours": 4
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": {
+      "accountId": "63e913c2e52f93b074aff352",
+      "timezone": "America/Sao_Paulo"
+    },
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "657fb0d7dbf868000101868f",
+          "comment": "Actually the first person on here to work with me so much on a project and not complain one step of the way throughout the whole studious process. I am actually really happy with the final end product. This seller is truly remarkable, talented, and a wonder to work with. I truly appreciate them, please consider giving them a try!",
+          "comment_language": "en",
+          "username": "kintraku",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9923be3ac8650201f374f4f276e1fa1a-1706498504651/dcb7e4ca-d690-4fce-b9d7-82ed27aef41f.jpg",
+          "created_at": "2023-12-19T21:00:42",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO61D94415304",
+          "score": 0.66756433,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 127744330,
+          "gig_slug": "make-your-vocals-shiny-and-tuned-to-perfection",
+          "gig_category": 12,
+          "gig_sub_category": 349,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 173,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b5f0fd756b9d0001760979",
+          "comment": "I’m a very picky person when it comes to vocal editing. This guy met my expectations and more! He is wonderful and went above and beyond to ensure a timely and perfect delivery! Thank you so much! ",
+          "comment_language": "en",
+          "username": "thaimcgrath",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-28T16:48:47",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO511FD0D1AC1",
+          "score": 0.55038434,
+          "reviewer_industry": [
+            "media_or_entertainment"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 127744330,
+          "gig_slug": "make-your-vocals-shiny-and-tuned-to-perfection",
+          "gig_category": 12,
+          "gig_sub_category": 349,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 18,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ae3f0949d34f2171b3ce40",
+          "comment": "After first version we needed to understand each other better about my needs but the second revision he got it just right! Don't be afraid to tell Liv exactly how you need your tracks to sound.",
+          "comment_language": "en",
+          "username": "filipvlcekjw",
+          "reviewer_country_code": "CZ",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d0f11ac25ea21dc13d3e253097e20e1f-1682067218327/d7183d81-ba6f-410b-9573-7379c2a5cd8e.JPG",
+          "created_at": "2024-01-22T17:22:33",
+          "value": 4.7,
+          "reviewer_country": "Czech Republic",
+          "encrypted_order_id": "FO15FBC37E81",
+          "score": 0.50461644,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 127744330,
+          "gig_slug": "make-your-vocals-shiny-and-tuned-to-perfection",
+          "gig_category": 12,
+          "gig_sub_category": 349,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659cf07a369cc900012265f9",
+          "comment": "Liv is PRO!!! I enjoy collaborating with Liv on a variety of styles and the work is impeccable.  Fast AF and highly skilled.  Doesn't really get any better!  Never been disappointed on any work performed and will use Liv again very soon!",
+          "comment_language": "en",
+          "username": "vikingknowsbest",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-09T16:01:46",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO617E07B8B82",
+          "score": 0.4982385,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 127744330,
+          "gig_slug": "make-your-vocals-shiny-and-tuned-to-perfection",
+          "gig_category": 12,
+          "gig_sub_category": 349,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a5e2a8bf4cff45b9f4cb92",
+          "comment": "My experience with Liv is always great. Liv has always been communicative, answered every question I had, and also knows what sounds good. He takes what I bring and makes it sound so much better every time. I enjoyed working with this seller and will work with him again. ",
+          "comment_language": "en",
+          "username": "xkimikovt",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4c2c4811c7cc7b7d333475e9dcfbcb56-1692140751639/19267154-118f-4d68-b7aa-9bb05226af23.jpg",
+          "created_at": "2024-01-30T01:46:06",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO71DD11A2903",
+          "score": 0.48717976,
+          "reviewer_industry": [
+            "gaming"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 127744330,
+          "gig_slug": "make-your-vocals-shiny-and-tuned-to-perfection",
+          "gig_category": 12,
+          "gig_sub_category": 349,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 658,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 25
+      },
+      "user_id": 76524496,
+      "seller_username": "downupmusic",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 656
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "media_or_entertainment": "Media & Entertainment",
+        "gaming": "Gaming"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 76524496,
+      "reviews": [
+        {
+          "id": "636e7e51a5df6a00018ed6e3",
+          "comment": "great to work with, was a joy",
+          "comment_language": "en-US",
+          "username": "squigle",
+          "reviewer_country_code": "ZA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a61619fe3f8cf2fe71f93f6e91401e01-1652821523270/2c1732bf-8557-4929-a386-ab50833dea4b.png",
+          "created_at": "2022-11-11T16:54:41",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 50,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 100,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "We're ready to assist you in key areas of Production, Mixing and Mastering.\n - Vocal recordings: How to achieve the best sound possible.\n - Creating effects.\n - Arrangement and Production\n - Etc",
+    "gig_id": 301696612,
+    "duration": 10,
+    "account_id": "63e913c2e52f93b074aff352"
+  },
+  "localizationData": {
+    "user_id": 76524496,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Sao_Paulo",
+    "recent_utc_offset": 180
+  },
+  "gigsData": [
+    {
+      "gig_id": 127744330,
+      "category_id": 12,
+      "sub_category_id": 349,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "make-your-vocals-shiny-and-tuned-to-perfection",
+      "title": "edit, tune and mix your vocals to perfection",
+      "seller_name": "downupmusic",
+      "seller_id": 76524496,
+      "seller_country": "BR",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/24e5816eaf33184902a6f588f5ef0c7e-1582912621266/1966c227-d058-4551-a2a1-c6266ef502a8.jpg",
+      "seller_display_name": "Liv Volpe",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "615d90249133e6000fa0913e",
+          "id": "127744330_615d90249133e6000fa0913e"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "615d907e52d9000014976a8f",
+          "id": "127744330_615d907e52d9000014976a8f"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6345c51457c718001c274ecc",
+          "id": "127744330_6345c51457c718001c274ecc"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/127744330/original/ea02dfde0b60a2744282f9439e103e19b54ed769.png",
+          "type": "ImageAsset",
+          "id": "127744330_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/127744330/original/937bd21fc0ca3de96ced81b96728210074e6c9d5.png",
+          "type": "ImageAsset",
+          "id": "127744330_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/127744330/original/aebb5f40ba25eaa1a674e29380a1626b7c434560.png",
+          "type": "ImageAsset",
+          "id": "127744330_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "63f19a7374b8fc001cb1194f",
+          "id": 7920100
+        }
+      ],
+      "attachments": [
+        {
+          "id": "63f19a7374b8fc001cb1194f",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/gwf7gcth2p8mbetn8mpa",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/gwf7gcth2p8mbetn8mpa.png"
+        },
+        {
+          "id": "615d90249133e6000fa0913e",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/qynk2vmxittia4hjxvd1"
+        },
+        {
+          "id": "615d907e52d9000014976a8f",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/ovwlq6egupwkelzoefmp"
+        },
+        {
+          "id": "6345c51457c718001c274ecc",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/cxzhsukhofvhisvck1dt"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "pt",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "60f84fccd45b410001f7543c",
+          "discount_percentage": 5
+        },
+        {
+          "id": "60f84fccd45b410001f7543d",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 433,
+      "buying_review_rating": 5,
+      "seller_url": "/downupmusic",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 658,
+        "score": 4.952586
+      },
+      "gig_url": "/downupmusic/make-your-vocals-shiny-and-tuned-to-perfection",
+      "is_seller_unavailable": false,
+      "price_i": 45,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 142943971,
+      "category_id": 12,
+      "sub_category_id": 10,
+      "nested_sub_category_id": 2681,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "mix-and-master-your-music-ready-for-release",
+      "title": "professionally mix and master your song",
+      "seller_name": "downupmusic",
+      "seller_id": 76524496,
+      "seller_country": "BR",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/24e5816eaf33184902a6f588f5ef0c7e-1582912621266/1966c227-d058-4551-a2a1-c6266ef502a8.jpg",
+      "seller_display_name": "Liv Volpe",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/142943971/original/4ac3a4d138e3bbe65d5eb61e87c2f0fe06c737f2.png",
+          "type": "ImageAsset",
+          "id": "142943971_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/142943971/original/60f3e18d83748f6887caae11139bc7caf769d3a2.png",
+          "type": "ImageAsset",
+          "id": "142943971_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/142943971/original/d7b019970524ec4e020ab117a11839f70b1a9d0d.png",
+          "type": "ImageAsset",
+          "id": "142943971_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "63f1a2bd90dd6500225c5e86",
+          "id": 7920179
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "63f1a67ccaaeb0001c5f2dd5",
+          "id": "142943971_63f1a67ccaaeb0001c5f2dd5"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "63f1a67f54e941002150d68c",
+          "id": "142943971_63f1a67f54e941002150d68c"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "63f1a71a74b8fc001cb11a29",
+          "id": "142943971_63f1a71a74b8fc001cb11a29"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "63f1a2bd90dd6500225c5e86",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/fln5bmno7dwslrrfye32",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/fln5bmno7dwslrrfye32.png"
+        },
+        {
+          "id": "63f1a67ccaaeb0001c5f2dd5",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/zn4td6wq9eltdwnjuo6x"
+        },
+        {
+          "id": "63f1a67f54e941002150d68c",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/lzs0iryimywevebwfhxp"
+        },
+        {
+          "id": "63f1a71a74b8fc001cb11a29",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/r3utt1zvb29c82oyt9n8"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "pt",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6102bfb72327ca0001d5f584",
+          "discount_percentage": 10
+        },
+        {
+          "id": "6102bfb72327ca0001d5f585",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "edm",
+            "pop",
+            "rap"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 105,
+      "buying_review_rating": 5,
+      "seller_url": "/downupmusic",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 658,
+        "score": 4.952586
+      },
+      "gig_url": "/downupmusic/mix-and-master-your-music-ready-for-release",
+      "is_seller_unavailable": false,
+      "price_i": 120,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 127713110,
+      "category_id": 12,
+      "sub_category_id": 157,
+      "nested_sub_category_id": 2492,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "produce-your-song-and-make-it-amazing-and-ready-for-release",
+      "title": "produce your song and make it ready for release",
+      "seller_name": "downupmusic",
+      "seller_id": 76524496,
+      "seller_country": "BR",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/24e5816eaf33184902a6f588f5ef0c7e-1582912621266/1966c227-d058-4551-a2a1-c6266ef502a8.jpg",
+      "seller_display_name": "Liv Volpe",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6345cbab7f0d5d0010b0b28c",
+          "id": "127713110_6345cbab7f0d5d0010b0b28c"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6345cbb493a66800196caaa7",
+          "id": "127713110_6345cbb493a66800196caaa7"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6345cbba10f00c001f0d2ac3",
+          "id": "127713110_6345cbba10f00c001f0d2ac3"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/127713110/original/debc840f4521dd15efd5a6a535d0e3dac503b1dd.jpg",
+          "type": "ImageAsset",
+          "id": "127713110_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/127713110/original/d68dd48ff94b6ef817242748a604cdc1e255b8ac.jpg",
+          "type": "ImageAsset",
+          "id": "127713110_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/127713110/original/d6282df334ec5cfcae4120ac55e536a5c1e29941.jpg",
+          "type": "ImageAsset",
+          "id": "127713110_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "648aa610220cae0014c325cc",
+          "id": 8542912
+        }
+      ],
+      "attachments": [
+        {
+          "id": "648aa610220cae0014c325cc",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/tzjmhg4iuy54t5ozqftd",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/tzjmhg4iuy54t5ozqftd.png"
+        },
+        {
+          "id": "6345cbab7f0d5d0010b0b28c",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/na8f0dtrfxbt180nipbu"
+        },
+        {
+          "id": "6345cbb493a66800196caaa7",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/miehlenth0msgvaa8ben"
+        },
+        {
+          "id": "6345cbba10f00c001f0d2ac3",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/oowzgzhl8fdpyy3flmnj"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_B"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "pt",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "638d203d0301ba0001096428",
+          "discount_percentage": 5
+        },
+        {
+          "id": "638d203d0301ba0001096429",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "pop",
+            "edm",
+            "rock"
+          ]
+        },
+        {
+          "type": "software",
+          "value": [
+            "ableton"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 98,
+      "buying_review_rating": 5,
+      "seller_url": "/downupmusic",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 658,
+        "score": 4.952586
+      },
+      "gig_url": "/downupmusic/produce-your-song-and-make-it-amazing-and-ready-for-release",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 128729297,
+      "category_id": 12,
+      "sub_category_id": 157,
+      "nested_sub_category_id": 2490,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "compose-the-music-for-your-new-big-project",
+      "title": "professionally create a score for your film or short",
+      "seller_name": "downupmusic",
+      "seller_id": 76524496,
+      "seller_country": "BR",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/24e5816eaf33184902a6f588f5ef0c7e-1582912621266/1966c227-d058-4551-a2a1-c6266ef502a8.jpg",
+      "seller_display_name": "Liv Volpe",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "5dccbf7eb7ed28000cfd7c01",
+          "id": "128729297_5dccbf7eb7ed28000cfd7c01"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6029b251e27c0d0012165535",
+          "id": "128729297_6029b251e27c0d0012165535"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6345ce7672ac45000e02fcfe",
+          "id": "128729297_6345ce7672ac45000e02fcfe"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "648aa693cb023e00231e918a",
+          "id": 8542922
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/128729297/original/da7c6394f834c19ff1e41693f05ed6c2a7ce4893.jpg",
+          "type": "ImageAsset",
+          "id": "128729297_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/128729297/original/2b401517e3b70ea7c2374132182a5bdca4e08904.jpg",
+          "type": "ImageAsset",
+          "id": "128729297_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/128729297/original/45dd35eda40a30bf52a6b7d117ca4d06eabf2fe8.jpg",
+          "type": "ImageAsset",
+          "id": "128729297_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "648aa693cb023e00231e918a",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/efuvnmqbrof2or5zdnw2",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/efuvnmqbrof2or5zdnw2.png"
+        },
+        {
+          "id": "5dccbf7eb7ed28000cfd7c01",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/kwset2p0i6nsv2oobec6"
+        },
+        {
+          "id": "6029b251e27c0d0012165535",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/yobonpuhhfodeoefnxko"
+        },
+        {
+          "id": "6345ce7672ac45000e02fcfe",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/i8mtxgdqdkv952ifvett"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "169834243",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/xaupjc7mkis49y7u8zha",
+          "is_visible": true,
+          "type": "audio"
+        },
+        {
+          "id": "153232890",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/rlp8pdwybjpql1hpwivp",
+          "is_visible": true,
+          "type": "audio"
+        },
+        {
+          "id": "125323241",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/bh97xuhetkngnysgdljx",
+          "is_visible": true,
+          "type": "audio"
+        },
+        {
+          "id": "111724868",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/tosv2mya9seri2phmejj",
+          "is_visible": true,
+          "type": "audio"
+        },
+        {
+          "id": "109166316",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/hvgxjspxuvbnr2wnatjo",
+          "is_visible": true,
+          "type": "audio"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "pt",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "638d208de4ee200001c765e9",
+          "discount_percentage": 5
+        },
+        {
+          "id": "638d208de4ee200001c765ea",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "pop",
+            "edm",
+            "orchestral"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "films_videos",
+            "trailers",
+            "advertisement"
+          ]
+        },
+        {
+          "type": "software",
+          "value": [
+            "ableton"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 11,
+      "buying_review_rating": 5,
+      "seller_url": "/downupmusic",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 658,
+        "score": 4.952586
+      },
+      "gig_url": "/downupmusic/compose-the-music-for-your-new-big-project",
+      "is_seller_unavailable": false,
+      "price_i": 150,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 142950203,
+      "category_id": 12,
+      "sub_category_id": 157,
+      "nested_sub_category_id": 2490,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "produce-exclusive-music-for-your-video-game",
+      "title": "create original music for your video game",
+      "seller_name": "downupmusic",
+      "seller_id": 76524496,
+      "seller_country": "BR",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/24e5816eaf33184902a6f588f5ef0c7e-1582912621266/1966c227-d058-4551-a2a1-c6266ef502a8.jpg",
+      "seller_display_name": "Liv Volpe",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "5e0eb56fefa0fa000f55ad7a",
+          "id": 3166649
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/142950203/original/652966b885c4bb2f6fba9c1d1d8e07a5f116970e.jpg",
+          "type": "ImageAsset",
+          "id": "142950203_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/142950203/original/4ae1f854d3f80cbfee78358190b563d2adbe501d.jpg",
+          "type": "ImageAsset",
+          "id": "142950203_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/142950203/original/c4877acb6514664b8e4c47276ea3b7e83578f68e.jpg",
+          "type": "ImageAsset",
+          "id": "142950203_3"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6345d32210f00c00220d2bf3",
+          "id": "142950203_6345d32210f00c00220d2bf3"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6345d323f35fb600175fd915",
+          "id": "142950203_6345d323f35fb600175fd915"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6345d33ad28edb000eb6c2ae",
+          "id": "142950203_6345d33ad28edb000eb6c2ae"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "5e0eb56fefa0fa000f55ad7a",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/nmgofpxolsxikjvlzaln",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_22.802541,PLACEHOLDER/nmgofpxolsxikjvlzaln.png"
+        },
+        {
+          "id": "6345d32210f00c00220d2bf3",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/nuwurygdj2iavhhey1uc"
+        },
+        {
+          "id": "6345d323f35fb600175fd915",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/za2dmtvdpjuxmkfgikol"
+        },
+        {
+          "id": "6345d33ad28edb000eb6c2ae",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/nqfil0lkablegy2gfg2k"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "pt",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "638d2013e4ee200001c76434",
+          "discount_percentage": 5
+        },
+        {
+          "id": "638d2013e4ee200001c76435",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "edm",
+            "rock",
+            "orchestral"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "films_videos",
+            "video_games",
+            "trailers"
+          ]
+        },
+        {
+          "type": "software",
+          "value": [
+            "ableton"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 8,
+      "buying_review_rating": 5,
+      "seller_url": "/downupmusic",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 658,
+        "score": 4.952586
+      },
+      "gig_url": "/downupmusic/produce-exclusive-music-for-your-video-game",
+      "is_seller_unavailable": false,
+      "price_i": 95,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 142951318,
+      "category_id": 12,
+      "sub_category_id": 157,
+      "nested_sub_category_id": 2490,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-epic-and-fun-chiptune-music-for-your-game",
+      "title": "create original chiptune music for your game",
+      "seller_name": "downupmusic",
+      "seller_id": 76524496,
+      "seller_country": "BR",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/24e5816eaf33184902a6f588f5ef0c7e-1582912621266/1966c227-d058-4551-a2a1-c6266ef502a8.jpg",
+      "seller_display_name": "Liv Volpe",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "5e0ebc246da7f10009fb0dab",
+          "id": "142951318_5e0ebc246da7f10009fb0dab"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6345d1204db5170017fe2cd1",
+          "id": "142951318_6345d1204db5170017fe2cd1"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "6345d12310f00c00130d2a93",
+          "id": "142951318_6345d12310f00c00130d2a93"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/142951318/original/92eef5ddb5c4e3c923e1e184befb230e34e84821.png",
+          "type": "ImageAsset",
+          "id": "142951318_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/142951318/original/89e8b1e1ba707128c59b4ddf2188e45a8715e45e.png",
+          "type": "ImageAsset",
+          "id": "142951318_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/142951318/original/a5b0141f2a2be1d8591cda379204becba97a9f76.png",
+          "type": "ImageAsset",
+          "id": "142951318_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "63f1acaf54e941001050d551",
+          "id": 7920268
+        }
+      ],
+      "attachments": [
+        {
+          "id": "63f1acaf54e941001050d551",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/d8coc9qpnz2svpaozchy",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/d8coc9qpnz2svpaozchy.png"
+        },
+        {
+          "id": "5e0ebc246da7f10009fb0dab",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/w5l6ihwkueu5vxq6heus"
+        },
+        {
+          "id": "6345d1204db5170017fe2cd1",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/oldz9qveplnk1irlc5i8"
+        },
+        {
+          "id": "6345d12310f00c00130d2a93",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/mi47bqsuyno8yceyfzwx"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "pt",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "638d20630cf47400019e3484",
+          "discount_percentage": 10
+        },
+        {
+          "id": "638d20630cf47400019e3485",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "edm",
+            "orchestral",
+            "indie"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "films_videos",
+            "video_games",
+            "trailers"
+          ]
+        },
+        {
+          "type": "software",
+          "value": [
+            "ableton"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/downupmusic",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 658,
+        "score": 4.952586
+      },
+      "gig_url": "/downupmusic/create-epic-and-fun-chiptune-music-for-your-game",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

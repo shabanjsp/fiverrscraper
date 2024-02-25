@@ -1,0 +1,166 @@
+{
+  "seller": {
+    "user": {
+      "id": "160643927",
+      "name": "moonjumper11",
+      "isActivationCompleted": true,
+      "joinedAt": 1695588287,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 160643927,
+      "seller_username": "moonjumper11",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 160643927,
+      "reviews": [
+        {
+          "id": "65cf90aa5df9d20001ba42cb",
+          "comment": "So nice to work with you dear. Please do feel free to message me if you have any questions! All my wishes and you’re very humble person honestly :D\n",
+          "comment_language": "en",
+          "username": "divishha",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/962ed714f9576091e4e6b4464015dd94-1678872792010/862cafa8-5f80-4196-a978-05d97d10abf4.png",
+          "created_at": "2024-02-16T16:43:22",
+          "value": 5
+        },
+        {
+          "id": "65c696bf1618550001e1cf3c",
+          "comment": "Great buyer!!",
+          "comment_language": "en",
+          "username": "gulfamexp01",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ea0f8d5276670808ff84338f99a62cd1-1703605056692/a1ba65cc-aab4-44cf-93a6-f33d7b36123f.jpeg",
+          "created_at": "2024-02-09T21:18:55",
+          "value": 5
+        },
+        {
+          "id": "65bda965b2f0e000014317c6",
+          "comment": "great experience thank you.",
+          "comment_language": "en",
+          "username": "arham_marketing",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b42cdbb3c8604feeb39ed9b9289fa76c-1414157681706997755512/JPEG_20240204_030232_3995676002584930543.jpg",
+          "created_at": "2024-02-03T02:48:05",
+          "value": 5
+        },
+        {
+          "id": "6582d45c5c478900012b44d4",
+          "comment": "great buyer Nice to work with you ",
+          "comment_language": "en",
+          "username": "rustam63",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/aac83854bc5c7d741853fc4843a941ae-1645031901124/9c10da69-cb95-4486-8754-6cfa8a126240.jpg",
+          "created_at": "2023-12-20T11:47:40",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 160643927,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

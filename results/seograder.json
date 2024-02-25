@@ -1,0 +1,1394 @@
+{
+  "seller": {
+    "user": {
+      "id": "101605490",
+      "name": "seograder",
+      "isActivationCompleted": true,
+      "joinedAt": 1612361095,
+      "profile": {
+        "displayName": "Ayan"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/fd1d886e8efc8fddae34d0c8be83dd41-1612415796537/71e246b9-6447-4573-88c5-05acf7850022.png"
+    },
+    "approvedGigsCount": 5,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "193685450"
+        },
+        {
+          "id": "192645560"
+        },
+        {
+          "id": "198501354"
+        },
+        {
+          "id": "223953683"
+        },
+        {
+          "id": "239534960"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Digital Marketing Expert",
+    "description": "Hi There, I'm Ayan. I have 5 years of real-life experience in SEO, Link Building, Keyword Research, and Premium Tools such as Ahrefs, SEMrush, Moz, Majestic, Ubersuggest and many more. My backlinks are SEO friendly and helps ranking your site on Google. Looking forward to working with you! :)",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Moz",
+        "certificationName": "SEO Training Course",
+        "year": 2015
+      },
+      {
+        "receivedFrom": "Google",
+        "certificationName": "Fundamentals Of Digital Marketing",
+        "year": 2016
+      },
+      {
+        "receivedFrom": "Google",
+        "certificationName": "Google Webmaster",
+        "year": 2016
+      },
+      {
+        "receivedFrom": "Google",
+        "certificationName": "Google Analytics Certification",
+        "year": 2017
+      },
+      {
+        "receivedFrom": "LMS Digiskills",
+        "certificationName": "SEO Certification",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer applications",
+        "toYear": 2019,
+        "countryCode": "PK",
+        "school": "TEF",
+        "degreeTitle": "CERTIFICATE"
+      },
+      {
+        "degree": "information technology",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "University of Sargodha",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "information technology",
+        "toYear": 2019,
+        "countryCode": "PK",
+        "school": "University of Sargodha",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "SEO expert"
+      },
+      {
+        "id": "617fa63b0565f0778900599a",
+        "name": "Backlinks",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Backlinks expert"
+      },
+      {
+        "id": "617fa6480565f07789005d8f",
+        "name": "Digital marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital marketer"
+      },
+      {
+        "id": "617fa6610565f077890064ff",
+        "name": "Link building",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Link building expert"
+      },
+      {
+        "id": "617fa6360565f07789005820",
+        "name": "Ahrefs",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Ahrefs expert"
+      },
+      {
+        "id": "617fa6720565f077890069b3",
+        "name": "Social bookmarking",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social bookmarking expert"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Social media marketer"
+      },
+      {
+        "id": "617fa63c0565f07789005a0d",
+        "name": "Blogging",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blogging expert"
+      },
+      {
+        "id": "617fa6750565f07789006ac2",
+        "name": "Technical SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Technical SEO expert"
+      },
+      {
+        "id": "617fa6430565f07789005bf4",
+        "name": "Competitor analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Competitor analyst"
+      },
+      {
+        "id": "617fa6720565f077890069c8",
+        "name": "Social media management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media manager"
+      },
+      {
+        "id": "617fa6560565f077890061dd",
+        "name": "Guest posting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Guest posting expert"
+      },
+      {
+        "id": "617fa63b0565f07789005999",
+        "name": "Backlink analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Backlink analysis expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress SEO expert"
+      },
+      {
+        "id": "617fa6430565f07789005bf5",
+        "name": "Competitor research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Competitor research expert"
+      },
+      {
+        "id": "617fa6670565f07789006690",
+        "name": "Off-page SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Off-page SEO expert"
+      },
+      {
+        "id": "617fa6390565f0778900591a",
+        "name": "Article submission",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Article submission expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 65,
+        "nestedCategoryId": 2155
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1613413999
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 466
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65aad3d01a935250591357e1",
+          "comment": "I didn't know what to expect and I actually thought they would be raising my score for Domain Authority but Ahrefs definitely raised my score from a 14 to a 54. Well done.",
+          "comment_language": "en",
+          "username": "yogaiton69",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-19T20:18:44",
+          "value": 4,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/1544902a83826d636302ae830533ef41-1705497437/DR%2050_%20for%20www.taximom.com.jpeg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/1544902a83826d636302ae830533ef41-1705497437/DR%2050_%20for%20www.taximom.com.jpeg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO729C281DAC7",
+          "score": 0.7612674,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 192645560,
+          "gig_slug": "increase-domain-rating-dr-to-30-plus",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2155,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 13,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "658e7b45d628ec00018588b1",
+          "comment": "Ayan came through on their promises. The links look good at first glance, and now we're patiently awaiting the results, knowing that Google's indexing process can take some time. Overall, I'm satisfied with the outcome. Thanks",
+          "comment_language": "en",
+          "username": "alfred935",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/35a448b85decbb1ce77ed346e19b0d13-1705439810252/b3db03c3-a606-445e-b424-756f22b94bb8.jpeg",
+          "created_at": "2023-12-29T08:04:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1BE96EEA43",
+          "score": 0.6444988,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 239534960,
+          "gig_slug": "build-high-authority-seo-dofollow-backlinks",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2155,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 155,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "657b2f77dbf8680001ff1f14",
+          "comment": "Ordered 2 gigs. No movement in DA on Moz, used half a dozen different checkers and no movement over 1 month.  Communicated with the seller told not to worry, kept checking, now over 2 months later one domain actually went down, the other no change.  Seller kept sending me pics from some DA checker that I am pretty sure felt photoshopped - asked him what checker he was using - told not to worry.  Now I noticed he does not even list it as a gig offered anymore - perhaps too many bad reviews - will not work with nor recommend this seller.",
+          "comment_language": "en",
+          "username": "jtmoran11",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-14T16:39:46",
+          "value": 1.3,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO628F7761FC8",
+          "score": 0.55,
+          "reviewer_industry": [
+            "technology"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 198501354,
+          "gig_slug": "increase-domain-authority-moz-da-50-plus",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2155,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 40,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659070f0d628ec000186a951",
+          "comment": "Excellent work and communication! Ayan sent me a lot of extra information and a bonus. Will definitely keep this seller at the top of my list!",
+          "comment_language": "en",
+          "username": "matthewgrigg830",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/610f2a4f74260a7c97a2c68ccb7077bb-1705440265206/192cca76-2238-42b4-8e49-6116592b3425.jpeg",
+          "created_at": "2023-12-30T19:38:42",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO511DF3C3B41",
+          "score": 0.5470549,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 239534960,
+          "gig_slug": "build-high-authority-seo-dofollow-backlinks",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2155,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 79,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6591bd86e981f90001b4252f",
+          "comment": "Excellent Communication Comprehensive and Detailed Reports. Working with Ayan makes me feel secure that my website is being taken care of.",
+          "comment_language": "en",
+          "username": "matthewgrigg830",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/610f2a4f74260a7c97a2c68ccb7077bb-1705440265206/192cca76-2238-42b4-8e49-6116592b3425.jpeg",
+          "created_at": "2023-12-31T19:18:49",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO21DC95CEE08",
+          "score": 0.41029575,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 192645560,
+          "gig_slug": "increase-domain-rating-dr-to-30-plus",
+          "gig_category": 2,
+          "gig_sub_category": 65,
+          "gig_nested_sub_category": 2155,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 79,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 466,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 249,
+        "business": 28
+      },
+      "user_id": 101605490,
+      "seller_username": "seograder",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 14
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 447
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {}
+    },
+    "selling_reviews": {
+      "user_id": 101605490,
+      "reviews": [
+        {
+          "id": "633d9b833e777500010d8550",
+          "comment": "Outstanding experience!",
+          "comment_language": "en-US",
+          "username": "nixon_seo",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/871105e4a475b6ac07fd521d1f6cf645-1656157393265/48c7344a-bf15-4f4c-a454-9841acd925c7.png",
+          "created_at": "2022-10-05T14:58:11",
+          "value": 5
+        },
+        {
+          "id": "625c5af5b004c90001eaeb5b",
+          "comment": "Outstanding experience!",
+          "comment_language": "en-US",
+          "username": "seo_genics",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6b465bcc505a2c851d26257faf9b7dde-1648640446230/57226ced-d243-4577-8f6b-e0480d0f4121.png",
+          "created_at": "2022-04-17T18:22:45",
+          "value": 5
+        },
+        {
+          "id": "625c5aefb80cb90001f4fc54",
+          "comment": "Outstanding experience!",
+          "comment_language": "en-US",
+          "username": "seo_genics",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6b465bcc505a2c851d26257faf9b7dde-1648640446230/57226ced-d243-4577-8f6b-e0480d0f4121.png",
+          "created_at": "2022-04-17T18:22:39",
+          "value": 5
+        },
+        {
+          "id": "61d8aa26cbbf720001a381fd",
+          "comment": "You’re the BEST. Loved working for you and look forward to working with you again one day! Wishing you all the success in the world, thanks! :)",
+          "comment_language": "en-US",
+          "username": "seo_strive",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3c125684c5f6ed8daa8c7f07e727dda4-1641118543894/3558969c-180b-40f8-bc8c-8814fc720827.png",
+          "created_at": "2022-01-07T21:01:26",
+          "value": 5
+        },
+        {
+          "id": "61d8aa225439ef0001d2900c",
+          "comment": "You’re the BEST. Loved working for you and look forward to working with you again one day! Wishing you all the success in the world, thanks! :)",
+          "comment_language": "en-US",
+          "username": "seo_strive",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3c125684c5f6ed8daa8c7f07e727dda4-1641118543894/3558969c-180b-40f8-bc8c-8814fc720827.png",
+          "created_at": "2022-01-07T21:01:22",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 101605490,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 192645560,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2155,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "increase-domain-rating-dr-to-30-plus",
+      "title": "increase ahrefs domain rating dr 70 using high authority SEO backlinks",
+      "seller_name": "seograder",
+      "seller_id": 101605490,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/fd1d886e8efc8fddae34d0c8be83dd41-1612415796537/71e246b9-6447-4573-88c5-05acf7850022.png",
+      "seller_display_name": "Ayan",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/192645560/original/bcf5869970b7aabca7813b2b3abf3e4afa3d5a16.png",
+          "type": "ImageAsset",
+          "id": "192645560_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "arts",
+            "crypto_blockchain",
+            "education",
+            "environmental",
+            "financial_services_banking",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "business"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "punjabi",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh",
+            "sinhala",
+            "marathi",
+            "ukrainian",
+            "telugu",
+            "gujarati",
+            "pashto"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 143,
+      "buying_review_rating": 5,
+      "seller_url": "/seograder",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 466,
+        "score": 4.9150343
+      },
+      "gig_url": "/seograder/increase-domain-rating-dr-to-30-plus",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 193685450,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2155,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "increase-page-authority-moz-pa-40-plus",
+      "title": "increase domain rating DR 70 ahrefs and majestic tf 30 with SEO backlinks",
+      "seller_name": "seograder",
+      "seller_id": 101605490,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/fd1d886e8efc8fddae34d0c8be83dd41-1612415796537/71e246b9-6447-4573-88c5-05acf7850022.png",
+      "seller_display_name": "Ayan",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/193685450/original/106d134fbf336fb42e600b3cdd469c8098b0210c.png",
+          "type": "ImageAsset",
+          "id": "193685450_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176210872",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f290be7a8da49e69167a36610a7b1b1e-1706529753/DR%2050_%20for%20kickxotic.com.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174676657",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f424425152b7222eb45a09a0c2a4c2ab-1703078248/DA%2050_%20PA%2030_.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "172728334",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a4309274739c393b9d3ff0699ff17526-1699046427/DA%2050%20PA%2030%20(2).png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "143182513",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/7b2b91ff406f72944b01868146287c66-1645374063/IMG-20220220-WA0020.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "142122602",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/42527dfef60dc523c5f2d110fda7a6bf-1643364082/website%20report.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "arts",
+            "crypto_blockchain",
+            "education",
+            "environmental",
+            "financial_services_banking",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "business"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "punjabi",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 47,
+      "buying_review_rating": 4.9,
+      "seller_url": "/seograder",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 466,
+        "score": 4.9150343
+      },
+      "gig_url": "/seograder/increase-page-authority-moz-pa-40-plus",
+      "is_seller_unavailable": false,
+      "price_i": 70,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 198501354,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2155,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "increase-domain-authority-moz-da-50-plus",
+      "title": "link building high authority SEO backlinks off page service for google ranking",
+      "seller_name": "seograder",
+      "seller_id": 101605490,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/fd1d886e8efc8fddae34d0c8be83dd41-1612415796537/71e246b9-6447-4573-88c5-05acf7850022.png",
+      "seller_display_name": "Ayan",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/198501354/original/d40b217efb06ffb452c225d6f6bd670cf0e40eca.png",
+          "type": "ImageAsset",
+          "id": "198501354_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "arts",
+            "crypto_blockchain",
+            "education",
+            "environmental",
+            "financial_services_banking",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "business"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "punjabi",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 29,
+      "buying_review_rating": 4.8,
+      "seller_url": "/seograder",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 466,
+        "score": 4.9150343
+      },
+      "gig_url": "/seograder/increase-domain-authority-moz-da-50-plus",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 223953683,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2155,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "increase-url-rating-ahrefs-ur-to-70-plus-quickly",
+      "title": "increase url rating ahrefs ur 80 plus with SEO backlinks",
+      "seller_name": "seograder",
+      "seller_id": 101605490,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/fd1d886e8efc8fddae34d0c8be83dd41-1612415796537/71e246b9-6447-4573-88c5-05acf7850022.png",
+      "seller_display_name": "Ayan",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/223953683/original/5337dbdf27b5f521b587c3ac63872596b1a6044a.png",
+          "type": "ImageAsset",
+          "id": "223953683_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "151455926",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/dd5c135ce050915ee273aad6852f813f-1659761268/IMG-20220806-WA0002.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "143354657",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c36ab93ff2ad2392aae62cb3bede32b2-1645704259/IMG-20220224-WA0006.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "143164487",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/0f8b466bcef22be58908fe29bb8506b1-1645335820/IMG-20220220-WA0012.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "arts",
+            "crypto_blockchain",
+            "education",
+            "environmental",
+            "financial_services_banking",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "business"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "punjabi",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 14,
+      "buying_review_rating": 5,
+      "seller_url": "/seograder",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 466,
+        "score": 4.9150343
+      },
+      "gig_url": "/seograder/increase-url-rating-ahrefs-ur-to-70-plus-quickly",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 239534960,
+      "category_id": 2,
+      "sub_category_id": 65,
+      "nested_sub_category_id": 2155,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-high-authority-seo-dofollow-backlinks",
+      "title": "build high authority seo dofollow backlinks",
+      "seller_name": "seograder",
+      "seller_id": 101605490,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/fd1d886e8efc8fddae34d0c8be83dd41-1612415796537/71e246b9-6447-4573-88c5-05acf7850022.png",
+      "seller_display_name": "Ayan",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/239534960/original/d2907c55feebd0bfc27c1dd26db9116e23573ce1.png",
+          "type": "ImageAsset",
+          "id": "239534960_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry_expertise",
+          "value": [
+            "arts",
+            "crypto_blockchain",
+            "education",
+            "environmental",
+            "financial_services_banking",
+            "games",
+            "health_wellness",
+            "kids_and_family",
+            "legal",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "non_profit",
+            "government_public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "society_and_culture",
+            "sports_and_recreation",
+            "technology_internet",
+            "transportation_automotive",
+            "business"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "albanian",
+            "arabic",
+            "bengali",
+            "bosnian",
+            "bulgarian",
+            "catalan",
+            "chinese_simplified",
+            "chinese_traditional",
+            "croatian",
+            "czech",
+            "danish",
+            "dari",
+            "dutch",
+            "english",
+            "estonian",
+            "filipino",
+            "finnish",
+            "french",
+            "georgian",
+            "german",
+            "greek",
+            "haitian",
+            "creole",
+            "hawaiian",
+            "hebrew",
+            "hindi",
+            "hungarian",
+            "icelandic",
+            "indonesian",
+            "irish_gaelic",
+            "italian",
+            "jamaican_patois",
+            "japanese",
+            "kazakh",
+            "korean",
+            "latin",
+            "latvian",
+            "lithuanian",
+            "luxembourgish",
+            "macedonian",
+            "malay",
+            "maltese",
+            "nepali",
+            "nigerian",
+            "norwegian",
+            "oriya",
+            "persian_farsi",
+            "polish",
+            "portuguese",
+            "punjabi",
+            "romanian",
+            "russian",
+            "serbian",
+            "slovak",
+            "slovenian",
+            "somali",
+            "spanish",
+            "swahili",
+            "swedish",
+            "tagalog",
+            "tamil",
+            "thai",
+            "turkish",
+            "urdu",
+            "vietnamese",
+            "welsh"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 9,
+      "buying_review_rating": 5,
+      "seller_url": "/seograder",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 466,
+        "score": 4.9150343
+      },
+      "gig_url": "/seograder/build-high-authority-seo-dofollow-backlinks",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

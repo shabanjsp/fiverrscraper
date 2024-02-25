@@ -1,0 +1,575 @@
+{
+  "seller": {
+    "user": {
+      "id": "157275415",
+      "name": "saadabdulrauf",
+      "isActivationCompleted": true,
+      "joinedAt": 1691122491,
+      "profile": {
+        "displayName": "Saad Abdul Rauf"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "FR",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/876b466a52c7ceac907ddd510c7ca4ac-1705507558956/aa405b24-7e6f-452d-b0fb-760374ddedb8.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "331843446"
+        },
+        {
+          "id": "331855000"
+        },
+        {
+          "id": "362560133"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I offer a powerful 7-in-1 package to:\r\n\r\nCraft stunning websites: (Choose from Web Developer, Wordpress Developer, Wix developer)\r\nBoost your site's visibility: (SEO Content Writer)\r\nBuild dynamic web applications: (Laravel Developer, Php Developer)\r\nCreate interactive user interfaces: (Angular developer)\r\nWith 4+ years of experience, I deliver:\r\n\r\nPixel-perfect websites: Tailored to your brand and audience.\r\nSearch engine-optimized content: Drive organic traffic and grow your reach.\r\nSecure and efficient web apps: Built with robust frameworks.\r\nEngaging user experiences: Intuitive and interactive interf",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67c0565f07789006cd6",
+        "name": "Wix website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wix website designer"
+      },
+      {
+        "id": "617fa67d0565f07789006d01",
+        "name": "WordPress website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress website developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2611
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2620
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 3
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c25a410dcd5400015b8c62",
+          "comment": "Great communication, very responsive, very easy to work with. I really enjoyed working with Saad!!",
+          "comment_language": "en",
+          "username": "customnixer",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-06T17:29:27",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3180BD0B385",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 331855000,
+          "gig_slug": "design-perfect-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 65,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c1f937f9a787374b91c506",
+          "comment": "Working with her has been really amazing. This seller is really passionate and hard working. Would recommend.",
+          "comment_language": "en",
+          "username": "george_oliver11",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-02-06T12:34:39",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO62A145369C8",
+          "score": 0,
+          "reviewer_industry": [
+            "manufacturing_and_storage"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 331855000,
+          "gig_slug": "design-perfect-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 961,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "64cfd0102bb77e0001ca8d91",
+          "comment": "Great communication, easy to work with, performed as promised.",
+          "comment_language": "en",
+          "username": "josephlewis19",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d49cef7f907636e34289907b1eab6c1b-1689350982430/949c6217-7eba-441e-ac60-aa84d97059c4.jpeg",
+          "created_at": "2023-08-06T18:16:14",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/8158a325fb2d7d02f02c8a1f4a4225fc-1691328433/s1.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/8158a325fb2d7d02f02c8a1f4a4225fc-1691328433/s1.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15BE60B581",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 331843446,
+          "gig_slug": "do-perfect-wix-website-design",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2611,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 26,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 3,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1,
+        "business": 2
+      },
+      "user_id": 157275415,
+      "seller_username": "saadabdulrauf",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 3
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "manufacturing_and_storage": "Manufacturing & Storage"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 157275415,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 157275415,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Bahrain",
+    "recent_utc_offset": -180
+  },
+  "gigsData": [
+    {
+      "gig_id": 331855000,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-perfect-wordpress-website",
+      "title": "create perfect modern wordpress website",
+      "seller_name": "saadabdulrauf",
+      "seller_id": 157275415,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/876b466a52c7ceac907ddd510c7ca4ac-1705507558956/aa405b24-7e6f-452d-b0fb-760374ddedb8.png",
+      "seller_display_name": "Saad Abdul Rauf",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/331855000/original/b714b1e71fa24762f747e7e5b8bebbebe830745d.png",
+          "type": "ImageAsset",
+          "id": "331855000_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "analytics",
+            "form",
+            "chat",
+            "map",
+            "gallery"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "paypal",
+            "twitter",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/saadabdulrauf",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/saadabdulrauf/design-perfect-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 331843446,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2611,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-perfect-wix-website-design",
+      "title": "do perfect wix website design",
+      "seller_name": "saadabdulrauf",
+      "seller_id": 157275415,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/876b466a52c7ceac907ddd510c7ca4ac-1705507558956/aa405b24-7e6f-452d-b0fb-760374ddedb8.png",
+      "seller_display_name": "Saad Abdul Rauf",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/331843446/original/0bead8b04c5d872c45ec77cd4dad5a65a133da0c.png",
+          "type": "ImageAsset",
+          "id": "331843446_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "168794655",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/8158a325fb2d7d02f02c8a1f4a4225fc-1691328433/s1.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "form",
+            "faq",
+            "gallery"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "pro_gallery",
+            "forum",
+            "blog",
+            "photo_albums"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/saadabdulrauf",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/saadabdulrauf/do-perfect-wix-website-design",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 362560133,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2620,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-redesin-clone-or-wix-landing-page-convert-to-wordpress-by-elementor-pro",
+      "title": "design,redesin clone or wix landing page convert to wordpress by elementor pro",
+      "seller_name": "saadabdulrauf",
+      "seller_id": 157275415,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/876b466a52c7ceac907ddd510c7ca4ac-1705507558956/aa405b24-7e6f-452d-b0fb-760374ddedb8.png",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "65b96fd53f770000228d37f2",
+          "id": 9892220
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/362560133/original/0ea32aeae5891bb871476c591d85871b9430d8c5.png",
+          "type": "ImageAsset",
+          "id": "362560133_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "65b96fd53f770000228d37f2",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/xeyrajmmvcgepmacu8wm",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/xeyrajmmvcgepmacu8wm.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "wordpress"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business",
+            "landing_page",
+            "blog",
+            "dropshipping"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/saadabdulrauf",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 5
+      },
+      "gig_url": "/saadabdulrauf/design-redesin-clone-or-wix-landing-page-convert-to-wordpress-by-elementor-pro",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

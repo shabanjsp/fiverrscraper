@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "164700724",
+      "name": "juleneabuchan",
+      "isActivationCompleted": true,
+      "joinedAt": 1701150747,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 164700724,
+      "seller_username": "juleneabuchan",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 164700724,
+      "reviews": [
+        {
+          "id": "658c5096d628ec0001845bf1",
+          "comment": "nice",
+          "comment_language": "lt",
+          "username": "mam_aqsa",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/10942989938f15a5d531598d6911083a-1701800008812/96c08b7e-177e-426a-9ef2-8b1d789c7a89.jpg",
+          "created_at": "2023-12-27T16:28:06",
+          "value": 5
+        },
+        {
+          "id": "658861553b629a0001479124",
+          "comment": "good experience",
+          "comment_language": "en",
+          "username": "ib_tutor2",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a0055fae3bcd26754529a57c06f80898-1702108348149/134fa04e-709f-4c1b-a3e6-7ed640a7d2e9.jpg",
+          "created_at": "2023-12-24T16:50:29",
+          "value": 5
+        },
+        {
+          "id": "65851ee35c478900012cca5e",
+          "comment": "it was  pleasure to nwork",
+          "comment_language": "en",
+          "username": "profhania5",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6183c39b8df2166ede3c8ba3a275a776-1702878755052/b1ebe92d-3cfa-4f08-becb-51e17ac92566.jpeg",
+          "created_at": "2023-12-22T05:30:12",
+          "value": 5
+        },
+        {
+          "id": "658481685c478900012c713c",
+          "comment": "learned what didn't yet",
+          "comment_language": "en",
+          "username": "madiha_wasif",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/28c849d2b667b563d0ddfde11664ae49-1701710848784/989236ae-787a-4f0e-b9be-15db6dd98ff5.png",
+          "created_at": "2023-12-21T18:18:16",
+          "value": 5
+        },
+        {
+          "id": "65846ca15c478900012c5d12",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "diviathakur",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/871709daa249e0e51d911ef9b49fb21f-1648775181702357642363/JPEG_20231212_100721_3243801848924135345.jpg",
+          "created_at": "2023-12-21T16:49:37",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 164700724,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

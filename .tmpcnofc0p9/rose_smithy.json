@@ -1,0 +1,175 @@
+{
+  "seller": {
+    "user": {
+      "id": "154089566",
+      "name": "rose_smithy",
+      "isActivationCompleted": true,
+      "joinedAt": 1687281909,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 154089566,
+      "seller_username": "rose_smithy",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 154089566,
+      "reviews": [
+        {
+          "id": "65c234650dcd5400015b6d31",
+          "comment": "It was great working with Rose!!",
+          "comment_language": "en",
+          "username": "janice_george",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3833169b84c390c9c9dbe2f2273065ee-1686050998416/0fd61c9b-92f3-4015-b0e5-6c5bd6893af4.jpg",
+          "created_at": "2024-02-06T13:30:13",
+          "value": 5
+        },
+        {
+          "id": "65ae557fa8e68f0001130108",
+          "comment": "nice experience working with rose",
+          "comment_language": "en",
+          "username": "ben_brewster",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cf664e62dea11c506311ef409c7d7c58-1667994807419/95520c4d-ebf7-4fed-bf65-f6754a1bb106.jpg",
+          "created_at": "2024-01-22T11:46:07",
+          "value": 5
+        },
+        {
+          "id": "65ae3b92a8e68f000112f305",
+          "comment": "it's amazing working with you",
+          "comment_language": "en",
+          "username": "gaylejdias",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/84dafe65f54c49dffcecabe7b0b70fba-1702113799853/d113aac0-74bc-4dcf-a86d-cef124973b02.png",
+          "created_at": "2024-01-22T09:55:30",
+          "value": 5
+        },
+        {
+          "id": "65ad8154e7303e000182a0d0",
+          "comment": "Thanks for your order ",
+          "comment_language": "en",
+          "username": "kiaralisa_",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8482977bb52cadd63e92894a38f47027-1698922942207/e98489ea-d9a5-492e-b3a4-b534fde41b08.png",
+          "created_at": "2024-01-21T20:40:52",
+          "value": 5
+        },
+        {
+          "id": "65a98fb3ecc5110001c174b2",
+          "comment": "nice working with Rose",
+          "comment_language": "en",
+          "username": "steve_dave7",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bd2ce29f0a3a0aec4c1127dff1f38727-1678964194158/f5c204ee-e560-497f-8c37-f36aacade842.jpg",
+          "created_at": "2024-01-18T20:53:07",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 154089566,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

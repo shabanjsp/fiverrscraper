@@ -1,0 +1,181 @@
+{
+  "seller": {
+    "user": {
+      "id": "92764908",
+      "name": "savanahmoxie",
+      "isActivationCompleted": true,
+      "joinedAt": 1596836887,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 92764908,
+      "seller_username": "savanahmoxie",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 92764908,
+      "reviews": [
+        {
+          "id": "65bddc1eb2f0e00001432a61",
+          "comment": "Nice client",
+          "comment_language": "unknown",
+          "username": "wix_guru",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7b10e9c86546ccc86598099d1f4f69f3-1684237297228/47617297-b07e-4c64-904e-5ed29e166c74.jpg",
+          "created_at": "2024-02-03T06:24:31",
+          "value": 5
+        },
+        {
+          "id": "62e1c9ff2af0ed000120e408",
+          "comment": "Thank you!",
+          "comment_language": "en-US",
+          "username": "dinesh_kumar_ch",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1bbbbd57d227892158b4602cf1ea2f28-1629456310197/2718fea7-21d6-44a7-a104-062730756ad0.jpg",
+          "created_at": "2022-07-27T23:28",
+          "value": 5
+        },
+        {
+          "id": "61eb80a1079c360001cdcbc2",
+          "comment": "Thank you for the opportunity. You are EXCELLENT to work with. Easy to follow instructions and very cooperative.",
+          "comment_language": "en-US",
+          "username": "musu_webexpert",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/683abc682c351649ddf85b5633cad389-1605599804756/b7419c9d-9ac8-4f0b-b8bb-06276dc1a4ee.jpg",
+          "created_at": "2022-01-22T03:57:21",
+          "value": 5
+        },
+        {
+          "id": "616b8c5c4a35f10001884f50",
+          "comment": "Outstanding experience!  Thank you!!",
+          "comment_language": "en-US",
+          "username": "desinger_rc",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6cb6f64ed9df2102d23849c9e9b19d22-1628103311327/f3fcb6bd-dc86-4632-801c-84870af9bdea.png",
+          "created_at": "2021-10-17T02:37:16",
+          "value": 5
+        },
+        {
+          "id": "60998b7d463f000001add368",
+          "comment": "Outstanding Experience!",
+          "comment_language": "en-US",
+          "username": "lasansandapa",
+          "reviewer_country_code": "LK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2fc66d055714f38353a3210eb89f02af-609989361639983458449/JPEG_20211220_122736_7346952864650431664.jpg",
+          "created_at": "2021-05-10T19:37:34",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 92764908,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Los_Angeles",
+    "recent_utc_offset": 480
+  },
+  "gigsData": []
+}

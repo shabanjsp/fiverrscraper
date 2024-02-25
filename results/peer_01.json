@@ -1,0 +1,696 @@
+{
+  "seller": {
+    "user": {
+      "id": "101919841",
+      "name": "peer_01",
+      "isActivationCompleted": true,
+      "joinedAt": 1612871779,
+      "profile": {
+        "displayName": "Aliyaan P"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ZH",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/7b44cfda274093cc2166ab913c298ea3-1695486584923/5b1dc704-f200-4b6e-b435-16df18b753ca.JPG"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "205756931"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Photoshop Pro, check my portfolio and you may see something you like!",
+    "description": "Hello, My name is Aliyaan P, a Photoshop editor. Starting from changing/removing the background, morphing and editing an image. Creating photo effect or photo manipulation, retouching, resizing or restoration. I can do anything and everything for you. I have been doing this for 5 years now and I know what looks good and catches the eye. Let's get to work, I am your Photoshop Expert guy.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "adobe photoshop certificate",
+        "certificationName": "Photoshop expert",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "multimedia",
+        "toYear": 2015,
+        "countryCode": "PK",
+        "school": "Mehran University of Engineering and Technology",
+        "degreeTitle": "BA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66a0565f07789006758",
+        "name": "Photoshop editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photoshop editor"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6690565f0778900674c",
+        "name": "Photo editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photo editor"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6510565f07789006037",
+        "name": "Flyer design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Flyer designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa66a0565f07789006754",
+        "name": "Photography",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photographer"
+      },
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "Video editor"
+      },
+      {
+        "id": "617fa66f0565f077890068c8",
+        "name": "Retouching & enhancement",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Retouching & enhancement expert"
+      },
+      {
+        "id": "617fa6570565f07789006220",
+        "name": "Headshot retouching",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Headshot retouching expert"
+      },
+      {
+        "id": "617fa63b0565f077890059c4",
+        "name": "Beauty retouching",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Beauty retouching artist"
+      },
+      {
+        "id": "617fa6710565f07789006998",
+        "name": "Skin retouching",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Skin retouching expert"
+      },
+      {
+        "id": "617fa65a0565f077890062e1",
+        "name": "Image retouching",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Image retouching expert"
+      },
+      {
+        "id": "617fa64f0565f07789005fa8",
+        "name": "Fashion retouching",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Fashion retouching expert"
+      },
+      {
+        "id": "617fa65e0565f077890063fa",
+        "name": "Jewelry retouching",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Jewelry retouching expert"
+      },
+      {
+        "id": "617fa6690565f07789006748",
+        "name": "Photo colorization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photo colorization expert"
+      },
+      {
+        "id": "617fa6420565f07789005bc7",
+        "name": "Color correction",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Colorist"
+      },
+      {
+        "id": "617fa6690565f07789006746",
+        "name": "Photo collage",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photo collage expert"
+      },
+      {
+        "id": "617fa63b0565f07789005995",
+        "name": "Background editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Background editing expert"
+      },
+      {
+        "id": "617fa63b0565f07789005997",
+        "name": "Background removal",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Background removal expert"
+      },
+      {
+        "id": "617fa66a0565f0778900674f",
+        "name": "Photo manipulation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photo manipulation expert"
+      },
+      {
+        "id": "617fa6670565f07789006699",
+        "name": "Old photo restoration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Old photo restoration expert"
+      },
+      {
+        "id": "617fa66a0565f07789006756",
+        "name": "Photoshop design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photoshop designer"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Customer service representative"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 53,
+        "nestedCategoryId": 2578
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "653e026039ffc1000192833b",
+          "title": "Retouching and Enhancement ",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "653e026039ffc1000192833f",
+                "attachment": {
+                  "metadata": {
+                    "height": 5184,
+                    "width": 3456
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/75842cc96fbdad999fbf183c9bdbe673-1698562521946/TOUCH%20UP1.JPG"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "653e02bc4efd4d0001f1df54",
+          "title": "Background Removal",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "653e02bc4efd4d0001f1df55",
+                "attachment": {
+                  "metadata": {
+                    "height": 2416,
+                    "width": 4000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1a7cf0a58d03c7f00f94eab5dbd3df32-1698562716259/BG%202.JPG"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "653e03d939ffc100019283cb",
+          "title": "B&W Image Adding Colors",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "653e03d939ffc100019283cc",
+                "attachment": {
+                  "metadata": {
+                    "height": 2416,
+                    "width": 4000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/859f6161906f014d65bc12843515312e-1698562773854/ADDING%20COLOR%20AND%20ENHANCE%20IMAGE%202.JPG"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "653e043bb292370001f7f9a2",
+          "title": "Remove Object",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "653e043bb292370001f7f9a3",
+                "attachment": {
+                  "metadata": {
+                    "height": 2416,
+                    "width": 4000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1797ed25ae8c3aefcfa83a0b69fedd93-1698563048149/OBJECT%20REMOVE%203.JPG"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1612878653
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 24
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "655e6bf21ed21300014c8d8c",
+          "comment": "They provided a positive experience, delivered promptly and responded to my questions. They followed the instructions well. I would consider working with them again.",
+          "comment_language": "en",
+          "username": "andreictl_swl",
+          "reviewer_country_code": "RO",
+          "created_at": "2023-11-22T21:19:08",
+          "value": 4.3,
+          "reviewer_country": "Romania",
+          "encrypted_order_id": "FO51D84C3D105",
+          "score": 0.57321763,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 205756931,
+          "gig_slug": "do-professionally-photoshop-work-within-3-hours",
+          "gig_category": 3,
+          "gig_sub_category": 53,
+          "gig_nested_sub_category": 2578,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "653b7971a9c3c300010b5d95",
+          "comment": "To simplify and complete the job in less time the Seller initially reused a draft I made as an example. In my opinion this is not a serious and professional behavior. After my meticulous review the project with the second deliver had improved but not with the best result achievable (that I got from another Seller with the same price). Thanks for your time",
+          "comment_language": "en",
+          "username": "simich_marty",
+          "reviewer_country_code": "IT",
+          "created_at": "2023-10-27T08:50:57",
+          "value": 2,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/8e6b0a157e4efbbc889f54f133a63ec2-1698372064/REV%20EDIT.JPG",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/8e6b0a157e4efbbc889f54f133a63ec2-1698372064/REV%20EDIT.JPG",
+          "reviewer_country": "Italy",
+          "encrypted_order_id": "FO423347341C8",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 205756931,
+          "gig_slug": "do-professionally-photoshop-work-within-3-hours",
+          "gig_category": 3,
+          "gig_sub_category": 53,
+          "gig_nested_sub_category": 2578,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65378cbc874a0c0001f28618",
+          "comment": "I appreciate the seller going out of his way to help me get the best image. Thank you!",
+          "comment_language": "en",
+          "username": "darazealt",
+          "reviewer_country_code": "US",
+          "created_at": "2023-10-24T09:34:36",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/2807a446f61e17a05e5514c5e9da5c2d-1698097824/rock.JPG",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/2807a446f61e17a05e5514c5e9da5c2d-1698097824/rock.JPG",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO4232CB090C8",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 205756931,
+          "gig_slug": "do-professionally-photoshop-work-within-3-hours",
+          "gig_category": 3,
+          "gig_sub_category": 53,
+          "gig_nested_sub_category": 2578,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 37,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65378c8c874a0c0001f285f9",
+          "comment": "Exceptional quality in his work and very polite!",
+          "comment_language": "en",
+          "username": "darrezload",
+          "reviewer_country_code": "US",
+          "created_at": "2023-10-24T09:34:32",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f696ee5c5875b9c440f745358b43f9fb-1698095947/CHANGE%20WALL.JPG",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f696ee5c5875b9c440f745358b43f9fb-1698095947/CHANGE%20WALL.JPG",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO511960D78C1",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 205756931,
+          "gig_slug": "do-professionally-photoshop-work-within-3-hours",
+          "gig_category": 3,
+          "gig_sub_category": 53,
+          "gig_nested_sub_category": 2578,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 15,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65378be8874a0c0001f285a5",
+          "comment": "Working with this seller is fast and easy.",
+          "comment_language": "en",
+          "username": "astindays",
+          "reviewer_country_code": "US",
+          "created_at": "2023-10-24T09:34:27",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/784bdf0e99f35228b2d3b7bd1b7ca7ce-1698095734/BLUE%20DORR.JPG",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/784bdf0e99f35228b2d3b7bd1b7ca7ce-1698095734/BLUE%20DORR.JPG",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO7232C17F0C5",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 205756931,
+          "gig_slug": "do-professionally-photoshop-work-within-3-hours",
+          "gig_category": 3,
+          "gig_sub_category": 53,
+          "gig_nested_sub_category": 2578,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 24,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 21
+      },
+      "user_id": 101919841,
+      "seller_username": "peer_01",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 22
+        }
+      ],
+      "average_valuation": 4.8
+    },
+    "selling_reviews": {
+      "user_id": 101919841,
+      "reviews": [
+        {
+          "id": "63eb81262791620001e5fdf4",
+          "comment": "Great client !",
+          "comment_language": "en",
+          "username": "saasha_studio",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cd0660c9ebb781f15c11153bb2d44053-1666880830697/7d7387da-b38f-4cd6-9d64-63d12328589f.JPG",
+          "created_at": "2023-02-14T12:40:06",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 101919841,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 205756931,
+      "category_id": 3,
+      "sub_category_id": 53,
+      "nested_sub_category_id": 2578,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-professionally-photoshop-work-within-3-hours",
+      "title": "do any photoshop editing remove background face swap retouching in 1 hrs",
+      "seller_name": "peer_01",
+      "seller_id": 101919841,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/7b44cfda274093cc2166ab913c298ea3-1695486584923/5b1dc704-f200-4b6e-b435-16df18b753ca.JPG",
+      "seller_display_name": "Aliyaan P",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/205756931/original/2001c887f51381dd3c67e4788487a2ec14050f00.jpg",
+          "type": "ImageAsset",
+          "id": "205756931_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "172388778",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/8e6b0a157e4efbbc889f54f133a63ec2-1698372064/REV%20EDIT.JPG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "172243652",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/2807a446f61e17a05e5514c5e9da5c2d-1698097824/rock.JPG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "172242736",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f696ee5c5875b9c440f745358b43f9fb-1698095947/CHANGE%20WALL.JPG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "172242673",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4620e1085d950e44547b7ca704b77d50-1698095843/PNG%20FILE%201.PNG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "172242608",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/784bdf0e99f35228b2d3b7bd1b7ca7ce-1698095734/BLUE%20DORR.JPG",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "zh",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6546ecf6e20f4e0001d376b1",
+          "discount_percentage": 20
+        },
+        {
+          "id": "6546ecf6e20f4e0001d376b2",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "type",
+          "value": [
+            "color_change",
+            "retouching",
+            "background_removal"
+          ]
+        },
+        {
+          "type": "editing_tool",
+          "value": [
+            "adobe_photoshop"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 22,
+      "buying_review_rating": 4.8,
+      "seller_url": "/peer_01",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 24,
+        "score": 4.8472223
+      },
+      "gig_url": "/peer_01/do-professionally-photoshop-work-within-3-hours",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

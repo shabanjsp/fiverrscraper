@@ -1,0 +1,609 @@
+{
+  "seller": {
+    "user": {
+      "id": "161587068",
+      "name": "dev_artisan",
+      "isActivationCompleted": true,
+      "joinedAt": 1696862856,
+      "profile": {
+        "displayName": "Nesar Ahmed"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/23d16e58dad8d71ce10d101ef0d23b4d-1705989840707/3af448d4-9515-43af-9fd6-c30aa37c5115.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "345414457"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Professional WordPress Developer and CMS Expert",
+    "description": "Greetings! I'm Nesar Ahmed, a WordPress website designer and developer with 5+ years of experience. I create beautiful and functional websites that help businesses grow. I offer a wide range of services, including custom design, responsive design, SEO optimization, feature integration, Figma to WordPress, custom WordPress, and e-commerce solutions. 100% client satisfaction is my priority expertise. Contact me today for a free consultation and learn how I can help you create a WordPress website that will help your business grow!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "Complete WordPress Website Developement Course",
+        "year": 2017
+      },
+      {
+        "receivedFrom": "udemy",
+        "certificationName": "Complete WordPress Theme & Plugin Development Course",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "bachelor of computer science  engineering",
+        "toYear": 2017,
+        "countryCode": "BD",
+        "school": "North South University",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "computer science and engineering",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "North South University",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf6",
+        "name": "WordPress E-Commerce",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress E-Commerce expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress SEO expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress customization expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress migration expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfa",
+        "name": "WordPress performance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress performance expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cf3",
+        "name": "WordPress consultation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress consultant"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c89",
+        "name": "Website migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website migration expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c8f",
+        "name": "Website security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website security expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c7f",
+        "name": "Website consultation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website consultant"
+      },
+      {
+        "id": "617fa67b0565f07789006c79",
+        "name": "Website analytics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website analytics expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c86",
+        "name": "Website editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website editor"
+      },
+      {
+        "id": "617fa6600565f0778900648c",
+        "name": "Landing page development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page developer"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa67d0565f07789006cf8",
+        "name": "WordPress landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress landing page expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6552ffe552c0300001ab9e8d",
+          "title": "Fully Functional WP Website",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "65530e9a52c0300001aba24b",
+                "attachment": {
+                  "metadata": {
+                    "height": 1200,
+                    "width": 1600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/aee6237e99847f66292a19020f993ba8-1699941965098/2.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65530ebd52c0300001aba25c",
+          "title": "E-commerce Shop ",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "65530ebd52c0300001aba25d",
+                "attachment": {
+                  "metadata": {
+                    "height": 1200,
+                    "width": 1600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1a8e0fdc9a02766e2ced3e50eed12cf1-1699941887605/Untitled-2.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65530f05de30890001a302ca",
+          "title": "Beauty and Cosmetics Shop",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65530f05de30890001a302cb",
+                "attachment": {
+                  "metadata": {
+                    "height": 1200,
+                    "width": 1600
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/582caca96a1286dab9938f3f6516ade2-1699942113128/4.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 3
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1696933119
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 36
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6565fedef40cc9000167144f",
+          "comment": "Naser was extremely helpful in creating a full new donation page for our website in record time! He even sent us a detailed video to explain how to edit the site on our end and was courteous throughout. His English is excellent and it was easy to communicate our needs.",
+          "comment_language": "en",
+          "username": "msharfstein",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-28T14:54:43",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217A2FF0D86",
+          "score": 0.65691906,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 345414457,
+          "gig_slug": "design-redesign-build-rebuild-clone-edit-fix-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "656d72f11929d30001c9b633",
+          "comment": "He is a responsible person who is available when you need him. Even when you do not see him connected, you do not have to wait hours until he replies. In a few minutes, he will be back on the website and he will help you.",
+          "comment_language": "en",
+          "username": "gracie07hamilto",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-12-04T06:52:32",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO117AE6A9987",
+          "score": 0.6456011,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 345414457,
+          "gig_slug": "design-redesign-build-rebuild-clone-edit-fix-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 31,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "657a94f9f0ef301793bd17a8",
+          "comment": "In my experience working with him, I can confidently say that he is the best of the best. He is a man of word and honor and a great professional.",
+          "comment_language": "en",
+          "username": "glenn_b_harris",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-14T06:47:17",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31DAD45BA87",
+          "score": 0.5501235,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 345414457,
+          "gig_slug": "design-redesign-build-rebuild-clone-edit-fix-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "654fc91b163f3500012bd212",
+          "comment": "He went above and beyond to assist me with my WordPress project. He was able to assist me by seeing my vision and translating it into my website design concept. He was also very flexible in implementing slight changes to the project.",
+          "comment_language": "en",
+          "username": "jaxson_patterso",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-11T19:17:49",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO111A71A8345",
+          "score": 0.5344286,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 345414457,
+          "gig_slug": "design-redesign-build-rebuild-clone-edit-fix-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 42,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6561f8e4644f4e0001d8a423",
+          "comment": "Fabulous job. Excellent communication, have started another project with Nesar and his team, easy to deal with very helpful and great web developers. Nothing is a problem with this team. ",
+          "comment_language": "en",
+          "username": "markidrive",
+          "reviewer_country_code": "IE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b3df6e973e383b4d4ddbe3aaa57ce2a4-1634700661699779854.6437411/B1B7C8A9-36C6-4139-AB3D-F2510B1E2E2E",
+          "created_at": "2023-11-25T13:41:07",
+          "value": 5,
+          "reviewer_country": "Ireland",
+          "encrypted_order_id": "FO111B1F2B845",
+          "score": 0.5102162,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 345414457,
+          "gig_slug": "design-redesign-build-rebuild-clone-edit-fix-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 36,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 161587068,
+      "seller_username": "dev_artisan",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 36
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 161587068,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161587068,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 345414457,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-redesign-build-rebuild-clone-edit-fix-or-revamp-wordpress-website",
+      "title": "design, redesign, build, rebuild, clone, edit, fix or revamp wordpress website",
+      "seller_name": "dev_artisan",
+      "seller_id": 161587068,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/23d16e58dad8d71ce10d101ef0d23b4d-1705989840707/3af448d4-9515-43af-9fd6-c30aa37c5115.png",
+      "seller_display_name": "Nesar Ahmed",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/345414457/original/4e1b8a74275baf8a3c70cd0e10ff3ba5f4df718c.jpg",
+          "type": "ImageAsset",
+          "id": "345414457_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "bn",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "social_media",
+            "customer_support",
+            "events",
+            "chat",
+            "membership",
+            "map",
+            "faq"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 36,
+      "buying_review_rating": 5,
+      "seller_url": "/dev_artisan",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 36,
+        "score": 5
+      },
+      "gig_url": "/dev_artisan/design-redesign-build-rebuild-clone-edit-fix-or-revamp-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

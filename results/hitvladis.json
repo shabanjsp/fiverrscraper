@@ -1,0 +1,769 @@
+{
+  "seller": {
+    "user": {
+      "id": "139793619",
+      "name": "hitvladis",
+      "isActivationCompleted": true,
+      "joinedAt": 1670585522,
+      "profile": {
+        "displayName": "Vladislav"
+      },
+      "address": {
+        "countryName": "Serbia",
+        "countryCode": "RS"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "RU",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ed43ffc64fe5ce44338c0a8290aa86f6-1696899218919/d0b11f68-d6da-46be-aa8e-306e7aac0414.jpg"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "289825736"
+        },
+        {
+          "id": "290600748"
+        },
+        {
+          "id": "291085639"
+        },
+        {
+          "id": "300583422"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I am your go-to destination for top-tier Video Editing Services. With more than 5 years of experience, I can offer you a wealth of expertise guaranteed to turn your video into a masterpiece. \r\nI specialize in Professional Video Editing, offering creative solutions to meet your unique needs. My video post-production techniques guarantee high-quality results that exceed your expectations. As an expert in the field, I take pride in my commitment to delivering excellence in every project.\r\n\r\nContact me today to discuss your project further and see how I can help bring your vision to life",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6470565f07789005d49",
+        "name": "Davinci resolve",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Davinci resolve expert"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      },
+      {
+        "id": "617fa6690565f0778900674c",
+        "name": "Photo editing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Photo editor"
+      },
+      {
+        "id": "617fa6790565f07789006bef",
+        "name": "Visual effects",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Visual effects artist"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 20,
+        "subCategoryId": 99,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "652c9de0a8554200016c7a32",
+          "title": "Fitness Youtube Video Editing",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "652c9de0a8554200016c7a33",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/h1bdbrbhl5ubgwko96e9.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "652ca46da945570001c9454b",
+          "title": "NBA Youtube Video Editing",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "652ca46da945570001c9454c",
+                "attachment": {
+                  "metadata": {
+                    "height": 720,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/qmqyptnfwt8fa79eru6l.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1675996970
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 115
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 8
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "656d12de1929d30001c9876b",
+          "comment": "Excellent work! I like the way this editor uses text and typing and other visual and sound effects and backing music to keep the videos interesting. I always tend to find that my videos receive higher retention and average view duration when he edits them. Great job!",
+          "comment_language": "en",
+          "username": "adam_f40",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a4869042cd8326f46db0919a9f62b683-1431368051679678172.28904/E8EF8F77-11CD-4496-B8BD-BCEFA46A0D45",
+          "created_at": "2023-12-17T23:43:13",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO3BD4C77C41",
+          "score": 0.5984944,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 290600748,
+          "gig_slug": "edit-youtube-videos-vlog-travel-sport-podcast",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 32,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65c34b73bab0016c627bca34",
+          "comment": "Great mixing private footage and other content.",
+          "comment_language": "en",
+          "username": "francoroche",
+          "reviewer_country_code": "NO",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c57012b50f0587486f44575450343fab-1402922921671230132.555974/1E6D4BC0-6DC6-411E-B211-0FFD813B50DD",
+          "created_at": "2024-02-13T12:36:49",
+          "value": 5,
+          "reviewer_country": "Norway",
+          "encrypted_order_id": "FO2C03BDF542",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 290600748,
+          "gig_slug": "edit-youtube-videos-vlog-travel-sport-podcast",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 48,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c0adbaf9a787374b91a5b9",
+          "comment": "Perfect work, going to have orders all the time for Vladislav",
+          "comment_language": "en",
+          "username": "rodionkub",
+          "reviewer_country_code": "RS",
+          "created_at": "2024-02-13T12:34:11",
+          "value": 5,
+          "reviewer_country": "Serbia",
+          "encrypted_order_id": "FO629F79225C8",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 290600748,
+          "gig_slug": "edit-youtube-videos-vlog-travel-sport-podcast",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c0167cc23f2d0001402f00",
+          "comment": "Was above and beyond. Good work!",
+          "comment_language": "en",
+          "username": "dappadonte",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-13T12:36:08",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41202BA88C2",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 290600748,
+          "gig_slug": "edit-youtube-videos-vlog-travel-sport-podcast",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65bd7db0b2f0e000014307c0",
+          "comment": "Excellent again ",
+          "comment_language": "unknown",
+          "username": "mitchynew",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4e545606e4cc3138ef0e4d4c4551658c-1654449013267/6d58ff8c-2d10-4fca-acc0-578b5c267968.png",
+          "created_at": "2024-02-13T12:35:09",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO217FBFE1786",
+          "score": 0,
+          "reviewer_industry": [
+            "sports_and_fitness"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 290600748,
+          "gig_slug": "edit-youtube-videos-vlog-travel-sport-podcast",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 115,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 4,
+        "business": 0
+      },
+      "user_id": 139793619,
+      "seller_username": "hitvladis",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 113
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "sports_and_fitness": "Sports & Fitness"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 139793619,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 139793619,
+    "currency": "EUR",
+    "locale": "en-US",
+    "timezone": "Europe/Berlin",
+    "recent_utc_offset": -60
+  },
+  "gigsData": [
+    {
+      "gig_id": 290600748,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "edit-youtube-videos-vlog-travel-sport-podcast",
+      "title": "edit youtube videos, vlog, travel, sport, podcast",
+      "seller_name": "hitvladis",
+      "seller_id": 139793619,
+      "seller_country": "RS",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ed43ffc64fe5ce44338c0a8290aa86f6-1696899218919/d0b11f68-d6da-46be-aa8e-306e7aac0414.jpg",
+      "seller_display_name": "Vladislav",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "652c8f2c5064cc001dd1ce93",
+          "id": 9295247
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/290600748/original/8b4fb3172bc69110dc8d7b8535b6d40ab07c0a61.png",
+          "type": "ImageAsset",
+          "id": "290600748_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/290600748/original/269290005882ccec52a4770f479b95ebcc21b0b7.jpg",
+          "type": "ImageAsset",
+          "id": "290600748_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/290600748/original/a65b7e80295f0e7b67cca4eaadcd8d395ad17ed0.jpg",
+          "type": "ImageAsset",
+          "id": "290600748_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "652c8f2c5064cc001dd1ce93",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/erhcpkmamwji9jir7bki",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_25.55485,PLACEHOLDER/erhcpkmamwji9jir7bki.png"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ru",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "63e6d55373c5980001556964",
+          "discount_percentage": 5
+        },
+        {
+          "id": "63e6d55373c5980001556965",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "youtube_videos"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 100,
+      "buying_review_rating": 5,
+      "seller_url": "/hitvladis",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 115,
+        "score": 4.9385448
+      },
+      "gig_url": "/hitvladis/edit-youtube-videos-vlog-travel-sport-podcast",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 291085639,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-trailer-for-your-film-movie-documentary",
+      "title": "create a trailer for film, movie, documentary, video game",
+      "seller_name": "hitvladis",
+      "seller_id": 139793619,
+      "seller_country": "RS",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ed43ffc64fe5ce44338c0a8290aa86f6-1696899218919/d0b11f68-d6da-46be-aa8e-306e7aac0414.jpg",
+      "seller_display_name": "Vladislav",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "652c9331035822000ed918d2",
+          "id": 9295284
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/291085639/original/aa3f5678e52ee9d291f404944d9bf474d28019ec.png",
+          "type": "ImageAsset",
+          "id": "291085639_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/291085639/original/4aeb1791b1b7e46a4c38fb71657ef28b07fe2a53.png",
+          "type": "ImageAsset",
+          "id": "291085639_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/291085639/original/abdbc904e8f61b64fe80fd25a537eff785373b4c.png",
+          "type": "ImageAsset",
+          "id": "291085639_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "652c9331035822000ed918d2",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/e2mgmy938ld3fyw50hxb",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_59.312791,PLACEHOLDER/e2mgmy938ld3fyw50hxb.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "168284852",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ypwzjdzlvowe25zrj926",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/ypwzjdzlvowe25zrj926.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "163535948",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/mwaewesd3hso7fu6yaaj",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/mwaewesd3hso7fu6yaaj.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ru",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "movie_trailers"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 6,
+      "buying_review_rating": 4.9,
+      "seller_url": "/hitvladis",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 115,
+        "score": 4.9385448
+      },
+      "gig_url": "/hitvladis/create-a-trailer-for-your-film-movie-documentary",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 300583422,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-long-term-reliable-youtube-video-editor",
+      "title": "be your long term reliable youtube video editor",
+      "seller_name": "hitvladis",
+      "seller_id": 139793619,
+      "seller_country": "RS",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ed43ffc64fe5ce44338c0a8290aa86f6-1696899218919/d0b11f68-d6da-46be-aa8e-306e7aac0414.jpg",
+      "seller_display_name": "Vladislav",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/300583422/original/544c0b03c685046cf110fa8548b45ddca5359530.png",
+          "type": "ImageAsset",
+          "id": "300583422_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/300583422/original/c6ee922901c7f0b921e68596f3ad552137cddf03.jpg",
+          "type": "ImageAsset",
+          "id": "300583422_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/300583422/original/5d21b19bd5a9e8caa8aa2fc22e6cdb1705efd082.png",
+          "type": "ImageAsset",
+          "id": "300583422_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "63f028640ce284000d535026",
+          "id": 7914335
+        }
+      ],
+      "attachments": [
+        {
+          "id": "63f028640ce284000d535026",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/luimjs5nvhtxnjizqv0j",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_25.36393,PLACEHOLDER/luimjs5nvhtxnjizqv0j.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "167070294",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/wqrtfr2xy7smdjzqebon",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/wqrtfr2xy7smdjzqebon.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "160874369",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/jtlvt1r3eoazvlzl7gsh",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/jtlvt1r3eoazvlzl7gsh.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ru",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "63e5313725ed3400014839fc",
+          "discount_percentage": 10
+        },
+        {
+          "id": "63e5313725ed3400014839fd",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "youtube_videos"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/hitvladis",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 115,
+        "score": 4.9385448
+      },
+      "gig_url": "/hitvladis/be-your-long-term-reliable-youtube-video-editor",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 289825736,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "edit-your-music-video",
+      "title": "edit your music video, hip hop, trap, edm, add effects editing",
+      "seller_name": "hitvladis",
+      "seller_id": 139793619,
+      "seller_country": "RS",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ed43ffc64fe5ce44338c0a8290aa86f6-1696899218919/d0b11f68-d6da-46be-aa8e-306e7aac0414.jpg",
+      "seller_display_name": "Vladislav",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/289825736/original/44ce31f6636757ddb831fdf7337b38bf4f007344.jpg",
+          "type": "ImageAsset",
+          "id": "289825736_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/289825736/original/d26274d605f71699831294a3ae3965feae0fff0f.png",
+          "type": "ImageAsset",
+          "id": "289825736_2"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "63e830eec0d57d001659f6ba",
+          "id": 7879787
+        }
+      ],
+      "attachments": [
+        {
+          "id": "63e830eec0d57d001659f6ba",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/lwolqgqrboesyyclvqcm",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_25.244674,PLACEHOLDER/lwolqgqrboesyyclvqcm.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ru",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "63e82f9f25ed3400015e32d0",
+          "discount_percentage": 10
+        },
+        {
+          "id": "63e82f9f25ed3400015e32d1",
+          "discount_percentage": 20
+        }
+      ],
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "music_videos"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/hitvladis",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 115,
+        "score": 4.9385448
+      },
+      "gig_url": "/hitvladis/edit-your-music-video",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

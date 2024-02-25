@@ -1,0 +1,655 @@
+{
+  "seller": {
+    "user": {
+      "id": "3815507",
+      "name": "amvisamg",
+      "isActivationCompleted": true,
+      "joinedAt": 1415733727,
+      "profile": {
+        "displayName": "Amvis Music"
+      },
+      "address": {
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/77ee16df18a15985008af33c3ac0cba9-1607124158075/c6e361d4-e6aa-41a7-867f-29293b950d96.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "156772925"
+        },
+        {
+          "id": "333185902"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Singer, Vocalist, Songwriter, Rapper, Voice Overs",
+    "description": "Hey there, I'm Amvis, a passionate and experienced Songwriter, Singer, Vocalist and Recording Artist with a proven track record in the music industry. With years of expertise under my belt, I take pride in delivering outstanding results and creating music that leaves a lasting impression ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6660565f07789006641",
+        "name": "Music production",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Music producer"
+      },
+      {
+        "id": "617fa63a0565f07789005944",
+        "name": "Audio mixing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Audio mixing engineer"
+      },
+      {
+        "id": "617fa63a0565f07789005941",
+        "name": "Audio editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Audio editor"
+      },
+      {
+        "id": "617fa6660565f0778900662f",
+        "name": "Music",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Music expert"
+      },
+      {
+        "id": "617fa63a0565f07789005947",
+        "name": "Audio recording",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Audio recording expert"
+      },
+      {
+        "id": "617fa6660565f07789006632",
+        "name": "Music composition",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Music composer"
+      },
+      {
+        "id": "617fa63a0565f07789005943",
+        "name": "Audio mastering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Audio mastering engineer"
+      },
+      {
+        "id": "617fa6720565f077890069e8",
+        "name": "Songwriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Songwriter"
+      },
+      {
+        "id": "617fa63a0565f07789005942",
+        "name": "Audio engineering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Audio engineer"
+      },
+      {
+        "id": "617fa63a0565f07789005946",
+        "name": "Audio production",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Audio producer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 12,
+        "subCategoryId": 158,
+        "nestedCategoryId": 2574
+      },
+      {
+        "categoryId": 12,
+        "subCategoryId": 392,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64d2158edef9e4000157d67e",
+          "title": "Fall In love - AfroPop",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64d2158edef9e4000157d67f",
+                "attachment": {
+                  "metadata": {
+                    "height": 720,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/cnff17vv85cf5rtuixxr.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64d24df85d1fec00013320aa",
+          "title": "Grind Time - Hip Hop",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "64d24df85d1fec00013320ab",
+                "attachment": {
+                  "metadata": {
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/mje7cskv5pbmqfctfjet.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 210
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 2
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65773b67332f047f79da5ebf",
+          "comment": "Thank you for your amazing work on this project. Your sensitivity to timeline, your constant communication, and attention to detail - not to mention your quality work. Thank you!",
+          "comment_language": "en",
+          "username": "panafricanlife",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c674837534bbce12c2e0c32b9aefd246-1614971578985/95b2d9ef-d7e2-46a5-80f0-0410922f0741.jpg",
+          "created_at": "2023-12-25T00:45:29",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO2BD9796042",
+          "score": 0.35517395,
+          "reviewer_industry": [
+            "media_or_entertainment",
+            "fashion_and_apparel"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 333185902,
+          "gig_slug": "write-and-record-your-next-afrobeat-afropop-or-amapiano-hit-576a",
+          "gig_category": 12,
+          "gig_sub_category": 392,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 58,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6580893f4941970001c2a536",
+          "comment": "Superb! Thank you for you attention to detail, your patience, your communication throughout the entire process, and your openness to critique. Fantastic!\n",
+          "comment_language": "en",
+          "username": "panafricanlife",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c674837534bbce12c2e0c32b9aefd246-1614971578985/95b2d9ef-d7e2-46a5-80f0-0410922f0741.jpg",
+          "created_at": "2023-12-18T18:03:27",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO823937564C4",
+          "score": 0.3195854,
+          "reviewer_industry": [
+            "media_or_entertainment",
+            "fashion_and_apparel"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 333185902,
+          "gig_slug": "write-and-record-your-next-afrobeat-afropop-or-amapiano-hit-576a",
+          "gig_category": 12,
+          "gig_sub_category": 392,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 58,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6596ec9893c3a40076969e85",
+          "comment": "Thank you for the great delivery",
+          "comment_language": "en",
+          "username": "panafricanlife",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c674837534bbce12c2e0c32b9aefd246-1614971578985/95b2d9ef-d7e2-46a5-80f0-0410922f0741.jpg",
+          "created_at": "2024-01-04T18:07:02",
+          "value": 4,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO217D3498186",
+          "score": 0,
+          "reviewer_industry": [
+            "media_or_entertainment",
+            "fashion_and_apparel"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 333185902,
+          "gig_slug": "write-and-record-your-next-afrobeat-afropop-or-amapiano-hit-576a",
+          "gig_category": 12,
+          "gig_sub_category": 392,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 58,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65964045de307a0001ee074e",
+          "comment": "Amvis performance on the hook was nothing short of stellar! His ability to craft meaningful and catchy lyrics added immense value to the project",
+          "comment_language": "en",
+          "username": "natejacob352",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/60559cf2cfbc29467b2589f097123d75-1694708930224/456fbd82-0fc5-48ba-a043-f3361fe843b2.jpeg",
+          "created_at": "2024-01-04T05:59:39",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO511E32FB941",
+          "score": 0,
+          "reviewer_industry": [
+            "construction"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 156772925,
+          "gig_slug": "rap-or-sing-on-you-song-or-do-a-hook",
+          "gig_category": 12,
+          "gig_sub_category": 158,
+          "gig_nested_sub_category": 2574,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 169,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6595b91693c3a400769699b7",
+          "comment": "Superb delivery - great attention to details and constant communication. Thank you for the qualify work!",
+          "comment_language": "en",
+          "username": "panafricanlife",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c674837534bbce12c2e0c32b9aefd246-1614971578985/95b2d9ef-d7e2-46a5-80f0-0410922f0741.jpg",
+          "created_at": "2024-01-03T19:45:32",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO117D3494D87",
+          "score": 0,
+          "reviewer_industry": [
+            "media_or_entertainment",
+            "fashion_and_apparel"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 333185902,
+          "gig_slug": "write-and-record-your-next-afrobeat-afropop-or-amapiano-hit-576a",
+          "gig_category": 12,
+          "gig_sub_category": 392,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 58,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 210,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 2
+      },
+      "user_id": 3815507,
+      "seller_username": "amvisamg",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 10
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 195
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "media_or_entertainment": "Media & Entertainment",
+        "fashion_and_apparel": "Fashion & Apparel",
+        "construction": "Construction"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 3815507,
+      "reviews": [
+        {
+          "id": "5f64b01bd727320001ba318c",
+          "comment": "An Absolutely amazing experience and looking forward to working with amvisamg again!  no doubt.",
+          "comment_language": "en-US",
+          "username": "slashaamg",
+          "reviewer_country_code": "TR",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/006acf9c79ef53d0ab24266eaaf255f7-1600027201136/05b01174-f0da-440b-b98f-2555be01c19a.jpg",
+          "created_at": "2020-09-18T13:03:23",
+          "value": 5
+        },
+        {
+          "id": "5e976522b0e1210001b13b81",
+          "comment": "Very organized!",
+          "comment_language": "zh",
+          "username": "devonculbert",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/31d5cb599a146824bd4f25064070c610-1652772869720/6152993e-6533-4bc3-b94e-acb7bdfba38d.JPG",
+          "created_at": "2020-04-15T19:48:50",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 3815507,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Harare",
+    "recent_utc_offset": -120
+  },
+  "gigsData": [
+    {
+      "gig_id": 156772925,
+      "category_id": 12,
+      "sub_category_id": 158,
+      "nested_sub_category_id": 2574,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "rap-or-sing-on-you-song-or-do-a-hook",
+      "title": "rap or sing on your song or do a hook",
+      "seller_name": "amvisamg",
+      "seller_id": 3815507,
+      "seller_country": "ZW",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/77ee16df18a15985008af33c3ac0cba9-1607124158075/c6e361d4-e6aa-41a7-867f-29293b950d96.jpg",
+      "seller_display_name": "Amvis Music",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "5ebc987cd51605001b9b6719",
+          "id": "156772925_5ebc987cd51605001b9b6719"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "5ebc993685f78300087dca2a",
+          "id": "156772925_5ebc993685f78300087dca2a"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "5ebc9b8245045b000d0f90ae",
+          "id": "156772925_5ebc9b8245045b000d0f90ae"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "64c03e39d83ff90013397ea5",
+          "id": 8783745
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/156772925/original/3cbacc78f9d64f4be47d5ac1328d1303a9d3224e.png",
+          "type": "ImageAsset",
+          "id": "156772925_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "64c03e39d83ff90013397ea5",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ijh87gesiy7edwci8j7r",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/ijh87gesiy7edwci8j7r.png"
+        },
+        {
+          "id": "5ebc987cd51605001b9b6719",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/f7xu6x8sy43zennn6x5i"
+        },
+        {
+          "id": "5ebc993685f78300087dca2a",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/nh6eut8kld9bhj2jjhjg"
+        },
+        {
+          "id": "5ebc9b8245045b000d0f90ae",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/rdaaxpbnfvharmd46mlh"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "64c04122f5a3680001e41266",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "hip_hop",
+            "r_b"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 187,
+      "buying_review_rating": 4.9,
+      "seller_url": "/amvisamg",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 210,
+        "score": 4.8777776
+      },
+      "gig_url": "/amvisamg/rap-or-sing-on-you-song-or-do-a-hook",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 333185902,
+      "category_id": 12,
+      "sub_category_id": 392,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-and-record-your-next-afrobeat-afropop-or-amapiano-hit-576a",
+      "title": "write and sing your next afrobeats, afropop or amapiano song",
+      "seller_name": "amvisamg",
+      "seller_id": 3815507,
+      "seller_country": "ZW",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/77ee16df18a15985008af33c3ac0cba9-1607124158075/c6e361d4-e6aa-41a7-867f-29293b950d96.jpg",
+      "seller_display_name": "Amvis Music",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "64d5bf50d51184001d9306cb",
+          "id": 8887668
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "64d5c00f5c0f090014f5f6f9",
+          "id": "333185902_64d5c00f5c0f090014f5f6f9"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "64d5c09308163d0023ca7f53",
+          "id": "333185902_64d5c09308163d0023ca7f53"
+        },
+        {
+          "type": "AudioAsset",
+          "status": 1,
+          "attachment_id": "64d5c0d7db9966000f8cef07",
+          "id": "333185902_64d5c0d7db9966000f8cef07"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/333185902/original/a62d707e3e9aaaf830542e46f61776bf280498df.png",
+          "type": "ImageAsset",
+          "id": "333185902_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "64d5bf50d51184001d9306cb",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/hrg01qlwnwmxwkukz4do",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/hrg01qlwnwmxwkukz4do.png"
+        },
+        {
+          "id": "64d5c00f5c0f090014f5f6f9",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/kjywzlepir1yewllrimp"
+        },
+        {
+          "id": "64d5c09308163d0023ca7f53",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/d2yyelzvwq8m15kb7565"
+        },
+        {
+          "id": "64d5c0d7db9966000f8cef07",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_audio/goyxq6hfqsgljixfcdtq"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "64d53a4c4a02a300016e1d8b",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "pop",
+            "r_b",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 4.8,
+      "seller_url": "/amvisamg",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 210,
+        "score": 4.8777776
+      },
+      "gig_url": "/amvisamg/write-and-record-your-next-afrobeat-afropop-or-amapiano-hit-576a",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

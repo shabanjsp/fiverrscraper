@@ -1,0 +1,172 @@
+{
+  "seller": {
+    "user": {
+      "id": "163198746",
+      "name": "broadcough",
+      "isActivationCompleted": true,
+      "joinedAt": 1699017828,
+      "profile": {
+        "displayName": "Broad Cough"
+      },
+      "address": {
+        "countryName": "Australia",
+        "countryCode": "AU"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/2d77ff5bfecc4f4cb8237c22ca8f2d06-1699018736862/a8dca1aa-7092-4dc7-a570-48aed3a443c3.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 163198746,
+      "seller_username": "broadcough",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 163198746,
+      "reviews": [
+        {
+          "id": "656e83456ca161000190dc2d",
+          "comment": "Thank you so much ",
+          "comment_language": "en",
+          "username": "yamna_expert",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2851c6e6c5d962b1931046293a38d0cb-1699626882142/7fc9ae52-65e8-4b15-a660-90a20b85838c.jpg",
+          "created_at": "2023-12-05T01:56:21",
+          "value": 5
+        },
+        {
+          "id": "656b4cbc9b6e4000017ced7b",
+          "comment": "Thank you so much ",
+          "comment_language": "en",
+          "username": "dunpun",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/478824b246e7551e946e7f3330e40742-1699116258961/d0dc0169-4c3e-4826-a3cc-09798672d165.jpg",
+          "created_at": "2023-12-02T15:26:52",
+          "value": 5
+        },
+        {
+          "id": "656b4c739b6e4000017ced3c",
+          "comment": "Thank you very much ",
+          "comment_language": "en",
+          "username": "masooma_zahra1",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6f6e50637347abbeae9658cae6c98865-1699624848309/ee75a9ad-204f-49ef-b13d-d4a0c3f704cb.jpg",
+          "created_at": "2023-12-02T15:25:39",
+          "value": 5
+        },
+        {
+          "id": "656b41389b6e4000017ce452",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "sikander_khaann",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b9b5cf8c91567465907624ccbdeb0867-1698511007331/18242bc2-3475-41fc-ad91-553c49c7d3f4.jpg",
+          "created_at": "2023-12-02T14:37:44",
+          "value": 5
+        },
+        {
+          "id": "656b40999b6e4000017ce3e1",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "ragra_khan",
+          "reviewer_country_code": "PK",
+          "created_at": "2023-12-02T14:35:05",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 163198746,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": []
+}

@@ -1,0 +1,883 @@
+{
+  "seller": {
+    "user": {
+      "id": "162311375",
+      "name": "muzammil_noreen",
+      "isActivationCompleted": true,
+      "joinedAt": 1697820497,
+      "profile": {
+        "displayName": "Muzammil"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "NL",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/58c4f60ea90b260d6e6b913b82367ead-1697821300340/7d7c707c-04ed-41f5-8663-9d433aa27ef8.jpg"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "346232233"
+        },
+        {
+          "id": "348501252"
+        },
+        {
+          "id": "355913814"
+        },
+        {
+          "id": "363262268"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hi, My Name is Muzammil. An Experienced software developer having 10+ years of experience in creating Mobile and Web apps for clients for their businesses. I have 10+ team members including ui/ux designers, web and mobile app developers. My team has created responsive and user-friendly mobile apps using flutter mobile app development and web apps using MERN/MEAN stack development. My team is expert in Making web and mobile apps secure, fast and in structured code.   ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6510565f07789006036",
+        "name": "Flutter development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa6370565f0778900586f",
+        "name": "Android app",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Android app expert"
+      },
+      {
+        "id": "617fa65c0565f07789006391",
+        "name": "iOS app development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "iOS app developer"
+      },
+      {
+        "id": "617fa6590565f077890062a8",
+        "name": "Hybrid app",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Hybrid app expert"
+      },
+      {
+        "id": "617fa6640565f077890065a0",
+        "name": "MEAN stack",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MEAN stack expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 466,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6589c4451f9c5e00018a30ee",
+          "title": "Car Wash Booking",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "6589c4451f9c5e00018a30ef",
+                "attachment": {
+                  "metadata": {
+                    "height": 728,
+                    "width": 1122
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3c4018cb967530fe24b48644cac5a00c-1703527256646/Dribbble%20shot%20-%201%20(1).png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65b23515bb1a9b00016d2259",
+          "title": "🍽️Restaurant and  Reservation🌟",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65b59045c923780001de46cc",
+                "attachment": {
+                  "metadata": {
+                    "height": 630,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/fafae5759d91c11f7b05a490a2bf2daa-1706397712937/portfolio%20(9).png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65be73f5172f31000140470e",
+          "title": "🌐 Food and Grocery Order App! ",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65be73f5172f31000140470f",
+                "attachment": {
+                  "metadata": {
+                    "height": 512,
+                    "width": 976
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/759b3ae07d93ec94c8c0f17c66f66f73-1706980273396/portfolio%20(10).png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65b23955fbcdc90001443c49",
+          "title": " 🏋️ Trainer Booking Solution!🌟",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "65b23955fbcdc90001443c4a",
+                "attachment": {
+                  "metadata": {
+                    "height": 630,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/12168ff62d991efe3d4f47ae05d1de26-1706178777966/portfolio-2.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 30
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6568cfcbf32ad80001515c72",
+          "comment": "Exceptional work! The iOS and Android applications developed by muzammil exceeded my expectations. The seamless functionality, user-friendly interface, and prompt delivery showcase their professionalism and expertise. I highly recommend their services.",
+          "comment_language": "en",
+          "username": "elizabethalice2",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-11-30T18:09:54",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO71D93CF4A83",
+          "score": 0.51265293,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346232233,
+          "gig_slug": "do-android-and-ios-mobile-app-development-using-flutter-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6568e908f32ad800015175b2",
+          "comment": "Incredible job! delivered an outstanding iOS and Android application that not only met but surpassed my expectations. Their attention to detail, timely delivery, and overall expertise make them a top-notch choice for app development. Highly recommended",
+          "comment_language": "en",
+          "username": "jamesoliver1234",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-11-30T19:57:17",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO2BD324DE42",
+          "score": 0.44701624,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346232233,
+          "gig_slug": "do-android-and-ios-mobile-app-development-using-flutter-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6568be88f32ad80001514889",
+          "comment": "Excellent service provided by the seller according to my requirements before the deadline. Actively responds to texts and keeps updated about project status. ",
+          "comment_language": "en",
+          "username": "krishnareddy687",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-11-30T17:01:25",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO1BD2FEAC43",
+          "score": 0.37021694,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346232233,
+          "gig_slug": "do-android-and-ios-mobile-app-development-using-flutter-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b039897716c4625297fef9",
+          "comment": "THe start of my app is looking gorgeous! I appreciate the time and effort Hassan is putting in with his team. thank you so much!",
+          "comment_language": "en",
+          "username": "thecrystalninja",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/20d58dae074f47b753b00ad7928703ee-1593022812249/2e68b7ca-654e-4e3b-bb3d-bf39701e9f75.jpg",
+          "created_at": "2024-01-23T22:14:59",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3BF9D23C41",
+          "score": 0.3432452,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 346232233,
+          "gig_slug": "do-android-and-ios-mobile-app-development-using-flutter-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 42,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6550a4f9163f3500012c3edd",
+          "comment": "The seller was very communicative and has delivered my order as per my requirements before the deadline with quality work.",
+          "comment_language": "en",
+          "username": "tammyjone",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-11-12T10:28:34",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO617858A9782",
+          "score": 0.3209442,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 346232233,
+          "gig_slug": "do-android-and-ios-mobile-app-development-using-flutter-app",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 30,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 3,
+        "business": 2
+      },
+      "user_id": 162311375,
+      "seller_username": "muzammil_noreen",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 29
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 162311375,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162311375,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 346232233,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-android-and-ios-mobile-app-development-using-flutter-app",
+      "title": "do android and ios mobile app development using flutter app",
+      "seller_name": "muzammil_noreen",
+      "seller_id": 162311375,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/58c4f60ea90b260d6e6b913b82367ead-1697821300340/7d7c707c-04ed-41f5-8663-9d433aa27ef8.jpg",
+      "seller_display_name": "Muzammil",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/346232233/original/28eb1eae752557acd2f5079dc66fa711699228a1.png",
+          "type": "ImageAsset",
+          "id": "346232233_1"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "nl",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "python",
+            "java",
+            "php",
+            "javascript",
+            "html",
+            "dart",
+            "swift"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "laravel",
+            "swiftui"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "android_studio",
+            "xcode",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "dating",
+            "restaurant",
+            "taxi",
+            "booking",
+            "finance",
+            "entertainment",
+            "health_fitness",
+            "maps_navigation",
+            "ecommerce"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "localization",
+            "performance",
+            "security",
+            "design",
+            "firebase"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 29,
+      "buying_review_rating": 5,
+      "seller_url": "/muzammil_noreen",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 30,
+        "score": 4.977778
+      },
+      "gig_url": "/muzammil_noreen/do-android-and-ios-mobile-app-development-using-flutter-app",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 348501252,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "business-website-and-custom-web-application",
+      "title": "develop business website and custom web application for you",
+      "seller_name": "muzammil_noreen",
+      "seller_id": 162311375,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/58c4f60ea90b260d6e6b913b82367ead-1697821300340/7d7c707c-04ed-41f5-8663-9d433aa27ef8.jpg",
+      "seller_display_name": "Muzammil",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/348501252/original/39e744715baeaf151c8a00a1619326f3e5727541.jpg",
+          "type": "ImageAsset",
+          "id": "348501252_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "nl",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "654401bd68ed9000015209e0",
+          "discount_percentage": 0
+        }
+      ],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "php",
+            "python",
+            "typescript"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "shipping",
+            "video",
+            "form",
+            "events",
+            "music",
+            "chat",
+            "booking",
+            "calendar",
+            "portfolio"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/muzammil_noreen",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 30,
+        "score": 4.977778
+      },
+      "gig_url": "/muzammil_noreen/business-website-and-custom-web-application",
+      "is_seller_unavailable": false,
+      "price_i": 200,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 355913814,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-ios-and-android-app-development-using-flutter-and-swiftui",
+      "title": "do IOS and android app development using flutter and swiftui",
+      "seller_name": "muzammil_noreen",
+      "seller_id": 162311375,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/58c4f60ea90b260d6e6b913b82367ead-1697821300340/7d7c707c-04ed-41f5-8663-9d433aa27ef8.jpg",
+      "seller_display_name": "Muzammil",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/355913814/original/315f127c0cfeec46dfad73c8f2202fb81ebeccdb.jpg",
+          "type": "ImageAsset",
+          "id": "355913814_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "nl",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "658399b09295e300011f13da",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "python",
+            "java",
+            "php",
+            "dart",
+            "swift"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "laravel",
+            "jetpack_compose",
+            "angular",
+            "swiftui"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "flutterflow",
+            "xcode",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "delivery",
+            "streaming",
+            "music",
+            "restaurant",
+            "shopping",
+            "taxi",
+            "booking",
+            "finance",
+            "entertainment"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "performance",
+            "security",
+            "design",
+            "firebase",
+            "analytics",
+            "api_integration"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/muzammil_noreen",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 30,
+        "score": 4.977778
+      },
+      "gig_url": "/muzammil_noreen/do-ios-and-android-app-development-using-flutter-and-swiftui",
+      "is_seller_unavailable": false,
+      "price_i": 120,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 363262268,
+      "category_id": 3,
+      "sub_category_id": 466,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-ui-ux-design-for-mobile-app-and-website-ui-ux-design-using-figma",
+      "title": "do UI UX design for mobile app and website UI UX design using figma",
+      "seller_name": "muzammil_noreen",
+      "seller_id": 162311375,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/58c4f60ea90b260d6e6b913b82367ead-1697821300340/7d7c707c-04ed-41f5-8663-9d433aa27ef8.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/363262268/original/d8ba8baa0b570cabdad863ac57adc31d99571fcb.png",
+          "type": "ImageAsset",
+          "id": "363262268_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/363262268/original/950ca2e55c95ff1071b7cb7d4834c5a7387f6138.png",
+          "type": "ImageAsset",
+          "id": "363262268_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "nl",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "business",
+            "graphics_design",
+            "shopping_e_commerce"
+          ]
+        },
+        {
+          "type": "design_tool",
+          "value": [
+            "adobe_xd",
+            "figma",
+            "adobe_photoshop"
+          ]
+        },
+        {
+          "type": "device",
+          "value": [
+            "mobile",
+            "desktop"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/muzammil_noreen",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 30,
+        "score": 4.977778
+      },
+      "gig_url": "/muzammil_noreen/do-ui-ux-design-for-mobile-app-and-website-ui-ux-design-using-figma",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

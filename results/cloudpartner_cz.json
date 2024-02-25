@@ -1,0 +1,146 @@
+{
+  "seller": {
+    "user": {
+      "id": "153761802",
+      "name": "cloudpartner_cz",
+      "isActivationCompleted": true,
+      "joinedAt": 1686892171,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Czechia",
+        "countryCode": "CZ"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/a14e8284f00e6ba763c7bd8ae4417f8d-1703661641579/c26a828e-ec50-4a64-898f-8de069bc80f9.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 153761802,
+      "seller_username": "cloudpartner_cz",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 153761802,
+      "reviews": [
+        {
+          "id": "658afdb8d628ec000183ab57",
+          "comment": "It has been an absolute pleasure working with you! Your clear communication, collaborative approach, and valuable input have made this project a great success. Looking forward to future projects together. Thank you!",
+          "comment_language": "en",
+          "username": "shaon__khan",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cdc99abad95a8061ee87aa3651252348-627298201543183164231/JPEG_20181126_035923_132824377862258916.jpg",
+          "created_at": "2023-12-26T16:22:16",
+          "value": 5
+        },
+        {
+          "id": "648df8992ca4f0000104fbe6",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "graphicdesighnr",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1abc13fb336a3d7b5ec1851e853146f9-1707503850474/96b9e719-35b0-4b7a-95a7-09b965df7d36.jpg",
+          "created_at": "2023-06-17T18:16:57",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 153761802,
+    "currency": "EUR",
+    "locale": "en-US",
+    "timezone": "Europe/Prague",
+    "recent_utc_offset": -60
+  },
+  "gigsData": []
+}

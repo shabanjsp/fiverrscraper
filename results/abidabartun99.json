@@ -1,0 +1,153 @@
+{
+  "seller": {
+    "user": {
+      "id": "163328292",
+      "name": "abidabartun99",
+      "isActivationCompleted": true,
+      "joinedAt": 1699215560,
+      "profile": {
+        "displayName": "Abida Bartun"
+      },
+      "address": {
+        "countryName": "United Kingdom",
+        "countryCode": "GB"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/72cf20d4c8f652491523fb5188d711cf-1699306018585/d3d23589-259e-48a0-981c-4884e6331606.jpeg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 163328292,
+      "seller_username": "abidabartun99",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 163328292,
+      "reviews": [
+        {
+          "id": "6552210c163f3500012d3a8d",
+          "comment": "Good experience ",
+          "comment_language": "en",
+          "username": "azmatqadeershar",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/76524d42ff014166f66a64eee5880f08-1699203886502/87d1c4c6-c3fc-468b-8f6a-ae54626c9ef7.jpg",
+          "created_at": "2023-11-13T13:13:48",
+          "value": 5
+        },
+        {
+          "id": "6550df02163f3500012c61f3",
+          "comment": "good experience",
+          "comment_language": "en",
+          "username": "tariqaziz41",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3dee0d811b8474c4864ac51f3f53891a-1686121122584/468fd86b-5c22-4da7-933b-bcfcf7babfcd.jpg",
+          "created_at": "2023-11-12T14:19:46",
+          "value": 5
+        },
+        {
+          "id": "654d2f33f8dffe0001101136",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "ushna_khan1",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a763954f28fce0667eeb00bbe51a5eec-1621328611700710330123/JPEG_20231123_083209_7434015985548762923.jpg",
+          "created_at": "2023-11-09T19:12:52",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 163328292,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": []
+}

@@ -1,0 +1,408 @@
+{
+  "seller": {
+    "user": {
+      "id": "165175601",
+      "name": "sarah_janee",
+      "isActivationCompleted": true,
+      "joinedAt": 1701788940,
+      "profile": {
+        "displayName": "Shah"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/50940dd6dee2185e42fbbaff723801bb-1651756011706843608024/JPEG_20240202_081326_6185468337687939118.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "354010553"
+        },
+        {
+          "id": "362305809"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello!\n I am Sarah jane the lead of Sarah Groups. We are a team of outstanding professionals with advance skills in business plan writing, pitch deck design and financial analysis. We are the perfect partners for your new or existing business. We have worked for both major startups and small, private companies in a number of industries, including real estate, retail, ecommerce, restaurants, rentals, events, lounge, beauty, etc. We know how to speak to investors and banks in their own language, as well as how to put up a winning business plan. We will offer you the best you deserve!!!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Oxford  University",
+        "certificationName": "The Best award",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "businessmarketing",
+        "toYear": 2018,
+        "countryCode": "PK",
+        "school": "Oxford Universty",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63e0565f07789005aa4",
+        "name": "Business startup",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business startup expert"
+      },
+      {
+        "id": "617fa63e0565f07789005aa2",
+        "name": "Business reports",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business reports expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 7,
+        "subCategoryId": 123,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 9
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c245cef9a787374b91cc90",
+          "comment": "Thanks for the marvelous work. he understands what exactly are the demands of clients. sure will come back for the next project. Highly Recommended!!",
+          "comment_language": "en",
+          "username": "jackson_carter3",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-06T15:03:35",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f210b520c80bddaabb409289253c155e-1707101631/IMG-20240205-WA0001.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f210b520c80bddaabb409289253c155e-1707101631/IMG-20240205-WA0001.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO6180A367D82",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 362305809,
+          "gig_slug": "help-you-in-math-statistics-calculus-and-algebra-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 15,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c244b5cf541d2cf760fe25",
+          "comment": "Reasonable price. Thank you for the Fast delivery! You followed my instructions perfectly, completed it quickly, and your communication skills were excellent. Many thanks!!",
+          "comment_language": "en",
+          "username": "edward900c",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-06T15:03:54",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO6240F5109C6",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 362305809,
+          "gig_slug": "help-you-in-math-statistics-calculus-and-algebra-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65bca951e4010a3451672923",
+          "comment": "She was able to deliver excellent results under time pressure with a high level of accuracy. If you're in a pinch and looking for someone to help you out, this is your go to person for statistical representation. I recommend this seller.",
+          "comment_language": "en",
+          "username": "harry_ac",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-02-02T09:26:40",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO62408723DC6",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 362305809,
+          "gig_slug": "help-you-in-math-statistics-calculus-and-algebra-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65bca7a41e5a9c1c6f4bb538",
+          "comment": "She helped me with theoretical Calculus-based Probability and Statistics, including PDF, CDF, Maximum Likelihood Estimation, Method of Moments, and Order Statistics. She has deep expertise in these topics.",
+          "comment_language": "en",
+          "username": "jackson_carter3",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-02T09:26:56",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO61805B76F82",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 362305809,
+          "gig_slug": "help-you-in-math-statistics-calculus-and-algebra-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 15,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6589a4cddfb3b211efd35fa9",
+          "comment": "Amazing deliver highly recommended 👍",
+          "comment_language": "en",
+          "username": "markbambar",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9c83a087e3bead2406d125ed46124e36-1701333696210/7e2d08c1-67cc-47c1-aac5-e77ca34343ad.png",
+          "created_at": "2023-12-25T17:02:20",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO511DAAE8841",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354010553,
+          "gig_slug": "do-urgent-essays-research-summary-proposal-and-article-writing",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 32,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 9,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1,
+        "business": 6
+      },
+      "user_id": 165175601,
+      "seller_username": "sarah_janee",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 9
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 165175601,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165175601,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 354010553,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-urgent-essays-research-summary-proposal-and-article-writing",
+      "title": "do urgent essays,research,summary,proposal and article writing",
+      "seller_name": "sarah_janee",
+      "seller_id": 165175601,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/50940dd6dee2185e42fbbaff723801bb-1651756011706843608024/JPEG_20240202_081326_6185468337687939118.jpg",
+      "seller_display_name": "Shah",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354010553/original/6f5d3c28cb246d5ccb1cfc43f9898c75b69fbb81.jpeg",
+          "type": "ImageAsset",
+          "id": "354010553_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/sarah_janee",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/sarah_janee/do-urgent-essays-research-summary-proposal-and-article-writing",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 362305809,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "help-you-in-math-statistics-calculus-and-algebra-assignments",
+      "title": "help you in math,statistics,calculus and algebra assignments",
+      "seller_name": "sarah_janee",
+      "seller_id": 165175601,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/50940dd6dee2185e42fbbaff723801bb-1651756011706843608024/JPEG_20240202_081326_6185468337687939118.jpg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/362305809/original/f6c247e4b746e1d015901478e600e559fe6bfebd.jpeg",
+          "type": "ImageAsset",
+          "id": "362305809_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 5,
+      "seller_url": "/sarah_janee",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/sarah_janee/help-you-in-math-statistics-calculus-and-algebra-assignments",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

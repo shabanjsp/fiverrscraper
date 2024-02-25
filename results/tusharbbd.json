@@ -1,0 +1,165 @@
+{
+  "seller": {
+    "user": {
+      "id": "162730359",
+      "name": "tusharbbd",
+      "isActivationCompleted": true,
+      "joinedAt": 1698379611,
+      "profile": {
+        "displayName": "Tushar"
+      },
+      "address": {
+        "countryName": "India",
+        "countryCode": "IN"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "HI",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/36ca7b6f49a075489f55130c99b78c05-1698379889787/3041350a-8dba-4966-b45f-9770f3ddb838.jpeg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I am new in freelancing but as a Engineering Professional from last 13 years proficient in Excel work.\nI will complete the Job in specific time efficient way.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa64e0565f07789005f48",
+        "name": "Excel spreadsheet",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Excel spreadsheet expert"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 162730359,
+      "seller_username": "tusharbbd",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 162730359,
+      "reviews": [
+        {
+          "id": "65cfc0b14c6b35000145b36b",
+          "comment": "Very positive person to work with! Please do feel free to message me if you have any questions! All my wishes and you’re very humble person honestly :D",
+          "comment_language": "en",
+          "username": "divishha",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/962ed714f9576091e4e6b4464015dd94-1678872792010/862cafa8-5f80-4196-a978-05d97d10abf4.png",
+          "created_at": "2024-02-16T20:08:17",
+          "value": 5
+        },
+        {
+          "id": "65be9df5b2f0e000014398df",
+          "comment": "Really Nice person and very gentle person. very generous nature and has clear image of product that he want. Loved to work with him.",
+          "comment_language": "en",
+          "username": "rohitt_ind",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1d62da373eaaff8133f0abd1f6752fc8-1643411431701058967630/JPEG_20231127_095246_410598547888519165.jpg",
+          "created_at": "2024-02-03T20:11:33",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162730359,
+    "currency": "INR",
+    "locale": "en-US",
+    "timezone": "Asia/Kolkata",
+    "recent_utc_offset": -330
+  },
+  "gigsData": []
+}

@@ -1,0 +1,970 @@
+{
+  "seller": {
+    "user": {
+      "id": "36452401",
+      "name": "viralsutariya",
+      "isActivationCompleted": true,
+      "joinedAt": 1466604522,
+      "profile": {
+        "displayName": "Viral Sutariya"
+      },
+      "address": {
+        "countryName": "India",
+        "countryCode": "IN"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "HI",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "GU",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/e56b18ac3aa09e41dfa2c7ff702f0541-1687424368996/c9758df5-51e0-4483-bd62-69c7efcbd37b.jpg"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "192183601"
+        },
+        {
+          "id": "285174090"
+        },
+        {
+          "id": "307115398"
+        },
+        {
+          "id": "307483181"
+        }
+      ]
+    },
+    "notableClients": [
+      {
+        "endedAt": null,
+        "startedAt": 1672531200,
+        "description": "I have been working with SoluSign since January 2023, editing videos for their YouTube channel. The company's founder is an ex-employee of Docusign, and their expertise in the industry is apparent in the quality of their content.",
+        "company": {
+          "description": "DocuSign is an American company headquartered in San Francisco, California, that allows organizations to manage electronic agreements.",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/f02c33567d6bb623a004b939b5cc5202-1658396372/62b4b3e80fab82213489b942.png"
+            }
+          },
+          "name": "DocuSign",
+          "industry": {
+            "slug": "Software Development"
+          }
+        }
+      }
+    ],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Video Editor and CEO at The Perfect Creative Studio",
+    "description": "Hello, I'm Viral Sutariya, a professional video editor, graphic designer, and CEO of The Perfect Creative Studio. I have over five years of experience in video editing and graphics design. I pride myself on my attention to detail, creativity, and ability to deliver high-quality work on time. I can Create 2D Animation, Course Videos, Educational Videos, Promotional Videos, YouTube Videos, Cinematic Style Videos, and Documentary Style Videos using Adobe Premiere Pro, Adobe After Effects, Adobe Illustrator, Adobe Photoshop, Adobe Animate, Final Cut Pro, Apple Motion, and Canva, etc.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Adobe",
+        "certificationName": "Master Of Adobe Premiere Pro",
+        "year": 2015
+      },
+      {
+        "receivedFrom": "Fiverr",
+        "certificationName": "Fiverr Pro",
+        "year": 2023
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "video editing",
+        "toYear": 2008,
+        "countryCode": "IN",
+        "school": "Shree Sarviday Vidhyalaya",
+        "degreeTitle": "OTHER"
+      },
+      {
+        "degree": "higher secondary school certificate",
+        "toYear": 2006,
+        "countryCode": "IN",
+        "school": "Shree Sarvoday Vidhyalaya",
+        "degreeTitle": "OTHER"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67a0565f07789006c11",
+        "name": "Voice over",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Voice over artist"
+      },
+      {
+        "id": "617fa67a0565f07789006c0c",
+        "name": "Voice acting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Voice actor"
+      },
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      },
+      {
+        "id": "617fa6350565f077890057f7",
+        "name": "Adobe Premiere Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Premiere Pro expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cb0",
+        "name": "Whiteboard animation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Whiteboard animation expert"
+      },
+      {
+        "id": "617fa6340565f0778900578b",
+        "name": "2D animation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "2D animator"
+      },
+      {
+        "id": "61a4d8a6758d756a25307b97",
+        "name": "2D Animated explainers",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "2D animated explainers expert"
+      },
+      {
+        "id": "617fa6790565f07789006bc8",
+        "name": "Videography",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Videographer"
+      },
+      {
+        "id": "617fa6500565f07789005fe1",
+        "name": "Final Cut Pro X",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Final Cut Pro X expert"
+      },
+      {
+        "id": "617fa6440565f07789005c6c",
+        "name": "Corporate video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Corporate video editor"
+      },
+      {
+        "id": "617fa6490565f07789005e1a",
+        "name": "E-learning video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "E-learning video editor"
+      },
+      {
+        "id": "617fa64f0565f07789005f92",
+        "name": "Family video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Family video editor"
+      },
+      {
+        "id": "617fa64e0565f07789005f3c",
+        "name": "Event video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Event video editor"
+      },
+      {
+        "id": "617fa6660565f07789006647",
+        "name": "Music video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Music video editor"
+      },
+      {
+        "id": "617fa6790565f07789006bc9",
+        "name": "Videomaking",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video creator"
+      },
+      {
+        "id": "617fa64e0565f07789005f3d",
+        "name": "Event videography",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Event videographer"
+      },
+      {
+        "id": "617fa6350565f077890057e1",
+        "name": "Adobe After Effects",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe After Effects expert"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa64d0565f07789005ee8",
+        "name": "English typing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "English typing expertt"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 99,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 235,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": true,
+    "proSubCategories": [
+      {
+        "categoryId": 20,
+        "subCategoryId": 482,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 487,
+        "nestedCategoryId": null
+      }
+    ],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6440d41425649a00017d5e62",
+          "title": "Top 10 Style Video - Luxury Zone",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "6440d41425649a00017d5e63",
+                "attachment": {
+                  "metadata": {
+                    "height": 532,
+                    "width": 654
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d31ce7d2399837eb5b9e8ab41460006f-1681970186388/Luxury%20Zone%20Video.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6440d6d33e600800018ff630",
+          "title": "Video Editing - YouTube Channel",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "6440d6d33e600800018ff631",
+                "attachment": {
+                  "metadata": {
+                    "height": 518,
+                    "width": 646
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/280603dd8a91c7d741c4c54cddbc32b1-1681970893848/Screenshot%202023-04-20%20at%2011.32.02%20AM.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6440e48ded97120001c21e90",
+          "title": "Full Course Video Editing",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "6440e48ded97120001c21e91",
+                "attachment": {
+                  "metadata": {
+                    "height": 1424,
+                    "width": 2540
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c9827e48a554869bac92b9b8c8a7a77e-1681974330006/Screenshot%202023-04-20%20at%2012.35.26%20PM.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 3
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1678436263
+        },
+        {
+          "id": "1080",
+          "updatedAt": 1678442331
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 33
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "NO_LEVEL",
+    "responseTime": {
+      "inHours": 51
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6596a3526fc708262bc6cc0d",
+          "comment": "Great experience!",
+          "comment_language": "en",
+          "username": "nonnoryt",
+          "reviewer_country_code": "SE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4f3e7041919c2af73210daaaf884fc6e-1627653473159/05caab15-ee80-482f-b6a1-5718a9caae04.jpg",
+          "created_at": "2024-01-04T12:24",
+          "value": 5,
+          "reviewer_country": "Sweden",
+          "encrypted_order_id": "FO82F9E0BEB08",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 192183601,
+          "gig_slug": "edit-your-video-from-voice-over-and-script",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 87,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "657c1f5b96423160e5ae0985",
+          "comment": "Great experience!",
+          "comment_language": "en",
+          "username": "nonnoryt",
+          "reviewer_country_code": "SE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4f3e7041919c2af73210daaaf884fc6e-1627653473159/05caab15-ee80-482f-b6a1-5718a9caae04.jpg",
+          "created_at": "2023-12-15T09:42:15",
+          "value": 5,
+          "reviewer_country": "Sweden",
+          "encrypted_order_id": "FO31D9B24FF07",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 192183601,
+          "gig_slug": "edit-your-video-from-voice-over-and-script",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 87,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65743b6ae0e98673f946ed97",
+          "comment": "It was a great experience ",
+          "comment_language": "en",
+          "username": "nonnoryt",
+          "reviewer_country_code": "SE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4f3e7041919c2af73210daaaf884fc6e-1627653473159/05caab15-ee80-482f-b6a1-5718a9caae04.jpg",
+          "created_at": "2023-12-09T10:05:41",
+          "value": 5,
+          "reviewer_country": "Sweden",
+          "encrypted_order_id": "FO3BD7A7E641",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 192183601,
+          "gig_slug": "edit-your-video-from-voice-over-and-script",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 87,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "654dfcab3023ba0001a62eb6",
+          "comment": "Great experience!",
+          "comment_language": "en",
+          "username": "nonnoryt",
+          "reviewer_country_code": "SE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4f3e7041919c2af73210daaaf884fc6e-1627653473159/05caab15-ee80-482f-b6a1-5718a9caae04.jpg",
+          "created_at": "2023-11-10T09:54:24",
+          "value": 5,
+          "reviewer_country": "Sweden",
+          "encrypted_order_id": "FO82929D488C6",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 192183601,
+          "gig_slug": "edit-your-video-from-voice-over-and-script",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 87,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "654a23fcf8dffe00010d9ab9",
+          "comment": "Great experience!",
+          "comment_language": "en",
+          "username": "nonnoryt",
+          "reviewer_country_code": "SE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4f3e7041919c2af73210daaaf884fc6e-1627653473159/05caab15-ee80-482f-b6a1-5718a9caae04.jpg",
+          "created_at": "2023-11-07T12:38:32",
+          "value": 5,
+          "reviewer_country": "Sweden",
+          "encrypted_order_id": "FO62917524248",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 192183601,
+          "gig_slug": "edit-your-video-from-voice-over-and-script",
+          "gig_category": 20,
+          "gig_sub_category": 99,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 87,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 33,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 8,
+        "business": 0
+      },
+      "user_id": 36452401,
+      "seller_username": "viralsutariya",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.9,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 32
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 36452401,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 36452401,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Kolkata",
+    "recent_utc_offset": -330
+  },
+  "gigsData": [
+    {
+      "gig_id": 192183601,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "edit-your-video-from-voice-over-and-script",
+      "title": "edit a professional looking video for your channel",
+      "seller_name": "viralsutariya",
+      "seller_id": 36452401,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e56b18ac3aa09e41dfa2c7ff702f0541-1687424368996/c9758df5-51e0-4483-bd62-69c7efcbd37b.jpg",
+      "seller_display_name": "Viral Sutariya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "640b08e1f26adb0010e4ad12",
+          "id": 8030056
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/192183601/original/eff06c6d0a8614b5bd6c43122700f050adfa4d57.png",
+          "type": "ImageAsset",
+          "id": "192183601_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/192183601/original/d58c827f192bd4528758f4681ded8ab69ed13777.png",
+          "type": "ImageAsset",
+          "id": "192183601_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/192183601/original/f416fe9e93ec72ed93400de63f8b790e38d1f9fd.png",
+          "type": "ImageAsset",
+          "id": "192183601_3"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "640b08e1f26adb0010e4ad12",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/d3nczfmuthji6tzv15vm",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_57.705933730335374,PLACEHOLDER/d3nczfmuthji6tzv15vm.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "167230286",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/ybf3ukbvdblhluzffu73",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/ybf3ukbvdblhluzffu73.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "163923956",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/wjpvnd8dues2ac9fjakb",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/wjpvnd8dues2ac9fjakb.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "163918295",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/iwlfcecyve6walhfv90p",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/iwlfcecyve6walhfv90p.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "163682533",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/cfcesta8nvrae7o8t1z9",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/cfcesta8nvrae7o8t1z9.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "162508452",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/kux32wvvftexecfnqpgd",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/kux32wvvftexecfnqpgd.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 4
+        },
+        {
+          "code": "gu",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "youtube_videos"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 29,
+      "buying_review_rating": 5,
+      "seller_url": "/viralsutariya",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 33,
+        "score": 4.969697
+      },
+      "gig_url": "/viralsutariya/edit-your-video-from-voice-over-and-script",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 307483181,
+      "category_id": 20,
+      "sub_category_id": 235,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-2d-character-walk-cycle-animation",
+      "title": "create a high quality 2d character walk cycle animation",
+      "seller_name": "viralsutariya",
+      "seller_id": 36452401,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e56b18ac3aa09e41dfa2c7ff702f0541-1687424368996/c9758df5-51e0-4483-bd62-69c7efcbd37b.jpg",
+      "seller_display_name": "Viral Sutariya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/307483181/original/9de9ccc5dbdb1fa954971433874ffe4ae5c8d160.png",
+          "type": "ImageAsset",
+          "id": "307483181_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/307483181/original/3ae38c8e6aa4a7c92348bdde0c844157edabf121.png",
+          "type": "ImageAsset",
+          "id": "307483181_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/307483181/original/4b17bb0ea55da92fdf4de0505e08f6dab2d4675f.png",
+          "type": "ImageAsset",
+          "id": "307483181_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "642157b17a15b300104334a9",
+          "id": 8123380
+        }
+      ],
+      "attachments": [
+        {
+          "id": "642157b17a15b300104334a9",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/giess0i4bkojoewiuzak",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/giess0i4bkojoewiuzak.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "162742891",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/fieiupih6ygyzdquvtyw",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/fieiupih6ygyzdquvtyw.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 4
+        },
+        {
+          "code": "gu",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "animation_type",
+          "value": [
+            "2d"
+          ]
+        },
+        {
+          "type": "character_style",
+          "value": [
+            "cartoon"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "fictional_videos"
+          ]
+        },
+        {
+          "type": "software",
+          "value": [
+            "after_effects",
+            "adobe_character_animator"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/viralsutariya",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 33,
+        "score": 4.969697
+      },
+      "gig_url": "/viralsutariya/create-a-2d-character-walk-cycle-animation",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 285174090,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-your-logo-and-graphics",
+      "title": "design your logo and graphics",
+      "seller_name": "viralsutariya",
+      "seller_id": 36452401,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e56b18ac3aa09e41dfa2c7ff702f0541-1687424368996/c9758df5-51e0-4483-bd62-69c7efcbd37b.jpg",
+      "seller_display_name": "Viral Sutariya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/285174090/original/414dfbbd1cc969bd0db7541f8b991186c3e9155a.png",
+          "type": "ImageAsset",
+          "id": "285174090_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "161952941",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/8016764073cad4b015d181285a5c7e35-1678529831/BD%20Video%20Logo.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 4
+        },
+        {
+          "code": "gu",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "flat_minimalist"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "wordmark",
+            "abstract",
+            "mascot"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/viralsutariya",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 33,
+        "score": 4.969697
+      },
+      "gig_url": "/viralsutariya/design-your-logo-and-graphics",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 307115398,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "edit-complete-course-videos-for-e-learning-teaching-platform",
+      "title": "edit complete course videos for e learning teaching platform",
+      "seller_name": "viralsutariya",
+      "seller_id": 36452401,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e56b18ac3aa09e41dfa2c7ff702f0541-1687424368996/c9758df5-51e0-4483-bd62-69c7efcbd37b.jpg",
+      "seller_display_name": "Viral Sutariya",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/307115398/original/7af715e3e39a004dcd2dac25ea627bb6e345316d.jpg",
+          "type": "ImageAsset",
+          "id": "307115398_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6414798975aefa0010e6be9a",
+          "id": 8070150
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6414798975aefa0010e6be9a",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/t1nodqn858bzrsz94ndg",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/t1nodqn858bzrsz94ndg.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 4
+        },
+        {
+          "code": "gu",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "elearning"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/viralsutariya",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 33,
+        "score": 4.969697
+      },
+      "gig_url": "/viralsutariya/edit-complete-course-videos-for-e-learning-teaching-platform",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

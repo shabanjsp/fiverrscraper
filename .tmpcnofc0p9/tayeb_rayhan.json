@@ -1,0 +1,891 @@
+{
+  "seller": {
+    "user": {
+      "id": "102894985",
+      "name": "tayeb_rayhan",
+      "isActivationCompleted": true,
+      "joinedAt": 1614492119,
+      "profile": {
+        "displayName": "Tayebur Rahman"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/57834590cbb70c82cde36f0d7bbd2065-1687098455329/5da283a9-43fa-4ec2-ae76-8a781508436c.png"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "269185918"
+        },
+        {
+          "id": "269208660"
+        },
+        {
+          "id": "280176064"
+        },
+        {
+          "id": "297239512"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "JavaScript, React Js, Node Js, Mern Stack, Full Stack Developer",
+    "description": "Hi, It's nice to meet you. I'm a Professional Mern/Full Stack Web Developer with 4 years of working experience in a highly competitive environment. I'll put all my best efforts and creativity into ensuring quality services. I like to speak with clients so that I can have a clear understanding of their needs and the vision of the project.\r\n\r\nMy Professional Skills:- JavaScript | NodeJS | Firebase | ReactJS | NextJS | Redux | ExpressJS | TypeScript | RESTful APIs | JSON parsing| JWT | Postman | MongoDB | MySQL | Python | C++ | Github | Object-oriented programming | Shopify.\r\n ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Programming Hero",
+        "certificationName": "Web Development With Jhankar Mahbub",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "This course provide by ICT Ministry of Bangladesh",
+        "certificationName": "LEDP Web Design and Development",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2022,
+        "countryCode": "BD",
+        "school": "University of Global Village(UGV)",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "React expert"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Node.js expert"
+      },
+      {
+        "id": "617fa6650565f07789006614",
+        "name": "MongoDB",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MongoDB expert"
+      },
+      {
+        "id": "617fa66f0565f077890068c2",
+        "name": "Rest API",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Rest API expert"
+      },
+      {
+        "id": "617fa64e0565f07789005f60",
+        "name": "Express.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Express.js expert"
+      },
+      {
+        "id": "617fa6660565f0778900664d",
+        "name": "MySQL database",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "MySQL database developer"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bootstrap expert"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcc",
+        "name": "Next.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Next.js developer"
+      },
+      {
+        "id": "617fa6770565f07789006b51",
+        "name": "TypeScript",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "TypeScript expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c60",
+        "name": "Web hosting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web host"
+      },
+      {
+        "id": "617fa6470565f07789005d40",
+        "name": "Databases",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Database developer"
+      },
+      {
+        "id": "617fa6550565f07789006167",
+        "name": "Godaddy",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Godaddy expert"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6630565f07789006593",
+        "name": "Material Design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Material Design expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 140,
+        "nestedCategoryId": 2041
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65b02f7bd79d2200013f7643",
+          "title": "Real Estate Advertisement WebApp",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65b02f7bd79d2200013f7644",
+                "attachment": {
+                  "metadata": {
+                    "height": 3891,
+                    "width": 1364
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1222598fc58f49be6bd0c76fee4e985d-1706045198980/screencapture-123provisionsfrei-de-2024-01-24-03_25_50.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65507de0178ebe000154df99",
+          "title": "Environmental Marketplace",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65507de0178ebe000154df9a",
+                "attachment": {
+                  "metadata": {
+                    "height": 5752,
+                    "width": 1364
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c8c765295e7ea0bde0ccfa1477c8fa9b-1699773902516/screencapture-hempcarbonstandard-org-2023-11-12-13_24_42.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "655083b0d3dbd700019dbf45",
+          "title": "CMS Website.",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "655083b0d3dbd700019dbf46",
+                "attachment": {
+                  "metadata": {
+                    "height": 3594,
+                    "width": 960
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/5106bc2a2df7c648f91b1ca9cfdf385e-1699775231303/cms.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65507ec4d3dbd700019dbe30",
+          "title": "IPTV subscription website",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65507ec4d3dbd700019dbe31",
+                "attachment": {
+                  "metadata": {
+                    "height": 5664,
+                    "width": 1364
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/0a497546e88b5cd67c33505c3ad1c86a-1699774136769/screencapture-dmtv-live-2023-11-12-13_28_42.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65507e6934a5a2000146c88e",
+          "title": "Job-onboard",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65507e6934a5a2000146c88f",
+                "attachment": {
+                  "metadata": {
+                    "height": 5430,
+                    "width": 1364
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/0294522c0f06da3276a757314e7135a6-1699774049313/screencapture-job-onboard-client-web-app-2023-11-12-13_27_10.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65507c7a34a5a2000146c822",
+          "title": "Students mentors & book session",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65507c7a34a5a2000146c823",
+                "attachment": {
+                  "metadata": {
+                    "height": 4256,
+                    "width": 1364
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/6b24c91f4d4ff960ac68c2a761fbeb31-1699773551995/screencapture-runigo-it-2023-11-12-13_18_54.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 6
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 12
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 2
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65acc2a808246e65371ee6de",
+          "comment": "Tayeb was very professional, showcasing excellent communication skills and a deep understanding of development requirements. I am beyond impressed with the results. He expertly transitioned from Figma to React and Node.js, providing a seamless and robust solution for my project. I highly recommend him for top-notch Fiverr development.",
+          "comment_language": "en",
+          "username": "williamlpate",
+          "reviewer_country_code": "NL",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9799f385d3c09a5b01313b3ee059ca5c-1656569661965/e552e90b-abb7-4afe-be76-a44910bff01d.jpg",
+          "created_at": "2024-01-21T09:13:53",
+          "value": 5,
+          "reviewer_country": "Netherlands",
+          "encrypted_order_id": "FO411F3C02142",
+          "score": 0.4112633,
+          "reviewer_industry": [
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 280176064,
+          "gig_slug": "be-frontend-react-js-developer-for-web-application",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 450,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "64f8d78ae941070001a337c0",
+          "comment": "Very good work and delivery",
+          "comment_language": "en",
+          "username": "an6262",
+          "reviewer_country_code": "KE",
+          "created_at": "2023-09-06T19:50:46",
+          "value": 5,
+          "reviewer_country": "Kenya",
+          "encrypted_order_id": "FO21148622244",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 280176064,
+          "gig_slug": "be-frontend-react-js-developer-for-web-application",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "64cbd4402bb77e0001c7ee90",
+          "comment": "easy to work with",
+          "comment_language": "en",
+          "username": "rdiv18",
+          "reviewer_country_code": "US",
+          "created_at": "2023-08-03T16:39:27",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO616EBD7A182",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 280176064,
+          "gig_slug": "be-frontend-react-js-developer-for-web-application",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 18,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "64670e55b77e1f0001eb57c2",
+          "comment": "Perfect person for your MERN stack project. Super fast delivery and great communicatioN!",
+          "comment_language": "en",
+          "username": "awdsasf",
+          "reviewer_country_code": "US",
+          "created_at": "2023-05-19T06:30:35",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO210DBDF8D44",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 280176064,
+          "gig_slug": "be-frontend-react-js-developer-for-web-application",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 1
+        },
+        {
+          "id": "6460af01a42bd00001dd890f",
+          "comment": "Great Work. This task was completed very quickly. I would definitely recommend and I look forward to working with you again soon.",
+          "comment_language": "en",
+          "username": "snooruzbek",
+          "reviewer_country_code": "TW",
+          "created_at": "2023-05-14T09:53:36",
+          "value": 5,
+          "reviewer_country": "Taiwan",
+          "encrypted_order_id": "FO510D1103141",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 280176064,
+          "gig_slug": "be-frontend-react-js-developer-for-web-application",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2041,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 12,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 3,
+        "business": 1
+      },
+      "user_id": 102894985,
+      "seller_username": "tayeb_rayhan",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 12
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "financial_services_or_banking": "Financial & Business Services "
+      }
+    },
+    "selling_reviews": {
+      "user_id": 102894985,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 102894985,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 280176064,
+      "category_id": 10,
+      "sub_category_id": 140,
+      "nested_sub_category_id": 2041,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-frontend-react-js-developer-for-web-application",
+      "title": "be react js and node js developer for dynamic or full stack website",
+      "seller_name": "tayeb_rayhan",
+      "seller_id": 102894985,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/57834590cbb70c82cde36f0d7bbd2065-1687098455329/5da283a9-43fa-4ec2-ae76-8a781508436c.png",
+      "seller_display_name": "Tayebur Rahman",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/280176064/original/fafcb5b17dda8012f5d52f1cbe1df359ea0ac997.png",
+          "type": "ImageAsset",
+          "id": "280176064_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/280176064/original/e6a452ef24ef0b1d19c5f7edfcb37cdbbd47a2a4.jpg",
+          "type": "ImageAsset",
+          "id": "280176064_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "programming_language",
+          "value": [
+            "javascript"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_compatibility",
+            "performance",
+            "design"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 7,
+      "buying_review_rating": 5,
+      "seller_url": "/tayeb_rayhan",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/tayeb_rayhan/be-frontend-react-js-developer-for-web-application",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 269208660,
+      "category_id": 10,
+      "sub_category_id": 140,
+      "nested_sub_category_id": 2041,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-javascript-node-js-react-js-developer-or-mern-stack-developer",
+      "title": "develop mern stack web application as react js node js mern stack developer",
+      "seller_name": "tayeb_rayhan",
+      "seller_id": 102894985,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/57834590cbb70c82cde36f0d7bbd2065-1687098455329/5da283a9-43fa-4ec2-ae76-8a781508436c.png",
+      "seller_display_name": "Tayebur Rahman",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/269208660/original/22212686f57f0fbfdb617237dd471edd69685c65.png",
+          "type": "ImageAsset",
+          "id": "269208660_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/269208660/original/33521d3ef9c20b40f7056d5fd819130dbdd76ba0.jpg",
+          "type": "ImageAsset",
+          "id": "269208660_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "156996932",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/92cd2a34fc5e30a42ff575c4a60d29ac-1669570050/altarwis.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "155261795",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/78df7f9f1b6e6e60ec287c1182d032f6-1666476041/Screenshot%20from%202022-10-23%2003-59-51.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "154557715",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/72b60ab3df0aca30817b99edf78ebdd4-1665254460/Azino-React-Nonprofit-Charity-Template.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "programming_language",
+          "value": [
+            "javascript"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_compatibility",
+            "from_psd_file",
+            "design"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/tayeb_rayhan",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/tayeb_rayhan/be-javascript-node-js-react-js-developer-or-mern-stack-developer",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 269185918,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-remarkable-responsive-web-development-in-reactjs-nodejs-html5-css3-5e29",
+      "title": "do reactjs, nodejs, mongodb websites as a full stack developer",
+      "seller_name": "tayeb_rayhan",
+      "seller_id": 102894985,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/57834590cbb70c82cde36f0d7bbd2065-1687098455329/5da283a9-43fa-4ec2-ae76-8a781508436c.png",
+      "seller_display_name": "Tayebur Rahman",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/269185918/original/e605b87a596865ba6dfb93cf79f8521d77d2eadb.jpg",
+          "type": "ImageAsset",
+          "id": "269185918_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "javascript"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "payment",
+            "shipping",
+            "inventory",
+            "video",
+            "form",
+            "events",
+            "chat",
+            "membership",
+            "map",
+            "booking"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/tayeb_rayhan",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/tayeb_rayhan/do-remarkable-responsive-web-development-in-reactjs-nodejs-html5-css3-5e29",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 297239512,
+      "category_id": 10,
+      "sub_category_id": 140,
+      "nested_sub_category_id": 2041,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-react-and-node-js-developer",
+      "title": "be design figma PSD to react or next js, and node js  website",
+      "seller_name": "tayeb_rayhan",
+      "seller_id": 102894985,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/57834590cbb70c82cde36f0d7bbd2065-1687098455329/5da283a9-43fa-4ec2-ae76-8a781508436c.png",
+      "seller_display_name": "Tayebur Rahman",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/297239512/original/6d6c3b937b70fe3635ce142ce8004cb1e6c207a5.jpg",
+          "type": "ImageAsset",
+          "id": "297239512_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/297239512/original/5bdce160c4e4979b112d3162feb3ccb37264a187.jpg",
+          "type": "ImageAsset",
+          "id": "297239512_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "programming_language",
+          "value": [
+            "javascript"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "from_psd_file",
+            "performance",
+            "security",
+            "design",
+            "databases"
+          ]
+        },
+        {
+          "type": "frontend_framework",
+          "value": [
+            "bootstrap",
+            "tailwind_css"
+          ]
+        },
+        {
+          "type": "backend_framework",
+          "value": [
+            "express_js",
+            "node_js"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/tayeb_rayhan",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/tayeb_rayhan/be-your-react-and-node-js-developer",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

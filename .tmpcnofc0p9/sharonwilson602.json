@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "165103903",
+      "name": "sharonwilson602",
+      "isActivationCompleted": true,
+      "joinedAt": 1701697793,
+      "profile": {
+        "displayName": "Sharon"
+      },
+      "address": {
+        "countryName": "United Kingdom",
+        "countryCode": "GB"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 165103903,
+      "seller_username": "sharonwilson602",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 165103903,
+      "reviews": [
+        {
+          "id": "65b3633e756b9d000174b1a6",
+          "comment": "good buyer",
+          "comment_language": "en",
+          "username": "martinsjude",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/38a7a9486dc4e026446394a43f81c408-1702950343038/3955ab9c-4421-4145-bc4d-cfc3b51fc8bc.png",
+          "created_at": "2024-01-26T07:46:06",
+          "value": 5
+        },
+        {
+          "id": "65b362a3756b9d000174b15d",
+          "comment": "Delighted to have met your expectations! Best of luck with your book!",
+          "comment_language": "en",
+          "username": "annahwilson183",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cf6d356837656f1c5da7b606a61e3bba-1705658873083/adb518d5-ce0f-4cfc-ba42-a2dd02456494.png",
+          "created_at": "2024-01-26T07:43:31",
+          "value": 5
+        },
+        {
+          "id": "65b36298756b9d000174b158",
+          "comment": "great experience",
+          "comment_language": "en",
+          "username": "martinsjude",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/38a7a9486dc4e026446394a43f81c408-1702950343038/3955ab9c-4421-4145-bc4d-cfc3b51fc8bc.png",
+          "created_at": "2024-01-26T07:43:20",
+          "value": 5
+        },
+        {
+          "id": "65b36267756b9d000174b147",
+          "comment": "Pleasure helping you achieve your vision! Best wishes for your book's success!",
+          "comment_language": "en",
+          "username": "annahwilson183",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cf6d356837656f1c5da7b606a61e3bba-1705658873083/adb518d5-ce0f-4cfc-ba42-a2dd02456494.png",
+          "created_at": "2024-01-26T07:42:31",
+          "value": 5
+        },
+        {
+          "id": "65b36241756b9d000174b139",
+          "comment": "amazing buyer...thanks for the trust",
+          "comment_language": "en",
+          "username": "martinsjude",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/38a7a9486dc4e026446394a43f81c408-1702950343038/3955ab9c-4421-4145-bc4d-cfc3b51fc8bc.png",
+          "created_at": "2024-01-26T07:41:54",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165103903,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Lagos",
+    "recent_utc_offset": -60
+  },
+  "gigsData": []
+}

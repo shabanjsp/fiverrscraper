@@ -1,0 +1,466 @@
+{
+  "seller": {
+    "user": {
+      "id": "165175109",
+      "name": "kaif_hamad",
+      "isActivationCompleted": true,
+      "joinedAt": 1701788485,
+      "profile": {
+        "displayName": "Kaif"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/406e44b68d31c3ec95bc9fb89ee55bfe-1701836593896/a45713d8-895c-4bfb-934c-62be6c393635.jpeg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "353891433"
+        },
+        {
+          "id": "355231127"
+        },
+        {
+          "id": "361406887"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I'm a seasoned business professional with over seven years of diverse experience. My expertise includes crafting professional business plans for potential investors and assisting startups, conducting market research using trusted sources and regularly developing and designing Silicon-Valley ready pitch decks and financial plans. I have studied and learnt business from some of the best schools in the world including the Metropolitan School of Business and Management.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "NOSU",
+        "certificationName": "Goal achiever",
+        "year": 2017
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "businessmarketing",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "N.O.S.U",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63e0565f07789005aa4",
+        "name": "Business startup",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business startup expert"
+      },
+      {
+        "id": "617fa63e0565f07789005aa9",
+        "name": "Business tips",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business tips expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 7,
+        "subCategoryId": 123,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 7
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b7ccafda9df3104e857150",
+          "comment": "Great communication and got it done much quicker than expected! Will definitely use his service again.",
+          "comment_language": "en",
+          "username": "billyclarke3",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-29T16:38:35",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/95cff97e58682ccdbd69fb3a81646da6-1706518130/IMG-20240129-WA0008.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/95cff97e58682ccdbd69fb3a81646da6-1706518130/IMG-20240129-WA0008.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31DFF2D1287",
+          "score": 0,
+          "reviewer_industry": [
+            "technology"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 361406887,
+          "gig_slug": "do-accounting-business-finance-statistics-math-and-calculus-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b77c0941e5c52d8c2349d8",
+          "comment": "If you're looking for a Math tutor who goes above and beyond, he is the one to choose. His dedication to helping students succeed is evident in every lesson. Highly recommend!!",
+          "comment_language": "en",
+          "username": "alan222666",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-29T11:54:01",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO211FF716744",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 361406887,
+          "gig_slug": "do-accounting-business-finance-statistics-math-and-calculus-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b3d231da9df3104e8527f6",
+          "comment": "My experience was very good,\nhe delivered the work in time and he did exactly what i asked him to do it. I would recommend him to others and hire him again. Thank you so much!!",
+          "comment_language": "en",
+          "username": "jackson_carter3",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-26T22:01:30",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO417FB90D584",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 361406887,
+          "gig_slug": "do-accounting-business-finance-statistics-math-and-calculus-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 15,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65a79a07dadac264a8200361",
+          "comment": "communicated effectively throughout the process. I appreciate her professionalism and the quality of the work delivered!!!",
+          "comment_language": "en",
+          "username": "williamsarrete",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-17T09:30:09",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41DE4877B06",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 355231127,
+          "gig_slug": "do-business-essays-report-writing-project-management-and-marketing-ppt",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 31,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65979612369cc900011f1ac5",
+          "comment": "\"Outstanding service\"",
+          "comment_language": "en",
+          "username": "jackhenry0089",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-05T05:41:35",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81DD1D1D002",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 355231127,
+          "gig_slug": "do-business-essays-report-writing-project-management-and-marketing-ppt",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 144,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 7,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1,
+        "business": 4
+      },
+      "user_id": 165175109,
+      "seller_username": "kaif_hamad",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 7
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "technology": "Technology"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 165175109,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165175109,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 355231127,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-business-essays-report-writing-project-management-and-marketing-ppt",
+      "title": "do tok essay,ia,ib,hl,sl,extended,exhibition, economics,business and history",
+      "seller_name": "kaif_hamad",
+      "seller_id": 165175109,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/406e44b68d31c3ec95bc9fb89ee55bfe-1701836593896/a45713d8-895c-4bfb-934c-62be6c393635.jpeg",
+      "seller_display_name": "Kaif",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/355231127/original/c06fd20f76e4c87c38a8d06fd63f3edd632a331f.jpeg",
+          "type": "ImageAsset",
+          "id": "355231127_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 5,
+      "seller_url": "/kaif_hamad",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 7,
+        "score": 5
+      },
+      "gig_url": "/kaif_hamad/do-business-essays-report-writing-project-management-and-marketing-ppt",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 361406887,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-accounting-business-finance-statistics-math-and-calculus-assignments",
+      "title": "do accounting,business finance,statistics,math and calculus assignments",
+      "seller_name": "kaif_hamad",
+      "seller_id": 165175109,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/406e44b68d31c3ec95bc9fb89ee55bfe-1701836593896/a45713d8-895c-4bfb-934c-62be6c393635.jpeg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/361406887/original/6cc02dcc8564e09069f52ea917a22dedf223978b.jpeg",
+          "type": "ImageAsset",
+          "id": "361406887_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/kaif_hamad",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 7,
+        "score": 5
+      },
+      "gig_url": "/kaif_hamad/do-accounting-business-finance-statistics-math-and-calculus-assignments",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 353891433,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "prepare-an-investor-ready-business-plan",
+      "title": "prepare an investor ready business plan",
+      "seller_name": "kaif_hamad",
+      "seller_id": 165175109,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/406e44b68d31c3ec95bc9fb89ee55bfe-1701836593896/a45713d8-895c-4bfb-934c-62be6c393635.jpeg",
+      "seller_display_name": "Kaif",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/353891433/original/b342f283db96d8457a4244f7fb1e6b7a6130f62a.jpeg",
+          "type": "ImageAsset",
+          "id": "353891433_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/kaif_hamad",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 7,
+        "score": 5
+      },
+      "gig_url": "/kaif_hamad/prepare-an-investor-ready-business-plan",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

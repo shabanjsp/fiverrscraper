@@ -1,0 +1,591 @@
+{
+  "seller": {
+    "user": {
+      "id": "130729520",
+      "name": "adobe_sudhmay",
+      "isActivationCompleted": true,
+      "joinedAt": 1658584236,
+      "profile": {
+        "displayName": "A S Designer"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/c8549db89a855450a5805d49bb6649b6-1658588539147/993e39e0-2108-4214-84db-4df38ce994d6.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "267038799"
+        },
+        {
+          "id": "338415875"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Professional and skilled Graphic Designer!",
+    "description": "Hello, \nI am Sudhamay a professional graphic designer, I have 5 years+ experience in business card and logo design work. \nI am highly skilled in adobe photoshop and illustrator. Moreover, I do thank you cards, posters, T-shirts, flyers, photo editing and any graphic design-related job.\nThanks!\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa63e0565f07789005a8c",
+        "name": "Business card design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business card designer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6760565f07789006ae6",
+        "name": "Thank you card",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Thank you card writer"
+      },
+      {
+        "id": "617fa6510565f07789006037",
+        "name": "Flyer design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flyer designer"
+      },
+      {
+        "id": "617fa66b0565f077890067c0",
+        "name": "Poster design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Poster designer"
+      },
+      {
+        "id": "617fa6750565f07789006a9a",
+        "name": "T-shirt design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "T-shirt designer"
+      },
+      {
+        "id": "617fa6780565f07789006b8c",
+        "name": "Vector tracing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Vector tracer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 56,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6493dc1f3f89fd0001553ed5",
+          "title": "Business card and logo",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "6493dc1f3f89fd0001553ed6",
+                "attachment": {
+                  "metadata": {
+                    "height": 769,
+                    "width": 1153
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/a345fdf37bbb0279728813c88551b864-1687411704493/business%20card%20design%20(1).jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64b659fa6d828c0001616f00",
+          "title": "logo design",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "64b659fa6d828c0001616f01",
+                "attachment": {
+                  "metadata": {
+                    "height": 769,
+                    "width": 1280
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/a4583301c52beed6ba1ae660d8e5aef9-1689672162337/Eagle%20owl.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 149
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6547c00e5af47b00017797ba",
+          "comment": "It was wonderful to work with Rani. She finished my work very quickly and went beyond what I expected. Once you find people like her you don't want to go anywhere else. Thank you. adobe sudhmay!",
+          "comment_language": "en",
+          "username": "jasperr23",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-11-05T16:29:36",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/16d9175802f18795611019d5e025b20a-1699156497/business%20card%20design.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/16d9175802f18795611019d5e025b20a-1699156497/business%20card%20design.jpg",
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO41785EADD84",
+          "score": 0.7682293,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 338415875,
+          "gig_slug": "do-professional-luxury-business-card-and-minimalist-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 56,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "654bd422f8dffe00010f0081",
+          "comment": "The second time I am working with this designer. First time for a digital business card and now for the business card. Everything was great in our projects. I appreciate the patience and the kindness, the designer had, to fulfill my extra wishes. Cheers to the dude! Thank you. Thank you very much.",
+          "comment_language": "en",
+          "username": "josephinerrr",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-08T18:32:38",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/14dfa2ea9232122d106028c1e44f5289-1699417054/business%20card.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/14dfa2ea9232122d106028c1e44f5289-1699417054/business%20card.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81D6CDCC882",
+          "score": 0.6987328,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 338415875,
+          "gig_slug": "do-professional-luxury-business-card-and-minimalist-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 56,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "654a6f80f8dffe00010de929",
+          "comment": "Very quick response and always high-quality service both communication-wise and product-wise. Listen to what you want to be changed or added in a polite manner. Second time doing business with abobe sudhmay and will continue coming back for more as he's the best person I've found to work with on here by far.",
+          "comment_language": "en",
+          "username": "natalierre",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-07T17:10:52",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/81946923002b19352e09cc7252d11df2-1699326306/professional%20business%20card%20design.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/81946923002b19352e09cc7252d11df2-1699326306/professional%20business%20card%20design.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO111A66B3345",
+          "score": 0.6770912,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 338415875,
+          "gig_slug": "do-professional-luxury-business-card-and-minimalist-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 56,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "654e02dd3023ba0001a63260",
+          "comment": "I absolutely love the business cards; they are exactly what I wanted. he has a way of making your business cards really stand out with a few minimal details. I would highly recommend him - this is my second time working with him and he has a very reasonable price. Very easy to work with as well. He understands the concepts. 5 stars all round!",
+          "comment_language": "en",
+          "username": "chesterr1",
+          "reviewer_country_code": "NL",
+          "created_at": "2023-11-10T10:20:50",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/406ff7f609da0cd1439974d511e0434f-1699494181/business%20card.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/406ff7f609da0cd1439974d511e0434f-1699494181/business%20card.jpg",
+          "reviewer_country": "Netherlands",
+          "encrypted_order_id": "FO3178C3AF785",
+          "score": 0.65807235,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 338415875,
+          "gig_slug": "do-professional-luxury-business-card-and-minimalist-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 56,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65506111163f3500012c2146",
+          "comment": "I loved every design provided and the designer was super easy to work with! We had an unusual idea for a business card design, which was perfectly realized for us. We have worked with S A Designer before, and we know how good everything works with her! We will definitely be back with our future projects!",
+          "comment_language": "en",
+          "username": "aurorar1",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-12T05:24:07",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/e21389c0358b2e1d13a7df310d7b8976-1699718267/business%20card%20design.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/e21389c0358b2e1d13a7df310d7b8976-1699718267/business%20card%20design.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO7235757BEC5",
+          "score": 0.52681106,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 338415875,
+          "gig_slug": "do-professional-luxury-business-card-and-minimalist-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 56,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 149,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 128,
+        "business": 5
+      },
+      "user_id": 130729520,
+      "seller_username": "adobe_sudhmay",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 7
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 140
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 130729520,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 130729520,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 267038799,
+      "category_id": 3,
+      "sub_category_id": 56,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-custom-minimalist-luxury-business-card-design",
+      "title": "do custom minimalist luxury business card design",
+      "seller_name": "adobe_sudhmay",
+      "seller_id": 130729520,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c8549db89a855450a5805d49bb6649b6-1658588539147/993e39e0-2108-4214-84db-4df38ce994d6.jpg",
+      "seller_display_name": "A S Designer",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/267038799/original/d145d866f4177fc1fde5ea55a8959185a6349dc8.jpg",
+          "type": "ImageAsset",
+          "id": "267038799_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/267038799/original/cd2510ff9e4c4e2b4cfbdeea465c6b5f9084b004.jpg",
+          "type": "ImageAsset",
+          "id": "267038799_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/267038799/original/8e07cfbd856cece9ff6fdd39668b877403e41db0.jpg",
+          "type": "ImageAsset",
+          "id": "267038799_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "171772557",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/1995f4862e0be9cd8245cc7deaa1c7c9-1697136724/logo-01.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171354332",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e983b84e5b0db2cc93c24b3e6da52936-1696336836/card.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "main_type",
+          "value": [
+            "business_cards"
+          ]
+        },
+        {
+          "type": "image_file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 100,
+      "buying_review_rating": 4.9,
+      "seller_url": "/adobe_sudhmay",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 149,
+        "score": 4.9082775
+      },
+      "gig_url": "/adobe_sudhmay/do-custom-minimalist-luxury-business-card-design",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 338415875,
+      "category_id": 3,
+      "sub_category_id": 56,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-professional-luxury-business-card-and-minimalist-logo-design",
+      "title": "do professional, luxury business card and minimalist logo design",
+      "seller_name": "adobe_sudhmay",
+      "seller_id": 130729520,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c8549db89a855450a5805d49bb6649b6-1658588539147/993e39e0-2108-4214-84db-4df38ce994d6.jpg",
+      "seller_display_name": "A S Designer",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/338415875/original/829147ba54f4b44417a953f76f2ad70485bfa861.jpg",
+          "type": "ImageAsset",
+          "id": "338415875_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/338415875/original/6a63210fedcac1c386f22224e3feb38b4028e698.jpg",
+          "type": "ImageAsset",
+          "id": "338415875_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/338415875/original/e1c6ce22685a89de86e66217090a431d98a47b8e.jpg",
+          "type": "ImageAsset",
+          "id": "338415875_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175711496",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/08cbdde3e3511ea3484fdb400d3eff15-1705504298/business%20card%202%20.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175378006",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/7d39fe882947fd0390abcfceccb96d7b-1704823942/logo-01.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174097218",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f969491f9a3ddcb3e0771aeab7a367a8-1701859330/card%202.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173828988",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c419a15e9f353de3e566db7b1f565eb1-1701294194/business%20card.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "64f8e2f0f020af000164d25b",
+          "discount_percentage": 10
+        },
+        {
+          "id": "64f8e2f0f020af000164d25c",
+          "discount_percentage": 20
+        }
+      ],
+      "metadata": [
+        {
+          "type": "main_type",
+          "value": [
+            "business_cards"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 34,
+      "buying_review_rating": 5,
+      "seller_url": "/adobe_sudhmay",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 149,
+        "score": 4.9082775
+      },
+      "gig_url": "/adobe_sudhmay/do-professional-luxury-business-card-and-minimalist-logo-design",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "seller": {
+    "user": {
+      "id": "11162158",
+      "name": "alexegelston",
+      "isActivationCompleted": true,
+      "joinedAt": 1437099730,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 11162158,
+      "seller_username": "alexegelston",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 11162158,
+      "reviews": [
+        {
+          "id": "65c53132750928000116d7c5",
+          "comment": "Thank you 😊",
+          "comment_language": "en",
+          "username": "h_dexter",
+          "reviewer_country_code": "LK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/38865f4a00170427f32a881633cd6016-1606032002040/998ee4d1-238d-4007-9ea5-472b29ee14e5.jpg",
+          "created_at": "2024-02-08T19:53:22",
+          "value": 5
+        },
+        {
+          "id": "637c2332fc0ac700014481fd",
+          "comment": "Great experience! Thanks, comeback anytime!",
+          "comment_language": "en-US",
+          "username": "minionbay",
+          "reviewer_country_code": "ID",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d32faedf34beeb6e2b4377daf3eac0f8-1561180870239/5ac3719c-2f39-4cc8-9604-90c3ca84ca42.jpg",
+          "created_at": "2022-11-22T01:17:38",
+          "value": 5
+        },
+        {
+          "id": "636c3c060d49cd0001e4a20d",
+          "comment": "Good client ",
+          "comment_language": "fr-FR",
+          "username": "toobaahmad999",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/18126b834f7c12ee60399029cba92002-1309497031668105147.195302/A199FD18-4309-4B9F-8A0B-78734A6462B9",
+          "created_at": "2022-11-09T23:47:18",
+          "value": 5
+        },
+        {
+          "id": "5e44385c630edc0001409560",
+          "comment": "i cant wait for project in future :)",
+          "comment_language": "en-US",
+          "username": "minionbay",
+          "reviewer_country_code": "ID",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d32faedf34beeb6e2b4377daf3eac0f8-1561180870239/5ac3719c-2f39-4cc8-9604-90c3ca84ca42.jpg",
+          "created_at": "2020-02-12T17:39:40",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 11162158,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": null,
+    "recent_utc_offset": 0
+  },
+  "gigsData": []
+}

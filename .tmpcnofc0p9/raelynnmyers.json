@@ -1,0 +1,178 @@
+{
+  "seller": {
+    "user": {
+      "id": "140812655",
+      "name": "raelynnmyers",
+      "isActivationCompleted": true,
+      "joinedAt": 1671951457,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Hungary",
+        "countryCode": "HU"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 140812655,
+      "seller_username": "raelynnmyers",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 140812655,
+      "reviews": [
+        {
+          "id": "65ba5687d966f80001d32fea",
+          "comment": "That's a wonderful client",
+          "comment_language": "en",
+          "username": "shopify_usrmt03",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c3dd4244fa016e6bd90104f3656c43b5-1687807699045/a09c9c6c-375a-407f-a7be-3b083a38a446.png",
+          "created_at": "2024-01-31T14:17:43",
+          "value": 5
+        },
+        {
+          "id": "659549bf9d3e510001c48c2b",
+          "comment": "Excellent Buyer",
+          "comment_language": "nl",
+          "username": "webtanzila",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7069942c823f66a193155e772e879573-1688812039855/5a969119-e2d2-49e8-a693-feaaa1c5c9d5.jpg",
+          "created_at": "2024-01-03T11:49:19",
+          "value": 5
+        },
+        {
+          "id": "65902813d628ec0001867043",
+          "comment": "A fantastic buyer! Clear communication, prompt responses, and a pleasure to work with. Looking forward to more collaborations.",
+          "comment_language": "en",
+          "username": "lead_scraperpro",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/42c0a31d3b71f1149e6736aafd2cd849-1679385309408/a6678d2c-7df3-4210-acf9-ef99dce07c12.jpg",
+          "created_at": "2023-12-30T14:24:19",
+          "value": 5
+        },
+        {
+          "id": "658af5d7d628ec000183a539",
+          "comment": "Great Buyer! I am very happy to work with you.",
+          "comment_language": "en",
+          "username": "bdmr100",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7eea736307e4ddfada89451bfd5ed434-1686581543727/5ad4b5c9-953b-4c6d-82d9-1b7dee258269.png",
+          "created_at": "2023-12-26T15:48:39",
+          "value": 5
+        },
+        {
+          "id": "65868ed35c478900012da317",
+          "comment": "outstanding experience ",
+          "comment_language": "en",
+          "username": "adssupremacy",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e70934445690a12df38bdb7885d9d485-1701600887637/81c0c2ad-70a7-43f6-9b9c-d6efbe6f43a0.jpg",
+          "created_at": "2023-12-23T07:40:04",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 140812655,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

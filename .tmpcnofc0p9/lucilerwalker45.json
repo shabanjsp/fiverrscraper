@@ -1,0 +1,178 @@
+{
+  "seller": {
+    "user": {
+      "id": "156221248",
+      "name": "lucilerwalker45",
+      "isActivationCompleted": true,
+      "joinedAt": 1689849238,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Austria",
+        "countryCode": "AT"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "CAD",
+    "rate": 1.4157398373,
+    "template": "C${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "C$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 156221248,
+      "seller_username": "lucilerwalker45",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 156221248,
+      "reviews": [
+        {
+          "id": "65aa7fe0ecc5110001c1e925",
+          "comment": "Amazing, the buyer is very energetic and clear about what he wants.",
+          "comment_language": "en",
+          "username": "web_queen02",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f7653f34f70d1d4e631949e3134e2922-1695828938406/9e0836a5-a840-4262-825c-bd6da144758e.png",
+          "created_at": "2024-01-19T13:57:52",
+          "value": 5
+        },
+        {
+          "id": "65a49048be67470001ed3371",
+          "comment": "Excellent experience. Thanks a lot.",
+          "comment_language": "en",
+          "username": "mehedy80",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/578822371d6f79a3f4f945cd72ad2c2b-1702210212626/29db3df2-0869-4f74-9d7d-8db53786a7ed.png",
+          "created_at": "2024-01-15T01:54:16",
+          "value": 5
+        },
+        {
+          "id": "65a2bc3abe67470001ec08ad",
+          "comment": "Amazing, the buyer is very energetic and clear about what he wants.",
+          "comment_language": "en",
+          "username": "wp_arju",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1b4275089a63511ff7305690e00bab24-1688651643251/7735d4d4-bd72-47b1-8146-d37b610cafc3.png",
+          "created_at": "2024-01-13T16:37:14",
+          "value": 5
+        },
+        {
+          "id": "6599635c369cc90001202ee4",
+          "comment": "Amazing experience. My main intention is to satisfy the client. thanks\n",
+          "comment_language": "en",
+          "username": "validate_leads",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b5d1368718de65976e307674ff74b860-1700205483118/4e3a84d8-1047-4271-bcc9-fce0e7ef0144.png",
+          "created_at": "2024-01-06T14:27:41",
+          "value": 5
+        },
+        {
+          "id": "6551cddd163f3500012cfff9",
+          "comment": "Such an amazing client, and wonderful to work with, and hope to work with him again.",
+          "comment_language": "en",
+          "username": "wp_team4",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b064c6d732d3bf73ba823e6f21ad7c53-1661189668501/8ed1e12b-8587-498a-8d57-bdaee319b565.jpg",
+          "created_at": "2023-11-13T07:18:53",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 156221248,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

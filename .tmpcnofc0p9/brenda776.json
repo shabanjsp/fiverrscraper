@@ -1,0 +1,912 @@
+{
+  "seller": {
+    "user": {
+      "id": "135146851",
+      "name": "brenda776",
+      "isActivationCompleted": true,
+      "joinedAt": 1664447097,
+      "profile": {
+        "displayName": "Brenda S"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/9614e5d5e0fd8c614ef3d816b493079d-1664447392730/be8d9ef8-53e3-4e14-a221-b9fd56c3dc4e.png"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "278506912"
+        },
+        {
+          "id": "317923613"
+        },
+        {
+          "id": "354797773"
+        },
+        {
+          "id": "364029663"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "digit expert",
+    "description": "Hello welcome to Brenda Scott profile a  shopify expert with vast year's of experience, my aim on this platform is to help promote your business to the next level.\r\nHave you been wondering how to generate sales to your new shopify store and exiting store, or you have issues dropshiping product to your store  i will perfectly help with that and make you stay ahead of your competitors.\r\n I am a social media marketer i will help grow your online business my priority is   seeing my buyers business move forward",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "marketing management",
+        "certificationName": "nee",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "marketing management",
+        "toYear": 2018,
+        "countryCode": "US",
+        "school": "University of Wisconsin-Whitewater",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6710565f0778900696f",
+        "name": "Shopify marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify marketing expert"
+      },
+      {
+        "id": "617fa6710565f0778900696d",
+        "name": "Shopify dropshipping",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify dropshipping expert"
+      },
+      {
+        "id": "61a4d8b4758d756a25307be9",
+        "name": "Shopify SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify SEO expert"
+      },
+      {
+        "id": "617fa6710565f07789006971",
+        "name": "Shopify store design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify store designer"
+      },
+      {
+        "id": "617fa6480565f07789005d8f",
+        "name": "Digital marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital marketer"
+      },
+      {
+        "id": "617fa6790565f07789006bdc",
+        "name": "Virtual assistance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Virtual assistant"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media marketer"
+      },
+      {
+        "id": "617fa6440565f07789005c7d",
+        "name": "Course content writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Course content writer"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa64f0565f07789005f72",
+        "name": "Facebook ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook ads expert"
+      },
+      {
+        "id": "617fa6550565f07789006172",
+        "name": "Google ads",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google ad manager"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6550565f07789006174",
+        "name": "Google AdWords",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google AdWords expert"
+      },
+      {
+        "id": "617fa6550565f07789006173",
+        "name": "Google AdSense",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google AdSense expert"
+      },
+      {
+        "id": "617fa6710565f07789006972",
+        "name": "Shopify templates",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify template expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f7e",
+        "name": "Facebook management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook manager"
+      },
+      {
+        "id": "617fa64f0565f07789005f75",
+        "name": "Facebook analytics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook analytics expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f71",
+        "name": "Facebook",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Facebook expert"
+      },
+      {
+        "id": "617fa6740565f07789006a4b",
+        "name": "Store management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Store manager"
+      },
+      {
+        "id": "617fa6490565f07789005de8",
+        "name": "Dropshipping store",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Dropshipping store expert"
+      },
+      {
+        "id": "617fa6740565f07789006a4a",
+        "name": "Store design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Store designer"
+      },
+      {
+        "id": "617fa6740565f07789006a49",
+        "name": "Store analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Store analyst"
+      },
+      {
+        "id": "617fa65b0565f0778900633b",
+        "name": "Instagram ads management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram ads manager"
+      },
+      {
+        "id": "617fa65b0565f07789006344",
+        "name": "Instagram management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram manager"
+      },
+      {
+        "id": "617fa65b0565f0778900633d",
+        "name": "Instagram content",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram content creator"
+      },
+      {
+        "id": "617fa65b0565f0778900633a",
+        "name": "Instagram",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram expert"
+      },
+      {
+        "id": "617fa65b0565f07789006343",
+        "name": "Instagram influencer",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram influencer"
+      },
+      {
+        "id": "617fa65b0565f0778900633e",
+        "name": "Instagram copywriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram copywriter"
+      },
+      {
+        "id": "617fa65b0565f07789006341",
+        "name": "Instagram growth",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Instagram growth expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 67,
+        "nestedCategoryId": 2688
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 200,
+        "nestedCategoryId": 2090
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 325,
+        "nestedCategoryId": 2405
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 325,
+        "nestedCategoryId": 2689
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 31
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65ba3c701b9ca528788853ed",
+          "comment": "It was a pleasure working with her, she was quick to convince me with her strategy, and I was convinced to work with her on my Facebook ads campaign. she did an amazing job and I see positive results, I would like to work with her again.",
+          "comment_language": "en",
+          "username": "richardpaul9319",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-31T12:33:51",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51DFA2DD085",
+          "score": 0.80503094,
+          "reviewer_industry": [
+            "financial_services_or_banking",
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 354797773,
+          "gig_slug": "setup-facebook-ads-and-instagram-ads-campaign-for-your-shopify-store",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2688,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a2be1cf41e8d56bb30abbd",
+          "comment": " This lady is really very smart! What a mind! Working with her has changed everything. I'm really glad I found her because she's quite well-known for resolving shopify marketing-related problems when nobody else could. In addition, His availability is constant, and communication was effortless. Strongly advised!",
+          "comment_language": "en",
+          "username": "rose_smithy",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-15T06:11:05",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO423D91125C8",
+          "score": 0.6634549,
+          "reviewer_industry": [
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 317923613,
+          "gig_slug": "build-facebook-marketplace-dropshipping-product-listing-and-shopify-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "gig_nested_sub_category": 2405,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 74,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ba41ff4af5a425f9172866",
+          "comment": "i was impressed with the gigs description and the numbers of work she as done on fiverr and i was good . this help me to order her and she did as she explain on her description . i can highly recommended her ",
+          "comment_language": "en",
+          "username": "emiliaschnei143",
+          "reviewer_country_code": "DE",
+          "created_at": "2024-01-31T12:50:55",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO717FB572B81",
+          "score": 0.6216758,
+          "reviewer_industry": [
+            "financial_services_or_banking",
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 354797773,
+          "gig_slug": "setup-facebook-ads-and-instagram-ads-campaign-for-your-shopify-store",
+          "gig_category": 2,
+          "gig_sub_category": 67,
+          "gig_nested_sub_category": 2688,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 108,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a2bda0df0698140a16b107",
+          "comment": "Brenda was fast, thorough, and exceeded expectations. This is something I have very limited knowledge in and was hoping for someone to just take control and make the necessary adjustments and Brenda did just that. she even provided a video explaining what was done! Will definitely be back!",
+          "comment_language": "en",
+          "username": "rose_smithy",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-13T16:44:28",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81DDF8D2F02",
+          "score": 0.5721369,
+          "reviewer_industry": [
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 317923613,
+          "gig_slug": "build-facebook-marketplace-dropshipping-product-listing-and-shopify-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "gig_nested_sub_category": 2405,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 74,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6576f28e5485e04ba6ac4f2c",
+          "comment": "Brenda did an amazing job at getting my website together the way it should be by getting more traffic to my store",
+          "comment_language": "en",
+          "username": "zoechloe123",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-11T11:55:47",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15EE730401",
+          "score": 0.4647337,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 317923613,
+          "gig_slug": "build-facebook-marketplace-dropshipping-product-listing-and-shopify-promotion",
+          "gig_category": 2,
+          "gig_sub_category": 325,
+          "gig_nested_sub_category": 2405,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 182,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 31,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 6,
+        "business": 26
+      },
+      "user_id": 135146851,
+      "seller_username": "brenda776",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 30
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "financial_services_or_banking": "Financial & Business Services ",
+        "marketing_or_advertising": "Marketing & Advertising"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 135146851,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 135146851,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 317923613,
+      "category_id": 2,
+      "sub_category_id": 325,
+      "nested_sub_category_id": 2405,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-facebook-marketplace-dropshipping-product-listing-and-shopify-promotion",
+      "title": "do shopify marketing, shopify manager, ecommerce marketing, shopify promotion",
+      "seller_name": "brenda776",
+      "seller_id": 135146851,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9614e5d5e0fd8c614ef3d816b493079d-1664447392730/be8d9ef8-53e3-4e14-a221-b9fd56c3dc4e.png",
+      "seller_display_name": "Brenda S",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/317923613/original/6f4f63d0a36fd8e881004b61a5e27ce46aa7c9a5.png",
+          "type": "ImageAsset",
+          "id": "317923613_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/317923613/original/c87dea24f99687afb10824eeff3a076971c056bb.png",
+          "type": "ImageAsset",
+          "id": "317923613_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/317923613/original/31308841ea324380cde8c31dfa9c9ec288cf2813.png",
+          "type": "ImageAsset",
+          "id": "317923613_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176478864",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a2ac7b2e8301e5f110dcb6adaa19b1d2-1707057841/buyer%20facebook.PNG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171060222",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f63021045a4ff439959c996e4e6c691a-1695751119/WhatsApp%20Image%202023-09-22%20at%2009.44.56.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170890268",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/0d4edff69500cdffecae564710ff5000-1695402359/download%20(87).png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170838555",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/ccff40122f278dbd08da093188ca8253-1695311746/google%20ads%20clicks.JPG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "166254540",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/091f3b4f843c0af0ee8eefce3b1cdbe5-1686322195/download%20(66).png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "aliexpress",
+            "klaviyo",
+            "shopify"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "animals_pets",
+            "financial_services",
+            "food_beverage",
+            "marketing_and_advertising",
+            "media_and_entertainment"
+          ]
+        },
+        {
+          "type": "promotion_method",
+          "value": [
+            "social_media_shoutout",
+            "sales_funnel"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 22,
+      "buying_review_rating": 4.8,
+      "seller_url": "/brenda776",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 31,
+        "score": 4.870968
+      },
+      "gig_url": "/brenda776/build-facebook-marketplace-dropshipping-product-listing-and-shopify-promotion",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 354797773,
+      "category_id": 2,
+      "sub_category_id": 67,
+      "nested_sub_category_id": 2688,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "setup-facebook-ads-and-instagram-ads-campaign-for-your-shopify-store",
+      "title": "setup facebook ads and instagram ads campaign for your shopify store",
+      "seller_name": "brenda776",
+      "seller_id": 135146851,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9614e5d5e0fd8c614ef3d816b493079d-1664447392730/be8d9ef8-53e3-4e14-a221-b9fd56c3dc4e.png",
+      "seller_display_name": "Brenda S",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354797773/original/519330fe3a0cdd11b7f4bed1745e3da73cabfd13.png",
+          "type": "ImageAsset",
+          "id": "354797773_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/354797773/original/ce83720fb049190c2caade6d7b75b24c7c259cf9.png",
+          "type": "ImageAsset",
+          "id": "354797773_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/354797773/original/eb7e2eb6bbe671477aeae1fef5e5421d53e944d0.png",
+          "type": "ImageAsset",
+          "id": "354797773_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "facebook",
+            "instagram",
+            "tiktok"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "marketing_advertising",
+            "services",
+            "technology"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 9,
+      "buying_review_rating": 5,
+      "seller_url": "/brenda776",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 31,
+        "score": 4.870968
+      },
+      "gig_url": "/brenda776/setup-facebook-ads-and-instagram-ads-campaign-for-your-shopify-store",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 278506912,
+      "category_id": 2,
+      "sub_category_id": 200,
+      "nested_sub_category_id": 2090,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "set-up-and-manage-google-ads-adwords-campaign",
+      "title": "set up and manage google ads adwords campaign",
+      "seller_name": "brenda776",
+      "seller_id": 135146851,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9614e5d5e0fd8c614ef3d816b493079d-1664447392730/be8d9ef8-53e3-4e14-a221-b9fd56c3dc4e.png",
+      "seller_display_name": "Brenda S",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/278506912/original/04b683c8b9e0ef651c451fd36c38e117b0326ea8.png",
+          "type": "ImageAsset",
+          "id": "278506912_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/278506912/original/6c658a101926dc831a6695b361bcf5c0f5636dec.png",
+          "type": "ImageAsset",
+          "id": "278506912_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/278506912/original/3cf35398e21e494465b5414d8749e340d2b78f68.png",
+          "type": "ImageAsset",
+          "id": "278506912_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "search_engine",
+          "value": [
+            "google",
+            "bing"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "art_design",
+            "manufacturing_storage",
+            "marketing_and_advertising",
+            "services",
+            "technology"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/brenda776",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 31,
+        "score": 4.870968
+      },
+      "gig_url": "/brenda776/set-up-and-manage-google-ads-adwords-campaign",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 364029663,
+      "category_id": 2,
+      "sub_category_id": 325,
+      "nested_sub_category_id": 2689,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "setup-tiktok-shop-facebook-shop-instagram-shop-for-shopify-marketing",
+      "title": "setup tiktok shop, facebook shop, instagram shop,  for shopify marketing",
+      "seller_name": "brenda776",
+      "seller_id": 135146851,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9614e5d5e0fd8c614ef3d816b493079d-1664447392730/be8d9ef8-53e3-4e14-a221-b9fd56c3dc4e.png",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/364029663/original/3e5cf727fb897e0956dc784c4d425c2c4606e1dd.png",
+          "type": "ImageAsset",
+          "id": "364029663_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/364029663/original/0fc8c9ac761723f2ef01ef9e1855ca165f64361e.png",
+          "type": "ImageAsset",
+          "id": "364029663_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/364029663/original/45e602932ddfded093fe79535cfd11c8b7880b4c.png",
+          "type": "ImageAsset",
+          "id": "364029663_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/brenda776",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 0,
+        "score": 0
+      },
+      "gig_url": "/brenda776/setup-tiktok-shop-facebook-shop-instagram-shop-for-shopify-marketing",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

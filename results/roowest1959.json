@@ -1,0 +1,171 @@
+{
+  "seller": {
+    "user": {
+      "id": "72694397",
+      "name": "roowest1959",
+      "isActivationCompleted": true,
+      "joinedAt": 1540851554,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Ireland",
+        "countryCode": "IE"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Keep trying ",
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 72694397,
+      "seller_username": "roowest1959",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 72694397,
+      "reviews": [
+        {
+          "id": "659a6997369cc9000120c4b1",
+          "comment": "Great experience, Thank you so much!",
+          "comment_language": "en",
+          "username": "art8ight",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c845c6e8ff41023027c2a7ce91497a38-1626677199760/534c25d0-35d4-4a50-a112-d1b69bdb6772.jpg",
+          "created_at": "2024-01-07T09:06:31",
+          "value": 5
+        },
+        {
+          "id": "5dacae60f4e07a000140aad3",
+          "comment": "Great Buyer, would love to work for him again in future projects. Thanks!",
+          "comment_language": "en-US",
+          "username": "heinwovizer",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bc850d82177eb2acbfef4e3cfcb97351-1567412492825/9d41ed74-082d-4e11-998c-687f7960b705.jpg",
+          "created_at": "2019-10-20T18:58:40",
+          "value": 5
+        },
+        {
+          "id": "5d9b4591bf670200016583f7",
+          "comment": "Thank you.",
+          "comment_language": "en-US",
+          "username": "nanico",
+          "reviewer_country_code": "HK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/655086/original/profile.jpg",
+          "created_at": "2019-10-07T14:02:57",
+          "value": 5
+        },
+        {
+          "id": "5d9a511bbf67020001656fbf",
+          "comment": "Thank you very much.",
+          "comment_language": "en-US",
+          "username": "heinwovizer",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bc850d82177eb2acbfef4e3cfcb97351-1567412492825/9d41ed74-082d-4e11-998c-687f7960b705.jpg",
+          "created_at": "2019-10-06T20:39:55",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 72694397,
+    "currency": "EUR",
+    "locale": "en-US",
+    "timezone": "Europe/Dublin",
+    "recent_utc_offset": 0
+  },
+  "gigsData": []
+}

@@ -1,0 +1,277 @@
+{
+  "seller": {
+    "user": {
+      "id": "168889291",
+      "name": "thomas_997",
+      "isActivationCompleted": true,
+      "joinedAt": 1706261951,
+      "profile": {
+        "displayName": "Thomas Expert"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "AR",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/d2704cc3b33418e687e27b99f00e80c6-1706289255143/fc025b25-8d2a-4665-a248-f2592007bbe7.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "362100083"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Turning your ideas into reality with my writing ",
+    "description": "Thomas here. I am a professional writer and with an experience over of half of a decade, I am here to make your work to limelight with unparallel skills and experience. \r\n\r\nJust hit the contact button and lets make it!\r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "literacy",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "University of Lahore",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6640565f077890065d3",
+        "name": "Microsoft Powerpoint",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Microsoft Powerpoint expert"
+      },
+      {
+        "id": "617fa6640565f077890065d0",
+        "name": "Microsoft Office",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Microsoft Office expert"
+      },
+      {
+        "id": "617fa6640565f077890065cc",
+        "name": "Microsoft Excel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Microsoft Excel expert"
+      },
+      {
+        "id": "617fa6440565f07789005c95",
+        "name": "Creative writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Creative writer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 114,
+        "nestedCategoryId": 2403
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c2071ecf541d2cf760f813",
+          "comment": "Exactly the same quality as promised, delivered more earlier than specified time and communication on top, till completion of project. Buying again for sure",
+          "comment_language": "en",
+          "username": "paul_jaon",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-06T10:23:15",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51E0E9DDD85",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 362100083,
+          "gig_slug": "help-in-art-literature-nursing-history-essays-and-case-studies",
+          "gig_category": 5,
+          "gig_sub_category": 114,
+          "gig_nested_sub_category": 2403,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 18,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 168889291,
+      "seller_username": "thomas_997",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 168889291,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 168889291,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Riyadh",
+    "recent_utc_offset": -180
+  },
+  "gigsData": [
+    {
+      "gig_id": 362100083,
+      "category_id": 5,
+      "sub_category_id": 114,
+      "nested_sub_category_id": 2403,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "help-in-art-literature-nursing-history-essays-and-case-studies",
+      "title": "help in art, literature, nursing, history essays and case studies",
+      "seller_name": "thomas_997",
+      "seller_id": 168889291,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d2704cc3b33418e687e27b99f00e80c6-1706289255143/fc025b25-8d2a-4665-a248-f2592007bbe7.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/362100083/original/9b36ecfc2c0195b79a495311f5de572a8cb8a857.png",
+          "type": "ImageAsset",
+          "id": "362100083_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "arabic",
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/thomas_997",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/thomas_997/help-in-art-literature-nursing-history-essays-and-case-studies",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

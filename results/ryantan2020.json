@@ -1,0 +1,161 @@
+{
+  "seller": {
+    "user": {
+      "id": "90842495",
+      "name": "ryantan2020",
+      "isActivationCompleted": true,
+      "joinedAt": 1593639077,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Malaysia",
+        "countryCode": "MY"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 90842495,
+      "seller_username": "ryantan2020",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 90842495,
+      "reviews": [
+        {
+          "id": "65b4b216756b9d0001756ebc",
+          "comment": "Great experience, Thank you so much!",
+          "comment_language": "en",
+          "username": "art8ight",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c845c6e8ff41023027c2a7ce91497a38-1626677199760/534c25d0-35d4-4a50-a112-d1b69bdb6772.jpg",
+          "created_at": "2024-01-27T07:34:47",
+          "value": 5
+        },
+        {
+          "id": "63f7325bd5ee58000158ed67",
+          "comment": "great experience ",
+          "comment_language": "en",
+          "username": "junaidjd43",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e9fb49ad5c9daf30808eeca978172d0d-1551953122368/6b9d6ac8-2671-4c3b-8abf-f29229f55e0f.jpg",
+          "created_at": "2023-02-23T09:31:07",
+          "value": 5
+        },
+        {
+          "id": "5f7c47f290505600015aaa52",
+          "comment": "Outstanding Experience!",
+          "comment_language": "en-US",
+          "username": "decentdesign786",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/02d8e4109b378111b0f725c95020ee10-1599581595893/d303c351-5d2c-4bf8-925e-5669ff368667.jpg",
+          "created_at": "2020-10-06T10:33:22",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 90842495,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Kuala_Lumpur",
+    "recent_utc_offset": -480
+  },
+  "gigsData": []
+}

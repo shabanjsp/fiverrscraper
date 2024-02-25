@@ -1,0 +1,870 @@
+{
+  "seller": {
+    "user": {
+      "id": "103393286",
+      "name": "minmarketing",
+      "isActivationCompleted": true,
+      "joinedAt": 1615313110,
+      "profile": {
+        "displayName": "Elias R."
+      },
+      "address": {
+        "countryName": "Belgium",
+        "countryCode": "BE"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "NL",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/b3999675def1e568c38c5fa2486612be-1615357412606/b556394e-e5d3-4191-97da-cf5cdc2035fb.jpg"
+    },
+    "approvedGigsCount": 5,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "197695258"
+        },
+        {
+          "id": "276802794"
+        },
+        {
+          "id": "312739616"
+        },
+        {
+          "id": "318638358"
+        },
+        {
+          "id": "340622892"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/seller_intro_video/attachment/2cfc5cc3101545f1a016f1e4aa3b589a-1677149829774/20230223_115047"
+    },
+    "oneLinerTitle": null,
+    "description": "I’m Elias and I’m a 30-year old marketing geek from Belgium!\r\n\r\nWhether it’s writing blog posts, setting up automations, making sure all your users’ engagements are tracked properly, or creating ad copy that converts, my 5+ years of experience can help you market your business better. ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Google",
+        "certificationName": "Google Partner",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6430565f07789005c35",
+        "name": "Content writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Content writer"
+      },
+      {
+        "id": "617fa63c0565f07789005a0c",
+        "name": "Blog writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blog writer"
+      },
+      {
+        "id": "617fa6710565f07789006951",
+        "name": "SEO writing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "SEO writer"
+      },
+      {
+        "id": "617fa6630565f0778900657b",
+        "name": "Marketing automation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Marketing automation expert"
+      },
+      {
+        "id": "617fa6350565f077890057d2",
+        "name": "ActiveCampaign",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "ActiveCampaign expert"
+      },
+      {
+        "id": "617fa6480565f07789005d8f",
+        "name": "Digital marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital marketer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 194,
+        "nestedCategoryId": 2427
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 200,
+        "nestedCategoryId": 2090
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 337,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 435,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6461db8b7527ef0001480b00",
+          "title": "From nothing to $10k months",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6461db8b7527ef0001480b01",
+                "attachment": {
+                  "metadata": {
+                    "height": 628,
+                    "width": 1200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/6eb90e88dca85fcd7f9f63024a9efabb-1684134789236/Amy%20(1).jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 1
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 123
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 3
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": {
+      "accountId": "65ba10d5a47e0190a112b848",
+      "timezone": "Europe/Brussels"
+    },
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "656bad659b6e4000017d3aaf",
+          "comment": "Excellent work. I will rehire for a second automation segmented list setup. I watched the explainer video showing the sequenced emails' functions and flow. It is very straight-forward and precisely what the client needs for their business. It made the process really easy.",
+          "comment_language": "en",
+          "username": "seobullseye",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-02T22:52:07",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2179F8BC386",
+          "score": 0.65814066,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 276802794,
+          "gig_slug": "setup-your-automations-in-activecampaign",
+          "gig_category": 2,
+          "gig_sub_category": 194,
+          "gig_nested_sub_category": 2427,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658da8ecd628ec00018519d3",
+          "comment": "I wish we had an Elias for every area of our business. His friendliness, responsiveness, quality of work and communication is always top tier and we feel so lucky to have found him! ",
+          "comment_language": "en",
+          "username": "jakehavron32",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/72e5938b76a27391874c92f2d537e643-1697818245681/44273b2c-2dbf-4c02-b096-22f7c6b95278.jpg",
+          "created_at": "2023-12-28T16:57:42",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3BE8B69741",
+          "score": 0.5581909,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 276802794,
+          "gig_slug": "setup-your-automations-in-activecampaign",
+          "gig_category": 2,
+          "gig_sub_category": 194,
+          "gig_nested_sub_category": 2427,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 15,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6579d0c10f30da0001e92729",
+          "comment": "Elias works very quick with good communication. I can definitely recommend him. He made an workflow automation in ActiveCampaign with automatically signing contracts. Very pleased with the result.",
+          "comment_language": "en",
+          "username": "menokistickers",
+          "reviewer_country_code": "NL",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/56b983b0a6c510407f624c507672fcba-1655843035835/f76709a9-ce30-485b-9634-374f44865712.jpg",
+          "created_at": "2023-12-13T15:42:28",
+          "value": 5,
+          "reviewer_country": "Netherlands",
+          "encrypted_order_id": "FO511CD56F4C1",
+          "score": 0.48532668,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 276802794,
+          "gig_slug": "setup-your-automations-in-activecampaign",
+          "gig_category": 2,
+          "gig_sub_category": 194,
+          "gig_nested_sub_category": 2427,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65782a345485e04ba6ac626f",
+          "comment": "Elias did a great job, as always!\nHe is very professional and knowledgeable in his field. I really like his explanatory videos, they are super helpful.\n",
+          "comment_language": "en",
+          "username": "easygerman626",
+          "reviewer_country_code": "GB",
+          "created_at": "2023-12-12T09:42:33",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO117BC963F87",
+          "score": 0.43647456,
+          "reviewer_industry": [
+            "education"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 312739616,
+          "gig_slug": "write-compelling-email-sequences-that-nurtures-leads-and-sales",
+          "gig_category": 5,
+          "gig_sub_category": 337,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6570e2308f96861aec423674",
+          "comment": "Elias was so wonderful to work with and we will continue to use his services. He has proven to be extremely knowledgeable in ActiveCampaign, and his fluency and clarity of communication made working with him a delight.",
+          "comment_language": "en",
+          "username": "jakehavron32",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/72e5938b76a27391874c92f2d537e643-1697818245681/44273b2c-2dbf-4c02-b096-22f7c6b95278.jpg",
+          "created_at": "2023-12-06T21:06:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31D9ED45D87",
+          "score": 0.38636565,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 276802794,
+          "gig_slug": "setup-your-automations-in-activecampaign",
+          "gig_category": 2,
+          "gig_sub_category": 194,
+          "gig_nested_sub_category": 2427,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 15,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 123,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 13
+      },
+      "user_id": 103393286,
+      "seller_username": "minmarketing",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 122
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {}
+    },
+    "selling_reviews": {
+      "user_id": 103393286,
+      "reviews": [
+        {
+          "id": "657c643bdbf8680001ffd4fa",
+          "comment": "Great experience! ",
+          "comment_language": "en",
+          "username": "ezraindustries",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/36899087ac058a1b5e4d6f728428d3e1-1647612792073/cc53a914-3ce6-43f3-999f-f523c4274d08.jpg",
+          "created_at": "2023-12-15T14:35:39",
+          "value": 5
+        },
+        {
+          "id": "652f95b26031e80001bd2b5a",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "raquib_mahamud",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b0457c77a0aa9558e6e9d5e855e50bf3-1673695697448/936abf30-7878-4ca1-a46d-9daed5920954.png",
+          "created_at": "2023-10-18T08:22:10",
+          "value": 5
+        },
+        {
+          "id": "652e4347fc235600012d46ad",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "raquib_mahamud",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b0457c77a0aa9558e6e9d5e855e50bf3-1673695697448/936abf30-7878-4ca1-a46d-9daed5920954.png",
+          "created_at": "2023-10-17T08:18:15",
+          "value": 5
+        },
+        {
+          "id": "636d3ab8931c1700010e42a7",
+          "comment": "Awesome Client!",
+          "comment_language": "en-US",
+          "username": "joelsam901",
+          "reviewer_country_code": "GH",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f9d27c6116a4daaf20ae13eb531ff8d2-1678967896143/e64ad42b-3e8d-4806-aac9-cb41fece845b.jpeg",
+          "created_at": "2022-11-10T17:54",
+          "value": 5
+        },
+        {
+          "id": "63524997b8f3b400012917bb",
+          "comment": "Great experience! Very accommodating and understand. Doesn’t negotiate a fair price! Would love to work together again!",
+          "comment_language": "en-US",
+          "username": "wongkokwoo",
+          "reviewer_country_code": "SG",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/507ee4a903e0b5db8be6d34f610d414e-1656314535397/901d8a77-60d4-4741-a23c-573f6c293feb.jpeg",
+          "created_at": "2022-10-21T07:26:15",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 60,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 100,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "During our time together, we can discuss paid marketing, business automation and setting up your websites.\n\nLooking forward to connecting with you!\nTalk soon,\nElias",
+    "gig_id": 362636929,
+    "duration": 10,
+    "account_id": "65ba10d5a47e0190a112b848"
+  },
+  "localizationData": {
+    "user_id": 103393286,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/Brussels",
+    "recent_utc_offset": -60
+  },
+  "gigsData": [
+    {
+      "gig_id": 276802794,
+      "category_id": 2,
+      "sub_category_id": 194,
+      "nested_sub_category_id": 2427,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "setup-your-automations-in-activecampaign",
+      "title": "setup your automations in activecampaign",
+      "seller_name": "minmarketing",
+      "seller_id": 103393286,
+      "seller_country": "BE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/b3999675def1e568c38c5fa2486612be-1615357412606/b556394e-e5d3-4191-97da-cf5cdc2035fb.jpg",
+      "seller_display_name": "Elias R.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/276802794/original/8d1653d39a743729496bc5953d951fb0eb0cfdae.png",
+          "type": "ImageAsset",
+          "id": "276802794_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/276802794/original/b048371f3d20dacedfcbda7c2ff0d92e546c3899.png",
+          "type": "ImageAsset",
+          "id": "276802794_2"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "655cc65a9e06710023b477fe",
+          "id": 9498119
+        }
+      ],
+      "attachments": [
+        {
+          "id": "655cc65a9e06710023b477fe",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/vole4edtby0hnfnmgms1",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_1.524379,PLACEHOLDER/vole4edtby0hnfnmgms1.png"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "nl",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "email_platform",
+          "value": [
+            "activecampaign"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "dutch",
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 100,
+      "buying_review_rating": 5,
+      "seller_url": "/minmarketing",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 123,
+        "score": 4.9389167
+      },
+      "gig_url": "/minmarketing/setup-your-automations-in-activecampaign",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 312739616,
+      "category_id": 5,
+      "sub_category_id": 337,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-compelling-email-sequences-that-nurtures-leads-and-sales",
+      "title": "write email sequences that nurtures leads and sales",
+      "seller_name": "minmarketing",
+      "seller_id": 103393286,
+      "seller_country": "BE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/b3999675def1e568c38c5fa2486612be-1615357412606/b556394e-e5d3-4191-97da-cf5cdc2035fb.jpg",
+      "seller_display_name": "Elias R.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/312739616/original/cba0bc908e23a583aee62e24228c103269706986.png",
+          "type": "ImageAsset",
+          "id": "312739616_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "65643aa6a4931c00118e1c2d",
+          "id": 9528465
+        }
+      ],
+      "attachments": [
+        {
+          "id": "65643aa6a4931c00118e1c2d",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zzxiw2t7pmnt3wxcbxqh",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_0.749443,PLACEHOLDER/zzxiw2t7pmnt3wxcbxqh.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "nl",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "dutch",
+            "english"
+          ]
+        },
+        {
+          "type": "type",
+          "value": [
+            "lead_generation_cold_emailing",
+            "transactional_emails",
+            "welcome_emails"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/minmarketing",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 123,
+        "score": 4.9389167
+      },
+      "gig_url": "/minmarketing/write-compelling-email-sequences-that-nurtures-leads-and-sales",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 318638358,
+      "category_id": 2,
+      "sub_category_id": 200,
+      "nested_sub_category_id": 2090,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "set-up-your-google-ads-campaign-including-youtube",
+      "title": "set up your google ppc ads adwords including youtube",
+      "seller_name": "minmarketing",
+      "seller_id": 103393286,
+      "seller_country": "BE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/b3999675def1e568c38c5fa2486612be-1615357412606/b556394e-e5d3-4191-97da-cf5cdc2035fb.jpg",
+      "seller_display_name": "Elias R.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/318638358/original/d61adf14d2cb999c693aa8fcb206dbcb1d9ce5c5.png",
+          "type": "ImageAsset",
+          "id": "318638358_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/318638358/original/c6d6f4d89337269fdb2f077003114a1859bfa4f8.jpg",
+          "type": "ImageAsset",
+          "id": "318638358_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/318638358/original/f8b13da2e25d834bd2169aed0f47559bed4927ed.png",
+          "type": "ImageAsset",
+          "id": "318638358_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "656441a15387e1001d8e8d55",
+          "id": 9528544
+        }
+      ],
+      "attachments": [
+        {
+          "id": "656441a15387e1001d8e8d55",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/roxfwk4exhwoyk1mnap2",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_0.624818,PLACEHOLDER/roxfwk4exhwoyk1mnap2.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "nl",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "search_engine",
+          "value": [
+            "google",
+            "youtube"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/minmarketing",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 123,
+        "score": 4.9389167
+      },
+      "gig_url": "/minmarketing/set-up-your-google-ads-campaign-including-youtube",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 197695258,
+      "category_id": 5,
+      "sub_category_id": 435,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-converting-facebook-and-instagram-ads-copy",
+      "title": "write converting facebook and instagram ads copy",
+      "seller_name": "minmarketing",
+      "seller_id": 103393286,
+      "seller_country": "BE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/b3999675def1e568c38c5fa2486612be-1615357412606/b556394e-e5d3-4191-97da-cf5cdc2035fb.jpg",
+      "seller_display_name": "Elias R.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/197695258/original/10a84f527b20cce2fe898db2ddbf6df394705740.png",
+          "type": "ImageAsset",
+          "id": "197695258_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "nl",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "advertising_medium",
+          "value": [
+            "mobile_ads",
+            "social_media_ads"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/minmarketing",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 123,
+        "score": 4.9389167
+      },
+      "gig_url": "/minmarketing/write-converting-facebook-and-instagram-ads-copy",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 340622892,
+      "category_id": 2,
+      "sub_category_id": 194,
+      "nested_sub_category_id": 2427,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-convertkit-expert-and-set-up-sequences",
+      "title": "be your convertkit expert and set up sequences",
+      "seller_name": "minmarketing",
+      "seller_id": 103393286,
+      "seller_country": "BE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/b3999675def1e568c38c5fa2486612be-1615357412606/b556394e-e5d3-4191-97da-cf5cdc2035fb.jpg",
+      "seller_display_name": "Elias R.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/340622892/original/879184f04987a89ea358ba637a28d2e81966a816.png",
+          "type": "ImageAsset",
+          "id": "340622892_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "65643cf163dcfe00115ac01d",
+          "id": 9528493
+        }
+      ],
+      "attachments": [
+        {
+          "id": "65643cf163dcfe00115ac01d",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/c5jskgujjwrcittgxstk",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_0.938294,PLACEHOLDER/c5jskgujjwrcittgxstk.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "nl",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "email_platform",
+          "value": [
+            "convertkit"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "dutch",
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/minmarketing",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 123,
+        "score": 4.9389167
+      },
+      "gig_url": "/minmarketing/be-your-convertkit-expert-and-set-up-sequences",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

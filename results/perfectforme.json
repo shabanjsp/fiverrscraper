@@ -1,0 +1,930 @@
+{
+  "seller": {
+    "user": {
+      "id": "78382862",
+      "name": "perfectforme",
+      "isActivationCompleted": true,
+      "joinedAt": 1562672227,
+      "profile": {
+        "displayName": "Bhupinder S"
+      },
+      "address": {
+        "countryName": "India",
+        "countryCode": "IN"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "HI",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "ES",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/78bd71fa347f186bbd9cbdb841295dc8-1701514868577/b7b6c2df-a0d0-48c6-bc6c-7d0290d871ad.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "132008213"
+        },
+        {
+          "id": "139099798"
+        },
+        {
+          "id": "263141204"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Portrait Perfection: Capturing Your Unique Story in Every Artwork",
+    "description": "Discover the art of personalized storytelling at PerfectForMe with Bhupinder Singh, a digital artist from India. Specializing in portraits that capture the soul, Bhupinder skillfully blends digital painting with photo editing to create artworks that resonate. With over 1000 projects under his belt, PerfectForMe is your destination for efficiency, creativity, and exquisite art. Let Bhupinder transform your stories into timeless pieces, uniquely crafted for you.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Adobe",
+        "certificationName": "Adobe Photoshop CC",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "adobe ",
+        "certificationName": "Adobe Illustrator",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computerscience",
+        "toYear": 2020,
+        "countryCode": "IN",
+        "school": "University of Delhi",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66a0565f07789006758",
+        "name": "Photoshop editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photoshop editor"
+      },
+      {
+        "id": "617fa6680565f077890066dd",
+        "name": "Painting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Painter"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa66b0565f077890067b5",
+        "name": "Portrait drawing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Portrait drawing artist"
+      },
+      {
+        "id": "617fa6480565f07789005d91",
+        "name": "Digital painting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital painter"
+      },
+      {
+        "id": "617fa6480565f07789005d93",
+        "name": "Digital portrait",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital portrait artist"
+      },
+      {
+        "id": "617fa6470565f07789005d86",
+        "name": "Digital art",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Digital artist"
+      },
+      {
+        "id": "617fa6480565f07789005ddd",
+        "name": "Drawing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Drawing artist"
+      },
+      {
+        "id": "617fa66b0565f077890067b4",
+        "name": "Portrait art",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Portrait artist"
+      },
+      {
+        "id": "61a4d8b4758d756a25307be2",
+        "name": "Realistic painting",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Realistic painting designer"
+      },
+      {
+        "id": "617fa6690565f07789006735",
+        "name": "Pet portrait illustration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Pet portrait illustrator"
+      },
+      {
+        "id": "617fa6430565f07789005c0b",
+        "name": "Concept drawing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Concept drawing artist"
+      },
+      {
+        "id": "617fa67a0565f07789006c30",
+        "name": "Wall art",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wall artist"
+      },
+      {
+        "id": "617fa6480565f07789005d94",
+        "name": "Digital printing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital printing expert"
+      },
+      {
+        "id": "617fa6370565f07789005888",
+        "name": "Animal portraits",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Animal portraits artist"
+      },
+      {
+        "id": "617fa6710565f07789006994",
+        "name": "Sketching",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Sketching expert"
+      },
+      {
+        "id": "617fa6470565f07789005d49",
+        "name": "Davinci resolve",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "Davinci resolve expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 53,
+        "nestedCategoryId": 2578
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 340,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "648cb49f35751e0001729bb4",
+          "title": "Custom Paintings",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "64cbabff6d5e150001c9ce79",
+                "attachment": {
+                  "metadata": {
+                    "height": 3375,
+                    "width": 6000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d1f39edbb80739c37b9993562cfafccd-1691069346708/Charlyroberts_Portfolio%20(5).jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "656b10bf99fa3800013f4a62",
+          "title": "Custom Portraits",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "656b10bf99fa3800013f4a67",
+                "attachment": {
+                  "metadata": {
+                    "height": 4500,
+                    "width": 6750
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3a63c176e715b3c5efd07ae2c19ecaa9-1701515286109/Izzymeth_Portfolio.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "656b12012d78240001c69d63",
+          "title": "Custom Paintings",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "656b12012d78240001c69d66",
+                "attachment": {
+                  "metadata": {
+                    "height": 3600,
+                    "width": 5400
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7117ec1e53e3bbb23cf4ab76f23292ac-1701515697302/keelingspree_Digital_Use_2.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "656b13f5aaeb1b0001e38581",
+          "title": "Custom Paintings",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "656b13f5aaeb1b0001e38585",
+                "attachment": {
+                  "metadata": {
+                    "height": 3000,
+                    "width": 6000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7ec780b2a2dfbb4d17fd78100d5bc790-1701516206213/Victhesick.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "648cb45b09a3980001fbe224",
+          "title": "Custom Paintings",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "64cbab462623390001951eb2",
+                "attachment": {
+                  "metadata": {
+                    "height": 2565,
+                    "width": 4560
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/79f593b0dcfca89887a3f7245c7eb3df-1691069174500/Man%20with%20baby_PT.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64cbacb07257a400016f576f",
+          "title": "Custom Pet Portraits",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "64cbacb07257a400016f5770",
+                "attachment": {
+                  "metadata": {
+                    "height": 3375,
+                    "width": 6000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/908429b6cad87fc283d207ff924dafb2-1691069513437/dog%20portrait%20Digital%20Portrait%201.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64cba903bee0810001e4df0a",
+          "title": "Pet Portrait",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "64cba903bee0810001e4df0b",
+                "attachment": {
+                  "metadata": {
+                    "height": 3337,
+                    "width": 5000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/e6983c6d6bf2703cd1d4ec7f0f466ec1-1691068582353/1.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 7
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1563300478
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 815
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 2
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65a4acadbe67470001ed40d6",
+          "comment": "I was skeptical if my vision would come true. I could not be any happier of the results. I would recommend Bhupinder to anyone I come across. Besides being talented he worked hard to create the vision of my dog whom recently passed away. He asked the right questions and was understanding of the situation. I hope he shares my project with others . ",
+          "comment_language": "en",
+          "username": "jorgel1988",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-15T04:08:45",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO517E305E183",
+          "score": 0.6756049,
+          "reviewer_industry": [
+            "education"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 139099798,
+          "gig_slug": "do-realistic-pet-portrait-oil-painting-gift",
+          "gig_category": 3,
+          "gig_sub_category": 340,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65c61710d8c6512d985b9bd5",
+          "comment": "I gave the artist a very difficult, perhaps impossible task. The finished product probably exceeded what I should have expected. I would certainly go to him again if I had a more conventional task.",
+          "comment_language": "en",
+          "username": "ermanning",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-09T12:47:15",
+          "value": 3.7,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/2d85ea024a41501206c5c344ee2e3525-1707471911/Ermanning_Portfolio%20%281%29.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/2d85ea024a41501206c5c344ee2e3525-1707471911/Ermanning_Portfolio%20%281%29.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO112051423C5",
+          "score": 0.5757656,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 132008213,
+          "gig_slug": "do-digital-painting-oil-painting-digital-art-portrait",
+          "gig_category": 3,
+          "gig_sub_category": 340,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "655e047e4a2e4b0001735728",
+          "comment": "This artist always give top tier designs, never disappoints. He does amazing work. He’s my go to guy for out of the box designs and so much more. Please hire this artist if you want an amazing designs",
+          "comment_language": "en",
+          "username": "eveeve68",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-22T13:40:48",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41D8722A486",
+          "score": 0.5518727,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 132008213,
+          "gig_slug": "do-digital-painting-oil-painting-digital-art-portrait",
+          "gig_category": 3,
+          "gig_sub_category": 340,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 190,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65972e73369cc900011eeb0c",
+          "comment": "This was a great experience and the final product came out better than I expected. my dad passed on August so this was very important to me. Thank you for creating this art for me. You have no idea how this touched my heart.",
+          "comment_language": "en",
+          "username": "kvstories",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fdf2700b8439eff8945821931b8e334b-1285384991669408662841/JPEG_20221125_153741_316285550374102579.jpg",
+          "created_at": "2024-01-05T04:35:08",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/92e4a262e2a8e6f5f2b207e95c84bde7-1704396120/kvstories_Portfolio.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/92e4a262e2a8e6f5f2b207e95c84bde7-1704396120/kvstories_Portfolio.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO15F4802581",
+          "score": 0.46378934,
+          "reviewer_industry": [
+            "writing_and_publishing"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 132008213,
+          "gig_slug": "do-digital-painting-oil-painting-digital-art-portrait",
+          "gig_category": 3,
+          "gig_sub_category": 340,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 27,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "657439ec5485e04ba6ac301b",
+          "comment": "Absolutely fantastic! \nThe artist not only delivered an outstanding execution but also showcased brilliance in brainstorming and ideation. The collaborative process was a true highlight, and the end result exceeds all expectations. The ability to translate my vision flawlessly while introducing additional creative elements makes this collaboration truly valuable. \nThanks a million for the impressive art and the delightful artistic journey! \n\nI would wholeheartedly recommend their work at any time.",
+          "comment_language": "en",
+          "username": "tom__s",
+          "reviewer_country_code": "DE",
+          "created_at": "2023-12-09T10:39:36",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/43aa8ccd4d2ead57f7d9d23af029c0c9-1702114981/Tom_Portfolio.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/43aa8ccd4d2ead57f7d9d23af029c0c9-1702114981/Tom_Portfolio.jpg",
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO3BD8D72A41",
+          "score": 0.4157595,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 132008213,
+          "gig_slug": "do-digital-painting-oil-painting-digital-art-portrait",
+          "gig_category": 3,
+          "gig_sub_category": 340,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 815,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 371,
+        "business": 8
+      },
+      "user_id": 78382862,
+      "seller_username": "perfectforme",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 6
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 33
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 774
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "education": "Education",
+        "writing_and_publishing": "Writing & Publishing"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 78382862,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 78382862,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Kolkata",
+    "recent_utc_offset": -330
+  },
+  "gigsData": [
+    {
+      "gig_id": 132008213,
+      "category_id": 3,
+      "sub_category_id": 340,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-digital-painting-oil-painting-digital-art-portrait",
+      "title": "draw a digital realistic portrait in oil painting art",
+      "seller_name": "perfectforme",
+      "seller_id": 78382862,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/78bd71fa347f186bbd9cbdb841295dc8-1701514868577/b7b6c2df-a0d0-48c6-bc6c-7d0290d871ad.png",
+      "seller_display_name": "Bhupinder S",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/132008213/original/9238ce811929a8ebf5a87fe3937c773d87c362c1.jpg",
+          "type": "ImageAsset",
+          "id": "132008213_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/132008213/original/d877690ebe766cba8657ba7bafea3b1b3062a1b2.jpg",
+          "type": "ImageAsset",
+          "id": "132008213_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/132008213/original/a66ca19bce5f1cb4a8fa1f013751e41efeefe3ce.jpg",
+          "type": "ImageAsset",
+          "id": "132008213_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6535fd08f2687a0014c40c50",
+          "id": 9335787
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6535fd08f2687a0014c40c50",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/eezjxhe3jeq0uirtknsa",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_0.882358,PLACEHOLDER/eezjxhe3jeq0uirtknsa.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176688806",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/2d85ea024a41501206c5c344ee2e3525-1707471911/Ermanning_Portfolio%20(1).jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175929175",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/412a074170d2ea46c661c7dc3042541c-1705948045/Pablotripoli1_Digital_Use_2.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175758511",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/8800516f136c00405c2fbd9befc7e42c-1705592459/Pablotripoli1.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "625846deb97bf70001a488d5",
+          "discount_percentage": 10
+        },
+        {
+          "id": "64ca54f7d925720001d61003",
+          "discount_percentage": 20
+        }
+      ],
+      "metadata": [
+        {
+          "type": "illustration_type",
+          "value": [
+            "portrait"
+          ]
+        },
+        {
+          "type": "illustration_style",
+          "value": [
+            "realistic"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 728,
+      "buying_review_rating": 4.9,
+      "seller_url": "/perfectforme",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 815,
+        "score": 4.9300613
+      },
+      "gig_url": "/perfectforme/do-digital-painting-oil-painting-digital-art-portrait",
+      "is_seller_unavailable": false,
+      "price_i": 35,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 139099798,
+      "category_id": 3,
+      "sub_category_id": 340,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-realistic-pet-portrait-oil-painting-gift",
+      "title": "create custom handmade digital pet portrait paintings",
+      "seller_name": "perfectforme",
+      "seller_id": 78382862,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/78bd71fa347f186bbd9cbdb841295dc8-1701514868577/b7b6c2df-a0d0-48c6-bc6c-7d0290d871ad.png",
+      "seller_display_name": "Bhupinder S",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/139099798/original/8146e93a419ce419f4e26ebba6eed4305962d3e9.jpg",
+          "type": "ImageAsset",
+          "id": "139099798_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/139099798/original/c4152f942b3fd23db63ad6b5a23746b68a7944bc.jpg",
+          "type": "ImageAsset",
+          "id": "139099798_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/139099798/original/656a2aa8a93a8cd2c0b3164eb387520e23077fd0.jpg",
+          "type": "ImageAsset",
+          "id": "139099798_3"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "64e3552adf587a001aeacbc7",
+          "id": 8953003
+        }
+      ],
+      "attachments": [
+        {
+          "id": "64e3552adf587a001aeacbc7",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/kq7feld9fng5radp6kt6",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_2.520779,PLACEHOLDER/kq7feld9fng5radp6kt6.png"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "625847320d50530001d005ac",
+          "discount_percentage": 10
+        },
+        {
+          "id": "64ccde542ffe340001378c09",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "illustration_type",
+          "value": [
+            "pet_portrait"
+          ]
+        },
+        {
+          "type": "illustration_style",
+          "value": [
+            "realistic"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 53,
+      "buying_review_rating": 5,
+      "seller_url": "/perfectforme",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 815,
+        "score": 4.9300613
+      },
+      "gig_url": "/perfectforme/do-realistic-pet-portrait-oil-painting-gift",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 263141204,
+      "category_id": 3,
+      "sub_category_id": 53,
+      "nested_sub_category_id": 2578,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-photo-editing-background-change-and-retouching",
+      "title": "do photo editing, background change, and retouching",
+      "seller_name": "perfectforme",
+      "seller_id": 78382862,
+      "seller_country": "IN",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/78bd71fa347f186bbd9cbdb841295dc8-1701514868577/b7b6c2df-a0d0-48c6-bc6c-7d0290d871ad.png",
+      "seller_display_name": "Bhupinder S",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/263141204/original/e596889bcfef8e1e1a1d2b8b2ede98733f250b9f.jpg",
+          "type": "ImageAsset",
+          "id": "263141204_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/263141204/original/57e98612fc0299137655d90ba1c663a178249f57.jpg",
+          "type": "ImageAsset",
+          "id": "263141204_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/263141204/original/78af869a4a7260ff84795c9fea77a1bcaa4e7e5e.jpg",
+          "type": "ImageAsset",
+          "id": "263141204_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "171511754",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/264d8f2dca9d7b98d3092843f4c12a24-1696614734/thank-you-placard-concept-illustration_114360-13436.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "hi",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 3
+        }
+      ],
+      "recurring_options": [],
+      "metadata": [
+        {
+          "type": "type",
+          "value": [
+            "filters_effects",
+            "background_change",
+            "retouching"
+          ]
+        },
+        {
+          "type": "editing_tool",
+          "value": [
+            "adobe_photoshop"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 13,
+      "buying_review_rating": 5,
+      "seller_url": "/perfectforme",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 815,
+        "score": 4.9300613
+      },
+      "gig_url": "/perfectforme/do-photo-editing-background-change-and-retouching",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

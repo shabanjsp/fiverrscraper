@@ -1,0 +1,498 @@
+{
+  "seller": {
+    "user": {
+      "id": "64230244",
+      "name": "proshopify983",
+      "isActivationCompleted": true,
+      "joinedAt": 1500758268,
+      "profile": {
+        "displayName": "Fazal J"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/75bbd6197833e8d5073baca360fc1aa7-1612929005184/b1ce0e21-4b4f-48f1-a9a3-8b6ea8bab6b6.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "99783742"
+        },
+        {
+          "id": "100299594"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Shopify is my middle name ",
+    "description": "I am Fazal Jarral, a developer focused on Shopify/Shopify Plus, with knowledge of web development, e-commerce, and the Shopify platform. All works are carried out taking into the recommendations described by Shopify. I know different things to make your store beautiful and attractive to your customers. I code - you earn.\r\nLet's get to work\r\n\r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6490565f07789005de7",
+        "name": "Dropshipping",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Dropshipping expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa65e0565f077890063dc",
+        "name": "Java",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Java developer"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "JavaScript developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2627
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 487
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 3
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6578a2e80f30da0001e875e8",
+          "comment": "Responsive, clear, knowledgeable, easy to work with, I will definitely be working with him again.",
+          "comment_language": "en",
+          "username": "beefiestrob01",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-12T18:29:16",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO517A95E1383",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 99783742,
+          "gig_slug": "make-a-complete-shopify-dropshiping-website",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2627,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "645767df6369df00011f6c28",
+          "comment": "Very good attention, fast response. Good attitude! Made all what I needed. Proactive person, that I appreciate. ",
+          "comment_language": "en",
+          "username": "agijalelle",
+          "reviewer_country_code": "ES",
+          "created_at": "2023-05-07T09:58:07",
+          "value": 5,
+          "reviewer_country": "Spain",
+          "encrypted_order_id": "FO6272606C6C8",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 99783742,
+          "gig_slug": "make-a-complete-shopify-dropshiping-website",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2627,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1
+        },
+        {
+          "id": "6456b8f19afd6f0001bb1570",
+          "comment": "It was a pleasure working with proshopify983. He is very responsive and offered a creative solution to the issue I was having with my multivendor marketplace.  I definitely recommend him. ",
+          "comment_language": "en",
+          "username": "genatsakiris",
+          "reviewer_country_code": "US",
+          "created_at": "2023-05-06T20:33:25",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO71C01811103",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 99783742,
+          "gig_slug": "make-a-complete-shopify-dropshiping-website",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2627,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "64543298973d0c00014b3a8c",
+          "comment": "Will continue working with him ",
+          "comment_language": "en",
+          "username": "monebrahimi",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-05-05T04:34:02",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO82CCBBA0F08",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 99783742,
+          "gig_slug": "make-a-complete-shopify-dropshiping-website",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2627,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 16
+        },
+        {
+          "id": "6444338c9db11600019314f3",
+          "comment": "Great seller, good service.",
+          "comment_language": "en",
+          "username": "timkuijpers11",
+          "reviewer_country_code": "NL",
+          "created_at": "2023-05-02T19:20:29",
+          "value": 5,
+          "reviewer_country": "Netherlands",
+          "encrypted_order_id": "FO1B29D02043",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 99783742,
+          "gig_slug": "make-a-complete-shopify-dropshiping-website",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2627,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 14
+        }
+      ],
+      "has_next": true,
+      "total_count": 487,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 55
+      },
+      "user_id": 64230244,
+      "seller_username": "proshopify983",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 6
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 9
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 469
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 64230244,
+      "reviews": [
+        {
+          "id": "63b14176b11bc600010262cf",
+          "comment": "great experience, thanks",
+          "comment_language": "en",
+          "username": "devreact47",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6d540566f0d143bbcd8ead58062aa480-1290575171671644724796/JPEG_20221221_224522_585024503354463355.jpg",
+          "created_at": "2023-01-01T08:16:54",
+          "value": 5
+        },
+        {
+          "id": "5d52a25c2a53590001fcd21b",
+          "comment": "Always good to work with you.\nThanks",
+          "comment_language": "en-US",
+          "username": "zeeshan923",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f6fb44f0a005fa56379bb3cd985f6cd9-1542124163926/3221b816-7080-4f67-8de8-48e1a4ddaebb.jpg",
+          "created_at": "2019-08-13T11:43:24",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 64230244,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 99783742,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2627,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "make-a-complete-shopify-dropshiping-website",
+      "title": "do custom shopify coding",
+      "seller_name": "proshopify983",
+      "seller_id": 64230244,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/75bbd6197833e8d5073baca360fc1aa7-1612929005184/b1ce0e21-4b4f-48f1-a9a3-8b6ea8bab6b6.jpg",
+      "seller_display_name": "Fazal J",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/99783742/original/cc95919282f470e098b2338efc8b4187d9e8b393.jpg",
+          "type": "ImageAsset",
+          "id": "99783742_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/99783742/original/6e93891f83d91df01f84265b9ec52ffdf0b154de.jpg",
+          "type": "ImageAsset",
+          "id": "99783742_2"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "shopify"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "landing_page",
+            "blog",
+            "forms",
+            "saas"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 459,
+      "buying_review_rating": 4.9,
+      "seller_url": "/proshopify983",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 487,
+        "score": 4.914442
+      },
+      "gig_url": "/proshopify983/make-a-complete-shopify-dropshiping-website",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 100299594,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2627,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "setup-online-store-using-shopify",
+      "title": "do shopify theme coding , shopify customization",
+      "seller_name": "proshopify983",
+      "seller_id": 64230244,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/75bbd6197833e8d5073baca360fc1aa7-1612929005184/b1ce0e21-4b4f-48f1-a9a3-8b6ea8bab6b6.jpg",
+      "seller_display_name": "Fazal J",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/100299594/original/0598c85f93ffdc2f4cffd00efd2d47a0288aefa5.jpg",
+          "type": "ImageAsset",
+          "id": "100299594_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "shopify"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "landing_page",
+            "blog",
+            "nonprofit",
+            "saas"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 22,
+      "buying_review_rating": 5,
+      "seller_url": "/proshopify983",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 487,
+        "score": 4.914442
+      },
+      "gig_url": "/proshopify983/setup-online-store-using-shopify",
+      "is_seller_unavailable": false,
+      "price_i": 45,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

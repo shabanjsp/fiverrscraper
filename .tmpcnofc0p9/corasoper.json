@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "168431446",
+      "name": "corasoper",
+      "isActivationCompleted": true,
+      "joinedAt": 1705648527,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 168431446,
+      "seller_username": "corasoper",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 168431446,
+      "reviews": [
+        {
+          "id": "65bd1057704fed00015adf87",
+          "comment": "Great buyer ",
+          "comment_language": "en",
+          "username": "alvina_shopify",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6d1c65d079513db1d370ca764f486505-1700917751079/44994248-e444-4210-9640-f32d0d2abb11.jpeg",
+          "created_at": "2024-02-02T15:55:03",
+          "value": 5
+        },
+        {
+          "id": "65bbfd82704fed00015a4dc8",
+          "comment": "The buyer was perfect.\n",
+          "comment_language": "en",
+          "username": "ameliawatson019",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3667c15176f036644d854f17b29d7246-1706271251943/e929a35e-7e3d-40a9-b532-212c05e68c91.jpeg",
+          "created_at": "2024-02-01T20:22:27",
+          "value": 5
+        },
+        {
+          "id": "65bb6010d966f80001d3cefd",
+          "comment": "Thank you for choosing me for your website design project. I am delighted to hear that you had a positive experience and I sincerely hope that you would consider referring me to others. Your recommendation would mean a great deal to me! I eagerly anticipate the opportunity to work with you again in the future.",
+          "comment_language": "en",
+          "username": "usmanghani31",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e118cb0fb2fac0f99d883d42e14fd9f5-1706357310287/fe4164c0-6202-46df-b5d4-57780936d1f9.jpg",
+          "created_at": "2024-02-01T09:10:40",
+          "value": 5
+        },
+        {
+          "id": "65bb3ce8d966f80001d3bef2",
+          "comment": "Outstanding Experience :)",
+          "comment_language": "en",
+          "username": "shahidd8",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f1fae636517f78022258169b61dbb1cb-1335739961675160273922/JPEG_20230131_151752_4624496881373956749.jpg",
+          "created_at": "2024-02-01T06:40:40",
+          "value": 5
+        },
+        {
+          "id": "65baca69d966f80001d38cc7",
+          "comment": "Great Expeirence!",
+          "comment_language": "en",
+          "username": "linda2_designer",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d2ba6cc91242b5bd5d6d4b0bf806f51b-1551208904480/2a9261aa-8f1e-4694-9bff-61453369b8e4.jpg",
+          "created_at": "2024-01-31T22:32:09",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 168431446,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/London",
+    "recent_utc_offset": 0
+  },
+  "gigsData": []
+}

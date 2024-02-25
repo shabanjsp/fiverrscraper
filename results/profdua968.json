@@ -1,0 +1,510 @@
+{
+  "seller": {
+    "user": {
+      "id": "161901261",
+      "name": "profdua968",
+      "isActivationCompleted": true,
+      "joinedAt": 1697285231,
+      "profile": {
+        "displayName": "Prof Dua"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "UR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/e799143bfc8124f185bab23ef6b1db81-1697285427390/39b044e1-0b40-4ff7-86b9-6d189d8363e1.jpeg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "345154902"
+        },
+        {
+          "id": "349239071"
+        },
+        {
+          "id": "354644361"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello there As an entire freelancer on Fiverr, my name is Prof Dua. Client satisfaction with the data input service is my top focus because their success is my success. I've worked in this industry for more than 4 years. I'm ready around-the-clock to give my customers excellent service. I'm dedicated to providing excellent service that fulfills your requirements and beyond your expectations. Please feel free to get in contact with me at any moment to place your purchase if you need help with any kind of data entering.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6460565f07789005d06",
+        "name": "Data entry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data entry expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 121,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 23,
+        "subCategoryId": 457,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 14
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "658da4e4d628ec000185167d",
+          "comment": "Seller was enthusiastic and engaging, but the work wasn't very helpful. However, it is important to note that my task was rather difficult, and the seller would probably provide much better work for a more conventional project.",
+          "comment_language": "en",
+          "username": "cubbybear_",
+          "reviewer_country_code": "CA",
+          "created_at": "2023-12-28T19:24:37",
+          "value": 3,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO1BE8158343",
+          "score": 0.8461678,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354644361,
+          "gig_slug": "do-urgent-essay-writing-tok-ia-ib-ee-ess-hl-sl-exhibition-extended",
+          "gig_category": 5,
+          "gig_sub_category": 121,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65c2b7470dcd5400015bd308",
+          "comment": "Thanks so much ",
+          "comment_language": "en",
+          "username": "mooojuuu",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-06T22:49:10",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO4180B0EB984",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 349239071,
+          "gig_slug": "do-research-and-summaries-essay-writing-economics-sociology-ethics-tok-ia-ib",
+          "gig_category": 5,
+          "gig_sub_category": 121,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c013eec23f2d0001402de6",
+          "comment": "Thanks I really appreciate it",
+          "comment_language": "en",
+          "username": "mooojuuu",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-04T22:47:29",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3C044F8641",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 349239071,
+          "gig_slug": "do-research-and-summaries-essay-writing-economics-sociology-ethics-tok-ia-ib",
+          "gig_category": 5,
+          "gig_sub_category": 121,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b2a6ec756b9d00017451d9",
+          "comment": "He really helped me and finished the job perfectly \n",
+          "comment_language": "en",
+          "username": "haifathamer",
+          "reviewer_country_code": "SA",
+          "created_at": "2024-01-25T18:30:27",
+          "value": 5,
+          "reviewer_country": "Saudi Arabia",
+          "encrypted_order_id": "FO61DF6040D84",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354644361,
+          "gig_slug": "do-urgent-essay-writing-tok-ia-ib-ee-ess-hl-sl-exhibition-extended",
+          "gig_category": 5,
+          "gig_sub_category": 121,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b1e5be1e9c4b17782e6a08",
+          "comment": "Great work! delivered on time. Highly recommended 10/10",
+          "comment_language": "en",
+          "username": "johaniarrobino",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-25T11:06:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO517F8C97B83",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 349239071,
+          "gig_slug": "do-research-and-summaries-essay-writing-economics-sociology-ethics-tok-ia-ib",
+          "gig_category": 5,
+          "gig_sub_category": 121,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 26,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 14,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 1
+      },
+      "user_id": 161901261,
+      "seller_username": "profdua968",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 13
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 161901261,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161901261,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 349239071,
+      "category_id": 5,
+      "sub_category_id": 121,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-research-and-summaries-essay-writing-economics-sociology-ethics-tok-ia-ib",
+      "title": "do essay writing, economics, sociology, tok, ia, ib, history, ethics, extended",
+      "seller_name": "profdua968",
+      "seller_id": 161901261,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e799143bfc8124f185bab23ef6b1db81-1697285427390/39b044e1-0b40-4ff7-86b9-6d189d8363e1.jpeg",
+      "seller_display_name": "Prof Dua",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/349239071/original/e88dd7dbda795c3ebbb7719cebf46be4eaf47c65.jpg",
+          "type": "ImageAsset",
+          "id": "349239071_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "ur",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "french",
+            "spanish"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 7,
+      "buying_review_rating": 5,
+      "seller_url": "/profdua968",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 14,
+        "score": 4.857143
+      },
+      "gig_url": "/profdua968/do-research-and-summaries-essay-writing-economics-sociology-ethics-tok-ia-ib",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 354644361,
+      "category_id": 5,
+      "sub_category_id": 121,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-urgent-essay-writing-tok-ia-ib-ee-ess-hl-sl-exhibition-extended",
+      "title": "do essay writing, tok, ia, ib, ee, ess, hl, sl, exhibition, extended, history",
+      "seller_name": "profdua968",
+      "seller_id": 161901261,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e799143bfc8124f185bab23ef6b1db81-1697285427390/39b044e1-0b40-4ff7-86b9-6d189d8363e1.jpeg",
+      "seller_display_name": "Prof Dua",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354644361/original/dfac0c771d6705a66cf367fd1476dd1f1053c411.jpg",
+          "type": "ImageAsset",
+          "id": "354644361_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "ur",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "french",
+            "spanish",
+            "urdu"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 4.3,
+      "seller_url": "/profdua968",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 14,
+        "score": 4.857143
+      },
+      "gig_url": "/profdua968/do-urgent-essay-writing-tok-ia-ib-ee-ess-hl-sl-exhibition-extended",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 345154902,
+      "category_id": 23,
+      "sub_category_id": 457,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-urgent-data-entry-online-research-copy-paste",
+      "title": "do urgent data entry,online research,copy paste",
+      "seller_name": "profdua968",
+      "seller_id": 161901261,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e799143bfc8124f185bab23ef6b1db81-1697285427390/39b044e1-0b40-4ff7-86b9-6d189d8363e1.jpeg",
+      "seller_display_name": "Prof Dua",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/345154902/original/a8471d29e1d238bb2c2aa2d27051460a000e81fe.jpeg",
+          "type": "ImageAsset",
+          "id": "345154902_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "ur",
+          "level": 2
+        },
+        {
+          "code": "fr",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/profdua968",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 14,
+        "score": 4.857143
+      },
+      "gig_url": "/profdua968/do-urgent-data-entry-online-research-copy-paste",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

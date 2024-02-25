@@ -1,0 +1,921 @@
+{
+  "seller": {
+    "user": {
+      "id": "84649997",
+      "name": "rohithasan",
+      "isActivationCompleted": true,
+      "joinedAt": 1582444367,
+      "profile": {
+        "displayName": "Rohit Hasan"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/c0574ebe6215f52f7c635fed863f2ab6-1582446912903/a58dc450-5803-43e0-8674-6481aa9f49b9.jpg"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "177584307"
+        },
+        {
+          "id": "147414325"
+        },
+        {
+          "id": "296822713"
+        },
+        {
+          "id": "334490269"
+        }
+      ]
+    },
+    "notableClients": [
+      {
+        "endedAt": null,
+        "startedAt": 1646092800,
+        "description": "This client had an issue with failed email authentication & mails were landing in spam due to poor sender reputation. I have fixed SPF, DKIM, and DMARC & boosted sender reputation. Then mails started landing in Inboxes with 100% email authentication.",
+        "company": {
+          "description": "Take your eCommerce store profits from drabby to FABULOUS with Hashtag Monday. Binge-readable emails that win the hearts and wallets of raving subscribers!",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/d3b7ce726f128d20aff872ecb71747d1-1656924944160/monday.png"
+            }
+          },
+          "name": "Hashtag Monday",
+          "industry": {
+            "slug": "Ecommerce"
+          }
+        }
+      }
+    ],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Certified Email Deliverability Expert and Problem Solver",
+    "description": "I am an Email Deliverability expert & Researcher. \r\nOver the past 4 years, I have dealt with 1500+ clients in this field. With my skills and experience, I can help anyone with fixing & increasing e-mail deliverability, mail server deployment & any kind of support related to mailing.\r\n\r\nI always keep myself updated with the latest technologies for being competent enough. Cybersecurity, Web hosting, DNS Management, Email Marketing, IoT & Problem-solving are the highlighted areas that I'm specialized in.",
+    "isVerified": false,
+    "hasLoyaltyScores": true,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": {
+      "type": "IMAGE",
+      "scanStatus": "PASSED",
+      "fileName": "fiverr_cover.png",
+      "previewUrl": {
+        "transformation": "SELLER_PROFILE_COVER_WIDE_PREVIEW",
+        "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_seller_cover_wide/v1/attachments/seller/profile_background_image/6075d7b85d05f9965118d217812c6839-1647376500083/fiverr_cover.png"
+      }
+    },
+    "certifications": [
+      {
+        "receivedFrom": "Hubspot",
+        "certificationName": "Email Marketing Certified",
+        "year": 2022
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science and engineering",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "North South University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6450565f07789005cdc",
+        "name": "Cybersecurity",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Cybersecurity & data protection expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e97",
+        "name": "Embedded systems",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Embedded systems expert"
+      },
+      {
+        "id": "617fa6620565f07789006510",
+        "name": "Linux",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Linux expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e82",
+        "name": "Email marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email marketer"
+      },
+      {
+        "id": "617fa64b0565f07789005e78",
+        "name": "Email deliverability",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email deliverability expert"
+      },
+      {
+        "id": "617fa6480565f07789005d8f",
+        "name": "Digital marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital marketer"
+      },
+      {
+        "id": "617fa6420565f07789005bc1",
+        "name": "Cold emails",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cold emails expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e8c",
+        "name": "Email server development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email server developer"
+      },
+      {
+        "id": "617fa6480565f07789005dc1",
+        "name": "DNS management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "DNS manager"
+      },
+      {
+        "id": "617fa64b0565f07789005e8a",
+        "name": "Email security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email security expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e86",
+        "name": "Email platform support",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email platform support expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e92",
+        "name": "Email validation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email validation expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e83",
+        "name": "Email migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email migration expert"
+      },
+      {
+        "id": "617fa64b0565f07789005e81",
+        "name": "Email management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email manager"
+      },
+      {
+        "id": "617fa64b0565f07789005e7c",
+        "name": "Email hosting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email hosting expert"
+      },
+      {
+        "id": "617fa65c0565f07789006397",
+        "name": "IOT",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "IOT expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 194,
+        "nestedCategoryId": 2132
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 146,
+        "nestedCategoryId": 2778
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1593713979
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 969
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "TOP_RATED_SELLER",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65776e11332f047f79da6322",
+          "comment": "The best of the best! Trust me when I tell you to work with Rohit. He went above and beyond to help me. I'm surprised he did all that he did and to help me out. A+++ . I'd say he's the best person I've ever worked with on Fiverr. Don't hesitate and work with Rohit!",
+          "comment_language": "en",
+          "username": "davis25",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/68b2738138cd323a59ca0931fdda3404-33215741664501750.49025/03F40A6B-48E0-405D-AE69-13E6227225CA",
+          "created_at": "2023-12-11T20:17:12",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/88ff6be2725dc735ab7a43f0e7354ae8-1702324786/Screenshot%202023-12-12%20at%201.30.48%E2%80%AFAM.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/88ff6be2725dc735ab7a43f0e7354ae8-1702324786/Screenshot%202023-12-12%20at%201.30.48%E2%80%AFAM.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO42355FF3FC8",
+          "score": 0.7918347,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 147414325,
+          "gig_slug": "fix-emails-going-to-spam-and-improve-email-deliverability",
+          "gig_category": 10,
+          "gig_sub_category": 146,
+          "gig_nested_sub_category": 2778,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6582298be552bf4cf384e68e",
+          "comment": "This is my second time ordering this service, as the first time our email open rate increased from 12% to 30%. This time Rohit also let me know that there are problems with our email list that we should look into to improve our results, and he offered to check our email content for spammy keywords. He provides a comprehensive suite of email services at a great value and I'm happy with the results. ",
+          "comment_language": "en",
+          "username": "nncreamer",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-20T10:42:58",
+          "value": 4.7,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO8239FE182C4",
+          "score": 0.7778861,
+          "reviewer_industry": [
+            "medical_or_pharmaceutical"
+          ],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 147414325,
+          "gig_slug": "fix-emails-going-to-spam-and-improve-email-deliverability",
+          "gig_category": 10,
+          "gig_sub_category": 146,
+          "gig_nested_sub_category": 2778,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b047687716c46252980015",
+          "comment": "The technical proficiency of this freelancer was outstanding! I would highly recommend them to help with email deliverability and technical set up of deliverability for email marketing in general email deliverability. The freelancer was quick to gain access to my accounts that they needed and had no issues with access.",
+          "comment_language": "en",
+          "username": "cblakem",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/65191475/original/1504586690316_facebook20170905-12288-1bbhjvi.jpg",
+          "created_at": "2024-01-24T08:16:52",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO523E6ED20C7",
+          "score": 0.64882636,
+          "reviewer_industry": [
+            "education",
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 147414325,
+          "gig_slug": "fix-emails-going-to-spam-and-improve-email-deliverability",
+          "gig_category": 10,
+          "gig_sub_category": 146,
+          "gig_nested_sub_category": 2778,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 68,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65743166e0e98673f946ed4a",
+          "comment": "Hasan's expertise in email deliverability was evident as he quickly identified and resolved key issues, significantly enhancing our email engagement and reach. His detailed approach, coupled with excellent communication skills, made the process smooth and understandable. I highly recommend Hasan for anyone looking to improve their email marketing effectiveness; his skill and dedication are truly exceptional.",
+          "comment_language": "en",
+          "username": "petemiller89",
+          "reviewer_country_code": "CZ",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6f5b9eae898f08d6610d571c053b81d3-1635239029305/2a997559-3f32-4ee9-a612-e6f92e54b74d.jpg",
+          "created_at": "2023-12-09T09:22:02",
+          "value": 5,
+          "reviewer_country": "Czech Republic",
+          "encrypted_order_id": "FO6238A862FC6",
+          "score": 0.47682112,
+          "reviewer_industry": [
+            "retail_and_wholesale"
+          ],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 147414325,
+          "gig_slug": "fix-emails-going-to-spam-and-improve-email-deliverability",
+          "gig_category": 10,
+          "gig_sub_category": 146,
+          "gig_nested_sub_category": 2778,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 26,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658aa943d628ec0001837c08",
+          "comment": "It is amazing working with this intelligent guy. Communication is very clear and fast. His works is proven as very valuable and the delivery never dissapoints me. Thanks again champ!",
+          "comment_language": "en",
+          "username": "suroesh",
+          "reviewer_country_code": "NL",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/06f90538a9d12ea24f56b5e3cf7c6f52-1606323101486/83c727f8-7461-4cc1-b6ab-2abcdf2c89f4.jpg",
+          "created_at": "2023-12-26T10:39:32",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/eff078fa67e5379149085680dd085dda-1703494107/Screenshot%202023-12-25%20at%202.42.44%E2%80%AFPM.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/eff078fa67e5379149085680dd085dda-1703494107/Screenshot%202023-12-25%20at%202.42.44%E2%80%AFPM.png",
+          "reviewer_country": "Netherlands",
+          "encrypted_order_id": "FO2BE6009742",
+          "score": 0.46878213,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 147414325,
+          "gig_slug": "fix-emails-going-to-spam-and-improve-email-deliverability",
+          "gig_category": 10,
+          "gig_sub_category": 146,
+          "gig_nested_sub_category": 2778,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 12,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 969,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 514,
+        "business": 116
+      },
+      "user_id": 84649997,
+      "seller_username": "rohithasan",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 965
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {}
+    },
+    "selling_reviews": {
+      "user_id": 84649997,
+      "reviews": [
+        {
+          "id": "65cbd34c9016e90001416f19",
+          "comment": "We appreciate your feedback and are delighted to know you enjoyed our service. ",
+          "comment_language": "en",
+          "username": "wr_corptax",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4ce195b0ff8c0fe07c343e263df4d07b-1664274813755/4ff4a222-0b92-44e1-93e5-fd82b3947274.png",
+          "created_at": "2024-02-13T20:38:36",
+          "value": 5
+        },
+        {
+          "id": "65c7d5386674600001d9ebfd",
+          "comment": "Thanks a lot, it's always a pleasure working with clients like you and knowing what they need.",
+          "comment_language": "en",
+          "username": "wr_corptax",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4ce195b0ff8c0fe07c343e263df4d07b-1664274813755/4ff4a222-0b92-44e1-93e5-fd82b3947274.png",
+          "created_at": "2024-02-10T19:57:44",
+          "value": 5
+        },
+        {
+          "id": "64a95f21b1568c0001d6facc",
+          "comment": "Amazing experience working with this project. ",
+          "comment_language": "en",
+          "username": "logoflow",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/72867198f897ad13715dc583607abd25-1646719437960/396247a2-16d7-4e0e-9496-fbb43f978f97.jpg",
+          "created_at": "2023-07-08T13:05:41",
+          "value": 5
+        },
+        {
+          "id": "643027710cbb23000108a0af",
+          "comment": "Thank you so much, we really appreciate your positive gig feedback!",
+          "comment_language": "en",
+          "username": "wr_corptax",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4ce195b0ff8c0fe07c343e263df4d07b-1664274813755/4ff4a222-0b92-44e1-93e5-fd82b3947274.png",
+          "created_at": "2023-04-07T14:23:45",
+          "value": 5
+        },
+        {
+          "id": "641de5ded50731000135e8aa",
+          "comment": "Great client, excellent communication and every task had clear instructions which the client provided immediately after accepting the job. Looking forward to hearing from you again in future.",
+          "comment_language": "en",
+          "username": "wr_corptax",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4ce195b0ff8c0fe07c343e263df4d07b-1664274813755/4ff4a222-0b92-44e1-93e5-fd82b3947274.png",
+          "created_at": "2023-03-24T18:03:10",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 84649997,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 147414325,
+      "category_id": 10,
+      "sub_category_id": 146,
+      "nested_sub_category_id": 2778,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "fix-emails-going-to-spam-and-improve-email-deliverability",
+      "title": "fix emails going to spam and improve email deliverability",
+      "seller_name": "rohithasan",
+      "seller_id": 84649997,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c0574ebe6215f52f7c635fed863f2ab6-1582446912903/a58dc450-5803-43e0-8674-6481aa9f49b9.jpg",
+      "seller_display_name": "Rohit Hasan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/147414325/original/1143c26d9a4c35406759366a223b7d45a068a37a.png",
+          "type": "ImageAsset",
+          "id": "147414325_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176781578",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/2af7d0502ff94cb467be522fcee5abd5-1707666677/Screenshot%202.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176713649",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/810f58cfe39ffab316c079ce089a34d2-1707507606/Screenshot.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176486418",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/83dd0841525be3be1ec0623dc004d67a-1707070331/Screenshot%204.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176485060",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/425412fe5c164aecfb4c8e9cda3dbd46-1707068226/Screenshot%202024-02-04%20at%2011.29.46%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "176484511",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/617a18203435b4664c4185b7b20ff309-1707067411/Screenshot%202024-02-04%20at%2011.22.21%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "61cc1fd11bafb40001cc9f57",
+          "discount_percentage": 10
+        },
+        {
+          "id": "61cc1fd11bafb40001cc9f58",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "email_provider",
+          "value": [
+            "gmail",
+            "microsoft_outlook",
+            "zoho",
+            "mailchimp",
+            "hubspot"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "security",
+            "spam",
+            "automation",
+            "setup",
+            "configuration"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 688,
+      "buying_review_rating": 5,
+      "seller_url": "/rohithasan",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 969,
+        "score": 4.9446583
+      },
+      "gig_url": "/rohithasan/fix-emails-going-to-spam-and-improve-email-deliverability",
+      "is_seller_unavailable": false,
+      "price_i": 85,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 177584307,
+      "category_id": 10,
+      "sub_category_id": 146,
+      "nested_sub_category_id": 2778,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "fix-g-suite-email-deliverability-and-increase-email-reputation-by-warmup",
+      "title": "fix g suite email deliverability and increase email reputation by warmup",
+      "seller_name": "rohithasan",
+      "seller_id": 84649997,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c0574ebe6215f52f7c635fed863f2ab6-1582446912903/a58dc450-5803-43e0-8674-6481aa9f49b9.jpg",
+      "seller_display_name": "Rohit Hasan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/177584307/original/042fcf5e1be191a45d35edb2ed53d1acc5e9b24f.png",
+          "type": "ImageAsset",
+          "id": "177584307_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176479797",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/bb39e80d0219bd9b4500e32895ce266a-1707059620/Screenshot%202.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175657753",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a4eb2b2f32e1fb4960ef5c27e3eb95cf-1705404013/Screenshot%202024-01-15%20at%208.40.58%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174526307",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c630df95bea150f62cecba1556c4f1cb-1702733442/Screenshot%202.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173315454",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b856ef2e44258269ad7ae88e7216e4ea-1700217443/Screenshot%202023-11-17%20at%204.28.28%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170265395",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e3d207588c3a668b646faaa819429faa-1694195928/Screenshot%202023-09-08%20at%2011.58.09%20PM.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "616e97aedf201700019d13dd",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "email_provider",
+          "value": [
+            "gmail",
+            "yahoo",
+            "microsoft_outlook",
+            "zoho",
+            "hubspot"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "security",
+            "spam",
+            "automation",
+            "setup",
+            "configuration"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 183,
+      "buying_review_rating": 5,
+      "seller_url": "/rohithasan",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 969,
+        "score": 4.9446583
+      },
+      "gig_url": "/rohithasan/fix-g-suite-email-deliverability-and-increase-email-reputation-by-warmup",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 296822713,
+      "category_id": 2,
+      "sub_category_id": 194,
+      "nested_sub_category_id": 2132,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "warmup-and-increase-email-reputation",
+      "title": "warm up and increase email reputation",
+      "seller_name": "rohithasan",
+      "seller_id": 84649997,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c0574ebe6215f52f7c635fed863f2ab6-1582446912903/a58dc450-5803-43e0-8674-6481aa9f49b9.jpg",
+      "seller_display_name": "Rohit Hasan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/296822713/original/fb837ce654684a72c96a576a6ea9896dcfa1f83e.png",
+          "type": "ImageAsset",
+          "id": "296822713_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "172478107",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4993345a8821625bc670c56eaddf9cf6-1698562678/Screenshot%202023-10-29%20at%2012.53.26%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "172212156",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f6758f064379cd7a8e569f9285a3c998-1698046722/Screenshot%202023-10-23%20at%201.20.26%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170368519",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c0167c5899149360fc859f966dc8c973-1694429620/Screenshot%202023-09-10%20at%203.32.21%20PM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "169141982",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/7118084f3cc21aa640898f6d5f884962-1692011874/Screenshot%202023-08-14%20at%205.16.01%20PM.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "63cc0a44c6b19e000128e68e",
+          "discount_percentage": 10
+        },
+        {
+          "id": "63cc0a44c6b19e000128e68f",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "email_platform",
+          "value": [
+            "sendgrid",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 17,
+      "buying_review_rating": 5,
+      "seller_url": "/rohithasan",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 969,
+        "score": 4.9446583
+      },
+      "gig_url": "/rohithasan/warmup-and-increase-email-reputation",
+      "is_seller_unavailable": false,
+      "price_i": 70,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 334490269,
+      "category_id": 2,
+      "sub_category_id": 194,
+      "nested_sub_category_id": 2132,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "setup-spf-dkim-dmarc-and-boost-email-deliverability-8968",
+      "title": "setup spf, dkim, dmarc and boost email deliverability",
+      "seller_name": "rohithasan",
+      "seller_id": 84649997,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/c0574ebe6215f52f7c635fed863f2ab6-1582446912903/a58dc450-5803-43e0-8674-6481aa9f49b9.jpg",
+      "seller_display_name": "Rohit Hasan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/334490269/original/dd38b67724b114473db3d5cf3af98a43467b8c1f.png",
+          "type": "ImageAsset",
+          "id": "334490269_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175256168",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b36420f620f79cea888efa364c363d8d-1704555544/Screenshot%202024-01-06%20at%209.26.36%E2%80%AFPM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "172765738",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/5923844f975d16edf61bd00a86208762-1699127124/Screenshot_2023_1105_014349.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "email_platform",
+          "value": [
+            "mailchimp",
+            "go_highlevel"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 5,
+      "seller_url": "/rohithasan",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 969,
+        "score": 4.9446583
+      },
+      "gig_url": "/rohithasan/setup-spf-dkim-dmarc-and-boost-email-deliverability-8968",
+      "is_seller_unavailable": false,
+      "price_i": 65,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

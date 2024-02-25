@@ -1,0 +1,389 @@
+{
+  "seller": {
+    "user": {
+      "id": "162416486",
+      "name": "office_tasker1",
+      "isActivationCompleted": true,
+      "joinedAt": 1697985140,
+      "profile": {
+        "displayName": "Samiya S"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "BASIC"
+        },
+        {
+          "code": "FR",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/151ae5a766e70e86f5fc863a2020670b-1706120385703/43f11caa-ad1a-4e3a-a1f5-5bf4ed9bd698.jpeg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "357691715"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "My name is Samiya. I am an IT expert and warmly welcome you to my profile. I am an expert in cyber security and cloud computing related tasks and also have a huge knowledge of penetration testing and programming related tasks. My skills will help you to show your work in a novel way. your satisfaction is my priority. Feel free to contact me. Thank you",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Certified from UET",
+        "certificationName": "I got professional certificate in cybersecurity",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "cybersecurity",
+        "toYear": 2021,
+        "countryCode": "PK",
+        "school": "University of engineering & technology",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6450565f07789005cdd",
+        "name": "Cybersecurity assessment",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cybersecurity assessment expert"
+      },
+      {
+        "id": "617fa6450565f07789005cdc",
+        "name": "Cybersecurity",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cybersecurity & data protection expert"
+      },
+      {
+        "id": "617fa6450565f07789005cdf",
+        "name": "Cybersecurity consultation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cybersecurity consultation expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 147,
+        "nestedCategoryId": 2052
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 12
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b2fa9341e5c52d8c22f9e6",
+          "comment": "She is very kind and polite. Quick responsiveness and very understanding and flexible willing to work with your needs. I came back to her for another order and will keep coming back to her! Amazing. ",
+          "comment_language": "en",
+          "username": "saramawani",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/70bfc8780887cf236e346ad34da39c7d-216283701698162213.45383/BAE0105E-A95B-4BAD-A91B-87FC5AC45B05",
+          "created_at": "2024-01-26T02:26:15",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81DE971E382",
+          "score": 0.4180361,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357691715,
+          "gig_slug": "do-cyber-security-tasks-research-case-study-and-essay-writing-0bff",
+          "gig_category": 10,
+          "gig_sub_category": 147,
+          "gig_nested_sub_category": 2052,
+          "relevancy_score": 0.5,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65bce783704fed00015abf80",
+          "comment": "Very good knowledge, and worked with all my needs very highly recommend. Definitely using again",
+          "comment_language": "en",
+          "username": "dd_ttcm",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-02-02T13:14:54",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO317FFB72B85",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357691715,
+          "gig_slug": "do-cyber-security-tasks-research-case-study-and-essay-writing-0bff",
+          "gig_category": 10,
+          "gig_sub_category": 147,
+          "gig_nested_sub_category": 2052,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65a9167c69407620af2eafca",
+          "comment": "Deep understanding and great attention to details. I am blown up by her services once again.",
+          "comment_language": "en",
+          "username": "julie_faith",
+          "reviewer_country_code": "FR",
+          "created_at": "2024-01-18T12:47:45",
+          "value": 5,
+          "reviewer_country": "France",
+          "encrypted_order_id": "FO51DEB656905",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": true,
+          "gig_id": 357691715,
+          "gig_slug": "do-cyber-security-tasks-research-case-study-and-essay-writing-0bff",
+          "gig_category": 10,
+          "gig_sub_category": 147,
+          "gig_nested_sub_category": 2052,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 55,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65a7f6a873dcef1ed6724ea7",
+          "comment": "Professional is so visible in his services. I am impressed.",
+          "comment_language": "en",
+          "username": "michael_caine1",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-17T15:48:41",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO729D65948C7",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 357691715,
+          "gig_slug": "do-cyber-security-tasks-research-case-study-and-essay-writing-0bff",
+          "gig_category": 10,
+          "gig_sub_category": 147,
+          "gig_nested_sub_category": 2052,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 78,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65a40b5abe67470001eccfa0",
+          "comment": "Fabulous service and most amazing work.",
+          "comment_language": "en",
+          "username": "lyla_smith55",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-15T10:47:38",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO629D26BB0C8",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 357691715,
+          "gig_slug": "do-cyber-security-tasks-research-case-study-and-essay-writing-0bff",
+          "gig_category": 10,
+          "gig_sub_category": 147,
+          "gig_nested_sub_category": 2052,
+          "relevancy_score": 0,
+          "price_range_end": 50,
+          "reviews_count_as_buyer": 6,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 12,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 7
+      },
+      "user_id": 162416486,
+      "seller_username": "office_tasker1",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 12
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 162416486,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162416486,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 357691715,
+      "category_id": 10,
+      "sub_category_id": 147,
+      "nested_sub_category_id": 2052,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-cyber-security-tasks-research-case-study-and-essay-writing-0bff",
+      "title": "do cyber security tasks, research, case study and essay writing",
+      "seller_name": "office_tasker1",
+      "seller_id": 162416486,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/151ae5a766e70e86f5fc863a2020670b-1706120385703/43f11caa-ad1a-4e3a-a1f5-5bf4ed9bd698.jpeg",
+      "seller_display_name": "Samiya S",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357691715/original/f9f0098bbe1e166bea504e3144f3826580f25eec.png",
+          "type": "ImageAsset",
+          "id": "357691715_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "fr",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "convert_from",
+          "value": [
+            "doc_docx"
+          ]
+        },
+        {
+          "type": "convert_to",
+          "value": [
+            "pdf"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 6,
+      "buying_review_rating": 5,
+      "seller_url": "/office_tasker1",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 12,
+        "score": 5
+      },
+      "gig_url": "/office_tasker1/do-cyber-security-tasks-research-case-study-and-essay-writing-0bff",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

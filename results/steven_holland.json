@@ -1,0 +1,790 @@
+{
+  "seller": {
+    "user": {
+      "id": "159647192",
+      "name": "steven_holland",
+      "isActivationCompleted": true,
+      "joinedAt": 1694210820,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/daa59c5bb8466754d2fae26fb97946d2-1694605104075/82035d57-d8ea-414d-bafc-3478a50273f4.png"
+    },
+    "approvedGigsCount": 6,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "348450044"
+        },
+        {
+          "id": "348480497"
+        },
+        {
+          "id": "348494317"
+        },
+        {
+          "id": "349694684"
+        },
+        {
+          "id": "349820986"
+        },
+        {
+          "id": "354065912"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": " Hi there! \r\n\r\nI'm Steven Holland, a seasoned content writer specializing in ebook ghostwriting, online course content, article and blog writing, and email copywriting and many more\r\n\r\nWith a strong focus on quality and attention to detail, I pride myself on delivering engaging and impactful content that exceeds client expectations. Let's discuss how I can help bring your ideas to life!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63c0565f07789005a1f",
+        "name": "Book & eBook writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Book & eBook writer"
+      },
+      {
+        "id": "617fa6440565f07789005c7d",
+        "name": "Course content writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Course content writer"
+      },
+      {
+        "id": "617fa6440565f07789005c7e",
+        "name": "Course presentation designer",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Course presentation designer"
+      },
+      {
+        "id": "617fa6390565f0778900591c",
+        "name": "Articles writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Articles writer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 114,
+        "nestedCategoryId": 2404
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": 2767
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 337,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 341,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 347,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.1,
+      "count": 3
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 2
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b2c81441e5c52d8c22f5a9",
+          "comment": "Hey everyone! I just had an amazing experience working with Steven. His work is absolutely top-notch, and the quality is outstanding. He really went above and beyond to deliver exactly what I needed. Not only that, but his communication skills were on point throughout the entire process. I highly recommend Steven for anyone looking for high-quality work and a smooth experience. You won't be disappointed",
+          "comment_language": "en",
+          "username": "alexandrefred",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/99affcaeeccf6c47a3935674adde1bcc-1658248287918/41f5ff53-5c28-4a69-a10c-017c88435194.jpg",
+          "created_at": "2024-01-25T20:48:10",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51DF2AFEC85",
+          "score": 0.68085146,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 348450044,
+          "gig_slug": "be-your-content-writer-real-estate-article-writing-business-and-finance",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2767,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 371,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a2d192be67470001ec1cf1",
+          "comment": "\n\nCollaborating with Steven has been delightful. He demonstrates excellent cooperation, responds promptly, and possesses a clear understanding of my needs. Steven's decisive decision making and professionalism contributed to a seamless and enjoyable transaction. I eagerly anticipate future collaborations with this outstanding buyer!\n\n\n\n",
+          "comment_language": "en",
+          "username": "hannah_wright10",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7ed131950438cbc06358904dddc23a37-1666645635175/660e2397-5b72-4ec8-8549-9b36d4c7d5c7.jpg",
+          "created_at": "2024-01-17T11:17:57",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO423D946A1C8",
+          "score": 0.5515338,
+          "reviewer_industry": [
+            "marketing_or_advertising"
+          ],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 348450044,
+          "gig_slug": "be-your-content-writer-real-estate-article-writing-business-and-finance",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2767,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 243,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6576039c86d74b000187db33",
+          "comment": "This was one of the simplest gigs we have hired for and unfortunately had more trouble getting this done than even more complex gigs.",
+          "comment_language": "en",
+          "username": "chris9596",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a5713cee4b596157eed9463625465a57-651355361578333837377/JPEG_20200106_120356_1044824353633883662.jpg",
+          "created_at": "2023-12-10T18:49:59",
+          "value": 2.3,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41D87D07106",
+          "score": 0.55,
+          "reviewer_industry": [
+            "utilities_or_energy"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 348480497,
+          "gig_slug": "create-and-rebrand-training-manual-training-course-instructional-manual-ppt",
+          "gig_category": 5,
+          "gig_sub_category": 341,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 21,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": false,
+      "total_count": 3,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 2
+      },
+      "user_id": 159647192,
+      "seller_username": "steven_holland",
+      "star_summary": {
+        "communication_valuation": 4.3,
+        "recommend_valuation": 3,
+        "service_valuation": 4
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 2
+        }
+      ],
+      "average_valuation": 4.1,
+      "dynamicTranslations": {
+        "marketing_or_advertising": "Marketing & Advertising",
+        "utilities_or_energy": "Energy & Utilities"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 159647192,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 159647192,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 348450044,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2767,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-content-writer-real-estate-article-writing-business-and-finance",
+      "title": "be your content writer, real estate article writing, business and finance",
+      "seller_name": "steven_holland",
+      "seller_id": 159647192,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/daa59c5bb8466754d2fae26fb97946d2-1694605104075/82035d57-d8ea-414d-bafc-3478a50273f4.png",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/348450044/original/611907c49114532c7cb05e6e2cb3fea5cb0201bc.png",
+          "type": "ImageAsset",
+          "id": "348450044_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/348450044/original/0e838596ce8a32edce1f99bb1b52100af82e21ff.png",
+          "type": "ImageAsset",
+          "id": "348450044_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/348450044/original/b802dbabb23e637fe945a049dafbbbda2db43639.png",
+          "type": "ImageAsset",
+          "id": "348450044_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "financial_services_business",
+            "real_estate"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "informative",
+            "educational",
+            "conversational"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/steven_holland",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 4.111111
+      },
+      "gig_url": "/steven_holland/be-your-content-writer-real-estate-article-writing-business-and-finance",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 348480497,
+      "category_id": 5,
+      "sub_category_id": 341,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-and-rebrand-training-manual-training-course-instructional-manual-ppt",
+      "title": "create and rebrand training manual, training course, instructional manual, ppt",
+      "seller_name": "steven_holland",
+      "seller_id": 159647192,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/daa59c5bb8466754d2fae26fb97946d2-1694605104075/82035d57-d8ea-414d-bafc-3478a50273f4.png",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/348480497/original/cf18e580abf3d04bf1fbaf8156e6be189f2bd2b6.png",
+          "type": "ImageAsset",
+          "id": "348480497_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/348480497/original/7b5ef44dc2d398cd2d175e7a112155ed16221c69.png",
+          "type": "ImageAsset",
+          "id": "348480497_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/348480497/original/97c9781a5078d2f2c2866f34da01472c927648db.png",
+          "type": "ImageAsset",
+          "id": "348480497_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "document_type",
+          "value": [
+            "user_training_manuals",
+            "documentation"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "general"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 2.3,
+      "seller_url": "/steven_holland",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 4.111111
+      },
+      "gig_url": "/steven_holland/create-and-rebrand-training-manual-training-course-instructional-manual-ppt",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 348494317,
+      "category_id": 5,
+      "sub_category_id": 337,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-persuasive-sales-email-copywriting-for-your-email-marketing-campaign",
+      "title": "do persuasive sales email copywriting for your email marketing campaign",
+      "seller_name": "steven_holland",
+      "seller_id": 159647192,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/daa59c5bb8466754d2fae26fb97946d2-1694605104075/82035d57-d8ea-414d-bafc-3478a50273f4.png",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/348494317/original/e1cfaa9645aa3f8001dd0291c88d6d547e6d0142.png",
+          "type": "ImageAsset",
+          "id": "348494317_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/348494317/original/1d938f2c862323b4355507b9889cd21c968ef3b1.png",
+          "type": "ImageAsset",
+          "id": "348494317_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/348494317/original/67efd566999bb4433d2f24e611f20c81bade689c.png",
+          "type": "ImageAsset",
+          "id": "348494317_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "type",
+          "value": [
+            "lead_generation_cold_emailing",
+            "new_product_announcement",
+            "newsletters"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/steven_holland",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 4.111111
+      },
+      "gig_url": "/steven_holland/do-persuasive-sales-email-copywriting-for-your-email-marketing-campaign",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 349694684,
+      "category_id": 5,
+      "sub_category_id": 347,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "beta-read-alpha-read-your-manuscript-sensitive-reader-romance-beta-reader",
+      "title": "beta read, alpha read your manuscript, sensitive reader, romance beta reader",
+      "seller_name": "steven_holland",
+      "seller_id": 159647192,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/daa59c5bb8466754d2fae26fb97946d2-1694605104075/82035d57-d8ea-414d-bafc-3478a50273f4.png",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/349694684/original/97f666d816a98abfdfc2c0413c15efc0a9759b60.png",
+          "type": "ImageAsset",
+          "id": "349694684_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/349694684/original/8fe20eb93eb2c269315422fd0fa2b35c7601c19e.png",
+          "type": "ImageAsset",
+          "id": "349694684_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/349694684/original/27ae23a6e70e200015d582901bf6b41ec53bb9ab.png",
+          "type": "ImageAsset",
+          "id": "349694684_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "genre",
+          "value": [
+            "romance"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/steven_holland",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 4.111111
+      },
+      "gig_url": "/steven_holland/beta-read-alpha-read-your-manuscript-sensitive-reader-romance-beta-reader",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 349820986,
+      "category_id": 5,
+      "sub_category_id": 114,
+      "nested_sub_category_id": 2404,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "edit-proofread-your-personal-statement-statement-of-purpose",
+      "title": "edit, proofread  your personal statement, statement of purpose",
+      "seller_name": "steven_holland",
+      "seller_id": 159647192,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/daa59c5bb8466754d2fae26fb97946d2-1694605104075/82035d57-d8ea-414d-bafc-3478a50273f4.png",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/349820986/original/a33f93ba25fc5671046e60bd99bf0112d447575e.png",
+          "type": "ImageAsset",
+          "id": "349820986_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/349820986/original/780ef1d675245055701b63ad7e198619b42e0843.png",
+          "type": "ImageAsset",
+          "id": "349820986_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/349820986/original/5747ae8e9ddd40cf38dfb70bf0f1e4f3e4aeb127.png",
+          "type": "ImageAsset",
+          "id": "349820986_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "personal_statement"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/steven_holland",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 4.111111
+      },
+      "gig_url": "/steven_holland/edit-proofread-your-personal-statement-statement-of-purpose",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 354065912,
+      "category_id": 5,
+      "sub_category_id": 114,
+      "nested_sub_category_id": 2404,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "professionally-edit-your-personal-statement",
+      "title": "professionally edit your personal statement, statement of purpose",
+      "seller_name": "steven_holland",
+      "seller_id": 159647192,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/daa59c5bb8466754d2fae26fb97946d2-1694605104075/82035d57-d8ea-414d-bafc-3478a50273f4.png",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354065912/original/bf64932308fc8a26ea1d4c5ecbf35180250bdcf4.png",
+          "type": "ImageAsset",
+          "id": "354065912_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/354065912/original/4debd9bfc4c6fa25978d8ed08b4c68c3d6865dba.png",
+          "type": "ImageAsset",
+          "id": "354065912_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/354065912/original/cd03fa727acb1a04a088c858e4bd72344aa7764f.png",
+          "type": "ImageAsset",
+          "id": "354065912_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "personal_statement",
+            "generic"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/steven_holland",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 3,
+        "score": 4.111111
+      },
+      "gig_url": "/steven_holland/professionally-edit-your-personal-statement",
+      "is_seller_unavailable": false,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

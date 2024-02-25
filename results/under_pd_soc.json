@@ -1,0 +1,156 @@
+{
+  "seller": {
+    "user": {
+      "id": "168250253",
+      "name": "under_pd_soc",
+      "isActivationCompleted": true,
+      "joinedAt": 1705430321,
+      "profile": {
+        "displayName": "Colby"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/a53d14c03266d68ea1362edd94f4d1af-1706013139383/cd1c0ce1-4b8a-4092-a76e-3965b5e2caf4.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Underpaid Society is a Clothing and Apparel Streetwear Brand",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 168250253,
+      "seller_username": "under_pd_soc",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 168250253,
+      "reviews": [
+        {
+          "id": "65cabf1f01a751000126ebf5",
+          "comment": "Thank you for trusting my service",
+          "comment_language": "en",
+          "username": "hidanhid",
+          "reviewer_country_code": "ID",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/eee428c4bc4d643955e34d7b2b133503-911156151647624733794/JPEG_20220319_003211_5491495250027068980.jpg",
+          "created_at": "2024-02-13T01:00:15",
+          "value": 5
+        },
+        {
+          "id": "65b80cf4f760630001ea3472",
+          "comment": "It was a pleasure working with Colby, looking forward to future collaborations!",
+          "comment_language": "en",
+          "username": "irfan185",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cc3608b2d9cf989c69a1ea8c27718fbb-495404831629897991.006967/CD267576-5CEF-4DD5-A02A-FB368A2EE900",
+          "created_at": "2024-01-29T20:39:16",
+          "value": 5
+        },
+        {
+          "id": "65adb06de7303e000182b8c1",
+          "comment": "It has been an absolute pleasure working with you! Your clear communication, collaborative approach, and valuable input have made this project a great success. Looking forward to future projects together. Thank you!",
+          "comment_language": "en",
+          "username": "shaon__khan",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cdc99abad95a8061ee87aa3651252348-627298201543183164231/JPEG_20181126_035923_132824377862258916.jpg",
+          "created_at": "2024-01-22T00:01:49",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 168250253,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

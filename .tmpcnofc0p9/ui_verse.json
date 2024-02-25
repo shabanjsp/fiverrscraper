@@ -1,0 +1,919 @@
+{
+  "seller": {
+    "user": {
+      "id": "156219538",
+      "name": "ui_verse",
+      "isActivationCompleted": true,
+      "joinedAt": 1689847574,
+      "profile": {
+        "displayName": "Abdulla Mahmud"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "BN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/9b26a2ad64e2e48b4560c0d800344aa6-1706440035083/d9dd688a-810d-4828-a057-1cb22de3041f.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "329644733"
+        },
+        {
+          "id": "349255054"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "A creative UI UX and graphics designer",
+    "description": "I'm a specialist in user interface design (UI) and user experience (UX), with a special focus on mobile app design. With over 6+ years of experience in graphic and UI/UX design in different applications like Figma, Photoshop, and Illustrator, I am skilled in creating interactive-looking websites, mobile app UI/UX design, and branding, logos, and social media design. Please get in touch with me for a no-cost consultation. Looking forward to executing your ideas.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Udemy (Figma UI UX Design Essentials)",
+        "certificationName": "Design Fundamentals",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "Google",
+        "certificationName": "User Experience Foundations (UI/UX) Design",
+        "year": 2017
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "Jagannath University",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6650565f077890065fd",
+        "name": "Mobile apps design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps designer"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6650565f07789006607",
+        "name": "Mobile UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UI designer"
+      },
+      {
+        "id": "617fa6770565f07789006b5a",
+        "name": "UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI designer"
+      },
+      {
+        "id": "617fa6650565f07789006608",
+        "name": "Mobile UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UX designer"
+      },
+      {
+        "id": "617fa6770565f07789006b58",
+        "name": "UI & UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI & UX designer"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c8e",
+        "name": "Website redesign",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website redesign expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c66",
+        "name": "Web template design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web template designer"
+      },
+      {
+        "id": "617fa67c0565f07789006c93",
+        "name": "Website UX writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website UX writer"
+      },
+      {
+        "id": "617fa67b0565f07789006c86",
+        "name": "Website editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website editor"
+      },
+      {
+        "id": "617fa6780565f07789006b7c",
+        "name": "UX writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UX writer"
+      },
+      {
+        "id": "617fa6650565f077890065fa",
+        "name": "Mobile app UX writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile app UX writer"
+      },
+      {
+        "id": "617fa67b0565f07789006c5f",
+        "name": "Web graphics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web graphics designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c87",
+        "name": "Website landing page",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website landing page expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cd6",
+        "name": "Wix website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wix website designer"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress website developer"
+      },
+      {
+        "id": "617fa6380565f077890058c2",
+        "name": "App design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App designer"
+      },
+      {
+        "id": "617fa67c0565f07789006ccf",
+        "name": "Wireframing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wireframing expert"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Customer service representative"
+      },
+      {
+        "id": "617fa6600565f0778900648c",
+        "name": "Landing page development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Landing page developer"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      },
+      {
+        "id": "617fa6780565f07789006b76",
+        "name": "User experience design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "User experience designer"
+      },
+      {
+        "id": "617fa66d0565f07789006837",
+        "name": "Prototype design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Prototype designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 151,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 466,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64da44ae6990a700011e4a1c",
+          "title": "Great Alarm App!",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "654b5179b68d85000105069b",
+                "attachment": {
+                  "metadata": {
+                    "height": 18830,
+                    "width": 9590
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/a7f641a026b11cfd1b4f505a5793abca-1699434855501/A1.2%20O-01-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64da45787ac7b80001faf0cf",
+          "title": "Interactive Fintech App ",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "654b535893b3b40001c2e405",
+                "attachment": {
+                  "metadata": {
+                    "height": 23674,
+                    "width": 13251
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/13fc8718afbbe70b2e4e44a830026500-1699435334111/Barber%20Booking%20App%20(r1)-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64dd291b5dea9e000134235b",
+          "title": "Pet serve UI",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "654b53ddb68d85000105077c",
+                "attachment": {
+                  "metadata": {
+                    "height": 12547,
+                    "width": 8275
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/e7cdabf877a9e9d7e9fb42c4c1f0af5c-1699435425611/sdt%20play-01-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64e8cc84f330570001a9df4a",
+          "title": "Yoga",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "654b540bb68d85000105078c",
+                "attachment": {
+                  "metadata": {
+                    "height": 18364,
+                    "width": 9681
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7959846bd498dd2f01b7e6444cad46c6-1699435513028/Download%202%20O-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64f2b4dc7cb048000168b549",
+          "title": "Movie app's",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "654b542a7e91b000019d0e92",
+                "attachment": {
+                  "metadata": {
+                    "height": 15378,
+                    "width": 8132
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1026928c74c100ced15e68f9793b38b0-1699435545734/Max%20sdt-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "651e5a9cdcd2ff000177c2bb",
+          "title": "Food Delivery App",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "654b548d93b3b40001c2e46d",
+                "attachment": {
+                  "metadata": {
+                    "height": 18295,
+                    "width": 12708
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/80e86ffd63e834e64e57d5cce53a0b5f-1699435616248/Food%20app-01.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "651e5e94d66b8e000145e541",
+          "title": "Translator App",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "651e5e94d66b8e000145e542",
+                "attachment": {
+                  "metadata": {
+                    "height": 3200,
+                    "width": 1440
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1db14f06ac99ca72d20d15774bf3e670-1696489037957/Conversation%20(1).png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "651e60567f3db00001459afd",
+          "title": "Cleaning service landing page",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "651e60567f3db00001459afe",
+                "attachment": {
+                  "metadata": {
+                    "height": 20016,
+                    "width": 5760
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/ab97218a41a2c386b143cef3ec960a3c-1696489515738/Cleaning%20service%20lading%20page%20(1).png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6529019ca8554200016b6e0b",
+          "title": "Coffee Shop App ",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "654b544ab68d85000105079e",
+                "attachment": {
+                  "metadata": {
+                    "height": 17536,
+                    "width": 11490
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/885ba54c89dd630a6962b664d7e11f35-1699435574239/coffee.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "652903038ba62a000126b31a",
+          "title": "Treading app UI design",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "652903038ba62a000126b31b",
+                "attachment": {
+                  "metadata": {
+                    "height": 812,
+                    "width": 375
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/9f59562866317f83e49e44a7aa23080d-1697186556447/Watchlist.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65290449a8554200016b6eb6",
+          "title": "Simple food app",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "65290449a8554200016b6eb7",
+                "attachment": {
+                  "metadata": {
+                    "height": 2436,
+                    "width": 1125
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/b3fc970dd6a3b6ef1d25bce19593d13d-1697186788772/Offer%20screen.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 11
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1689936201
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 24
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "657b57b640a0752481ab3e9e",
+          "comment": "Tuhin is a real designer, high professional and positive mind, provide suggestions and did  extra page for me with no charge, good designer, thumbs up for him. Thank you.",
+          "comment_language": "en",
+          "username": "erikhahn119",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b838427088fff904179252b7b020205f-1649673356167/31bdacc5-d326-4227-b7d7-e4073bd075cc.jpg",
+          "created_at": "2023-12-14T19:33:44",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/495aa12f28c1fc341e32c641e304cce4-1701983448/Frame%201.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/495aa12f28c1fc341e32c641e304cce4-1701983448/Frame%201.png",
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO3BD8E8A641",
+          "score": 0.6613739,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 349255054,
+          "gig_slug": "professional-website-and-dashboard-figma-ux-ui-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 169,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "655827271cde5f0001c947b6",
+          "comment": "Great UX/UI designer and he did it very shortly, also the team made a backup design for the client it was a unique idea of theirs. I really appreciate it. Good Job.",
+          "comment_language": "en",
+          "username": "michaelijones05",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/33d1fad6f5427a4301a5e50678536be3-1648297513146/f87a31d9-0cd9-4d1c-a1fd-02146e440bc1.jpg",
+          "created_at": "2023-11-18T05:24:17",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO523589FF0C7",
+          "score": 0.49361652,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 349255054,
+          "gig_slug": "professional-website-and-dashboard-figma-ux-ui-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 205,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6592901e6fc708262bc6bce0",
+          "comment": "If you're looking for anything UI/UX related, Tuhin is your guy! he made sure we got exactly what we needed and did an outstanding job! Highly recommended.",
+          "comment_language": "en",
+          "username": "clarencelsims",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-01-01T10:31:58",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO111DA8D38C5",
+          "score": 0.44332755,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 329644733,
+          "gig_slug": "do-mobile-app-ui-design-or-mobile-app-ui-ux-design-using-figma",
+          "gig_category": 3,
+          "gig_sub_category": 466,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 157,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65880a9be090545fd3ddb0c7",
+          "comment": "It was such a pleasure to work with Tuhin. He demonstrated professionalism, attention to detail, and a solid understanding of design fundamentals. His ability to communicate clearly and respond to feedback made our collaboration smooth. I'm appreciative of his contributions to our project and would recommend her skills to others seeking a reliable designer.",
+          "comment_language": "en",
+          "username": "donaldahardage",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/38229aad05b21aae67c0a82109aec221-1653381867095/ffdd687a-741b-4dc8-ac8d-ceb7faa8c122.jpg",
+          "created_at": "2023-12-24T10:42:22",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO523B00071C7",
+          "score": 0.43207422,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 349255054,
+          "gig_slug": "professional-website-and-dashboard-figma-ux-ui-design",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 409,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "654d74b9f8dffe00011047fc",
+          "comment": "They fulfilled all my requests, and were a pleasure to work with. They made sure that everything I need was answered and were fantastic all around. Would recommend this group for any of your ui and ux needs.",
+          "comment_language": "en",
+          "username": "kyleouellette",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-10T00:56:03",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/9d7b40286b695ca173249e2d4e13dd6e-1699531032/Individual.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/9d7b40286b695ca173249e2d4e13dd6e-1699531032/Individual.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51D526C7B85",
+          "score": 0.42997888,
+          "reviewer_industry": [
+            "retail_and_wholesale"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 329644733,
+          "gig_slug": "do-mobile-app-ui-design-or-mobile-app-ui-ux-design-using-figma",
+          "gig_category": 3,
+          "gig_sub_category": 466,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 24,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 10,
+        "business": 0
+      },
+      "user_id": 156219538,
+      "seller_username": "ui_verse",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 23
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "retail_and_wholesale": "Retail & Wholesale"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 156219538,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 156219538,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 329644733,
+      "category_id": 3,
+      "sub_category_id": 466,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-mobile-app-ui-design-or-mobile-app-ui-ux-design-using-figma",
+      "title": "do mobile app UI design or mobile app UI UX design using figma",
+      "seller_name": "ui_verse",
+      "seller_id": 156219538,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9b26a2ad64e2e48b4560c0d800344aa6-1706440035083/d9dd688a-810d-4828-a057-1cb22de3041f.jpg",
+      "seller_display_name": "Abdulla Mahmud",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/329644733/original/9895462691bdba985e8d10fe1b31dbac64b6b905.jpg",
+          "type": "ImageAsset",
+          "id": "329644733_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175537575",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/418a27953b11ddc0be0fd6462fe23abd-1705139380/iPhone%2014%20Pro%20Max%20-%208.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "172962872",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/9d7b40286b695ca173249e2d4e13dd6e-1699531032/Individual.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "172417676",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/db64a82b22537093a183ef45e4490880-1698425884/Landing%20-%20Basic%20App%20Landing.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171219786",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/becadc68a9c1232517600814a74e0a25-1696046814/Health%20resources.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170910934",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a13154563ec8c2b97cc347909b03e56f-1695447219/Home.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "graphics_design",
+            "health_fitness",
+            "shopping_e_commerce"
+          ]
+        },
+        {
+          "type": "design_tool",
+          "value": [
+            "figma",
+            "adobe_illustrator",
+            "adobe_photoshop"
+          ]
+        },
+        {
+          "type": "device",
+          "value": [
+            "mobile",
+            "desktop"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 21,
+      "buying_review_rating": 4.9,
+      "seller_url": "/ui_verse",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 24,
+        "score": 4.9444447
+      },
+      "gig_url": "/ui_verse/do-mobile-app-ui-design-or-mobile-app-ui-ux-design-using-figma",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 349255054,
+      "category_id": 3,
+      "sub_category_id": 151,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "professional-website-and-dashboard-figma-ux-ui-design",
+      "title": "design a professional website and dashboard ux ui using figma",
+      "seller_name": "ui_verse",
+      "seller_id": 156219538,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9b26a2ad64e2e48b4560c0d800344aa6-1706440035083/d9dd688a-810d-4828-a057-1cb22de3041f.jpg",
+      "seller_display_name": "Abdulla Mahmud",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/349255054/original/4cd5c6543437669475596dc6fef587ee4ef9236f.jpg",
+          "type": "ImageAsset",
+          "id": "349255054_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "174169266",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/495aa12f28c1fc341e32c641e304cce4-1701983448/Frame%201.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "bn",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "blog",
+            "news_online_magazines"
+          ]
+        },
+        {
+          "type": "platform_and_tool",
+          "value": [
+            "figma",
+            "adobe_photoshop",
+            "webflow"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/ui_verse",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 24,
+        "score": 4.9444447
+      },
+      "gig_url": "/ui_verse/professional-website-and-dashboard-figma-ux-ui-design",
+      "is_seller_unavailable": false,
+      "price_i": 155,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

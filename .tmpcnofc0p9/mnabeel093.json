@@ -1,0 +1,372 @@
+{
+  "seller": {
+    "user": {
+      "id": "150711294",
+      "name": "mnabeel093",
+      "isActivationCompleted": true,
+      "joinedAt": 1683209865,
+      "profile": {
+        "displayName": "Nabeel"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ebfe0646a68b8019c317f33792658d52-1683210947209/262d6b6b-ac66-4bd4-ba69-571523feb94f.jpeg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": false,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "My name is Nabeel Sarwar. I have more than 4 years of experience in this freelance marketplace related to cybersecurity and operating system. In Cybersecurity my expert are CISM, CEH, Cisco certification, CISSP, and GIAC, research papers, expert opinions, project proposals, and also implementation part. I have a Master's degree in Computer Science and a great background in Cybersecurity and Operating-System. I have done many projects with good reviews. Furthermore, I always believe in quality work and client satisfaction is my first priority.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computerengineering",
+        "toYear": 2022,
+        "countryCode": "PK",
+        "school": "University of Central Punjab",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6450565f07789005cdc",
+        "name": "Cybersecurity",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Cybersecurity & data protection expert"
+      },
+      {
+        "id": "617fa65b0565f07789006320",
+        "name": "Information security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Information security expert"
+      },
+      {
+        "id": "617fa6620565f07789006510",
+        "name": "Linux",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Linux expert"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "651c2873607d5d000137c968",
+          "title": "ABM SIMULATOR IN OPERATINGSYSTEM",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "651c2873607d5d000137c969",
+                "attachment": {
+                  "metadata": {
+                    "height": 692,
+                    "width": 1360
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/ab1lu0socta2qfzgu0rh.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "651c29e1d66b8e000145284d",
+          "title": "PREVENTION OF DEADLOCK ",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "651c29e1d66b8e000145284e",
+                "attachment": {
+                  "metadata": {
+                    "height": 768,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/8a7809623fb59298abf551e2a44c9143-1696344157254/Screenshot%20(70).png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "658d6b561c807a00017ab593",
+          "title": "C-SCAN Algorithm",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "658d6b561c807a00017ab594",
+                "attachment": {
+                  "metadata": {
+                    "height": 568,
+                    "width": 616
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/aczz2b34ril0lr84jsf9.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "658d70cbeeb3e60001b98546",
+          "title": " Process strings of characters",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "658d70cbeeb3e60001b98547",
+                "attachment": {
+                  "metadata": {
+                    "height": 664,
+                    "width": 1344
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_large/jyqlwfts9rbag3vo4xe1.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 55
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 2
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6577698d5485e04ba6ac5968",
+          "comment": "Nabeel was very enthusiastic; he delivered things before the deadline, and even the corrections were fast. He didn't follow the requirements and I had to ask for certain things again and again, lacking attention to detail.",
+          "comment_language": "en",
+          "username": "juki_lee",
+          "reviewer_country_code": "KR",
+          "created_at": "2023-12-12T02:07:26",
+          "value": 3,
+          "reviewer_country": "South Korea",
+          "encrypted_order_id": "FO111C3CD5AC5",
+          "score": 0.6487002,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 317468561,
+          "gig_slug": "do-computer-networking-cyber-security-and-digital-forensics",
+          "gig_category": 10,
+          "gig_sub_category": 146,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6561f143644f4e0001d89ed7",
+          "comment": "Thanks to nabeel, i have used him again and again, and will continue using him in future needs. Great person with great turn around time, has saved me alot of time with his work.\n\nDont hesitate to contact him regarding any of your issues, he's an expert in most stuff.",
+          "comment_language": "en",
+          "username": "jacoblarson701",
+          "reviewer_country_code": "AE",
+          "created_at": "2023-11-25T13:07:28",
+          "value": 5,
+          "reviewer_country": "United Arab Emirates",
+          "encrypted_order_id": "FO71D6E695883",
+          "score": 0.60384727,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 317065888,
+          "gig_slug": "help-you-with-the-operating-system-course",
+          "gig_category": 10,
+          "gig_sub_category": 146,
+          "gig_nested_sub_category": 2776,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "655f55231ed21300014d16c3",
+          "comment": "Nabeel is an expert in Operating Systems. He was able to complete my project with plenty of time to spare and the quality of work was excellent. I would happily come back to him for Operating System help.",
+          "comment_language": "en",
+          "username": "f_43fh734h",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-23T13:36:26",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO2BC2746042",
+          "score": 0.60162777,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 317065888,
+          "gig_slug": "help-you-with-the-operating-system-course",
+          "gig_category": 10,
+          "gig_sub_category": 146,
+          "gig_nested_sub_category": 2776,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "656b3a349b6e4000017cdf0a",
+          "comment": "I asked for citations and a reference page, and instead of complying, Nabeel decided to just argue, and find reasons to NOT do it. The order is complete, and I still haven't gotten any citations, any references. I ended up having to fill them in myself. Feels like I wasted my money, because at this point, I could have just done it myself. He is very difficult to work with, but constantly send \"remember to tip\", which is quite annoying. I can't commend nor recommend him.",
+          "comment_language": "en",
+          "username": "kareem1876",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-02T15:56:18",
+          "value": 2.3,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO52378A8E8C7",
+          "score": 0.55,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 317065888,
+          "gig_slug": "help-you-with-the-operating-system-course",
+          "gig_category": 10,
+          "gig_sub_category": 146,
+          "gig_nested_sub_category": 2776,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "654ebf96163f3500012b3153",
+          "comment": "Nabeel recently completed a project for me and his performance was exceptional. His expertise was evident in his high-quality work and problem-solving skills. He was communicative, keeping me informed throughout the project, which was completed on time and exceeded our quality expectations. Nabeel’s professionalism and dedication were impressive, making him a reliable and highly recommendable professional.",
+          "comment_language": "en",
+          "username": "tonychopper737",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-11T04:24:39",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO411A80724C2",
+          "score": 0.43799704,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 317065888,
+          "gig_slug": "help-you-with-the-operating-system-course",
+          "gig_category": 10,
+          "gig_sub_category": 146,
+          "gig_nested_sub_category": 2776,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 55,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 1
+      },
+      "user_id": 150711294,
+      "seller_username": "mnabeel093",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 4
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 48
+        }
+      ],
+      "average_valuation": 4.8
+    },
+    "selling_reviews": {
+      "user_id": 150711294,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 150711294,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": []
+}

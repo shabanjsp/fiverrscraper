@@ -1,0 +1,176 @@
+{
+  "seller": {
+    "user": {
+      "id": "115965939",
+      "name": "staceyngreer",
+      "isActivationCompleted": true,
+      "joinedAt": 1634964499,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Canada",
+        "countryCode": "CA"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 115965939,
+      "seller_username": "staceyngreer",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 115965939,
+      "reviews": [
+        {
+          "id": "659cd632369cc900012259ca",
+          "comment": "Great experience.",
+          "comment_language": "en",
+          "username": "mostafamarmous",
+          "reviewer_country_code": "AE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6255a6a3ea9e1c7a9004ac80a7aacce7-1693653671118/fa777327-f240-42ee-9b67-940d14848444.png",
+          "created_at": "2024-01-09T05:14:26",
+          "value": 5
+        },
+        {
+          "id": "63d4179af7833200017ede84",
+          "comment": "Thanks so much. It is always a pleasure working with you. ",
+          "comment_language": "en",
+          "username": "thpeditingservc",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b74dc643983517b659e86f2a0cad8870-1548598046942/d4da4f4b-fd72-4902-939b-97392c3227be.jpg",
+          "created_at": "2023-01-27T18:27:38",
+          "value": 5
+        },
+        {
+          "id": "63b60a890a9b7f0001f3a53e",
+          "comment": "A pleasure working with you. Thank you. ",
+          "comment_language": "en",
+          "username": "thpeditingservc",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b74dc643983517b659e86f2a0cad8870-1548598046942/d4da4f4b-fd72-4902-939b-97392c3227be.jpg",
+          "created_at": "2023-01-04T23:23:53",
+          "value": 5
+        },
+        {
+          "id": "63a7262d2977b30001069832",
+          "comment": "It is always an outstanding experience working with Stacey.",
+          "comment_language": "en",
+          "username": "umyraff",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/eebd00a4c5f46faf632cf088d2a4da02-1671166051688/ec02addc-e15b-4a64-b6c5-56d1ada1e0dd.jpg",
+          "created_at": "2022-12-24T16:17:49",
+          "value": 5
+        },
+        {
+          "id": "63a16f942977b30001026aeb",
+          "comment": "Buyer is easy to work with. ",
+          "comment_language": "en",
+          "username": "thpeditingservc",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b74dc643983517b659e86f2a0cad8870-1548598046942/d4da4f4b-fd72-4902-939b-97392c3227be.jpg",
+          "created_at": "2022-12-20T08:17:24",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 115965939,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Edmonton",
+    "recent_utc_offset": 420
+  },
+  "gigsData": []
+}

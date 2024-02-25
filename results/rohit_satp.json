@@ -1,0 +1,169 @@
+{
+  "seller": {
+    "user": {
+      "id": "106886427",
+      "name": "rohit_satp",
+      "isActivationCompleted": true,
+      "joinedAt": 1620367145,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/23fca4a05645e00b844d1fcafe8e2dd4-1674248933973/4ac27fc6-edbb-4df1-9f76-066311044680.jpg"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello! I am a songwriter with a passion for creating compelling and emotionally resonant music. Crafting lyrics and melodies that connect with audiences on a deep level.\nLooking forward to writing your next song!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6720565f077890069e8",
+        "name": "Songwriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Songwriter"
+      }
+    ],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 106886427,
+      "seller_username": "rohit_satp",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 106886427,
+      "reviews": [
+        {
+          "id": "65a42c1dbe67470001ecf05a",
+          "comment": "Great client to work with, communication was concise and straight to the point!",
+          "comment_language": "en",
+          "username": "mostafamarmous",
+          "reviewer_country_code": "AE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6255a6a3ea9e1c7a9004ac80a7aacce7-1693653671118/fa777327-f240-42ee-9b67-940d14848444.png",
+          "created_at": "2024-01-14T18:46:53",
+          "value": 5
+        },
+        {
+          "id": "61c4a2aec978ad0001d8c67a",
+          "comment": "Loved it :)",
+          "comment_language": "en-US",
+          "username": "lukas_h7",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/97ecd0869d6920e79b5fea01e27e0efb-1663964332893/b440e688-4cab-4e95-8936-26a9e729cff6.JPG",
+          "created_at": "2021-12-23T16:24:14",
+          "value": 5
+        },
+        {
+          "id": "6144347941ed690001cf8727",
+          "comment": "Thank you, great to work with and looking forward to seeing your results! ",
+          "comment_language": "en-US",
+          "username": "jake_barritt_pt",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d1252bd861d59f45c6cbc6f43a8e7ed5-1580830622934/936876c3-860d-45ba-9005-472e387bad91.JPG",
+          "created_at": "2021-09-17T06:23:53",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 106886427,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

@@ -1,0 +1,947 @@
+{
+  "seller": {
+    "user": {
+      "id": "63692572",
+      "name": "allimhill",
+      "isActivationCompleted": true,
+      "joinedAt": 1498052193,
+      "profile": {
+        "displayName": "Alli Hill"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/ba3e37ab8bba1fac5d182c5980de35aa-1648561372380/24faf0de-5e62-4a19-b15b-8b7121a98339.jpg"
+    },
+    "approvedGigsCount": 6,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "111737453"
+        },
+        {
+          "id": "116756079"
+        },
+        {
+          "id": "144220078"
+        },
+        {
+          "id": "270482071"
+        },
+        {
+          "id": "282155933"
+        },
+        {
+          "id": "338953969"
+        }
+      ]
+    },
+    "notableClients": [
+      {
+        "endedAt": null,
+        "startedAt": 1704067200,
+        "description": "I collaborated with Nutracelle to write optimized blog articles to promote their vitamins and ingredients.",
+        "company": {
+          "description": "Nutracelle's protein powder helps you shake, bake and blend your way to a healthier lifestyle. Our protein powder is allergy free, and 100% natural!",
+          "inFortuneList": false,
+          "logoImage": {
+            "previewUrl": {
+              "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/ed2d2436aec38ee824f8612d63cf473f-1656335934760/nutracelle.PNG"
+            }
+          },
+          "name": "nutracelle",
+          "industry": {
+            "slug": "Health food"
+          }
+        }
+      }
+    ],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Expert Wordsmith, Content Marketer, and SEO Pro",
+    "description": "I'm Alli, expert wordsmith, marketer, meme master, and content creator. A mommy of two, I'm a huge fan of naps, caffeine, the Quiet Game, and Amazon Prime. When I'm away from my keyboard I love to travel to the mountains and the beach. I'm quite talented at finding things. I'm terrible at drawing. I'm average at singing. And I'm 100% okay with that.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "mass communications",
+        "toYear": 2008,
+        "countryCode": "US",
+        "school": "Lander University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63c0565f07789005a0c",
+        "name": "Blog writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blog writer"
+      },
+      {
+        "id": "617fa67b0565f07789006c80",
+        "name": "Website content writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website content writer"
+      },
+      {
+        "id": "617fa6670565f0778900669b",
+        "name": "On-page SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "On-page SEO expert"
+      },
+      {
+        "id": "617fa6620565f0778900652f",
+        "name": "Local SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Local SEO expert"
+      },
+      {
+        "id": "617fa6700565f0778900694d",
+        "name": "SEO audit",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO audit expert"
+      },
+      {
+        "id": "617fa67e0565f07789006d53",
+        "name": "YouTube SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "YouTube SEO expert"
+      },
+      {
+        "id": "617fa6440565f07789005c4e",
+        "name": "Copy editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Copy editor"
+      },
+      {
+        "id": "617fa6440565f07789005c51",
+        "name": "Copywriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Copywriter"
+      },
+      {
+        "id": "617fa66d0565f0778900682d",
+        "name": "Proofreading",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Proofreader"
+      },
+      {
+        "id": "617fa6430565f07789005c35",
+        "name": "Content writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Content writer"
+      },
+      {
+        "id": "617fa66b0565f077890067de",
+        "name": "Press releases",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Press releases expert"
+      },
+      {
+        "id": "617fa63d0565f07789005a5a",
+        "name": "Brand story writing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Brand story writer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 495,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 122,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 114,
+        "nestedCategoryId": 2404
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": 2767
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 335,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": true,
+    "proSubCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 335,
+        "nestedCategoryId": null
+      }
+    ],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [
+      {
+        "platform": "LINKEDIN",
+        "url": "https://www.linkedin.com/in/alli-hill/"
+      },
+      {
+        "platform": "FACEBOOK",
+        "url": "https://www.facebook.com/fleurishfreelance/"
+      }
+    ],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1236
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "TOP_RATED_SELLER",
+    "responseTime": {
+      "inHours": 4
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": {
+      "accountId": "63efdf6be52f93b074c797af",
+      "timezone": "America/New_York"
+    },
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b4524dda9df3104e853593",
+          "comment": "I recently had the pleasure of working with Alli on a crucial project for my business, and I cannot recommend her highly enough. From the outset, Alli was nothing short of phenomenal. Her ability to grasp the intricacies of the project quickly and her keen attention to detail were truly commendable.\n\nWhat set Alli apart was her proactive approach to communication. She didn't just rely on emails or messages; she took the initiative to call and discuss the project's nuances, ensuring that no detail was overlooked. This level of engagement made the collaboration not only efficient but also highly personalized.\n\nAlli's dedication to going above and beyond was evident in every aspect of her work. She didn't just meet the set objectives; she anticipated needs I hadn't even considered and provided solutions that added significant value to the final outcome. Her insights and suggestions were instrumental in elevating the project to a level I hadn't imagined possible.\n\nIn a world where timelines are tight and expectations are high, Alli delivered with a grace and professionalism that was both refreshing and inspiring. Her work was not just about meeting deadlines; it was about ensuring the highest quality and utmost satisfaction.\n\nFor anyone looking for a partner who is truly invested in your success, who communicates openly and effectively, and who brings exceptional skill and creativity to the table, Alli is the person you want on your team. I am immensely grateful for her contribution to our project and look forward to the opportunity to collaborate with her again in the future.",
+          "comment_language": "en",
+          "username": "hawksterii",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-27T00:47:16",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO211FCFA2DC4",
+          "score": 0.71569943,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 144220078,
+          "gig_slug": "write-your-web-page-copy-and-optimize-for-seo",
+          "gig_category": 5,
+          "gig_sub_category": 335,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b191a6500eff518645caab",
+          "comment": "Working with Alli was a breeze. She took my lofty concept of what I needed and ran with it. She was very quick and great communication. She exceeded my expectations and I will be working a lot with Alli in the future! ",
+          "comment_language": "en",
+          "username": "furballbrands",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-24T22:49:44",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO623EE3225C6",
+          "score": 0.48304018,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 111737453,
+          "gig_slug": "branded-seo-blog-articles-to-grow-your-business",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65839d595c478900012bdcb6",
+          "comment": "I hired Alli to optimize two blogs for SEO and they were delivered on time with effective SEO strategies implemented.",
+          "comment_language": "en",
+          "username": "daniellecobo",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-21T02:11:17",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO72992128EC7",
+          "score": 0.36133853,
+          "reviewer_industry": [
+            "education"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 111737453,
+          "gig_slug": "branded-seo-blog-articles-to-grow-your-business",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 16,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a1b0302ffdc500015fd6df",
+          "comment": "Incredible work and an even speedier delivery than the deadline she set.  Alli is so great to work with and takes your suggestions and turns them into successes.",
+          "comment_language": "en",
+          "username": "nutracelle",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/59805779/original/nutracelle_logo_icon_sm_white_bkg.png",
+          "created_at": "2024-01-12T21:34:23",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO211EA11BE44",
+          "score": 0.35429013,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 111737453,
+          "gig_slug": "branded-seo-blog-articles-to-grow-your-business",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 56,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659a0393369cc90001209d4d",
+          "comment": "Thank you! A pleasure as always :)",
+          "comment_language": "en",
+          "username": "nheard",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-07T01:52:25",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31DC5CD3B07",
+          "score": 0,
+          "reviewer_industry": [
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 111737453,
+          "gig_slug": "branded-seo-blog-articles-to-grow-your-business",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 120,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 1236,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 26,
+        "business": 195
+      },
+      "user_id": 63692572,
+      "seller_username": "allimhill",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 4.9,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 6
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 5
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 20
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1204
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {}
+    },
+    "selling_reviews": {
+      "user_id": 63692572,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 60,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 110,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "I consult on SEO, content writing, guest blogging, and building online authority. Maximize our time by having specific questions ready and any relevant websites/resources ready to share.",
+    "gig_id": 302057856,
+    "duration": 10,
+    "account_id": "63efdf6be52f93b074c797af"
+  },
+  "localizationData": {
+    "user_id": 63692572,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 144220078,
+      "category_id": 5,
+      "sub_category_id": 335,
+      "nested_sub_category_id": 0,
+      "is_pro": true,
+      "is_featured": false,
+      "cached_slug": "write-your-web-page-copy-and-optimize-for-seo",
+      "title": "write your web page copy and optimize for SEO",
+      "seller_name": "allimhill",
+      "seller_id": 63692572,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ba3e37ab8bba1fac5d182c5980de35aa-1648561372380/24faf0de-5e62-4a19-b15b-8b7121a98339.jpg",
+      "seller_display_name": "Alli Hill",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/144220078/original/630ee7925c0bffeedc39d09f0f99286b94a9e146.png",
+          "type": "ImageAsset",
+          "id": "144220078_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/144220078/original/0df573dc271c1be475b6d3e5b775e42410e17df1.png",
+          "type": "ImageAsset",
+          "id": "144220078_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "114706487",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/aa8ed189648f2738a73f8e300f98dabf-1591106300/Windshield%20Replacement%20Denver_%20CO.jpeg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "generic_content"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 66,
+      "buying_review_rating": 4.9,
+      "seller_url": "/allimhill",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 1236,
+        "score": 4.952535
+      },
+      "gig_url": "/allimhill/write-your-web-page-copy-and-optimize-for-seo",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 111737453,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "branded-seo-blog-articles-to-grow-your-business",
+      "title": "write branded SEO blog articles to grow your business",
+      "seller_name": "allimhill",
+      "seller_id": 63692572,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ba3e37ab8bba1fac5d182c5980de35aa-1648561372380/24faf0de-5e62-4a19-b15b-8b7121a98339.jpg",
+      "seller_display_name": "Alli Hill",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/111737453/original/785cb88c67cfe9965bdaff2dcf12cf461ddaac9f.jpg",
+          "type": "ImageAsset",
+          "id": "111737453_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/111737453/original/588ee85237faa69a4a6004ecc33f7cb0f1e9993a.jpg",
+          "type": "ImageAsset",
+          "id": "111737453_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "154686032",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/41c8e1972f56b8ebcf7a7d8c28683e68-1665501742/Genymentor%20Meme%202.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "150878312",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b328fb14bfd84f35c59b0d9e73843145-1658758921/Plant-Based%20Protein.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "topic",
+          "value": [
+            "retail_ecommerce",
+            "travel_hospitality"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "conversational"
+          ]
+        },
+        {
+          "type": "article_type",
+          "value": [
+            "instructional_how_to",
+            "listicle",
+            "long_form_article"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1123,
+      "buying_review_rating": 5,
+      "seller_url": "/allimhill",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 1236,
+        "score": 4.952535
+      },
+      "gig_url": "/allimhill/branded-seo-blog-articles-to-grow-your-business",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 116756079,
+      "category_id": 5,
+      "sub_category_id": 114,
+      "nested_sub_category_id": 2404,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "copyedit-your-blog-posts-and-make-them-worth-reading",
+      "title": "copyedit your writing  and make it worth reading",
+      "seller_name": "allimhill",
+      "seller_id": 63692572,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ba3e37ab8bba1fac5d182c5980de35aa-1648561372380/24faf0de-5e62-4a19-b15b-8b7121a98339.jpg",
+      "seller_display_name": "Alli Hill",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/116756079/original/d79920ec897495d66b618f8f81f6e44c61735e0f.png",
+          "type": "ImageAsset",
+          "id": "116756079_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/116756079/original/0c0524ce5b6047daead1ffd5078ebb5e450587a5.jpeg",
+          "type": "ImageAsset",
+          "id": "116756079_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/116756079/original/a1f89c3a36ce1b8d938b1da577a6796424ca03d0.jpg",
+          "type": "ImageAsset",
+          "id": "116756079_3"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "61376c38d8f15000013cb367",
+          "discount_percentage": 0
+        },
+        {
+          "id": "61376c38d8f15000013cb368",
+          "discount_percentage": 0
+        }
+      ],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "content_type",
+          "value": [
+            "article_blog_post",
+            "personal_statement"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 45,
+      "buying_review_rating": 5,
+      "seller_url": "/allimhill",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 1236,
+        "score": 4.952535
+      },
+      "gig_url": "/allimhill/copyedit-your-blog-posts-and-make-them-worth-reading",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 282155933,
+      "category_id": 2,
+      "sub_category_id": 495,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "distribute-your-blog-or-press-release-to-300-websites",
+      "title": "distribute your content to 300 websites",
+      "seller_name": "allimhill",
+      "seller_id": 63692572,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ba3e37ab8bba1fac5d182c5980de35aa-1648561372380/24faf0de-5e62-4a19-b15b-8b7121a98339.jpg",
+      "seller_display_name": "Alli Hill",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/282155933/original/5bb11e2978b3d72c3500c76ca6e1ee5efb3a8fc4.png",
+          "type": "ImageAsset",
+          "id": "282155933_1"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry",
+          "value": [
+            "marketing_advertising",
+            "services"
+          ]
+        },
+        {
+          "type": "type",
+          "value": [
+            "submissions_for_third_party_sites"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/allimhill",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 1236,
+        "score": 4.952535
+      },
+      "gig_url": "/allimhill/distribute-your-blog-or-press-release-to-300-websites",
+      "is_seller_unavailable": false,
+      "price_i": 175,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 270482071,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2767,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-the-ultimate-seo-blog-post-with-outranking",
+      "title": "use surfer SEO to write and optimize your blog article",
+      "seller_name": "allimhill",
+      "seller_id": 63692572,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ba3e37ab8bba1fac5d182c5980de35aa-1648561372380/24faf0de-5e62-4a19-b15b-8b7121a98339.jpg",
+      "seller_display_name": "Alli Hill",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/270482071/original/80dbb46ea87c840cf3ac1f84739c867565997cb6.jpg",
+          "type": "ImageAsset",
+          "id": "270482071_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/270482071/original/9ae945decea8edf0f26e79a5fcd92c7a3b1b886d.jpg",
+          "type": "ImageAsset",
+          "id": "270482071_2"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "marketing_advertising",
+            "retail_wholesale",
+            "sports_fitness",
+            "technology",
+            "travel_tourism"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "persuasive",
+            "informative",
+            "conversational"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/allimhill",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 1236,
+        "score": 4.952535
+      },
+      "gig_url": "/allimhill/create-the-ultimate-seo-blog-post-with-outranking",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 338953969,
+      "category_id": 3,
+      "sub_category_id": 122,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-mockup-of-your-book-or-online-course",
+      "title": "create a mockup of your book or online course",
+      "seller_name": "allimhill",
+      "seller_id": 63692572,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/ba3e37ab8bba1fac5d182c5980de35aa-1648561372380/24faf0de-5e62-4a19-b15b-8b7121a98339.jpg",
+      "seller_display_name": "Alli Hill",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": true,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/338953969/original/0eb4c559f9c66b34e476cfde22f05adf648d28aa.png",
+          "type": "ImageAsset",
+          "id": "338953969_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/338953969/original/db124bb212e7a9e0dca4a23c6e6d6bafd5c71fe4.png",
+          "type": "ImageAsset",
+          "id": "338953969_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/338953969/original/9f32cafb3fd7e9ee4209fa5d90a3b8942d27228d.png",
+          "type": "ImageAsset",
+          "id": "338953969_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/allimhill",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 1236,
+        "score": 4.952535
+      },
+      "gig_url": "/allimhill/create-a-mockup-of-your-book-or-online-course",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

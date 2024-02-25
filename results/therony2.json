@@ -1,0 +1,156 @@
+{
+  "seller": {
+    "user": {
+      "id": "122780465",
+      "name": "therony2",
+      "isActivationCompleted": true,
+      "joinedAt": 1646164544,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/1c900184d18f5d3cf1068736487acb16-1227804651686276424.9763489/7572DEE4-2BB0-43CF-8856-E5CB034A6220"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 122780465,
+      "seller_username": "therony2",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 122780465,
+      "reviews": [
+        {
+          "id": "65a57495be67470001edc452",
+          "comment": "Communication was clear and straight to the point!",
+          "comment_language": "en",
+          "username": "mostafamarmous",
+          "reviewer_country_code": "AE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6255a6a3ea9e1c7a9004ac80a7aacce7-1693653671118/fa777327-f240-42ee-9b67-940d14848444.png",
+          "created_at": "2024-01-15T18:08:21",
+          "value": 5
+        },
+        {
+          "id": "64839e68fd4364000117e595",
+          "comment": "Great experience thank you",
+          "comment_language": "en",
+          "username": "algalib65",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/36869d4b20a4cff0071882ffcc12d8ad-1003380171622285387025/JPEG_20210529_164937_1225138784833653524.jpg",
+          "created_at": "2023-06-09T21:49:28",
+          "value": 5
+        },
+        {
+          "id": "6481c27ffd43640001164c1b",
+          "comment": "Great Buyer",
+          "comment_language": "en",
+          "username": "salarzai44",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9396703c12190975655e60521122e04b-1650828576077/a7cbb8e4-4a39-40bd-adab-15c68a189faa.jpg",
+          "created_at": "2023-06-08T11:58:55",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 122780465,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

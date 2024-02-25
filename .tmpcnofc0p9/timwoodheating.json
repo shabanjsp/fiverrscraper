@@ -1,0 +1,153 @@
+{
+  "seller": {
+    "user": {
+      "id": "162315270",
+      "name": "timwoodheating",
+      "isActivationCompleted": true,
+      "joinedAt": 1697824943,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Belgium",
+        "countryCode": "BE"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 291.0158562993,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 162315270,
+      "seller_username": "timwoodheating",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 162315270,
+      "reviews": [
+        {
+          "id": "65a3c5a4be67470001ec9bf4",
+          "comment": "Thank you great buyer",
+          "comment_language": "en",
+          "username": "studioawest",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f83a229e8191a3f1ec17fa32e4f4b18b-1620271450788/14588d56-a1e9-4016-b93f-e91950fc035c.JPG",
+          "created_at": "2024-01-14T11:29:40",
+          "value": 5
+        },
+        {
+          "id": "6597f879369cc900011f4e35",
+          "comment": "Great buyer, Amazing Experience! Thanks so much.",
+          "comment_language": "en",
+          "username": "sm_techno",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/94e3269d77bf6f72418281f021012757-1696498553804/3c10a677-b0fc-4535-801f-975400dab012.jpg",
+          "created_at": "2024-01-05T12:39:21",
+          "value": 5
+        },
+        {
+          "id": "6547bcfe5af47b0001779506",
+          "comment": "Thank you so much for amazing job and giving me tip don't forget me in next job ",
+          "comment_language": "en",
+          "username": "sidrawaseemsti",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ea82506b0a663a20fa63ddaac63be676-1657022638327/452fddce-b45d-401b-8001-94b3a0d0537f.jpg",
+          "created_at": "2023-11-05T16:04:14",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162315270,
+    "currency": "USD",
+    "locale": "nl-NL",
+    "timezone": "Europe/Brussels",
+    "recent_utc_offset": -60
+  },
+  "gigsData": []
+}

@@ -1,0 +1,168 @@
+{
+  "seller": {
+    "user": {
+      "id": "165935600",
+      "name": "bloodychuckyt",
+      "isActivationCompleted": true,
+      "joinedAt": 1702883841,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/24b22977271c6072d74bf2f5db4c8771-1659356001704333053.720824/431CBFD0-C542-4556-A27F-8989DC127302"
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 31
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 165935600,
+      "seller_username": "bloodychuckyt",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 165935600,
+      "reviews": [
+        {
+          "id": "65be7205b2f0e00001437962",
+          "comment": "Awesome experience thank you! ",
+          "comment_language": "en",
+          "username": "lucassobrinho",
+          "reviewer_country_code": "PT",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ab53ee75cf853d1396a29755574e8156-1695090450195/caae6ee6-d8d1-4a24-9713-c24bd45ad79a.jpg",
+          "created_at": "2024-02-03T17:04:05",
+          "value": 5
+        },
+        {
+          "id": "659a6b82369cc9000120c56f",
+          "comment": "Good buyer",
+          "comment_language": "en",
+          "username": "dbeast_editors",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0ecaff803a8a0453fe5d426c4a06e2ab-1595398838295/3bd09346-1b8e-44be-9d04-08e8c0477990.png",
+          "created_at": "2024-01-07T09:14:42",
+          "value": 5
+        },
+        {
+          "id": "6595272c9d3e510001c47b17",
+          "comment": "outstanding",
+          "comment_language": "unknown",
+          "username": "tommysiu",
+          "reviewer_country_code": "HK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/429c1a9395f66cd8a36b38028ff35aa6-1550219507580/db25059c-6725-4e49-bf82-fa4d2af0a780.jpg",
+          "created_at": "2024-01-03T09:21:48",
+          "value": 5
+        },
+        {
+          "id": "6581d84f1105490001bad39e",
+          "comment": "V.Good buyer tysm ",
+          "comment_language": "en",
+          "username": "dbeast_editors",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0ecaff803a8a0453fe5d426c4a06e2ab-1595398838295/3bd09346-1b8e-44be-9d04-08e8c0477990.png",
+          "created_at": "2023-12-19T17:52:15",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165935600,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

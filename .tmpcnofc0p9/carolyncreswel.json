@@ -1,0 +1,178 @@
+{
+  "seller": {
+    "user": {
+      "id": "79462379",
+      "name": "carolyncreswel",
+      "isActivationCompleted": true,
+      "joinedAt": 1566202830,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Australia",
+        "countryCode": "AU"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6143394593,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 79462379,
+      "seller_username": "carolyncreswel",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 79462379,
+      "reviews": [
+        {
+          "id": "658ee772d628ec000185c73c",
+          "comment": "Thank you so much :)",
+          "comment_language": "en",
+          "username": "rabbiasehar",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/46924a35746c669b4fc44558d8d2aa29-1705489132785/cadf375d-b642-4703-9de5-b825440d4fde.jpg",
+          "created_at": "2023-12-29T15:36:19",
+          "value": 5
+        },
+        {
+          "id": "6575b8c186d74b000187a719",
+          "comment": "Great experience ",
+          "comment_language": "en",
+          "username": "meta_logixs",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/af52051acf5d3657024236a1cf01a9a2-1436256661693234028.5088491/2C3C0252-877C-4250-9B54-E698103D4B1C",
+          "created_at": "2023-12-10T13:10:25",
+          "value": 5
+        },
+        {
+          "id": "655c7992e4ce960001338980",
+          "comment": "Wonderful client. Wishing you blessings, and I'm available whenever you require assistance.",
+          "comment_language": "en",
+          "username": "saqibkhadim5",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/43dc9e3454ed04e3419b948548290bfc-1699880254407/75709deb-96fe-42ff-a3c0-b70bbb09fe78.jpg",
+          "created_at": "2023-11-21T09:34:10",
+          "value": 5
+        },
+        {
+          "id": "6481ec06fd4364000116782b",
+          "comment": "Thank you for your trust in me. Great experience to work with this client.",
+          "comment_language": "en",
+          "username": "itskhadijak",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/da20d67831d26235bf07a32120538c54-1671900595770/563c12d3-f2e2-4a28-8a46-f201a265727b.jpg",
+          "created_at": "2023-06-08T14:56:06",
+          "value": 5
+        },
+        {
+          "id": "6448e9b49db1160001965a60",
+          "comment": "Outstanding experience, Looking forward to work with you again :) ",
+          "comment_language": "en",
+          "username": "ophelia_davis",
+          "reviewer_country_code": "AU",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e7466f8798e4b4a2c6ef31155f37a505-1676221790909/18660c04-9c7b-4361-b1a5-c38190983714.jpg",
+          "created_at": "2023-04-26T09:07:12",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 79462379,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

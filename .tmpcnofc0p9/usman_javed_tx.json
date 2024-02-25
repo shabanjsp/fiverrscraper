@@ -1,0 +1,591 @@
+{
+  "seller": {
+    "user": {
+      "id": "131289436",
+      "name": "usman_javed_tx",
+      "isActivationCompleted": true,
+      "joinedAt": 1659338649,
+      "profile": {
+        "displayName": "Usmanjaved"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/1d54d94e7b535941d6ebcc3cc2091ad5-1688802209184/5b60e76f-654d-4cbc-a8da-52d102f03717.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "268191209"
+        },
+        {
+          "id": "278226685"
+        },
+        {
+          "id": "297789684"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2617
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 104
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "657b2fa4dbf8680001ff1f3a",
+          "comment": "I was pretty new to the whole mobile app development scene, and, to be honest, I kind of lowballed my budget. But these folks were awesome – they gave me a free consultation and walked me through the whole process. At first, I was a bit unsure and hesitant, but they really made me believe in them. Now, I'm having a blast working with them, and I can say for sure that I stumbled upon the absolute dream team. And you know what? I'm totally convinced that they nailed it with the right budget, making this whole collaboration a success.",
+          "comment_language": "en",
+          "username": "edwardkinsley",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6109ea771647d8e13ed1cfb851082fa4-1697630278088/f80e4e95-4e42-4331-9c30-364ad0f42146.jpg",
+          "created_at": "2023-12-14T16:40:49",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/tfazpkeebtj3j7qbto6n.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/tfazpkeebtj3j7qbto6n.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO217BDDDA386",
+          "score": 0.9142816,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 278226685,
+          "gig_slug": "ios-developer-android-developer-mobile-app-development-mobile-app-design",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 125,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "655f2a2a1ed21300014cf77f",
+          "comment": "I want to highlight the excellent communication that has been a hallmark of our collaboration. Your achievements deserve to be recognized and shared, and I would highly recommend your team.",
+          "comment_language": "en",
+          "username": "danielzeo",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/06af5b0987df416c9d9471a0ead1c216-1692961563581/fe472b90-c53c-43c3-b3d4-9a38d93f76c0.jpg",
+          "created_at": "2023-11-23T10:35:16",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO211B897E3C4",
+          "score": 0.69448626,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 278226685,
+          "gig_slug": "ios-developer-android-developer-mobile-app-development-mobile-app-design",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 365,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65561dd2d1cd3b00012709ba",
+          "comment": "The team captured exactly what I needed for my prototype! I am an IT project manager by trade and can say that the execution of this project was stellar. I will be using this seller for my final build and for two more apps that I will be building soon! ",
+          "comment_language": "en",
+          "username": "kingproperty18",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-16T13:50:05",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO7231DCE00C5",
+          "score": 0.6909463,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 278226685,
+          "gig_slug": "ios-developer-android-developer-mobile-app-development-mobile-app-design",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65671806f40cc9000167db57",
+          "comment": "This team knows how to turn ideas into reality. They understood the specific requirements of my e-commerce business and delivered an app that exceeded my expectations. The user interface is intuitive, and the app performs flawlessly. I appreciate their professionalism and would definitely hire them again.",
+          "comment_language": "en",
+          "username": "markhamton",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/93985604d0df0afba7d13204f00add8a-1696246075453/90d45842-34ab-40d8-a1dd-59c063ca2dc1.jpg",
+          "created_at": "2023-11-29T10:54:07",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO8237D2F45C4",
+          "score": 0.62655675,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 278226685,
+          "gig_slug": "ios-developer-android-developer-mobile-app-development-mobile-app-design",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 184,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6554a18ed1cd3b000125e689",
+          "comment": "Working with Usman is a lot of fun. The result is professional and it helps to make the processes user-friendly. They responded to all my wishes and were very patient with me.\n\nI can highly recommend this service provider! \n\nThank you very much!",
+          "comment_language": "en",
+          "username": "jurij_germany",
+          "reviewer_country_code": "DE",
+          "created_at": "2023-11-15T10:47:28",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO21D3D183588",
+          "score": 0.520977,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 278226685,
+          "gig_slug": "ios-developer-android-developer-mobile-app-development-mobile-app-design",
+          "gig_category": 10,
+          "gig_sub_category": 141,
+          "gig_nested_sub_category": 1070,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 104,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 12,
+        "business": 5
+      },
+      "user_id": 131289436,
+      "seller_username": "usman_javed_tx",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 99
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 131289436,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 131289436,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 278226685,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "ios-developer-android-developer-mobile-app-development-mobile-app-design",
+      "title": "ios developer android developer mobile app development mobile app design",
+      "seller_name": "usman_javed_tx",
+      "seller_id": 131289436,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1d54d94e7b535941d6ebcc3cc2091ad5-1688802209184/5b60e76f-654d-4cbc-a8da-52d102f03717.jpg",
+      "seller_display_name": "Usmanjaved",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/278226685/original/b9625ea5fc1e9d7dfb1a65b7c7939000c3ed0e3b.jpg",
+          "type": "ImageAsset",
+          "id": "278226685_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "174448538",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/tfazpkeebtj3j7qbto6n",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/tfazpkeebtj3j7qbto6n.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "174247856",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/uvmdi3qpnaplxxcnujzo",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/uvmdi3qpnaplxxcnujzo.png",
+          "is_visible": true,
+          "type": "video"
+        },
+        {
+          "id": "165904562",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/7f910bbe0f4fdb873b5c744686f42658-1685654024/Screenshot_2023-06-01_at_6.18.13_PM.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "158208497",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/2f828021a719d790cb40e76802658611-1671794425/1663600939965.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "157967238",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3ac059723a7457a7120bc5304059c62a-1671312022/Mobile%20app%20design%20255.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": null,
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "ios_android_dual"
+          ]
+        },
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "react_native"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "laravel",
+            "swiftui",
+            "node_js"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "android_studio",
+            "xcode",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "delivery",
+            "streaming",
+            "restaurant",
+            "shopping",
+            "taxi",
+            "booking",
+            "social_networking",
+            "entertainment",
+            "medical",
+            "health_fitness"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "localization",
+            "performance",
+            "security",
+            "design",
+            "firebase",
+            "analytics"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 102,
+      "buying_review_rating": 4.9,
+      "seller_url": "/usman_javed_tx",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 104,
+        "score": 4.8910255
+      },
+      "gig_url": "/usman_javed_tx/ios-developer-android-developer-mobile-app-development-mobile-app-design",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 297789684,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2617,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "website-development-website-design-and-full-stack-developer",
+      "title": "website development, website design and full stack developer",
+      "seller_name": "usman_javed_tx",
+      "seller_id": 131289436,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1d54d94e7b535941d6ebcc3cc2091ad5-1688802209184/5b60e76f-654d-4cbc-a8da-52d102f03717.jpg",
+      "seller_display_name": "Usmanjaved",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/297789684/original/c7dd9a7f14d41ad2a137ece657416e044ec573ec.png",
+          "type": "ImageAsset",
+          "id": "297789684_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": null,
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css",
+            "javascript",
+            "php",
+            "java",
+            "typescript"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "video",
+            "events",
+            "music",
+            "chat",
+            "booking"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "real_estate",
+            "healthcare",
+            "restaurant",
+            "music",
+            "fashion"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/usman_javed_tx",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 104,
+        "score": 4.8910255
+      },
+      "gig_url": "/usman_javed_tx/website-development-website-design-and-full-stack-developer",
+      "is_seller_unavailable": false,
+      "price_i": 120,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 268191209,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-professional-minimalist-logo-design",
+      "title": "do professional minimalist logo design",
+      "seller_name": "usman_javed_tx",
+      "seller_id": 131289436,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1d54d94e7b535941d6ebcc3cc2091ad5-1688802209184/5b60e76f-654d-4cbc-a8da-52d102f03717.jpg",
+      "seller_display_name": "Usmanjaved",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/268191209/original/5d690fa8370ccf4d29b3672a4f394a8b0f3ffb30.png",
+          "type": "ImageAsset",
+          "id": "268191209_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": null,
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "modern"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/usman_javed_tx",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 104,
+        "score": 4.8910255
+      },
+      "gig_url": "/usman_javed_tx/do-professional-minimalist-logo-design",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

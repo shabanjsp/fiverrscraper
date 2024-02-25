@@ -1,0 +1,176 @@
+{
+  "seller": {
+    "user": {
+      "id": "4578211",
+      "name": "smithburger",
+      "isActivationCompleted": true,
+      "joinedAt": 1426094874,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 4578211,
+      "seller_username": "smithburger",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 4578211,
+      "reviews": [
+        {
+          "id": "65a5502ebe67470001eda3df",
+          "comment": "Thank you so much! t was a pleasure working with you, and I'm grateful for the tip!",
+          "comment_language": "en",
+          "username": "yourtechexpert",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d44dd554b7855f2fb2ff67fc43793a07-1690360247621/ced948a2-b804-4ec4-ba1d-cd12069690a8.png",
+          "created_at": "2024-01-15T15:33:03",
+          "value": 5
+        },
+        {
+          "id": "6478b4daeb3da000011692d5",
+          "comment": "It was a great experience..",
+          "comment_language": "en",
+          "username": "kreativeutsa",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7c3e9ce1b2d82b5a1e9f3029b243d5aa-1679059433352/d974c876-3cb2-4695-97b8-4d52aaf64206.jpg",
+          "created_at": "2023-06-01T15:10:18",
+          "value": 5
+        },
+        {
+          "id": "63a361a72977b300010408d0",
+          "comment": "Great Experience!",
+          "comment_language": "en",
+          "username": "creative_grafxs",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9ce2431172972240e3b2c30672961e6e-1586636129851/5cb168a8-6ac5-42a8-b21f-7fc04a89efb9.png",
+          "created_at": "2022-12-21T19:42:31",
+          "value": 5
+        },
+        {
+          "id": "622812138ea72b0001dca398",
+          "comment": "It was an outstanding experience working with him. He is very professional and easy to work with. I look forward to working with him again in the future! 😊",
+          "comment_language": "en-US",
+          "username": "cloudgurus",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5e79a18a3767013aaa43b73e72fb2d6b-1557486937230/29349e2e-42e7-4ed3-9e94-00e7c04a75c6.jpg",
+          "created_at": "2022-03-09T02:33:55",
+          "value": 5
+        },
+        {
+          "id": "60bfb7671f55550001f50d0e",
+          "comment": "Thank you!!",
+          "comment_language": "en-US",
+          "username": "nuwanoviti",
+          "reviewer_country_code": "LK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9d417cdfbb2d8ace88089065a16ab83d-1559913439553/3fbaa8c3-1333-4f5b-aca8-6c07005b2dbf.jpg",
+          "created_at": "2021-06-08T18:31:03",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 4578211,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

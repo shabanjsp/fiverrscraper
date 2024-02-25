@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "158037350",
+      "name": "kaile71",
+      "isActivationCompleted": true,
+      "joinedAt": 1692114905,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 158037350,
+      "seller_username": "kaile71",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 158037350,
+      "reviews": [
+        {
+          "id": "65bb847cd966f80001d3e151",
+          "comment": "Amazing Buyer",
+          "comment_language": "en",
+          "username": "md_fasal",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6f5d30143072a993d14cab6348ebcf9c-1668854325914/2d07982b-49cb-4288-a165-4c5bde612fb4.jpg",
+          "created_at": "2024-02-01T11:46:04",
+          "value": 5
+        },
+        {
+          "id": "65b4cac1756b9d000175789c",
+          "comment": "excellent experience ",
+          "comment_language": "en",
+          "username": "ejaz_ali10",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/71670a135a2595789a179cd1c0c0fbc0-1700856586637/ab169aee-2b1d-47e5-9e05-f21a3166aa92.jpg",
+          "created_at": "2024-01-27T09:20:01",
+          "value": 5
+        },
+        {
+          "id": "65b4caa0756b9d0001757890",
+          "comment": "great buyer ",
+          "comment_language": "en",
+          "username": "jawad_latif",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/09c739f431536d8a060ca5387ffc6eaf-1700770201269/e325b6f3-96da-4da2-a14c-13dc1e73c3ce.jpg",
+          "created_at": "2024-01-27T09:19:28",
+          "value": 5
+        },
+        {
+          "id": "65b4ca83756b9d0001757882",
+          "comment": "great experience ",
+          "comment_language": "en",
+          "username": "waqas_raza20",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8617f9772aa3c43ed7471b31a06d919d-1700776740643/3ba0fa21-7a15-46e4-b0ec-3a74c3a57cf9.jpg",
+          "created_at": "2024-01-27T09:18:59",
+          "value": 5
+        },
+        {
+          "id": "65b3d410756b9d000174f562",
+          "comment": "Thank You:)",
+          "comment_language": "en",
+          "username": "huzaifakhan66",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/158fbed2d0805ab31bfab9a7a372dc62-1697632963250/6dd107f1-973f-45ef-ac3e-370cdea31af5.jpg",
+          "created_at": "2024-01-26T15:47:28",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 158037350,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": []
+}

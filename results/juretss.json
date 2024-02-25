@@ -1,0 +1,156 @@
+{
+  "seller": {
+    "user": {
+      "id": "152999965",
+      "name": "juretss",
+      "isActivationCompleted": true,
+      "joinedAt": 1686016606,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 294.9431849847,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 152999965,
+      "seller_username": "juretss",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 152999965,
+      "reviews": [
+        {
+          "id": "65cc727d9016e9000141abdd",
+          "comment": "I'm grateful for your valuable insights. It was a great opportunity to partner with you. I'm eager to work with you on a new project soon.",
+          "comment_language": "en",
+          "username": "explorance",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2f8183a34090160bfec3a5ace135caef-1657014585878/b001047c-188d-4c66-bf3e-fc724ae8f757.jpg",
+          "created_at": "2024-02-14T07:57:49",
+          "value": 5
+        },
+        {
+          "id": "65ca02291199570001014f19",
+          "comment": " I admire your splendid rating. I am keen to work with you on a new project later.",
+          "comment_language": "en",
+          "username": "explorance",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2f8183a34090160bfec3a5ace135caef-1657014585878/b001047c-188d-4c66-bf3e-fc724ae8f757.jpg",
+          "created_at": "2024-02-12T11:34:01",
+          "value": 5
+        },
+        {
+          "id": "6493f2ce449de80001475048",
+          "comment": "A great buyer ❤️ Thanks for using our SEO Services. ",
+          "comment_language": "en",
+          "username": "glaxosoft",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6b9668480297f7d37b48cd2f001a1c5b-1698706014580/9597ab1d-8172-4d08-9aa5-7f63b92e9dd8.jpg",
+          "created_at": "2023-06-22T07:05:53",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 152999965,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

@@ -1,0 +1,156 @@
+{
+  "seller": {
+    "user": {
+      "id": "148855668",
+      "name": "sezkayy",
+      "isActivationCompleted": true,
+      "joinedAt": 1680915821,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 148855668,
+      "seller_username": "sezkayy",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 148855668,
+      "reviews": [
+        {
+          "id": "65d00ec048d667000124aa5e",
+          "comment": "Amazing experience thank you!",
+          "comment_language": "en",
+          "username": "lucassobrinho",
+          "reviewer_country_code": "PT",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ab53ee75cf853d1396a29755574e8156-1695090450195/caae6ee6-d8d1-4a24-9713-c24bd45ad79a.jpg",
+          "created_at": "2024-02-17T01:41:20",
+          "value": 5
+        },
+        {
+          "id": "659aab16369cc9000120e87c",
+          "comment": "Great experience",
+          "comment_language": "en",
+          "username": "chrismv1",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/369ef7bfafb49aeb015474c7089809b5-1649006442455/3e860f4a-14e1-4de1-9b98-4197cac389af.jpg",
+          "created_at": "2024-01-07T13:45:58",
+          "value": 5
+        },
+        {
+          "id": "643773452c640a0001153d8b",
+          "comment": "Thanks for the order!",
+          "comment_language": "en",
+          "username": "nickjohnson1",
+          "reviewer_country_code": "SI",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5aed0a977b2c0ddedff19cba9ee4c97c-760333091565467982.6887531/EC54F8B1-C33C-4459-8731-D296D543D4E8",
+          "created_at": "2023-04-13T03:13:09",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 148855668,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/Berlin",
+    "recent_utc_offset": -60
+  },
+  "gigsData": []
+}

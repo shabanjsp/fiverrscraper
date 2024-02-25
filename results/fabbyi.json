@@ -1,0 +1,178 @@
+{
+  "seller": {
+    "user": {
+      "id": "144329766",
+      "name": "fabbyi",
+      "isActivationCompleted": true,
+      "joinedAt": 1675673968,
+      "profile": {
+        "displayName": "Abijuru F"
+      },
+      "address": {
+        "countryName": "Rwanda",
+        "countryCode": "RW"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 144329766,
+      "seller_username": "fabbyi",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 144329766,
+      "reviews": [
+        {
+          "id": "65ccf0d43223ee000140421b",
+          "comment": "Very positive person to work with! Please do feel free to message me if you have any questions! All my wishes and you’re very humble person honestly :D",
+          "comment_language": "en",
+          "username": "divishha",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/962ed714f9576091e4e6b4464015dd94-1678872792010/862cafa8-5f80-4196-a978-05d97d10abf4.png",
+          "created_at": "2024-02-14T16:56:52",
+          "value": 5
+        },
+        {
+          "id": "65a96257ecc5110001c1503c",
+          "comment": "Great.    ",
+          "comment_language": "en",
+          "username": "domassds",
+          "reviewer_country_code": "LT",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9811eabd8ea08baef6c9968c260c5a3b-1637246373163/80af70c6-a825-4c53-9cd2-12ebb36c7a10.PNG",
+          "created_at": "2024-01-18T17:39:35",
+          "value": 5
+        },
+        {
+          "id": "64d89e12d0735f0001dc9486",
+          "comment": "great experience ",
+          "comment_language": "en",
+          "username": "anaskhan794",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cc7de02dd7053469ff1145bba3b25023-1695627168675/e5859c0d-20c7-4e25-a5dc-fb7646004740.png",
+          "created_at": "2023-08-13T09:10:42",
+          "value": 5
+        },
+        {
+          "id": "64d3b80c80cfe30001eae273",
+          "comment": "Great experience ",
+          "comment_language": "en",
+          "username": "anaskhan794",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/cc7de02dd7053469ff1145bba3b25023-1695627168675/e5859c0d-20c7-4e25-a5dc-fb7646004740.png",
+          "created_at": "2023-08-09T16:00:12",
+          "value": 5
+        },
+        {
+          "id": "646a0586b77e1f0001ed5f53",
+          "comment": "Good Experience",
+          "comment_language": "en",
+          "username": "alitarar8912",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/503322a7564d540df4a3fccfdbc473c8-1702318341431/a68e06f3-a5ef-425b-80d9-8acee7c373de.png",
+          "created_at": "2023-05-21T11:50:30",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 144329766,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Kigali",
+    "recent_utc_offset": -120
+  },
+  "gigsData": []
+}

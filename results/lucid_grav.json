@@ -1,0 +1,153 @@
+{
+  "seller": {
+    "user": {
+      "id": "161090657",
+      "name": "lucid_grav",
+      "isActivationCompleted": true,
+      "joinedAt": 1696208998,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Canada",
+        "countryCode": "CA"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 161090657,
+      "seller_username": "lucid_grav",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 161090657,
+      "reviews": [
+        {
+          "id": "659cf06b369cc900012265f4",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "muzzamilsial",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/da45a40453baa7ded212f9a81396e042-1698256327707/6e81e56f-b943-40de-82b6-4bdea51826fc.jpeg",
+          "created_at": "2024-01-09T07:06:20",
+          "value": 5
+        },
+        {
+          "id": "658b42bfd628ec000183dc41",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "muzzamilsial",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/da45a40453baa7ded212f9a81396e042-1698256327707/6e81e56f-b943-40de-82b6-4bdea51826fc.jpeg",
+          "created_at": "2023-12-26T21:16:47",
+          "value": 5
+        },
+        {
+          "id": "65886e973b629a0001479ac2",
+          "comment": "Outstanding experience!",
+          "comment_language": "en",
+          "username": "muzzamilsial",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/da45a40453baa7ded212f9a81396e042-1698256327707/6e81e56f-b943-40de-82b6-4bdea51826fc.jpeg",
+          "created_at": "2023-12-24T17:47:03",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161090657,
+    "currency": "CAD",
+    "locale": "en-US",
+    "timezone": "America/Toronto",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

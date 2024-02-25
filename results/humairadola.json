@@ -1,0 +1,904 @@
+{
+  "seller": {
+    "user": {
+      "id": "93493147",
+      "name": "humairadola",
+      "isActivationCompleted": true,
+      "joinedAt": 1598125672,
+      "profile": {
+        "displayName": "Humaira Dola"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/218b6750ba1c60540cee06d06b17eb72-1618509563050/8b0d283b-3b44-48e6-89b3-b5ba02910012.jpeg"
+    },
+    "approvedGigsCount": 6,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "205626998"
+        },
+        {
+          "id": "225767858"
+        },
+        {
+          "id": "302145684"
+        },
+        {
+          "id": "302310648"
+        },
+        {
+          "id": "302719986"
+        },
+        {
+          "id": "350308351"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Amazon and Etsy",
+    "description": "Hello,\nThis is Humaira,\nI am Professional Graphic Designer. With great experience in Photoshop & Illustrator. As a perfectionist. I always look for the best possible solution. I am committed to work and I always finish what a start. I have 5 years of experience working in Graphic Designing.I am looking forward to working with you and please send me a message if you have any questions. Thank you for visit my profile.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "student",
+        "toYear": 2018,
+        "countryCode": "BD",
+        "school": "Dhonia College And University",
+        "degreeTitle": "BA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6610565f077890064f6",
+        "name": "Line art",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Line artist"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa66a0565f07789006758",
+        "name": "Photoshop editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photoshop editor"
+      },
+      {
+        "id": "617fa6690565f0778900674c",
+        "name": "Photo editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photo editor"
+      },
+      {
+        "id": "617fa6750565f07789006a9a",
+        "name": "T-shirt design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "T-shirt designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 51,
+        "nestedCategoryId": 2319
+      },
+      {
+        "categoryId": 7,
+        "subCategoryId": 500,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "653ce74bf9a49300012006f8",
+          "title": "Line art",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "653ce74bf9a49300012006f9",
+                "attachment": {
+                  "metadata": {
+                    "height": 2550,
+                    "width": 3300
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/f50373c18b76716e3175030aeebab2de-1698490089342/5.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65534ad29db1ba000130cc09",
+          "title": "Word Search Puzzle Books ",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65534ad29db1ba000130cc0a",
+                "attachment": {
+                  "metadata": {
+                    "height": 1666,
+                    "width": 1312
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/506a23823fc57cfb7a803920c55684c9-1699957448250/Cover_TT_preview3d%20(1).png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 360
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "NO_LEVEL",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6575326e5485e04ba6ac3baa",
+          "comment": "I needed a book cover, and provided a description of my book, and some sample pictures. Described what I had in mind for the theme of the cover, and the results were amazing! Delivered faster than advertised, and much better than I could have ever done myself! \nI will be back, and recommend this graphic artist to others!",
+          "comment_language": "en",
+          "username": "maidenmidwest",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-10T03:39:55",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO6239431FBC6",
+          "score": 0.9262003,
+          "reviewer_industry": [
+            "retail_and_wholesale"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 225767858,
+          "gig_slug": "create-coloring-book-cover-and-coloring-pages-for-kdp",
+          "gig_category": 7,
+          "gig_sub_category": 500,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 23,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65575cb61cde5f0001c8a24e",
+          "comment": "Worked with me when I wanted changes. I greatly appreciate this! They managed to capture the essence I what I wanted and I am pleased with the final result. I am comfortable using this cover when I release my upcoming book.",
+          "comment_language": "en",
+          "username": "ihaveajobforyou",
+          "reviewer_country_code": "AU",
+          "created_at": "2023-11-17T12:36:04",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO311AE21EA43",
+          "score": 0.61201704,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 225767858,
+          "gig_slug": "create-coloring-book-cover-and-coloring-pages-for-kdp",
+          "gig_category": 7,
+          "gig_sub_category": 500,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 10,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658c8927d628ec000184887a",
+          "comment": "Everything came out perfect it was everything I wanted and more! They were very helpful throughout the whole process and made it very easy to do business with! I would totally recommend to anyone wanting to do this and I’ll be back in the future for more!",
+          "comment_language": "en",
+          "username": "kingvictorano",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/54b694343d60392124a4867f3d9c9065-1574938361692912436.1837459/5F9A60E0-5CA9-4296-9494-5D5319F305CD",
+          "created_at": "2023-12-27T20:36:35",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO629A9AB72C8",
+          "score": 0.57360286,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 225767858,
+          "gig_slug": "create-coloring-book-cover-and-coloring-pages-for-kdp",
+          "gig_category": 7,
+          "gig_sub_category": 500,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "656ac5bf9b6e4000017ca398",
+          "comment": "Humaira has been amazing, she was very very patient with me and addressed my questions and wants to the point. I'll be working with her soon again.... if she accepts me as her client again!",
+          "comment_language": "en",
+          "username": "adriana1686",
+          "reviewer_country_code": "MX",
+          "created_at": "2023-12-02T05:51:34",
+          "value": 5,
+          "reviewer_country": "Mexico",
+          "encrypted_order_id": "FO517A4805783",
+          "score": 0.49523482,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 350308351,
+          "gig_slug": "create-niche-based-word-search-puzzle-books-for-amazon-kdp",
+          "gig_category": 7,
+          "gig_sub_category": 500,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a933f269407620af2eb2d2",
+          "comment": "Thank you!",
+          "comment_language": "en",
+          "username": "digitalgt",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-18T14:23:01",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO823E38108C4",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 225767858,
+          "gig_slug": "create-coloring-book-cover-and-coloring-pages-for-kdp",
+          "gig_category": 7,
+          "gig_sub_category": 500,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 39,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 360,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 140,
+        "business": 11
+      },
+      "user_id": 93493147,
+      "seller_username": "humairadola",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 4.9,
+        "service_valuation": 4.9
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 16
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 341
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "retail_and_wholesale": "Retail & Wholesale"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 93493147,
+      "reviews": [
+        {
+          "id": "60d4c2bcbb43850001020927",
+          "comment": "Great buyer. Thank you so much",
+          "comment_language": "en-US",
+          "username": "rimafivkdp",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2295b1f1f780dafe5026207bd908fbaf-1623704514839/24f06c0f-b1b1-41b9-87c2-4a21ddf83b4f.jpeg",
+          "created_at": "2021-06-24T17:37",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 93493147,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 205626998,
+      "category_id": 7,
+      "sub_category_id": 500,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-inspirational-quotes-coloring-pages-for-kdp-and-etsy",
+      "title": "design inspirational quotes coloring pages for kdp and etsy",
+      "seller_name": "humairadola",
+      "seller_id": 93493147,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/218b6750ba1c60540cee06d06b17eb72-1618509563050/8b0d283b-3b44-48e6-89b3-b5ba02910012.jpeg",
+      "seller_display_name": "Humaira Dola",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/205626998/original/fc71658cc201e7e9dbf37d2e147d3aac5494eb84.jpg",
+          "type": "ImageAsset",
+          "id": "205626998_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/205626998/original/1097fd236920597f8f932ccfe859462d1027541e.jpg",
+          "type": "ImageAsset",
+          "id": "205626998_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "170323990",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/69ceb71fa694218b8a28bf3055484311-1694328435/Page.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "167670593",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/fcf26daff687958017ddcdde2e3cabdd-1689146288/25%20quotes-21.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "162530233",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c4e2244a8302f86df5db3f58b2e5f39f-1679516302/Mockup%201.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "type",
+          "value": [
+            "sudoku",
+            "word_search",
+            "coloring_pages",
+            "mazes",
+            "tracing"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 148,
+      "buying_review_rating": 4.9,
+      "seller_url": "/humairadola",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 360,
+        "score": 4.9259257
+      },
+      "gig_url": "/humairadola/design-inspirational-quotes-coloring-pages-for-kdp-and-etsy",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 225767858,
+      "category_id": 7,
+      "sub_category_id": 500,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-coloring-book-cover-and-coloring-pages-for-kdp",
+      "title": "create coloring pages and book covers for amazon kdp",
+      "seller_name": "humairadola",
+      "seller_id": 93493147,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/218b6750ba1c60540cee06d06b17eb72-1618509563050/8b0d283b-3b44-48e6-89b3-b5ba02910012.jpeg",
+      "seller_display_name": "Humaira Dola",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/225767858/original/0c5004db05c786725f47849946d60722bd6e188f.jpg",
+          "type": "ImageAsset",
+          "id": "225767858_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/225767858/original/916c03137019734f564b572db8f49f300ba6f47b.jpg",
+          "type": "ImageAsset",
+          "id": "225767858_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/225767858/original/ff07da09e943e32ae91d12765fa1a039b3797309.jpg",
+          "type": "ImageAsset",
+          "id": "225767858_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "174281372",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d6871fe49cb3ff3169bfd9be6e169454-1702233187/Cover%20(1).jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171497353",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/75162b6d8178a7e3e5d6ac8b6bdf639f-1696595932/Mockup.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "type",
+          "value": [
+            "sudoku",
+            "word_search",
+            "coloring_pages",
+            "mazes",
+            "worksheets"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 123,
+      "buying_review_rating": 4.9,
+      "seller_url": "/humairadola",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 360,
+        "score": 4.9259257
+      },
+      "gig_url": "/humairadola/create-coloring-book-cover-and-coloring-pages-for-kdp",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 350308351,
+      "category_id": 7,
+      "sub_category_id": 500,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-niche-based-word-search-puzzle-books-for-amazon-kdp",
+      "title": "create niche based word search puzzle books for amazon KDP",
+      "seller_name": "humairadola",
+      "seller_id": 93493147,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/218b6750ba1c60540cee06d06b17eb72-1618509563050/8b0d283b-3b44-48e6-89b3-b5ba02910012.jpeg",
+      "seller_display_name": "Humaira Dola",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/350308351/original/8dcfc073b7ad20502eb7de1c11242be6ca9f7981.jpg",
+          "type": "ImageAsset",
+          "id": "350308351_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/350308351/original/cae13e6dd4ed7c4fda4d4c80c9c79d6dec6af7ba.jpg",
+          "type": "ImageAsset",
+          "id": "350308351_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/350308351/original/ea9383727e6abc47e042b30e84cf0a3bc7d5b825.jpg",
+          "type": "ImageAsset",
+          "id": "350308351_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "type",
+          "value": [
+            "sudoku",
+            "word_search",
+            "coloring_pages",
+            "mazes",
+            "crossword"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 5,
+      "seller_url": "/humairadola",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 360,
+        "score": 4.9259257
+      },
+      "gig_url": "/humairadola/create-niche-based-word-search-puzzle-books-for-amazon-kdp",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 302719986,
+      "category_id": 3,
+      "sub_category_id": 51,
+      "nested_sub_category_id": 2319,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-and-write-recipes-for-your-cookbook",
+      "title": "design and write recipes for your cookbook",
+      "seller_name": "humairadola",
+      "seller_id": 93493147,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/218b6750ba1c60540cee06d06b17eb72-1618509563050/8b0d283b-3b44-48e6-89b3-b5ba02910012.jpeg",
+      "seller_display_name": "Humaira Dola",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/302719986/original/d58e8f2679b581e09d104236f68533d897151ab3.jpg",
+          "type": "ImageAsset",
+          "id": "302719986_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/302719986/original/308148d8c195b69ffa3a39ce6220194a349a6923.jpg",
+          "type": "ImageAsset",
+          "id": "302719986_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/302719986/original/46f738c10df6698b612a1967a02957ab71f246ca.jpg",
+          "type": "ImageAsset",
+          "id": "302719986_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "162297385",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3876d5faece04ec520addda7df1d1fef-1679104814/image-4.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "design_style",
+          "value": [
+            "typographic"
+          ]
+        },
+        {
+          "type": "genre",
+          "value": [
+            "cookbooks_recipes"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/humairadola",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 360,
+        "score": 4.9259257
+      },
+      "gig_url": "/humairadola/design-and-write-recipes-for-your-cookbook",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 302145684,
+      "category_id": 3,
+      "sub_category_id": 51,
+      "nested_sub_category_id": 2319,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-recipes-for-cookbook-and-book-cover-design",
+      "title": "write recipes for cookbooks and book cover design",
+      "seller_name": "humairadola",
+      "seller_id": 93493147,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/218b6750ba1c60540cee06d06b17eb72-1618509563050/8b0d283b-3b44-48e6-89b3-b5ba02910012.jpeg",
+      "seller_display_name": "Humaira Dola",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/302145684/original/955322a4d346acb16a0ab7fe0062c176f4459ac9.jpg",
+          "type": "ImageAsset",
+          "id": "302145684_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/302145684/original/b9179e18b96fc1ecf0bdc7f56b9774854846c467.jpg",
+          "type": "ImageAsset",
+          "id": "302145684_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "design_style",
+          "value": [
+            "typographic"
+          ]
+        },
+        {
+          "type": "genre",
+          "value": [
+            "arts",
+            "academics",
+            "cookbooks_recipes",
+            "literature",
+            "self_help_wellness"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "pdf",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/humairadola",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 360,
+        "score": 4.9259257
+      },
+      "gig_url": "/humairadola/write-recipes-for-cookbook-and-book-cover-design",
+      "is_seller_unavailable": false,
+      "price_i": 55,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 302310648,
+      "category_id": 3,
+      "sub_category_id": 51,
+      "nested_sub_category_id": 2319,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-recipe-cookbooks-for-amazon-kindle",
+      "title": "write recipe cookbooks for amazon kindle",
+      "seller_name": "humairadola",
+      "seller_id": 93493147,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/218b6750ba1c60540cee06d06b17eb72-1618509563050/8b0d283b-3b44-48e6-89b3-b5ba02910012.jpeg",
+      "seller_display_name": "Humaira Dola",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/302310648/original/fb11bdb32a1de30fdaa069f3d83d6cf01d4517e9.jpg",
+          "type": "ImageAsset",
+          "id": "302310648_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "63f1e80774b8fc0012b11f8c",
+          "id": 7921129
+        }
+      ],
+      "attachments": [
+        {
+          "id": "63f1e80774b8fc0012b11f8c",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/crse9ge004tzj922h6lm",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/crse9ge004tzj922h6lm.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "design_style",
+          "value": [
+            "typographic"
+          ]
+        },
+        {
+          "type": "genre",
+          "value": [
+            "arts",
+            "academics",
+            "cookbooks_recipes",
+            "literature",
+            "self_help_wellness"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "pdf",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/humairadola",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 360,
+        "score": 4.9259257
+      },
+      "gig_url": "/humairadola/write-recipe-cookbooks-for-amazon-kindle",
+      "is_seller_unavailable": false,
+      "price_i": 55,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

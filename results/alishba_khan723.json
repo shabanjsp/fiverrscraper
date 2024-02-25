@@ -1,0 +1,432 @@
+{
+  "seller": {
+    "user": {
+      "id": "166693666",
+      "name": "alishba_khan723",
+      "isActivationCompleted": true,
+      "joinedAt": 1703883704,
+      "profile": {
+        "displayName": "Alishba Khan"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/63fcb82fe8bd9fec259121e327368b8a-1703884129613/e839b0c4-b711-4fd4-a830-253e706c1b99.png"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "357185616"
+        },
+        {
+          "id": "358758422"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello i am a professional copywriter and video editor having experience of more than 10 years. I can edit all kind of videos by using adobe premier pro and adobe after effects.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "gulf",
+        "certificationName": "best editor",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "media science",
+        "toYear": 2022,
+        "countryCode": "PK",
+        "school": "Islamic University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 169,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 99,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 11
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65b763e3da9df3104e856625",
+          "comment": "Amazing work done by her! I have no words to explain how much I am relieved after seeing the end result. Extra-ordinary stuff by this seller!",
+          "comment_language": "en",
+          "username": "agdaraz52",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-29T08:38:24",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO311FECF0D43",
+          "score": 0.647452,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358758422,
+          "gig_slug": "do-professional-research-summary-article-paper-work",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 48,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65abd0671a9352505913675b",
+          "comment": "Amazing work and amazing service provided by this seller! She is a gem of a person! Thank you very much!!",
+          "comment_language": "en",
+          "username": "johnwast",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-20T13:59:58",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO117F2743F87",
+          "score": 0.4318275,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358758422,
+          "gig_slug": "do-professional-research-summary-article-paper-work",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 51,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65c22d5bcf541d2cf760fb52",
+          "comment": "Helped me a lot in developing my idea stronger. A very talented guy.",
+          "comment_language": "en",
+          "username": "mellyf",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-06T13:00:31",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41208B93EC2",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358758422,
+          "gig_slug": "do-professional-research-summary-article-paper-work",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 49,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65bceefaa37a1c2e1d4f22f8",
+          "comment": "Deserve more than 5 Stars. amazing experience. Would use again. 100% recommended",
+          "comment_language": "en",
+          "username": "sinakat",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-02T13:36:38",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO4180681DF84",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358758422,
+          "gig_slug": "do-professional-research-summary-article-paper-work",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 66,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65ba684ce4010a345166f568",
+          "comment": "Outstanding Experience. Highly Recommended. Very Impressive",
+          "comment_language": "en",
+          "username": "josephsane",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-31T15:57:32",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1C013D4343",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 358758422,
+          "gig_slug": "do-professional-research-summary-article-paper-work",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 25,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 11,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 166693666,
+      "seller_username": "alishba_khan723",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 11
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 166693666,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 166693666,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 358758422,
+      "category_id": 5,
+      "sub_category_id": 169,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-professional-research-summary-article-paper-work",
+      "title": "do professional research, summary, article, paper work",
+      "seller_name": "alishba_khan723",
+      "seller_id": 166693666,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/63fcb82fe8bd9fec259121e327368b8a-1703884129613/e839b0c4-b711-4fd4-a830-253e706c1b99.png",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/358758422/original/6df99a99839de22423d33b42473347283fb1e4dc.png",
+          "type": "ImageAsset",
+          "id": "358758422_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "research"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 11,
+      "buying_review_rating": 5,
+      "seller_url": "/alishba_khan723",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 11,
+        "score": 5
+      },
+      "gig_url": "/alishba_khan723/do-professional-research-summary-article-paper-work",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 357185616,
+      "category_id": 20,
+      "sub_category_id": 99,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-short-form-and-long-form-video-editing-with-motion-graphics",
+      "title": "do short form and long form video editing with motion graphics",
+      "seller_name": "alishba_khan723",
+      "seller_id": 166693666,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/63fcb82fe8bd9fec259121e327368b8a-1703884129613/e839b0c4-b711-4fd4-a830-253e706c1b99.png",
+      "seller_display_name": "Alishba Khan",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/357185616/original/8ae0c68ffae160121055d831ab0aaefd68fe0a1b.png",
+          "type": "ImageAsset",
+          "id": "357185616_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "658f3a0dad465d0013aeb9db",
+          "id": 9701599
+        }
+      ],
+      "attachments": [
+        {
+          "id": "658f3a0dad465d0013aeb9db",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/oxze701vzmic2zes0eti",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/oxze701vzmic2zes0eti.png"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "youtube_videos"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/alishba_khan723",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 11,
+        "score": 5
+      },
+      "gig_url": "/alishba_khan723/do-short-form-and-long-form-video-editing-with-motion-graphics",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

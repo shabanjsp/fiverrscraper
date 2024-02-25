@@ -1,0 +1,173 @@
+{
+  "seller": {
+    "user": {
+      "id": "157292679",
+      "name": "wicklone",
+      "isActivationCompleted": true,
+      "joinedAt": 1691146862,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.548605,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 157292679,
+      "seller_username": "wicklone",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 157292679,
+      "reviews": [
+        {
+          "id": "65bfad9cc23f2d00013fee70",
+          "comment": "Thankyou ",
+          "comment_language": "da",
+          "username": "maherawaiskhan",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/796d4172de163303da036b07e36b7aac-1692186194248/3c202246-4c1f-4011-b261-c949137243f5.png",
+          "created_at": "2024-02-04T15:30:37",
+          "value": 5
+        },
+        {
+          "id": "65bf863103f0b900017d7879",
+          "comment": "great experience thanks 😊",
+          "comment_language": "en",
+          "username": "rise_visions",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e5935d862121e2ef2abaaa783bec54a1-1703026480799/45edb6ab-dd7e-48ab-83dc-0cf942a7dcc4.png",
+          "created_at": "2024-02-04T12:42:25",
+          "value": 5
+        },
+        {
+          "id": "65bf71d803f0b900017d6f30",
+          "comment": "Great experience with wicklone",
+          "comment_language": "en",
+          "username": "waqiiii",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c9a0829942b9354bad7d72ca6db3ffa3-1703360106961/c5128367-e442-4f7c-8bf8-b3904a13e447.jpg",
+          "created_at": "2024-02-04T11:15:36",
+          "value": 5
+        },
+        {
+          "id": "65bcfdc3704fed00015acfbf",
+          "comment": "great buyer, would like to work with him again.",
+          "comment_language": "en",
+          "username": "ugservices",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1e264a525d2931fdc529416d4d71fff4-1705479434443/da0921eb-28c1-4aac-b40e-a5bdd45a47c0.png",
+          "created_at": "2024-02-02T14:35:47",
+          "value": 5
+        },
+        {
+          "id": "65bc9029704fed00015a939f",
+          "comment": "Thank you for hiring me for your sales video ",
+          "comment_language": "en",
+          "username": "aimal_26",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5221c13f6c4814481e565d3725864201-1605590527120/a1bda42f-7168-4300-81de-83a2328b1ee7.PNG",
+          "created_at": "2024-02-02T06:48:10",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 157292679,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Denver",
+    "recent_utc_offset": 420
+  },
+  "gigsData": []
+}

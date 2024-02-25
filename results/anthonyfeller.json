@@ -1,0 +1,148 @@
+{
+  "seller": {
+    "user": {
+      "id": "109152652",
+      "name": "anthonyfeller",
+      "isActivationCompleted": true,
+      "joinedAt": 1623782596,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Netherlands",
+        "countryCode": "NL"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 109152652,
+      "seller_username": "anthonyfeller",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 109152652,
+      "reviews": [
+        {
+          "id": "65b4d5d2756b9d0001757cd8",
+          "comment": "great experience! very nice and kind hearted personality❤️",
+          "comment_language": "en",
+          "username": "malikads786",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/58f4c7fa9f1414569c9d81bfb6d4f57a-1650495981701658042803/JPEG_20231204_074721_2364800300827036790.jpg",
+          "created_at": "2024-01-27T10:07:14",
+          "value": 5
+        },
+        {
+          "id": "659a9505369cc9000120d852",
+          "comment": "great experience ",
+          "comment_language": "en",
+          "username": "asad_naqi",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b3767ae24b44233f4a53244136fbc7e7-1698487931163/86c5bbe1-fd82-4335-9edf-a69a88f9ea3e.png",
+          "created_at": "2024-01-07T12:11:49",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 109152652,
+    "currency": "EUR",
+    "locale": "en-US",
+    "timezone": "Europe/Amsterdam",
+    "recent_utc_offset": -60
+  },
+  "gigsData": []
+}

@@ -1,0 +1,176 @@
+{
+  "seller": {
+    "user": {
+      "id": "117730026",
+      "name": "chriso851",
+      "isActivationCompleted": true,
+      "joinedAt": 1638241721,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Australia",
+        "countryCode": "AU"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 117730026,
+      "seller_username": "chriso851",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 117730026,
+      "reviews": [
+        {
+          "id": "65679fac9246fb00018caa97",
+          "comment": "Great buyer ",
+          "comment_language": "en",
+          "username": "ecommerce_drive",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9c3c822a2d543d1180214567894d2038-1652822393305/34078271-181a-49ab-b122-66c2c7f859f2.png",
+          "created_at": "2023-11-29T20:31:40",
+          "value": 5
+        },
+        {
+          "id": "65654342fe2b88000191514a",
+          "comment": "Working with Chris was a fantastic experience! He was clear in his instructions and communicated effectively throughout the entire process. Looking forward to work with him again.",
+          "comment_language": "en",
+          "username": "asnatkhan1",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/35167bc562728543242bdb3dede18ef9-1673129223347/e6b29867-aa29-4e4f-8c5a-6d9dbb870483.jpg",
+          "created_at": "2023-11-28T01:32:50",
+          "value": 5
+        },
+        {
+          "id": "655f799f1ed21300014d3914",
+          "comment": "Amazing experience!",
+          "comment_language": "unknown",
+          "username": "pamdemic",
+          "reviewer_country_code": "IN",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8b16baf6c99f30cc2da4e58c2d8b9f40-1703804533929/7af56e2a-d813-43db-8679-4911218910c3.png",
+          "created_at": "2023-11-23T16:11:11",
+          "value": 5
+        },
+        {
+          "id": "655b3b8e25bcfb00013d26a6",
+          "comment": "good person and good response, glad to work with ",
+          "comment_language": "en",
+          "username": "avebriant",
+          "reviewer_country_code": "ID",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1e83e9cb9bc2cf35cb0a023d11ff0280-1555296010036/5d1698f0-06dd-4db7-ad83-9a83197ba249.JPG",
+          "created_at": "2023-11-20T10:57:18",
+          "value": 5
+        },
+        {
+          "id": "63c351bad5317d0001b24004",
+          "comment": "thank you ",
+          "comment_language": "en",
+          "username": "qureshihub007",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/02adc05203d27ff82a955c2eaf9e3996-1632731441458/c93c3cdc-5cfb-4a46-ae42-f4ffd705b2a8.png",
+          "created_at": "2023-01-15T01:07:06",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 117730026,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": null,
+    "recent_utc_offset": 0
+  },
+  "gigsData": []
+}

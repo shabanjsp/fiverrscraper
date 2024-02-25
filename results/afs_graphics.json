@@ -1,0 +1,524 @@
+{
+  "seller": {
+    "user": {
+      "id": "160243711",
+      "name": "afs_graphics",
+      "isActivationCompleted": true,
+      "joinedAt": 1695044836,
+      "profile": {
+        "displayName": "Adeel Ahmad"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "BASIC"
+        },
+        {
+          "code": "ES",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/d1d2a496cc4be9bdb1fa4d11a356359a-1695984232699/e15e02c4-3dea-4fff-abf0-7cde3ce91b3d.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "340986683"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Your satisfaction is my first priority",
+    "description": "I, Adeel Ahmad, a skilled graphic designer, offer a wide range of creative services. I bring your vision to life with professionalism and flair. Let's collaborate on your next project and make your ideas shine!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "OMNI ACADEMY & CONSULTING",
+        "certificationName": "Graphic designer",
+        "year": 2022
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computerengineering",
+        "toYear": 2021,
+        "countryCode": "PK",
+        "school": "Government Associate College (Boys)",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa65a0565f077890062e1",
+        "name": "Image retouching",
+        "level": "BEGINNER",
+        "verified": false,
+        "professionAlias": "Image retouching expert"
+      },
+      {
+        "id": "617fa63b0565f07789005995",
+        "name": "Background editing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Background editing expert"
+      },
+      {
+        "id": "617fa65b0565f07789006318",
+        "name": "Infographic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Infographic designer"
+      },
+      {
+        "id": "617fa6360565f0778900584c",
+        "name": "Amazon listing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Amazon listing expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 246,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65782e76d1695d00019598b8",
+          "title": "Infographic Pictures Mini Vacuum",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "65782e76d1695d00019598b9",
+                "attachment": {
+                  "metadata": {
+                    "height": 2416,
+                    "width": 4000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/5d0327f83780ee130310c1de0db846ef-1702374858347/Showcase.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "658be6745f96e600014c12a6",
+          "title": "Listing Pictures Warmer Lamp",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "658be6745f96e600014c12a7",
+                "attachment": {
+                  "metadata": {
+                    "height": 2416,
+                    "width": 4000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/c722fb7f185ed70ad454d2dcb4d4aa5d-1703666854721/Showcase%20copy.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 2
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 11
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6556077fd1cd3b000126f5aa",
+          "comment": "As he was a beginner, I was a little bit confused, but the designs he made are fabulous. He is very kind and brilliant designer.",
+          "comment_language": "en",
+          "username": "markjeffrey1",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c4eed205f573e9043468c1dfc0428cec-1695730711549/36d29df7-7eb0-4961-91a7-367fba81687c.jpg",
+          "created_at": "2023-11-16T12:25:50",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO8235C2A53C4",
+          "score": 0.4432887,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 340986683,
+          "gig_slug": "design-amazon-product-infographic-pictures-listing-lifestyle-images",
+          "gig_category": 3,
+          "gig_sub_category": 246,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 57,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6558a9bb1cde5f0001c984fe",
+          "comment": "Working with Adeel Ahmad was an absolute pleasure! I am fully satisfied with the designs. He is very proficient in designing as well as in communication. I will also approach him for my future projects.",
+          "comment_language": "en",
+          "username": "lonehulsey",
+          "reviewer_country_code": "US",
+          "created_at": "2023-11-18T12:12:31",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/62a8a185f90ddf4a2e422473ef4d22a3-1700299366/Show%20case%20gig%201%20copy.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/62a8a185f90ddf4a2e422473ef4d22a3-1700299366/Show%20case%20gig%201%20copy.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1BCC1A0743",
+          "score": 0.42546862,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 340986683,
+          "gig_slug": "design-amazon-product-infographic-pictures-listing-lifestyle-images",
+          "gig_category": 3,
+          "gig_sub_category": 246,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 35,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6568a125947c070001d1b499",
+          "comment": "I am thrilled with Adeel's work! He transformed my green hair dryer into a stunning white masterpiece. The attention to detail and creativity in the lifestyle images exceeded my expectations. Adeel's professionalism and timely delivery make him a top choice for any design project. Highly recommended!",
+          "comment_language": "en",
+          "username": "peter_fox_",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/458d5cb453d380cce702d6dda8fa8983-1699043239290/194161d9-cdc2-446a-9ef6-fae9ab5ca360.jpg",
+          "created_at": "2023-11-30T14:51:27",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/2fe401ac576507e32155e4b2bf761295-1701235069/1.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/2fe401ac576507e32155e4b2bf761295-1701235069/1.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82F4C85D708",
+          "score": 0.41071168,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 340986683,
+          "gig_slug": "design-amazon-product-infographic-pictures-listing-lifestyle-images",
+          "gig_category": 3,
+          "gig_sub_category": 246,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 21,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "656e12736ca16100019084d2",
+          "comment": "I dont review often - but I like the work here a lot.\nVery professional and prompt with timekeeping.\n\nWill definitely use again",
+          "comment_language": "en",
+          "username": "calvinbrady",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/8861307/original/Jellyfish.jpg",
+          "created_at": "2023-12-05T07:43:25",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/ff091dcbd1b94261f0a44538da27c6d6-1701709547/Showcase%20copy.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/ff091dcbd1b94261f0a44538da27c6d6-1701709547/Showcase%20copy.jpg",
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO517A76AEF83",
+          "score": 0.40196586,
+          "reviewer_industry": [
+            "retail_and_wholesale"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 340986683,
+          "gig_slug": "design-amazon-product-infographic-pictures-listing-lifestyle-images",
+          "gig_category": 3,
+          "gig_sub_category": 246,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 21,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6553f984cebf82000132a52e",
+          "comment": "He is very good at understanding and communication. I like the work in the first attempt and the way he designed the project.",
+          "comment_language": "en",
+          "username": "d_shaikh",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b9a53db1230a9d5f18877186d7f69de5-1702099136013/ac6d5c6b-4ae1-407e-8891-1209a475db67.jpg",
+          "created_at": "2023-11-15T07:10:34",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f253ad9b87d732dce134d0e3748e38cd-1699981779/3%20CCTV.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f253ad9b87d732dce134d0e3748e38cd-1699981779/3%20CCTV.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO3179220B985",
+          "score": 0.3453468,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 340986683,
+          "gig_slug": "design-amazon-product-infographic-pictures-listing-lifestyle-images",
+          "gig_category": 3,
+          "gig_sub_category": 246,
+          "relevancy_score": 1,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 116,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 11,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 7,
+        "business": 0
+      },
+      "user_id": 160243711,
+      "seller_username": "afs_graphics",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 11
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "retail_and_wholesale": "Retail & Wholesale"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 160243711,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 160243711,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 340986683,
+      "category_id": 3,
+      "sub_category_id": 246,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-amazon-product-infographic-pictures-listing-lifestyle-images",
+      "title": "design amazon product infographic pictures, listing lifestyle images",
+      "seller_name": "afs_graphics",
+      "seller_id": 160243711,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/d1d2a496cc4be9bdb1fa4d11a356359a-1695984232699/e15e02c4-3dea-4fff-abf0-7cde3ce91b3d.jpg",
+      "seller_display_name": "Adeel Ahmad",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/340986683/original/e3bf2825d7181b8ac551322a4b403d05f151639f.jpg",
+          "type": "ImageAsset",
+          "id": "340986683_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/340986683/original/74489a5df1abcfa4d42fc14f9e018c104783cf58.jpg",
+          "type": "ImageAsset",
+          "id": "340986683_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/340986683/original/b56c0d4290d317117cb00f148630708c79f1f390.jpg",
+          "type": "ImageAsset",
+          "id": "340986683_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175796572",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/2ec78a2aa806ddafa0636bb7445b2d4d-1705667301/Infographic.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174022651",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/ff091dcbd1b94261f0a44538da27c6d6-1701709547/Showcase%20copy.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173792689",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/2fe401ac576507e32155e4b2bf761295-1701235069/1.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173518240",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/1ff1102a603e4d9c2de620bfe973b391-1700635731/1%20copy.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173358634",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/ce056b6d2f70447f15cff38bba4d335e-1700300960/1.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 1
+        },
+        {
+          "code": "es",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "image_file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "ppt",
+            "key"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 11,
+      "buying_review_rating": 5,
+      "seller_url": "/afs_graphics",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 11,
+        "score": 5
+      },
+      "gig_url": "/afs_graphics/design-amazon-product-infographic-pictures-listing-lifestyle-images",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "seller": {
+    "user": {
+      "id": "97794260",
+      "name": "chiikle_",
+      "isActivationCompleted": true,
+      "joinedAt": 1605976828,
+      "profile": {
+        "displayName": "Chiikle"
+      },
+      "address": {
+        "countryName": "Argentina",
+        "countryCode": "AR"
+      },
+      "languages": [
+        {
+          "code": "ES",
+          "level": "FLUENT"
+        },
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/aa757d777dc9693dea2b6a282c6e4034-1605976958416/7b80a4af-32d3-4a54-9a7d-e9f3c5d01444.png"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "182881022"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "My name is Luciano, I'm from Argentina, I'm 25 years old, I'm a graphic designer and illustrator\r\nI work with the 30s cartoon style\r\nI hope you like my work!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": {
+      "type": "IMAGE",
+      "scanStatus": "PASSED",
+      "fileName": "Personajes.png",
+      "previewUrl": {
+        "transformation": "SELLER_PROFILE_COVER_WIDE_PREVIEW",
+        "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_seller_cover_wide/v1/attachments/seller/profile_background_image/7ffec8cc871a2cfcc7eb3ae6e7f31760-1669329600795/Personajes.png"
+      }
+    },
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa65a0565f077890062d0",
+        "name": "Illustration",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Illustrator"
+      },
+      {
+        "id": "617fa63f0565f07789005af6",
+        "name": "Cartoon illustration",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Cartoon illustrator"
+      },
+      {
+        "id": "617fa6400565f07789005b2e",
+        "name": "Character design",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "Character designer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 50,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "658f144832389a00017d4fb6",
+          "title": "Jail",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "658f144832389a00017d4fb7",
+                "attachment": {
+                  "metadata": {
+                    "height": 2667,
+                    "width": 4000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/7bc24979724024e6fab3b1dc397f0147-1703875597773/carcel.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "658f14a33d998a000123fd5b",
+          "title": "Family",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "658f14a33d998a000123fd5c",
+                "attachment": {
+                  "metadata": {
+                    "height": 2000,
+                    "width": 4000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/5671c151d01323b8594318bcbf5058b0-1703875721037/tylerfran.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "63cca16675dd1900011968e1",
+          "title": "Chiikle",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "63cca16675dd1900011968e2",
+                "attachment": {
+                  "metadata": {
+                    "height": 3000,
+                    "width": 3000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/136804b689c5964a6abf8c6dc784c977-1674355051265/Chiikle.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65749a3fc518bc00019eecd0",
+          "title": "Strimers",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65749a3fc518bc00019eecd1",
+                "attachment": {
+                  "metadata": {
+                    "height": 4000,
+                    "width": 4000
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/51646f464cc73cb1cd9e2bd5b8aff2eb-1702140449560/beldu.jpg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 226
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 5
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65a0a6352ffdc500015f0ef7",
+          "comment": "Best communication I've had on Fiverr, very open and artistic when it comes to ideas and making them come to life. 100% would recommend my guy Chiikle. will be ordering again for sure!",
+          "comment_language": "en",
+          "username": "unspokenoutcast",
+          "reviewer_country_code": "CA",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/35811b3d43e82f3e3626ed8fb270973c-1665873972471/d9f7e0c0-e1ea-418b-bd15-741b245f8d8f.png",
+          "created_at": "2024-01-12T02:40:08",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/46975bf40a61b914715c14e2e3ddd028-1705026597/D0213F69-AA91-4546-A344-9F090D9BCA44.jpeg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/46975bf40a61b914715c14e2e3ddd028-1705026597/D0213F69-AA91-4546-A344-9F090D9BCA44.jpeg",
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO21DCDF0BF08",
+          "score": 0.460164,
+          "reviewer_industry": [
+            "fashion_and_apparel",
+            "retail_and_wholesale"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 182881022,
+          "gig_slug": "do-something-crazy-with-the-30s-cartoon-style",
+          "gig_category": 3,
+          "gig_sub_category": 50,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65c63102d8c6512d985b9ea4",
+          "comment": "Chiikle is so talented and great to work with. The work that came out of this was always clever, playful, and way cooler than I could've imagined. Thanks, Chiikle!",
+          "comment_language": "en",
+          "username": "trevyz",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-09T14:06:22",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO411C68A2D42",
+          "score": 0.38848248,
+          "reviewer_industry": [
+            "education"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 182881022,
+          "gig_slug": "do-something-crazy-with-the-30s-cartoon-style",
+          "gig_category": 3,
+          "gig_sub_category": 50,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659c64d3369cc90001221f62",
+          "comment": "Excellent, first time going through a concept with some rough sketches, very responise and highly interative with feedback, much appreciated.",
+          "comment_language": "en",
+          "username": "ragbat",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/befb9c4cf06e9df4139bd2be572aeda3-1695979403141/4d763f10-c23f-4bb2-afdd-baf0d75ebede.png",
+          "created_at": "2024-01-08T21:12:29",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO411E5608942",
+          "score": 0.33031192,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 182881022,
+          "gig_slug": "do-something-crazy-with-the-30s-cartoon-style",
+          "gig_category": 3,
+          "gig_sub_category": 50,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 32,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ccc05b8442b06069cf7ffd",
+          "comment": "The final design was exceptional and they were a pleasure to work with - strongly recommended! ",
+          "comment_language": "en",
+          "username": "laansu",
+          "reviewer_country_code": "PT",
+          "created_at": "2024-02-14T13:30:18",
+          "value": 5,
+          "reviewer_country": "Portugal",
+          "encrypted_order_id": "FO723F6C6DCC5",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 182881022,
+          "gig_slug": "do-something-crazy-with-the-30s-cartoon-style",
+          "gig_category": 3,
+          "gig_sub_category": 50,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c671a14f8eaf753b0b8ce6",
+          "comment": "great job!",
+          "comment_language": "en",
+          "username": "lucasgord",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-09T18:41:12",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41E04C7C786",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 182881022,
+          "gig_slug": "do-something-crazy-with-the-30s-cartoon-style",
+          "gig_category": 3,
+          "gig_sub_category": 50,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 226,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 101,
+        "business": 19
+      },
+      "user_id": 97794260,
+      "seller_username": "chiikle_",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 225
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "fashion_and_apparel": "Fashion & Apparel",
+        "retail_and_wholesale": "Retail & Wholesale",
+        "education": "Education"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 97794260,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 97794260,
+    "currency": "USD",
+    "locale": "es",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "recent_utc_offset": 180
+  },
+  "gigsData": [
+    {
+      "gig_id": 182881022,
+      "category_id": 3,
+      "sub_category_id": 50,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-something-crazy-with-the-30s-cartoon-style",
+      "title": "make illustration in the retro 30s cartoon rubber hose style",
+      "seller_name": "chiikle_",
+      "seller_id": 97794260,
+      "seller_country": "AR",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/aa757d777dc9693dea2b6a282c6e4034-1605976958416/7b80a4af-32d3-4a54-9a7d-e9f3c5d01444.png",
+      "seller_display_name": "Chiikle",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/182881022/original/aaaecb141a61c0ccf6381f032768bb7bdda1601a.png",
+          "type": "ImageAsset",
+          "id": "182881022_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/182881022/original/39866f4f7974a0cdf03c502412bf1f555b631755.jpg",
+          "type": "ImageAsset",
+          "id": "182881022_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/182881022/original/e7a2c427199073cde73aa69e05afc7718520aa70.jpg",
+          "type": "ImageAsset",
+          "id": "182881022_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "176586866",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/8d3a7333bc0e303735060012048fc179-1707270057/LENTO%206.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "175482661",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/46975bf40a61b914715c14e2e3ddd028-1705026597/D0213F69-AA91-4546-A344-9F090D9BCA44.jpeg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "174216615",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/30ca53870a9aa185eae6af0c60ac75a5-1702076432/Recurso%201.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "173701658",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/325fcc5b5fa8213e23672e3ab5a9487b-1701038583/donkey_Mesa%20de%20trabajo%201.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "es",
+          "level": 3
+        },
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "647a368d3cac4400012c2828",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "illustration_style",
+          "value": [
+            "caricature"
+          ]
+        },
+        {
+          "type": "artistic_technique",
+          "value": [
+            "freehand_digital"
+          ]
+        },
+        {
+          "type": "theme",
+          "value": [
+            "concept_art",
+            "fantasy",
+            "fan_art"
+          ]
+        },
+        {
+          "type": "main_type",
+          "value": [
+            "animals",
+            "objects",
+            "people"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 224,
+      "buying_review_rating": 5,
+      "seller_url": "/chiikle_",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 226,
+        "score": 4.9651675
+      },
+      "gig_url": "/chiikle_/do-something-crazy-with-the-30s-cartoon-style",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

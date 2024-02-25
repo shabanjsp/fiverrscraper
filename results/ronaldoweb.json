@@ -1,0 +1,827 @@
+{
+  "seller": {
+    "user": {
+      "id": "161013706",
+      "name": "ronaldoweb",
+      "isActivationCompleted": true,
+      "joinedAt": 1696089537,
+      "profile": {
+        "displayName": "Fazal"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "AR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "HI",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/2a1413f0da78d9e455e3d2f7f9b23632-1696198342223/16aa466b-05f6-4c55-adad-9302817204e7.jpeg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "342857021"
+        },
+        {
+          "id": "345771564"
+        },
+        {
+          "id": "353987235"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Ecommerce Expert and Web Developer",
+    "description": "Hi, I'm Ali Raza, an E-Commerce(Shopify & WooCommerce) and PHP developer with over 4 years of experience. I specialize in creating dynamic websites and web applications using various PHP frameworks like Laravel, Yii, Yii2, CodeIgniter, and custom PHP solutions. My expertise ensures efficient development with high-quality, scalable code.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "TEVTA",
+        "certificationName": "Web Developer",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science engineer",
+        "toYear": 2022,
+        "countryCode": "PK",
+        "school": "BZU Multan",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6600565f07789006497",
+        "name": "Laravel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Laravel expert"
+      },
+      {
+        "id": "617fa6600565f07789006498",
+        "name": "Laravel development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Laravel developer"
+      },
+      {
+        "id": "617fa66a0565f0778900675d",
+        "name": "PHP Laravel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PHP Laravel developer"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      },
+      {
+        "id": "617fa6680565f077890066fc",
+        "name": "Payment gateway",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Payment gateway expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WooCommerce expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1071
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2610
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2615
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "6536d2bb7ccee80001aac546",
+          "title": "Kids R Everything",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6536d2bb7ccee80001aac547",
+                "attachment": {
+                  "metadata": {
+                    "height": 6512,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/8e28a38a5c0c74d031b701a0cbc0314d-1698091688277/kidsreverything.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65ce89b474e06900014118d2",
+          "title": "BlumKultur.com: Cosmetics Store",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "65ce89b474e06900014118d3",
+                "attachment": {
+                  "metadata": {
+                    "height": 8079,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/fe3a13a1fd4af4fe98f182043568e626-1708034468765/screencapture-blumkultur-2024-02-16-02_54_49.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6536d4867a11100001a1e47b",
+          "title": "GlowTwinspire Car Access Store",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6536d4867a11100001a1e47c",
+                "attachment": {
+                  "metadata": {
+                    "height": 7212,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/06245b64d2e5deaf12e432440c50aadb-1698092137138/screencapture-glowtwinspire-co-2023-10-24-01_09_40.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6536d80f7a11100001a1e580",
+          "title": "Gamestools Tools and Accessories",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "6536d80f7a11100001a1e581",
+                "attachment": {
+                  "metadata": {
+                    "height": 7358,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/9ce353ea1176a9bfb9e0c29bc6e4f8b0-1698093055143/screencapture-gamestools-co-2023-10-24-01_30_19.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "658d46141f9c5e00018b2e9f",
+          "title": "AR96 - Sustainable & Stylish Mak",
+          "items": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "id": "658d46141f9c5e00018b2ea0",
+                "attachment": {
+                  "metadata": {
+                    "height": 7259,
+                    "width": 1366
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1f17e496ad11f85e99919299ea512c29-1703757304747/screencapture-ar96store-2023-12-28-14_54_43.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 5
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 50
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "NO_LEVEL",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "657024c99a49ad0001b0fe3d",
+          "comment": "one of the best guys that i worked with, he is a great man, and helps me a lot, in 1 day I got my order, thanks a lot my brother its was very nice to do business with you",
+          "comment_language": "en",
+          "username": "ishowspeedclips",
+          "reviewer_country_code": "NP",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/60a80d7d807ee0c4042ae47d13611666-1683182676938/7983c5e7-d201-4def-8d66-cf84d5b43f2a.jpg",
+          "created_at": "2023-12-06T07:38:16",
+          "value": 5,
+          "reviewer_country": "Nepal",
+          "encrypted_order_id": "FO81D9F58F902",
+          "score": 0.6250976,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 342857021,
+          "gig_slug": "create-shopify-payment-gateway-design-shopify-store-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2610,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65661da0f40cc90001673547",
+          "comment": "Wow, what a fast and amazing service. actually I was looking for a person who help me in for shopify checkout . then I found fazal. he is providing a fast and high class service at reasonable price. highly recommend!! ❤️",
+          "comment_language": "en",
+          "username": "ishowspeedclips",
+          "reviewer_country_code": "NP",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/60a80d7d807ee0c4042ae47d13611666-1683182676938/7983c5e7-d201-4def-8d66-cf84d5b43f2a.jpg",
+          "created_at": "2023-11-28T17:04:58",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/5a3d24af119ae88166b40eea68748671-1701189690/IMG-20231128-WA0159.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/5a3d24af119ae88166b40eea68748671-1701189690/IMG-20231128-WA0159.jpg",
+          "reviewer_country": "Nepal",
+          "encrypted_order_id": "FO7237AC2B4C5",
+          "score": 0.5923565,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 342857021,
+          "gig_slug": "create-shopify-payment-gateway-design-shopify-store-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2610,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65c7398618f8a02a62b90e86",
+          "comment": "The process required meticulous step-by-step progression and underwent numerous revisions to meet the requested work fully. There were limitations due to the transition from Shopify to Wix, but all demands were met, and all issues were resolved. Even if the work does not proceed as you wish initially, I guarantee you will receive exactly what you want! If quality matters most, I recommend it.",
+          "comment_language": "en",
+          "username": "burcuyilmaz4",
+          "reviewer_country_code": "TR",
+          "created_at": "2024-02-10T08:54:55",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/fa6465a6e94f10c3129788ba9beb01d3-1706888079/IMG-20240202-WA0071.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/fa6465a6e94f10c3129788ba9beb01d3-1706888079/IMG-20240202-WA0071.jpg",
+          "reviewer_country": "Turkey",
+          "encrypted_order_id": "FO61DF860ED04",
+          "score": 0.5656662,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342857021,
+          "gig_slug": "create-shopify-payment-gateway-design-shopify-store-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2610,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "65b33c70860ab3469ec0658a",
+          "comment": "Fazal completed my request exactly how I had asked, built a beautiful Shopify site in 3 days and exceeded all expectations I could have possibly had. \nDefinitely would recommend Fazal’s services! ",
+          "comment_language": "en",
+          "username": "msdolcevita",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-26T05:03:39",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO1BFA004743",
+          "score": 0.53328717,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342857021,
+          "gig_slug": "create-shopify-payment-gateway-design-shopify-store-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2610,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "657639625485e04ba6ac4761",
+          "comment": "This was the best experience i ever had on Fiverr, thank you so much for your work, everything was perfect and i'll make sure to call you back when i will have others projects ! ",
+          "comment_language": "en",
+          "username": "welovemoneyy",
+          "reviewer_country_code": "FR",
+          "created_at": "2023-12-10T22:19:41",
+          "value": 5,
+          "reviewer_country": "France",
+          "encrypted_order_id": "FO117B4782187",
+          "score": 0.5011358,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 342857021,
+          "gig_slug": "create-shopify-payment-gateway-design-shopify-store-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2610,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 50,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 6,
+        "business": 6
+      },
+      "user_id": 161013706,
+      "seller_username": "ronaldoweb",
+      "star_summary": {
+        "communication_valuation": 4.9,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 49
+        }
+      ],
+      "average_valuation": 4.9,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 161013706,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 161013706,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 342857021,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2610,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-shopify-payment-gateway-design-shopify-store-website",
+      "title": "create shopify dropshipping store setup, website design, shopify payment gateway",
+      "seller_name": "ronaldoweb",
+      "seller_id": 161013706,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2a1413f0da78d9e455e3d2f7f9b23632-1696198342223/16aa466b-05f6-4c55-adad-9302817204e7.jpeg",
+      "seller_display_name": "Fazal",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/342857021/original/789fca7e5d1247d530cfb01d39384d603ec31e41.png",
+          "type": "ImageAsset",
+          "id": "342857021_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/342857021/original/aeef25299588459d6c7b94878d1484df9738ef62.png",
+          "type": "ImageAsset",
+          "id": "342857021_2"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ar",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "hi",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "form",
+            "booking",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "nudgify",
+            "locksmith",
+            "free_shipping_bar",
+            "product_reviews",
+            "product_filter_search",
+            "store_locator",
+            "smart_seo"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 48,
+      "buying_review_rating": 5,
+      "seller_url": "/ronaldoweb",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 50,
+        "score": 4.913893
+      },
+      "gig_url": "/ronaldoweb/create-shopify-payment-gateway-design-shopify-store-website",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 345771564,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2615,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "setup-payment-gateway-integration-stripe-paypal-square-to-wordpress-shopify",
+      "title": "design wordpress woocommerce website, dropshipping store setup payment gateway",
+      "seller_name": "ronaldoweb",
+      "seller_id": 161013706,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2a1413f0da78d9e455e3d2f7f9b23632-1696198342223/16aa466b-05f6-4c55-adad-9302817204e7.jpeg",
+      "seller_display_name": "Fazal",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/345771564/original/291fe268dfe549c3dc45f29f27b2a9c9f7fa591f.jpeg",
+          "type": "ImageAsset",
+          "id": "345771564_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/345771564/original/da124d9a593a0bf1e0558ffe7e849acfd486966e.png",
+          "type": "ImageAsset",
+          "id": "345771564_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/345771564/original/3be19ebd3b3d89e464383c96c86c7bea7eec73d2.png",
+          "type": "ImageAsset",
+          "id": "345771564_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ar",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "hi",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "forum",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "membership",
+            "faq",
+            "gallery",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "woocommerce_stripe_payment_gateway",
+            "woocommerce_wallet",
+            "woocommerce_multilingual",
+            "booster_for_woocommerce",
+            "custom_product_tabs_for_woocommerce",
+            "product_enquiry_for_woocommerce",
+            "woocommerce_bulk_discount"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 3.3,
+      "seller_url": "/ronaldoweb",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 50,
+        "score": 4.913893
+      },
+      "gig_url": "/ronaldoweb/setup-payment-gateway-integration-stripe-paypal-square-to-wordpress-shopify",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 353987235,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1071,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "build-shopify-website-with-sopify-mobile-app-android-and-ios-app-payment-gateway",
+      "title": "build shopify website with sopify mobile app android and ios app payment gateway",
+      "seller_name": "ronaldoweb",
+      "seller_id": 161013706,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2a1413f0da78d9e455e3d2f7f9b23632-1696198342223/16aa466b-05f6-4c55-adad-9302817204e7.jpeg",
+      "seller_display_name": "Fazal",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/353987235/original/e069a883547b7865f776dc49ea55028833c9c84f.png",
+          "type": "ImageAsset",
+          "id": "353987235_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ar",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "hi",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "native"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "react_native",
+            "java",
+            "php",
+            "kotlin",
+            "javascript",
+            "dart",
+            "swift"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "ionic",
+            "kivy",
+            "phonegap",
+            "nativescript",
+            "laravel",
+            "swiftui"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "power_apps",
+            "xamarin",
+            "bubble",
+            "flutterflow",
+            "bravo",
+            "android_studio",
+            "xcode"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "chat",
+            "delivery",
+            "restaurant",
+            "shopping",
+            "booking",
+            "health_fitness",
+            "education",
+            "lifestyle",
+            "productivity_tools",
+            "ecommerce"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "performance",
+            "design",
+            "ads_monetization",
+            "release_management",
+            "instant_app_app_clip"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/ronaldoweb",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 50,
+        "score": 4.913893
+      },
+      "gig_url": "/ronaldoweb/build-shopify-website-with-sopify-mobile-app-android-and-ios-app-payment-gateway",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "seller": {
+    "user": {
+      "id": "167831623",
+      "name": "miss_shanaya",
+      "isActivationCompleted": true,
+      "joinedAt": 1704951338,
+      "profile": {
+        "displayName": "Miss Shanaya"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/3bae58ab77acd5ac76c1e2f333ee1c78-1705480199538/189c5596-a0e5-403a-930b-7b51b078e57d.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "360169425"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Accountant ",
+    "description": "I am professional accountant here to offer to services of accounting and finance, bookkeeping, financial projections and forecast. Give me a chance to offer my services in appropriate price.\r\nMany thanks!!!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6710565f07789006980",
+        "name": "Simple logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Simple logo designer"
+      },
+      {
+        "id": "617fa6620565f07789006538",
+        "name": "Logo editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo editor"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6350565f077890057c5",
+        "name": "Account management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Account manager"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 7,
+        "subCategoryId": 77,
+        "nestedCategoryId": 2433
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 2
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65bdd53bf9a787374b9175a4",
+          "comment": "Very responsive, quick to provide the results, and very accurate. Also, discussed additional tips that might help us in the future. 10/10 recommend! Very trustworthy and reliable, will come back again!!!\nGood work, I will recommend this seller for accounting and finance work",
+          "comment_language": "en",
+          "username": "buckkyshow",
+          "reviewer_country_code": "DE",
+          "created_at": "2024-02-03T06:41:43",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO618077F6182",
+          "score": 0.7036328,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360169425,
+          "gig_slug": "help-you-in-accounting-and-finance-financial-statements-auditing-bookkeeping",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2433,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 275,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65bc9983e4010a345167282b",
+          "comment": "Great job! She did more better than my expectations. I will use her service again in the future. Highly recommend\nShe’s such a credible person and did my work with full focus Just so happy with my work.",
+          "comment_language": "en",
+          "username": "paul_jaon",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-02T07:29:06",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51E07239B85",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 360169425,
+          "gig_slug": "help-you-in-accounting-and-finance-financial-statements-auditing-bookkeeping",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2433,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 18,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 2,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 167831623,
+      "seller_username": "miss_shanaya",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 2
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 167831623,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 167831623,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 360169425,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2433,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "help-you-in-accounting-and-finance-financial-statements-auditing-bookkeeping",
+      "title": "help you in accounting and finance, financial statements, auditing, bookkeeping",
+      "seller_name": "miss_shanaya",
+      "seller_id": 167831623,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/3bae58ab77acd5ac76c1e2f333ee1c78-1705480199538/189c5596-a0e5-403a-930b-7b51b078e57d.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/360169425/original/3d8eaa272206db4a1b374eacb36d110a55861c9b.jpg",
+          "type": "ImageAsset",
+          "id": "360169425_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "accounting"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/miss_shanaya",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/miss_shanaya/help-you-in-accounting-and-finance-financial-statements-auditing-bookkeeping",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,853 @@
+{
+  "seller": {
+    "user": {
+      "id": "152226917",
+      "name": "writing6expert",
+      "isActivationCompleted": true,
+      "joinedAt": 1685066265,
+      "profile": {
+        "displayName": "Ricki"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/f0948f139363f1c95b2f31724dbaaada-1690376378649/013e52cc-a2e6-4b77-aaaa-c54f7c6af0ae.jpeg"
+    },
+    "approvedGigsCount": 7,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "330098628"
+        },
+        {
+          "id": "330101033"
+        },
+        {
+          "id": "330148564"
+        },
+        {
+          "id": "353762256"
+        },
+        {
+          "id": "353765373"
+        },
+        {
+          "id": "353767997"
+        },
+        {
+          "id": "353770183"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Hello!\r\nI am a mechanical engineer having my PhD in mechanics and Masters in physics. I am working as an online service provider since a couple of years. I have more then five years of experience in tutoring mechanical engineering, physics, chemistry, math and statistics to a number of graduate students. My way of teaching is simple and my focus is building concepts. I will tutor you by advanced digital means. If you want any assistance related to physics, chemistry and mechanical engineering then you can consider me. I assure you quality work and full satisfaction.\r\nThank you! ",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "UET magazine ",
+        "certificationName": "Writer of the year",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "Punjab education group",
+        "certificationName": "Best teacher award",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "mechanical engineering",
+        "toYear": 2018,
+        "countryCode": "PK",
+        "school": "UETLahore",
+        "degreeTitle": "PHD"
+      },
+      {
+        "degree": "chemistry",
+        "toYear": 2020,
+        "countryCode": "PK",
+        "school": "punjab",
+        "degreeTitle": "MSC"
+      },
+      {
+        "degree": "physicist",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "UOL",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6370565f07789005869",
+        "name": "Analytics chemistry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Analytics chemistry expert"
+      },
+      {
+        "id": "617fa6400565f07789005b41",
+        "name": "ChemDraw",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "ChemDraw expert"
+      },
+      {
+        "id": "617fa6400565f07789005b40",
+        "name": "CHEMCAD",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CHEMCAD expert"
+      },
+      {
+        "id": "617fa6400565f07789005b43",
+        "name": "Chemistry tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Chemistry tutor"
+      },
+      {
+        "id": "617fa6680565f077890066c2",
+        "name": "Organic chemistry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Organic chemistry expert"
+      },
+      {
+        "id": "617fa66a0565f0778900675f",
+        "name": "Physics chemistry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Physics chemistry expert"
+      },
+      {
+        "id": "617fa6370565f077890058a7",
+        "name": "AP Chemistry tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AP Chemistry tutor"
+      },
+      {
+        "id": "617fa6640565f077890065a3",
+        "name": "Mechanical engineering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mechanical engineer"
+      },
+      {
+        "id": "617fa6640565f077890065a5",
+        "name": "Mechanics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mechanics expert"
+      },
+      {
+        "id": "617fa6640565f077890065a1",
+        "name": "Mechanical design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mechanical designer"
+      },
+      {
+        "id": "617fa6510565f07789006030",
+        "name": "Fluid mechanics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Fluid mechanics expert"
+      },
+      {
+        "id": "617fa6640565f077890065a4",
+        "name": "Mechanical engineering design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mechanical engineering designer"
+      },
+      {
+        "id": "617fa66a0565f07789006761",
+        "name": "Physics tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Physics tutor"
+      },
+      {
+        "id": "617fa6370565f077890058a8",
+        "name": "AP Physics 1 tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AP Physics 1 tutor"
+      },
+      {
+        "id": "617fa6380565f077890058a9",
+        "name": "AP Physics 2 tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AP Physics 2 tutor"
+      },
+      {
+        "id": "617fa66a0565f0778900675e",
+        "name": "Physics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Physics expert"
+      },
+      {
+        "id": "617fa64a0565f07789005e60",
+        "name": "Electromechanics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Electromechanics expert"
+      },
+      {
+        "id": "617fa64a0565f07789005e5b",
+        "name": "Electrical engineering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Electrical engineer"
+      },
+      {
+        "id": "617fa64a0565f07789005e67",
+        "name": "Electronics engineering",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Electronics engineer"
+      },
+      {
+        "id": "617fa6380565f077890058e7",
+        "name": "Applied mathematics tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Applied mathematics tutoring"
+      },
+      {
+        "id": "617fa6640565f07789006598",
+        "name": "Math tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Math tutor"
+      },
+      {
+        "id": "617fa63b0565f077890059b5",
+        "name": "Basic math tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Basic math tutor"
+      },
+      {
+        "id": "617fa6640565f07789006599",
+        "name": "MathType",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "MathType expert"
+      },
+      {
+        "id": "617fa66d0565f07789006849",
+        "name": "Python",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Python developer"
+      },
+      {
+        "id": "617fa6390565f0778900592d",
+        "name": "Assembly language",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Assembly language developer"
+      },
+      {
+        "id": "617fa6680565f07789006706",
+        "name": "PCB design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "PCB designer"
+      },
+      {
+        "id": "617fa66d0565f07789006836",
+        "name": "Proteus",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Proteus expert"
+      },
+      {
+        "id": "617fa6360565f0778900583d",
+        "name": "Altium Designer",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Altium Designer expert"
+      },
+      {
+        "id": "617fa65f0565f07789006455",
+        "name": "KiCAD",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "KiCAD expert"
+      },
+      {
+        "id": "617fa64a0565f07789005e64",
+        "name": "Electronics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Electronics expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 7,
+        "subCategoryId": 77,
+        "nestedCategoryId": 2431
+      },
+      {
+        "categoryId": 7,
+        "subCategoryId": 77,
+        "nestedCategoryId": 2586
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "658855fee090545fd3ddb1ec",
+          "comment": "Did an extraordinary job with high quality work. Best ever tutor. I would highly recommend.",
+          "comment_language": "en",
+          "username": "mitchellbraden",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f33fb3cdcc4d3bb4f85588f3056c922c-1700256577513/10109f7b-bda4-42c6-a705-2478b56c828b.jpeg",
+          "created_at": "2023-12-24T16:07:08",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO511D944A841",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 330148564,
+          "gig_slug": "do-electrical-engineering-assignments-projects-problems-and-engineering-labs",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2586,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 57,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 152226917,
+      "seller_username": "writing6expert",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 152226917,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 152226917,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 330148564,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2586,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-electrical-engineering-assignments-projects-problems-and-engineering-labs",
+      "title": "do electrical engineering assignments, projects, problems and engineering labs",
+      "seller_name": "writing6expert",
+      "seller_id": 152226917,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f0948f139363f1c95b2f31724dbaaada-1690376378649/013e52cc-a2e6-4b77-aaaa-c54f7c6af0ae.jpeg",
+      "seller_display_name": "Ricki",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/330148564/original/586fe3254dc9ac04a456c703f87ac4a89c6d2af9.png",
+          "type": "ImageAsset",
+          "id": "330148564_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "electrical_engineering"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/writing6expert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/writing6expert/do-electrical-engineering-assignments-projects-problems-and-engineering-labs",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 330098628,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2431,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-advance-physics-problems-physics-labs-projects-and-physics-assignments",
+      "title": "do advance physics problems, physics labs, projects and physics assignments",
+      "seller_name": "writing6expert",
+      "seller_id": 152226917,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f0948f139363f1c95b2f31724dbaaada-1690376378649/013e52cc-a2e6-4b77-aaaa-c54f7c6af0ae.jpeg",
+      "seller_display_name": "Ricki",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/330098628/original/57ec96618b6c8b13764127a3a070d3ce5f4824f5.png",
+          "type": "ImageAsset",
+          "id": "330098628_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "physics",
+            "ap_physics_c"
+          ]
+        },
+        {
+          "type": "grade_level",
+          "value": [
+            "graduate"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/writing6expert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/writing6expert/do-advance-physics-problems-physics-labs-projects-and-physics-assignments",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 330101033,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2586,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-mechanical-engineering-projects-problems-mechanical-labs-and-assignments",
+      "title": "do mechanical engineering projects, problems, mechanical labs and assignments",
+      "seller_name": "writing6expert",
+      "seller_id": 152226917,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f0948f139363f1c95b2f31724dbaaada-1690376378649/013e52cc-a2e6-4b77-aaaa-c54f7c6af0ae.jpeg",
+      "seller_display_name": "Ricki",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/330101033/original/cd9654a49d874fa97e9892cdde58f9c06d9c9ea0.jpg",
+          "type": "ImageAsset",
+          "id": "330101033_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "mechanical_engineering"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/writing6expert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/writing6expert/do-mechanical-engineering-projects-problems-mechanical-labs-and-assignments",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 353762256,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2586,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-mechanical-engineering-projects-assignments-and-problems",
+      "title": "do mechanical engineering projects, assignments and problems",
+      "seller_name": "writing6expert",
+      "seller_id": 152226917,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f0948f139363f1c95b2f31724dbaaada-1690376378649/013e52cc-a2e6-4b77-aaaa-c54f7c6af0ae.jpeg",
+      "seller_display_name": "Ricki",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/353762256/original/3540f34d596f16e478ce56dabe7a6b3976794983.png",
+          "type": "ImageAsset",
+          "id": "353762256_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "mechanical_engineering"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/writing6expert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/writing6expert/do-mechanical-engineering-projects-assignments-and-problems",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 353765373,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2586,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-mechanical-engineering-assignments-labs-problems-and-assessments",
+      "title": "do mechanical engineering assignments, labs, problems and assessments",
+      "seller_name": "writing6expert",
+      "seller_id": 152226917,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f0948f139363f1c95b2f31724dbaaada-1690376378649/013e52cc-a2e6-4b77-aaaa-c54f7c6af0ae.jpeg",
+      "seller_display_name": "Ricki",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/353765373/original/78bf12d1a956698a4134e5a8262710506bfedc3a.png",
+          "type": "ImageAsset",
+          "id": "353765373_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "mechanical_engineering"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/writing6expert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/writing6expert/do-mechanical-engineering-assignments-labs-problems-and-assessments",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 353767997,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2586,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-electrical-engineering-projects-problems-and-assignments",
+      "title": "do electrical engineering projects, problems, and assignments",
+      "seller_name": "writing6expert",
+      "seller_id": 152226917,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f0948f139363f1c95b2f31724dbaaada-1690376378649/013e52cc-a2e6-4b77-aaaa-c54f7c6af0ae.jpeg",
+      "seller_display_name": "Ricki",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/353767997/original/938a223351d31def32c208c718b7acdea8900120.png",
+          "type": "ImageAsset",
+          "id": "353767997_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "electrical_engineering"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/writing6expert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/writing6expert/do-electrical-engineering-projects-problems-and-assignments",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 353770183,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2586,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-electrical-and-electronics-engineering-tutoring-projects-and-assessments",
+      "title": "do electrical and electronics engineering tutoring, projects, and assessments",
+      "seller_name": "writing6expert",
+      "seller_id": 152226917,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/f0948f139363f1c95b2f31724dbaaada-1690376378649/013e52cc-a2e6-4b77-aaaa-c54f7c6af0ae.jpeg",
+      "seller_display_name": "Ricki",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/353770183/original/1227144938176e7c53d6298632f68095dcf653ee.jpeg",
+          "type": "ImageAsset",
+          "id": "353770183_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "electrical_engineering"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/writing6expert",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/writing6expert/do-electrical-and-electronics-engineering-tutoring-projects-and-assessments",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

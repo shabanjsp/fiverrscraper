@@ -1,0 +1,368 @@
+{
+  "seller": {
+    "user": {
+      "id": "168819917",
+      "name": "aliraza_shafee",
+      "isActivationCompleted": true,
+      "joinedAt": 1706166597,
+      "profile": {
+        "displayName": "Raza S"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/186fc51132b07022b66f04d4d39e47ea-1706166691275/5c61243b-17ad-4db2-a5fc-9566920ca6cf.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "361753103"
+        },
+        {
+          "id": "361951585"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Raza is a highly accomplished and respected professional, known for her expertise in the field of Applied Mathematics, Economics, and Data analytics. She is can data analysis tools such as Stata, Python, R, and SPSS with ease. As an online tutor, Lisa leverages her deep understanding of the subject matter and her proficiency in various teaching methodologies to create engaging and interactive learning experiences.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6610565f077890064fb",
+        "name": "Linear algebra",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Linear algebr expert"
+      },
+      {
+        "id": "617fa63f0565f07789005ac2",
+        "name": "Calculus tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Calculus tutor"
+      },
+      {
+        "id": "617fa6640565f07789006597",
+        "name": "Math algebra",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Math algebra expert"
+      },
+      {
+        "id": "617fa6640565f07789006598",
+        "name": "Math tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Math tutor"
+      },
+      {
+        "id": "617fa6740565f07789006a3e",
+        "name": "Statistics tutoring",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Statistics tutor"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 7,
+        "subCategoryId": 77,
+        "nestedCategoryId": 2430
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 2
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c671544f8eaf753b0b8cdc",
+          "comment": "Exceptional service! The final delivery exceeded my expectations. Timely delivery. high quality work",
+          "comment_language": "en",
+          "username": "matthewallison8",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-09T18:40:05",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51E17F36805",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 361951585,
+          "gig_slug": "help-you-in-algebra-calculus-statistics-assignment-trigonometry-and-math",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 48,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65c66cced8c6512d985ba77c",
+          "comment": "Exceptional work!! Very thoroughly!",
+          "comment_language": "en",
+          "username": "gabriel_guarda",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-09T18:31:49",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO418130A3584",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 361951585,
+          "gig_slug": "help-you-in-algebra-calculus-statistics-assignment-trigonometry-and-math",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 2,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 168819917,
+      "seller_username": "aliraza_shafee",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 2
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 168819917,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 168819917,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 361951585,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2430,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "help-you-in-algebra-calculus-statistics-assignment-trigonometry-and-math",
+      "title": "help you in algebra, calculus, statistics, assignment, trigonometry and math",
+      "seller_name": "aliraza_shafee",
+      "seller_id": 168819917,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/186fc51132b07022b66f04d4d39e47ea-1706166691275/5c61243b-17ad-4db2-a5fc-9566920ca6cf.jpg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/361951585/original/f3971ec0eb84d860d65b22277fbafddc5c9eadd9.png",
+          "type": "ImageAsset",
+          "id": "361951585_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "pre_algebra",
+            "pre_calculus",
+            "statistics"
+          ]
+        },
+        {
+          "type": "grade_level",
+          "value": [
+            "graduate"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/aliraza_shafee",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/aliraza_shafee/help-you-in-algebra-calculus-statistics-assignment-trigonometry-and-math",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 361753103,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2430,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "help-you-in-algebra-calculus-statistics-trigonometry-and-math",
+      "title": "help you in algebra, calculus, statistics, assignment, trigonometry and math",
+      "seller_name": "aliraza_shafee",
+      "seller_id": 168819917,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/186fc51132b07022b66f04d4d39e47ea-1706166691275/5c61243b-17ad-4db2-a5fc-9566920ca6cf.jpg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/361753103/original/cfd4ed214d74c41cf76f9dbcab5dc8110255781e.png",
+          "type": "ImageAsset",
+          "id": "361753103_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "pre_algebra",
+            "pre_calculus",
+            "trigonometry"
+          ]
+        },
+        {
+          "type": "grade_level",
+          "value": [
+            "graduate"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/aliraza_shafee",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 2,
+        "score": 5
+      },
+      "gig_url": "/aliraza_shafee/help-you-in-algebra-calculus-statistics-trigonometry-and-math",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

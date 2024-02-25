@@ -1,0 +1,459 @@
+{
+  "seller": {
+    "user": {
+      "id": "160877415",
+      "name": "mudassir_fiverr",
+      "isActivationCompleted": true,
+      "joinedAt": 1695898987,
+      "profile": {
+        "displayName": "Nabeel"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/0fe69adcc69defd800aa5b353d3d6d12-1697654133880/9a1cb85d-398e-49e0-a331-dd30860f857d.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "342350777"
+        },
+        {
+          "id": "342913401"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I have a whole team of writers. Who has experience of 5+ years. We also have experience conducting research and summaries on various topics ranging from business, economics to social sciences. Thank you!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Bzu ",
+        "certificationName": "Expert",
+        "year": 2010
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "e",
+        "toYear": 2013,
+        "countryCode": "PK",
+        "school": "BZU Multan",
+        "degreeTitle": "MA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6650565f07789006604",
+        "name": "Mobile gaming",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile gaming expert"
+      },
+      {
+        "id": "617fa6740565f07789006a58",
+        "name": "Stream graphics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Stream graphics designer"
+      },
+      {
+        "id": "617fa64e0565f07789005f1a",
+        "name": "Essay editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Essay editor"
+      },
+      {
+        "id": "617fa64a0565f07789005e38",
+        "name": "Economics",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Economics expert"
+      },
+      {
+        "id": "617fa66e0565f077890068b9",
+        "name": "Research & summaries writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Research & summaries writer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 169,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 7,
+        "subCategoryId": 123,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 20
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65772a07152f1b00012ed673",
+          "comment": "Impressive essay writing! The gig not only delivered a well-researched piece but also presented the information in a clear and engaging manner.",
+          "comment_language": "en",
+          "username": "samuelvelazqu",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-12T12:37:10",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO423974FF8C8",
+          "score": 0.43197006,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342913401,
+          "gig_slug": "do-essay-writing-economics-sociology-ethics-history-ethics-tok-ia-ib",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 54,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "657081e67d548034cf509358",
+          "comment": "This seller is a lifesaver! I was swamped with work, and they delivered a high-quality essay that saved my grade. I'm incredibly grateful.",
+          "comment_language": "en",
+          "username": "jamiemarker",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-07T12:58:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO5238E36CFC7",
+          "score": 0.35833937,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342913401,
+          "gig_slug": "do-essay-writing-economics-sociology-ethics-history-ethics-tok-ia-ib",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 52,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "6592f64d113473000134a37a",
+          "comment": "he was really impressive in his services with quick delivery. his communication was engaging and amazed me with his work. Will definitely use him in future",
+          "comment_language": "en",
+          "username": "marccwiklinsk",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-01T17:30:45",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO729B51FD8C7",
+          "score": 0.31588757,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342913401,
+          "gig_slug": "do-essay-writing-economics-sociology-ethics-history-ethics-tok-ia-ib",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 49,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b1e6011e9c4b17782e6a0c",
+          "comment": "Excellent service! This is very satisfying, I am really in love with your work. I will consider you in my future projects. Thank you for the fast delivery",
+          "comment_language": "en",
+          "username": "johaniarrobino",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-26T18:21:27",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO71DF6EFE483",
+          "score": 0.29343063,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342913401,
+          "gig_slug": "do-essay-writing-economics-sociology-ethics-history-ethics-tok-ia-ib",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0.5,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 26,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65c660a54f8eaf753b0b8a78",
+          "comment": "Great and fast work. He was helpful, responsive, and patient. A+",
+          "comment_language": "en",
+          "username": "lillybento",
+          "reviewer_country_code": "AU",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6990d4363e4bccad482ea880d285e1ee-1677227735926/4b4c68ec-902e-4a04-b710-69981f80a0f7.jpg",
+          "created_at": "2024-02-09T17:28:49",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO31E134DC207",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 342913401,
+          "gig_slug": "do-essay-writing-economics-sociology-ethics-history-ethics-tok-ia-ib",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 214,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 20,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 160877415,
+      "seller_username": "mudassir_fiverr",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 20
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 160877415,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 160877415,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 342913401,
+      "category_id": 5,
+      "sub_category_id": 169,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-essay-writing-economics-sociology-ethics-history-ethics-tok-ia-ib",
+      "title": "write quality research,  summaries,  reports, essays, business plan,  proposals",
+      "seller_name": "mudassir_fiverr",
+      "seller_id": 160877415,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0fe69adcc69defd800aa5b353d3d6d12-1697654133880/9a1cb85d-398e-49e0-a331-dd30860f857d.jpg",
+      "seller_display_name": "Nabeel",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/342913401/original/be3184f0f4ef53acc35383ae272a2a1c340fdb5c.jpg",
+          "type": "ImageAsset",
+          "id": "342913401_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "research"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english",
+            "spanish"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 20,
+      "buying_review_rating": 5,
+      "seller_url": "/mudassir_fiverr",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 20,
+        "score": 5
+      },
+      "gig_url": "/mudassir_fiverr/do-essay-writing-economics-sociology-ethics-history-ethics-tok-ia-ib",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 342350777,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-your-mobile-app-marketing-and-app-promotion-on-google-ads",
+      "title": "do your mobile app marketing and app promotion on google ads",
+      "seller_name": "mudassir_fiverr",
+      "seller_id": 160877415,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0fe69adcc69defd800aa5b353d3d6d12-1697654133880/9a1cb85d-398e-49e0-a331-dd30860f857d.jpg",
+      "seller_display_name": "Nabeel",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/342350777/original/bc011bcb0e4dfce931c04d61a6637138a4fc4746.png",
+          "type": "ImageAsset",
+          "id": "342350777_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/mudassir_fiverr",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 20,
+        "score": 5
+      },
+      "gig_url": "/mudassir_fiverr/do-your-mobile-app-marketing-and-app-promotion-on-google-ads",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

@@ -1,0 +1,1353 @@
+{
+  "seller": {
+    "user": {
+      "id": "76836172",
+      "name": "cloudgurus",
+      "isActivationCompleted": true,
+      "joinedAt": 1557395699,
+      "profile": {
+        "displayName": "Farhan B."
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "UR",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "ES",
+          "level": "BASIC"
+        },
+        {
+          "code": "DE",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/5e79a18a3767013aaa43b73e72fb2d6b-1557486937230/29349e2e-42e7-4ed3-9e94-00e7c04a75c6.jpg"
+    },
+    "approvedGigsCount": 7,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "128405036"
+        },
+        {
+          "id": "129064538"
+        },
+        {
+          "id": "131680636"
+        },
+        {
+          "id": "155616472"
+        },
+        {
+          "id": "183134918"
+        },
+        {
+          "id": "186502537"
+        },
+        {
+          "id": "201125869"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "FULL STACK DEVELOPER",
+    "description": "Hello, I'm Farhan. I graduated with a BSCS from Webster University in the USA. I specialize in professional services including web design and development, DBMS, and AWS. I'm excited about the opportunity to collaborate with you!",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "bachelor of science in computer science",
+        "toYear": 2017,
+        "countryCode": "US",
+        "school": "Webster University",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa6460565f07789005d06",
+        "name": "Data entry",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data entry expert"
+      },
+      {
+        "id": "617fa6790565f07789006bdc",
+        "name": "Virtual assistance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Virtual assistant"
+      },
+      {
+        "id": "617fa6640565f077890065cc",
+        "name": "Microsoft Excel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Microsoft Excel expert"
+      },
+      {
+        "id": "617fa6560565f07789006192",
+        "name": "Google Sheets",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Google Sheets expert"
+      },
+      {
+        "id": "617fa6500565f07789005fd1",
+        "name": "Fillable PDF forms",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Fillable PDF forms expert"
+      },
+      {
+        "id": "617fa63e0565f07789005a8c",
+        "name": "Business card design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business card designer"
+      },
+      {
+        "id": "617fa6780565f07789006b7a",
+        "name": "User testing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "User testing expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c90",
+        "name": "Website testing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website tester"
+      },
+      {
+        "id": "617fa6650565f07789006606",
+        "name": "Mobile testing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile tester"
+      },
+      {
+        "id": "617fa6770565f07789006b54",
+        "name": "Typing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Typist"
+      },
+      {
+        "id": "617fa6640565f077890065d0",
+        "name": "Microsoft Office",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Microsoft Office expert"
+      },
+      {
+        "id": "617fa6640565f077890065d6",
+        "name": "Microsoft Word",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Microsoft Word expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress website developer"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify expert"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "SEO expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 8,
+        "subCategoryId": 493,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 97,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2630
+      },
+      {
+        "categoryId": 23,
+        "subCategoryId": 452,
+        "nestedCategoryId": 2458
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1591658409
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 106
+    },
+    "isOnVacation": true,
+    "vacation": {
+      "startsAt": 1708110002,
+      "endsAt": 1709233199,
+      "awayMessage": "Hey, I’m currently a little busy, but I’ll be happy to work with you when I’m available again.",
+      "isContactAllowed": false
+    },
+    "achievementLevel": "TOP_RATED_SELLER",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.39115,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65a2efe9be67470001ec378d",
+          "comment": "thank you for a great job 👍\nyou give the best solution in an easy way \n",
+          "comment_language": "en",
+          "username": "talalalharbi886",
+          "reviewer_country_code": "SA",
+          "created_at": "2024-01-13T20:19:22",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/885a640b4350d4f68db6fec825699e4c-1705176962/sick%20leave%20review%20tab.PNG",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/885a640b4350d4f68db6fec825699e4c-1705176962/sick%20leave%20review%20tab.PNG",
+          "reviewer_country": "Saudi Arabia",
+          "encrypted_order_id": "FO41DE3FD2406",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 129064538,
+          "gig_slug": "create-a-custom-microsoft-excel-spreadsheet-with-functions-formulas",
+          "gig_category": 23,
+          "gig_sub_category": 452,
+          "gig_nested_sub_category": 2458,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 64,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65321ece6031e80001bf17a3",
+          "comment": "farhan very creative, fast ,and give me best choice.",
+          "comment_language": "en",
+          "username": "talalalharbi886",
+          "reviewer_country_code": "SA",
+          "created_at": "2023-10-20T14:31:03",
+          "value": 5,
+          "reviewer_country": "Saudi Arabia",
+          "encrypted_order_id": "FO81D48944202",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 155616472,
+          "gig_slug": "create-google-sheet-based-crm-for-your-business",
+          "gig_category": 8,
+          "gig_sub_category": 493,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 64,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6523ebce9fba330001ae71b6",
+          "comment": "Great job, will work with him again\n",
+          "comment_language": "en",
+          "username": "jeffsitz",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/63928671/original/10271562_899049830139677_2900604487110274481_n.jpg",
+          "created_at": "2023-10-09T12:17:55",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO71D34EF7583",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 129064538,
+          "gig_slug": "create-a-custom-microsoft-excel-spreadsheet-with-functions-formulas",
+          "gig_category": 23,
+          "gig_sub_category": 452,
+          "gig_nested_sub_category": 2458,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6523e2f19fba330001ae6b41",
+          "comment": "Farhan was outstanding to work with. He delivered more than what I even expected. I will work with him again.",
+          "comment_language": "en",
+          "username": "jeffsitz",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/63928671/original/10271562_899049830139677_2900604487110274481_n.jpg",
+          "created_at": "2023-10-09T11:43:22",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f609c953d208de1e53cac87e3aa0f565-1695781388/AR%20Master%20CRM%20-%20Google%20Sheet%20CRM%20by%20Cloudgurus.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f609c953d208de1e53cac87e3aa0f565-1695781388/AR%20Master%20CRM%20-%20Google%20Sheet%20CRM%20by%20Cloudgurus.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO61D190BF004",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 129064538,
+          "gig_slug": "create-a-custom-microsoft-excel-spreadsheet-with-functions-formulas",
+          "gig_category": 23,
+          "gig_sub_category": 452,
+          "gig_nested_sub_category": 2458,
+          "relevancy_score": 0,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "652311bb94465a0001c90c29",
+          "comment": "great job, everything perfect and more than expected ",
+          "comment_language": "en",
+          "username": "talalalharbi886",
+          "reviewer_country_code": "SA",
+          "created_at": "2023-10-09T04:09:21",
+          "value": 5,
+          "reviewer_country": "Saudi Arabia",
+          "encrypted_order_id": "FO21D2FA58108",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 129064538,
+          "gig_slug": "create-a-custom-microsoft-excel-spreadsheet-with-functions-formulas",
+          "gig_category": 23,
+          "gig_sub_category": 452,
+          "gig_nested_sub_category": 2458,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 64,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 106,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 44,
+        "business": 14
+      },
+      "user_id": 76836172,
+      "seller_username": "cloudgurus",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 105
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 76836172,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 76836172,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 129064538,
+      "category_id": 23,
+      "sub_category_id": 452,
+      "nested_sub_category_id": 2458,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-custom-microsoft-excel-spreadsheet-with-functions-formulas",
+      "title": "create a custom excel or google sheet with functions, formulas, forms",
+      "seller_name": "cloudgurus",
+      "seller_id": 76836172,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5e79a18a3767013aaa43b73e72fb2d6b-1557486937230/29349e2e-42e7-4ed3-9e94-00e7c04a75c6.jpg",
+      "seller_display_name": "Farhan B.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/129064538/original/94507a3c5f8b6619b6e67aa57cfee89a521477a1.png",
+          "type": "ImageAsset",
+          "id": "129064538_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/129064538/original/2e8fab4ef26cba0554feaa8f7a0c7b06ab9ff36e.png",
+          "type": "ImageAsset",
+          "id": "129064538_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "175559344",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/885a640b4350d4f68db6fec825699e4c-1705176962/sick%20leave%20review%20tab.PNG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "171075226",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f609c953d208de1e53cac87e3aa0f565-1695781388/AR%20Master%20CRM%20-%20Google%20Sheet%20CRM%20by%20Cloudgurus.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "159619379",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/1ff5803611b4f54e2321f8374f23fcac-1674567382/Co-host%20Fee%20Tab%20-%20Work%20Sample.PNG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "143898823",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/0e0c09840e195207213103d29970fa44-1646595576/Advance%20Search%20Engine%20-%20Work%20Sample%20-%20v2.JPG",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 1
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "60fb266346111a00012ad21c",
+          "discount_percentage": 10
+        },
+        {
+          "id": "60fb266346111a00012ad21d",
+          "discount_percentage": 15
+        }
+      ],
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "excel",
+            "google_sheets"
+          ]
+        },
+        {
+          "type": "development_technology",
+          "value": [
+            "vba",
+            "google_apps_script"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "formatting",
+            "fixing",
+            "forms",
+            "pivot_tables",
+            "formulas"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 56,
+      "buying_review_rating": 5,
+      "seller_url": "/cloudgurus",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 106,
+        "score": 4.981132
+      },
+      "gig_url": "/cloudgurus/create-a-custom-microsoft-excel-spreadsheet-with-functions-formulas",
+      "is_seller_unavailable": true,
+      "price_i": 30,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 155616472,
+      "category_id": 8,
+      "sub_category_id": 493,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-google-sheet-based-crm-for-your-business",
+      "title": "create google sheet based CRM for your business",
+      "seller_name": "cloudgurus",
+      "seller_id": 76836172,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5e79a18a3767013aaa43b73e72fb2d6b-1557486937230/29349e2e-42e7-4ed3-9e94-00e7c04a75c6.jpg",
+      "seller_display_name": "Farhan B.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/155616472/original/f0325153e2b30f94c08b94e5ea5a3e2397fbb4d0.png",
+          "type": "ImageAsset",
+          "id": "155616472_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/155616472/original/1e51f6d9769d605b4eebb3ee117257347358aebe.png",
+          "type": "ImageAsset",
+          "id": "155616472_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/155616472/original/fec3cb99e071e44aa6affa7448e29a3559571a71.png",
+          "type": "ImageAsset",
+          "id": "155616472_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "151987631",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4340c80e1f5296e9236e66c62d765547-1660716330/Sales%20Calls%20KPI%20Tracking%20CRM%20-%20Google%20Sheet.JPG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "144974268",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b41e6cd23ad5815f6ff92a2180a688fa-1648343034/BMR%20-%20TDEE%20-%20Calorie%20Intake%20Calculator%20-%20Fitness%20Tracker%20-%20Cloudgurus%20-%20Work%20Sample.JPG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "140729596",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/909172c31ea69090b2fc9eb8d08c784a-1640400141/Shop%20Automation%20Manager%20-%20Work%20Sample%20-%20Google%20Sheet%20CRM%20-%20Apps%20Script.JPG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "139002956",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/0322ab771a0888b6a654e2989c326d95-1636946964/expected%20profit%20calculator.JPG",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 1
+        }
+      ],
+      "recurring_options": [],
+      "metadata": [
+        {
+          "type": "software",
+          "value": [
+            "other"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "agriculture",
+            "animals_pets",
+            "art_design",
+            "beauty_cosmetics",
+            "construction",
+            "education",
+            "energy_utilities",
+            "environmental",
+            "events_planning",
+            "financial_services_business",
+            "gaming",
+            "kids",
+            "legal",
+            "lifestyle",
+            "manufacturing_storage",
+            "marketing_advertising",
+            "media_entertainment",
+            "medical_pharmaceutical",
+            "nonprofit",
+            "photography_videography",
+            "public_sector",
+            "real_estate",
+            "retail_wholesale",
+            "science",
+            "services",
+            "sports_fitness",
+            "technology",
+            "transportation_automotive",
+            "travel_tourism",
+            "writing_publishing"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 33,
+      "buying_review_rating": 5,
+      "seller_url": "/cloudgurus",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 106,
+        "score": 4.981132
+      },
+      "gig_url": "/cloudgurus/create-google-sheet-based-crm-for-your-business",
+      "is_seller_unavailable": true,
+      "price_i": 350,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 131680636,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2630,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-a-shopify-magento-wordpress-website-for-you",
+      "title": "create a shopify, magento, wordpress website for you",
+      "seller_name": "cloudgurus",
+      "seller_id": 76836172,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5e79a18a3767013aaa43b73e72fb2d6b-1557486937230/29349e2e-42e7-4ed3-9e94-00e7c04a75c6.jpg",
+      "seller_display_name": "Farhan B.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/131680636/original/a7e7c10c8978bdcca3a0bfbc6880506c47953c67.png",
+          "type": "ImageAsset",
+          "id": "131680636_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/131680636/original/79093176ded6fe3c4d75a0f6fd3d9f7b5f01d641.jpg",
+          "type": "ImageAsset",
+          "id": "131680636_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "108851375",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a66fef9f086979475dd66c6dc73e2247-1576093827/work%20sample.PNG",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "107981285",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4f5cccb2d07003de5afce5c627cb972f-1573479454/email%20signature.PNG",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 1
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6174ae9c8dda1e0001ec971a",
+          "discount_percentage": 15
+        },
+        {
+          "id": "6174ae9c8dda1e0001ec971b",
+          "discount_percentage": 20
+        }
+      ],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "social_media",
+            "shipping",
+            "inventory",
+            "analytics",
+            "form",
+            "events",
+            "chat",
+            "membership",
+            "gallery"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "one_step_checkout_pro_m2",
+            "seo_toolkit_m2",
+            "ajax_search"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "real_estate",
+            "healthcare",
+            "law",
+            "restaurant",
+            "construction"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/cloudgurus",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 106,
+        "score": 4.981132
+      },
+      "gig_url": "/cloudgurus/create-a-shopify-magento-wordpress-website-for-you",
+      "is_seller_unavailable": true,
+      "price_i": 460,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 186502537,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-a-professional-and-responsive-wordpress-website-landing-page-ecommerce",
+      "title": "design a professional and responsive wordpress website, landing page, ecommerce",
+      "seller_name": "cloudgurus",
+      "seller_id": 76836172,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5e79a18a3767013aaa43b73e72fb2d6b-1557486937230/29349e2e-42e7-4ed3-9e94-00e7c04a75c6.jpg",
+      "seller_display_name": "Farhan B.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/186502537/original/2b3239aa623ed578cdb12d65c4d5378b3e5c97fe.png",
+          "type": "ImageAsset",
+          "id": "186502537_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/186502537/original/7786e4f2c6c5a42a25ac60b1aca3e62c4d14e55a.png",
+          "type": "ImageAsset",
+          "id": "186502537_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/186502537/original/36d1fd9a4dbf51099e511e4bba6a11b50c4c6e8a.jpg",
+          "type": "ImageAsset",
+          "id": "186502537_3"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 1
+        }
+      ],
+      "recurring_options": [],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "social_media",
+            "inventory",
+            "analytics",
+            "form",
+            "events",
+            "gallery",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "akismet",
+            "all_in_one_seo_pack",
+            "contact_form_7",
+            "facebook",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "twitter",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "real_estate",
+            "healthcare",
+            "photography",
+            "restaurant",
+            "construction"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/cloudgurus",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 106,
+        "score": 4.981132
+      },
+      "gig_url": "/cloudgurus/design-a-professional-and-responsive-wordpress-website-landing-page-ecommerce",
+      "is_seller_unavailable": true,
+      "price_i": 200,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 183134918,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-impressive-wordpress-site",
+      "title": "create an impressive wordpress site",
+      "seller_name": "cloudgurus",
+      "seller_id": 76836172,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5e79a18a3767013aaa43b73e72fb2d6b-1557486937230/29349e2e-42e7-4ed3-9e94-00e7c04a75c6.jpg",
+      "seller_display_name": "Farhan B.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/183134918/original/5cd2752054b4da34b64a0706b33515943cf2d44e.jpg",
+          "type": "ImageAsset",
+          "id": "183134918_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/183134918/original/14a9f40d4d6e23a9498d4688d40148095a0e2dcf.png",
+          "type": "ImageAsset",
+          "id": "183134918_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "150655289",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/a3f46bdba351c55f82f484f07295e5c0-1658341166/Consultants%20Database%20-%20View%20Add%20Update%20Delete%20Functionality.JPG",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "forum",
+            "social_media",
+            "customer_support",
+            "shipping",
+            "inventory",
+            "analytics",
+            "video",
+            "form",
+            "events",
+            "map",
+            "faq",
+            "gallery",
+            "calendar"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "akismet",
+            "all_in_one_seo_pack",
+            "contact_form_7",
+            "facebook",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "twitter",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "healthcare",
+            "photography",
+            "restaurant",
+            "recruitment",
+            "logistics"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/cloudgurus",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 106,
+        "score": 4.981132
+      },
+      "gig_url": "/cloudgurus/create-impressive-wordpress-site",
+      "is_seller_unavailable": true,
+      "price_i": 275,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 128405036,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "for-5-dollars-i-will-create-a-professional-logo-for-you",
+      "title": "create a professional logo for your business",
+      "seller_name": "cloudgurus",
+      "seller_id": 76836172,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5e79a18a3767013aaa43b73e72fb2d6b-1557486937230/29349e2e-42e7-4ed3-9e94-00e7c04a75c6.jpg",
+      "seller_display_name": "Farhan B.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/128405036/original/617bdc404a943468c4ba24886e2c127c593486c3.png",
+          "type": "ImageAsset",
+          "id": "128405036_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/128405036/original/82958705e8a8e49379c3ac4b8ce4b01cbd622fa4.jpg",
+          "type": "ImageAsset",
+          "id": "128405036_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/128405036/original/ee416d9ced44a50913d410929f563f473c39a50c.jpg",
+          "type": "ImageAsset",
+          "id": "128405036_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 1
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6174aeb63ca1060001ae4a82",
+          "discount_percentage": 15
+        },
+        {
+          "id": "6174aeb63ca1060001ae4a83",
+          "discount_percentage": 20
+        }
+      ],
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "flat_minimalist"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "wordmark"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/cloudgurus",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 106,
+        "score": 4.981132
+      },
+      "gig_url": "/cloudgurus/for-5-dollars-i-will-create-a-professional-logo-for-you",
+      "is_seller_unavailable": true,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 201125869,
+      "category_id": 10,
+      "sub_category_id": 97,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "set-up-and-configure-hubspot-crm-integrate-lead-tracking-sales-and-marketing",
+      "title": "set up and configure hubspot CRM, integrate lead tracking, sales and marketing",
+      "seller_name": "cloudgurus",
+      "seller_id": 76836172,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5e79a18a3767013aaa43b73e72fb2d6b-1557486937230/29349e2e-42e7-4ed3-9e94-00e7c04a75c6.jpg",
+      "seller_display_name": "Farhan B.",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/201125869/original/0d915a9c3e820dff1d4545551a856fc83fc246a9.jpg",
+          "type": "ImageAsset",
+          "id": "201125869_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/201125869/original/d0c8a682b530d08a5d32fe1fda1033184f6b43a4.jpg",
+          "type": "ImageAsset",
+          "id": "201125869_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/201125869/original/483c6a79c5dc3fe473d279e8640f921e7b902e7d.jpg",
+          "type": "ImageAsset",
+          "id": "201125869_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "ur",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "de",
+          "level": 1
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6174ae3e3ca1060001ae4a14",
+          "discount_percentage": 15
+        },
+        {
+          "id": "6174ae3e3ca1060001ae4a15",
+          "discount_percentage": 20
+        }
+      ],
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/cloudgurus",
+      "seller_level": "top_rated_seller",
+      "seller_rating": {
+        "count": 106,
+        "score": 4.981132
+      },
+      "gig_url": "/cloudgurus/set-up-and-configure-hubspot-crm-integrate-lead-tracking-sales-and-marketing",
+      "is_seller_unavailable": true,
+      "price_i": 400,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

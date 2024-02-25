@@ -1,0 +1,156 @@
+{
+  "seller": {
+    "user": {
+      "id": "166122770",
+      "name": "rriveralaw",
+      "isActivationCompleted": true,
+      "joinedAt": 1703121250,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Guatemala",
+        "countryCode": "GT"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.4356028415,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 166122770,
+      "seller_username": "rriveralaw",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 166122770,
+      "reviews": [
+        {
+          "id": "65c3c4d0f67a3a0001f0550d",
+          "comment": "Thank you 😊",
+          "comment_language": "en",
+          "username": "h_dexter",
+          "reviewer_country_code": "LK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/38865f4a00170427f32a881633cd6016-1606032002040/998ee4d1-238d-4007-9ea5-472b29ee14e5.jpg",
+          "created_at": "2024-02-07T17:58:40",
+          "value": 5
+        },
+        {
+          "id": "6592e0ae11347300013494d5",
+          "comment": "Great Experience",
+          "comment_language": "en",
+          "username": "wasifvideoedit",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9df1533f481d27e75bb9a0f556853e81-1707479772525/e64a30b1-8b83-4403-b055-469891e064ce.png",
+          "created_at": "2024-01-01T15:56:30",
+          "value": 5
+        },
+        {
+          "id": "65870c905c478900012de7e5",
+          "comment": "Outstanding Experience ",
+          "comment_language": "en",
+          "username": "streamer_club",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/79849f3ec082da6b120ab76d9e14c8f8-1626653649418/eb21e131-f77a-4f80-bb1c-52c223cbdf77.jpg",
+          "created_at": "2023-12-23T16:36:32",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 166122770,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Guatemala",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}

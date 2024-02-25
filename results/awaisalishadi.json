@@ -1,0 +1,616 @@
+{
+  "seller": {
+    "user": {
+      "id": "165611143",
+      "name": "awaisalishadi",
+      "isActivationCompleted": true,
+      "joinedAt": 1702407935,
+      "profile": {
+        "displayName": "Muhammad Ali"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "DE",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ZH",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/e5d5e8f96cbb4818b0117a86f61b2a4c-1702435639307/f24ca7eb-bf6f-4268-b988-ee3c7b21a35b.png"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "354704510"
+        },
+        {
+          "id": "354745084"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I am a digital marketing agent with 6 years of content creation,  copy-writing, data collection, data visualization,data entry, lead generation, and SEO services. \r\nIf you are looking for someone to promote your business or get help for insights and virtual assistance for your company for different tasks, approach me without a doubt. \r\nMy previous diverse education in data science and business studies equipped me with broad-based understanding of modern day work and how business use modern tools like SEO services, lead generations and data analysis to increase their sales. \r\n",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "database management",
+        "toYear": 2021,
+        "countryCode": "US",
+        "school": "Monterey Peninsula College",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6440565f07789005c4f",
+        "name": "Copy paste work",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Copy paste expert"
+      },
+      {
+        "id": "617fa6600565f077890064ab",
+        "name": "Lead generation",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Lead generation expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c58",
+        "name": "Web content",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web content writer"
+      },
+      {
+        "id": "617fa6430565f07789005c27",
+        "name": "Content development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Content developer"
+      },
+      {
+        "id": "617fa6710565f07789006950",
+        "name": "SEO copywriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO copywriter"
+      },
+      {
+        "id": "617fa64b0565f07789005e76",
+        "name": "Email copywriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Email copywriter"
+      },
+      {
+        "id": "617fa64e0565f07789005f48",
+        "name": "Excel spreadsheet",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Excel spreadsheet expert"
+      },
+      {
+        "id": "617fa6460565f07789005d07",
+        "name": "Data entry MS Excel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data entry MS Excel expert"
+      },
+      {
+        "id": "617fa6710565f07789006951",
+        "name": "SEO writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO writer"
+      },
+      {
+        "id": "617fa6390565f0778900591c",
+        "name": "Articles writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Articles writer"
+      },
+      {
+        "id": "617fa63c0565f07789005a0c",
+        "name": "Blog writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blog writer"
+      },
+      {
+        "id": "617fa6480565f07789005d90",
+        "name": "Digital marketing projects",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Digital marketing projects expert"
+      },
+      {
+        "id": "617fa6790565f07789006bdc",
+        "name": "Virtual assistance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Virtual assistant"
+      },
+      {
+        "id": "617fa6690565f07789006724",
+        "name": "Personal assistance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Personal assistant"
+      },
+      {
+        "id": "617fa6350565f077890057db",
+        "name": "Administrative assistance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Administrative assistant"
+      },
+      {
+        "id": "617fa6670565f07789006692",
+        "name": "Office assistance",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Office assistant"
+      },
+      {
+        "id": "617fa66d0565f07789006855",
+        "name": "Qualitative research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Qualitative researcher"
+      },
+      {
+        "id": "617fa66d0565f0778900685d",
+        "name": "Quantitative research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Quantitative researcher"
+      },
+      {
+        "id": "617fa6460565f07789005cf9",
+        "name": "Data analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data analyst"
+      },
+      {
+        "id": "617fa6460565f07789005d34",
+        "name": "Data visualization",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Data visualization developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": 2767
+      },
+      {
+        "categoryId": 23,
+        "subCategoryId": 456,
+        "nestedCategoryId": 2570
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 5
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c1d287f9a787374b91c2b7",
+          "comment": "The seller is amazing. Thank you for the meticulous attention paid on the task. I'll buy again",
+          "comment_language": "en",
+          "username": "jimmy_ronie",
+          "reviewer_country_code": "NL",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4862ed522c40f05db9d2e14479243d4a-1702650653241/a71497cc-970a-43ca-9b3d-f55de2bb83d8.jpg",
+          "created_at": "2024-02-06T06:53:13",
+          "value": 5,
+          "reviewer_country": "Netherlands",
+          "encrypted_order_id": "FO61E0E5DD784",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354704510,
+          "gig_slug": "data-entry-and-copy-paste-work",
+          "gig_category": 23,
+          "gig_sub_category": 456,
+          "gig_nested_sub_category": 2570,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 115,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b76ad4da9df3104e85669f",
+          "comment": "I bought second time and the services are amazing. I'm happy with the seller.",
+          "comment_language": "en",
+          "username": "valemanica",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e877199490a2b049335673a6c3c8fbf3-1699557116917/4c4d33a7-0847-433c-90df-5f7c262a11c5.jpg",
+          "created_at": "2024-01-29T09:08:23",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO717FF96CF81",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 354704510,
+          "gig_slug": "data-entry-and-copy-paste-work",
+          "gig_category": 23,
+          "gig_sub_category": 456,
+          "gig_nested_sub_category": 2570,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 807,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65ae9fb808246e65371f0d1d",
+          "comment": "Very good work. Thanks. Will buy again",
+          "comment_language": "en",
+          "username": "johandenver",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/493143e57c936bcb72f22c444d10945e-1701193997840/f3ff6945-4040-4c4d-8646-8629d8dd7e93.jpeg",
+          "created_at": "2024-01-22T17:34:11",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO117EF5B3787",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354704510,
+          "gig_slug": "data-entry-and-copy-paste-work",
+          "gig_category": 23,
+          "gig_sub_category": 456,
+          "gig_nested_sub_category": 2570,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 80,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65a569cb153b6e7b15cf404f",
+          "comment": "I liked seller's pro-activeness and dedication. The quality of work was amazing. Will buy again.",
+          "comment_language": "en",
+          "username": "samy_de21",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/27ac8a5a1418f358b60160d188e2c5f8-1704045816556/068160bb-6d0a-4d1f-a5db-0b4bfe136725.jpg",
+          "created_at": "2024-01-15T17:55:44",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82FD50F6F08",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354704510,
+          "gig_slug": "data-entry-and-copy-paste-work",
+          "gig_category": 23,
+          "gig_sub_category": 456,
+          "gig_nested_sub_category": 2570,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 15,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "659fcb732ffdc500015e58a4",
+          "comment": "Wonderful work done. Very reliable for office assistance work. Would buy again",
+          "comment_language": "en",
+          "username": "valemanica",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e877199490a2b049335673a6c3c8fbf3-1699557116917/4c4d33a7-0847-433c-90df-5f7c262a11c5.jpg",
+          "created_at": "2024-01-11T11:11:52",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO21DDD09BC88",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 354704510,
+          "gig_slug": "data-entry-and-copy-paste-work",
+          "gig_category": 23,
+          "gig_sub_category": 456,
+          "gig_nested_sub_category": 2570,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 807,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 5,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 0
+      },
+      "user_id": 165611143,
+      "seller_username": "awaisalishadi",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 5
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 165611143,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165611143,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 354704510,
+      "category_id": 23,
+      "sub_category_id": 456,
+      "nested_sub_category_id": 2570,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "data-entry-and-copy-paste-work",
+      "title": "do perfect data entry and copypaste work",
+      "seller_name": "awaisalishadi",
+      "seller_id": 165611143,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e5d5e8f96cbb4818b0117a86f61b2a4c-1702435639307/f24ca7eb-bf6f-4268-b988-ee3c7b21a35b.png",
+      "seller_display_name": "Muhammad Ali",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354704510/original/e1fca54a86dfd87dc9c7e52f7f4bfcd4ae717f3a.jpg",
+          "type": "ImageAsset",
+          "id": "354704510_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/354704510/original/0b59961a4a08b548a12e3129e3a84fa2724512d4.jpg",
+          "type": "ImageAsset",
+          "id": "354704510_2"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "zh",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "industry",
+          "value": [
+            "financial_services_business",
+            "lifestyle",
+            "marketing_advertising"
+          ]
+        },
+        {
+          "type": "tool",
+          "value": [
+            "excel",
+            "google_sheets",
+            "word"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 5,
+      "buying_review_rating": 5,
+      "seller_url": "/awaisalishadi",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/awaisalishadi/data-entry-and-copy-paste-work",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 354745084,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2767,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-perfect-seo-articles-and-blogs",
+      "title": "do perfect SEO articles and blogs",
+      "seller_name": "awaisalishadi",
+      "seller_id": 165611143,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e5d5e8f96cbb4818b0117a86f61b2a4c-1702435639307/f24ca7eb-bf6f-4268-b988-ee3c7b21a35b.png",
+      "seller_display_name": "Muhammad Ali",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354745084/original/e706b639b65c622a24a353526947662b7c367236.png",
+          "type": "ImageAsset",
+          "id": "354745084_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "de",
+          "level": 2
+        },
+        {
+          "code": "zh",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "beauty_cosmetics",
+            "fashion_apparel",
+            "financial_services_business",
+            "lifestyle",
+            "marketing_advertising"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "persuasive",
+            "professional_formal",
+            "informative"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/awaisalishadi",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 5,
+        "score": 5
+      },
+      "gig_url": "/awaisalishadi/do-perfect-seo-articles-and-blogs",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

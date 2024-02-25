@@ -1,0 +1,453 @@
+{
+  "seller": {
+    "user": {
+      "id": "142057821",
+      "name": "ia_masterclass",
+      "isActivationCompleted": true,
+      "joinedAt": 1673286845,
+      "profile": {
+        "displayName": "Martin"
+      },
+      "address": {
+        "countryName": "Kenya",
+        "countryCode": "KE"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/1010d85b16eae58322a6e6f7599c51bf-1673289750372/209d1c91-4e51-48a9-81a9-88af4953a637.PNG"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "294529215"
+        },
+        {
+          "id": "296496915"
+        },
+        {
+          "id": "299070787"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "I am an experienced IA IB tutor, with over six years of experience! As a result, I will walk you through all your IAs and EEs. My services are customer-centered, as I prioritize them in the different gigs",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "mathematicscomputer science",
+        "toYear": 2017,
+        "countryCode": "KE",
+        "school": "strathmore University",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 121,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 169,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 23,
+        "subCategoryId": 457,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 6
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65532272163f3500012e0a91",
+          "comment": "I am impressed with the timely and accurate delivery. \nMarting demonstrated a perfect understanding of my needs and flexibility in adapting to my changing needs and to further reviews and also to exploring other topics thinking outside the box and researching in other language websites.\nI highly recommend this seller",
+          "comment_language": "en",
+          "username": "lauramu74",
+          "reviewer_country_code": "IT",
+          "created_at": "2023-11-14T07:33:05",
+          "value": 5,
+          "reviewer_country": "Italy",
+          "encrypted_order_id": "FO7177FB9BB81",
+          "score": 0.6562339,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 296496915,
+          "gig_slug": "perfectly-write-your-tok-essays-and-exhibitions",
+          "gig_category": 5,
+          "gig_sub_category": 121,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "659c2e34369cc9000121ea31",
+          "comment": "Your exceptional communication skills and consistent ability to deliver work promptly are truly commendable. Your proactive approach in keeping stakeholders informed and meeting deadlines consistently demonstrates professionalism. Your dedication to effective communication and timely execution significantly contributes to the overall success of our projects, fostering a reliable and efficient work environment",
+          "comment_language": "en",
+          "username": "anuvartbaid",
+          "reviewer_country_code": "IN",
+          "created_at": "2024-01-08T17:24:06",
+          "value": 4.7,
+          "reviewer_country": "India",
+          "encrypted_order_id": "FO71DC80FD303",
+          "score": 0.47803614,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 299070787,
+          "gig_slug": "professionally-do-all-ias-econ-commentaries-and-business-ia-tok-and-ess",
+          "gig_category": 23,
+          "gig_sub_category": 457,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65a00376df0698140a16a567",
+          "comment": "As advertised. He does great work. ",
+          "comment_language": "en",
+          "username": "pcusick23",
+          "reviewer_country_code": "AT",
+          "created_at": "2024-01-11T15:05:21",
+          "value": 5,
+          "reviewer_country": "Austria",
+          "encrypted_order_id": "FO81DDC1A1182",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 294529215,
+          "gig_slug": "professionally-do-ias-sl-hl-extended-and-tok-essaus",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "656b6c2b9b6e4000017d0a86",
+          "comment": "My ia was perfect, definitely recommend,",
+          "comment_language": "en",
+          "username": "haifathamer",
+          "reviewer_country_code": "SA",
+          "created_at": "2023-12-02T17:41:24",
+          "value": 5,
+          "reviewer_country": "Saudi Arabia",
+          "encrypted_order_id": "FO82F4DEC8F08",
+          "score": 0,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 299070787,
+          "gig_slug": "professionally-do-all-ias-econ-commentaries-and-business-ia-tok-and-ess",
+          "gig_category": 23,
+          "gig_sub_category": 457,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "652994cee649160001841f2c",
+          "comment": "Very competent, very helpful and great seller!",
+          "comment_language": "en",
+          "username": "walter_spring",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/af01f8ff4b0d638672d5b6d96e410110-1696226064559/618cfcfb-18fe-43f4-8e6a-52cc4ad59482.png",
+          "created_at": "2023-10-13T20:22:12",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO31189F0CBC3",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 294529215,
+          "gig_slug": "professionally-do-ias-sl-hl-extended-and-tok-essaus",
+          "gig_category": 5,
+          "gig_sub_category": 169,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 142,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 6,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 142057821,
+      "seller_username": "ia_masterclass",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 6
+        }
+      ],
+      "average_valuation": 4.9
+    },
+    "selling_reviews": {
+      "user_id": 142057821,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 142057821,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Africa/Nairobi",
+    "recent_utc_offset": -180
+  },
+  "gigsData": [
+    {
+      "gig_id": 294529215,
+      "category_id": 5,
+      "sub_category_id": 169,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "professionally-do-ias-sl-hl-extended-and-tok-essaus",
+      "title": "professionally do ias sl, hl, extended and tok essays",
+      "seller_name": "ia_masterclass",
+      "seller_id": 142057821,
+      "seller_country": "KE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1010d85b16eae58322a6e6f7599c51bf-1673289750372/209d1c91-4e51-48a9-81a9-88af4953a637.PNG",
+      "seller_display_name": "Martin",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/294529215/original/ed5c716636935f7fa66e71ba06cf458ead0e517d.png",
+          "type": "ImageAsset",
+          "id": "294529215_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "service_type",
+          "value": [
+            "research"
+          ]
+        },
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/ia_masterclass",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 6,
+        "score": 4.9444447
+      },
+      "gig_url": "/ia_masterclass/professionally-do-ias-sl-hl-extended-and-tok-essaus",
+      "is_seller_unavailable": false,
+      "price_i": 100,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 299070787,
+      "category_id": 23,
+      "sub_category_id": 457,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "professionally-do-all-ias-econ-commentaries-and-business-ia-tok-and-ess",
+      "title": "professionally do all ias, econ commentaries and business ia, tok and ess",
+      "seller_name": "ia_masterclass",
+      "seller_id": 142057821,
+      "seller_country": "KE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1010d85b16eae58322a6e6f7599c51bf-1673289750372/209d1c91-4e51-48a9-81a9-88af4953a637.PNG",
+      "seller_display_name": "Martin",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/299070787/original/66b69d130354e0b7e8763ff6302d3b8be3f51a76.jfif",
+          "type": "ImageAsset",
+          "id": "299070787_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 4.8,
+      "seller_url": "/ia_masterclass",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 6,
+        "score": 4.9444447
+      },
+      "gig_url": "/ia_masterclass/professionally-do-all-ias-econ-commentaries-and-business-ia-tok-and-ess",
+      "is_seller_unavailable": false,
+      "price_i": 60,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 296496915,
+      "category_id": 5,
+      "sub_category_id": 121,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "perfectly-write-your-tok-essays-and-exhibitions",
+      "title": "perfectly write your tok essays and exhibitions",
+      "seller_name": "ia_masterclass",
+      "seller_id": 142057821,
+      "seller_country": "KE",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/1010d85b16eae58322a6e6f7599c51bf-1673289750372/209d1c91-4e51-48a9-81a9-88af4953a637.PNG",
+      "seller_display_name": "Martin",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/296496915/original/430173e7655e22bb6b57b4b08d4510a1b2a591dc.png",
+          "type": "ImageAsset",
+          "id": "296496915_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/ia_masterclass",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 6,
+        "score": 4.9444447
+      },
+      "gig_url": "/ia_masterclass/perfectly-write-your-tok-essays-and-exhibitions",
+      "is_seller_unavailable": false,
+      "price_i": 40,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

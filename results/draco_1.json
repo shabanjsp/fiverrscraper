@@ -1,0 +1,153 @@
+{
+  "seller": {
+    "user": {
+      "id": "167961721",
+      "name": "draco_1",
+      "isActivationCompleted": true,
+      "joinedAt": 1705094705,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Canada",
+        "countryCode": "CA"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.2352238009,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 167961721,
+      "seller_username": "draco_1",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 167961721,
+      "reviews": [
+        {
+          "id": "65c55f31750928000116f249",
+          "comment": "smooth communication ",
+          "comment_language": "en",
+          "username": "hammad_pak",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/20983340cd77aa672c3c66db1bbdfdcd-81267111677548109778/JPEG_20230228_023509_5456319550621489162.jpg",
+          "created_at": "2024-02-08T23:09:37",
+          "value": 5
+        },
+        {
+          "id": "65a5cfddbe67470001ee004e",
+          "comment": "Great experience, very cooperative",
+          "comment_language": "en",
+          "username": "arif335",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2c08ee8cd4cad45518693aa967901eee-1700568648637/a00e890f-ed00-4fe0-a8a0-cad41be089fc.png",
+          "created_at": "2024-01-16T00:37:50",
+          "value": 5
+        },
+        {
+          "id": "65a50e6dbe67470001ed76fc",
+          "comment": "thnks ",
+          "comment_language": "unknown",
+          "username": "profhania5",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6183c39b8df2166ede3c8ba3a275a776-1702878755052/b1ebe92d-3cfa-4f08-becb-51e17ac92566.jpeg",
+          "created_at": "2024-01-15T10:52:29",
+          "value": 4
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 167961721,
+    "currency": "CAD",
+    "locale": "en-US",
+    "timezone": "America/Toronto",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

@@ -1,0 +1,922 @@
+{
+  "seller": {
+    "user": {
+      "id": "88457660",
+      "name": "adiikhan7",
+      "isActivationCompleted": true,
+      "joinedAt": 1589750093,
+      "profile": {
+        "displayName": "Adii Khan"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "UR",
+          "level": "FLUENT"
+        },
+        {
+          "code": "PS",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/5b2fd8fb830e2b61dd8b099e2a04e19a-1640198498875/f740f489-95b1-49d2-9b7c-c52510b40004.png"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "191539176"
+        },
+        {
+          "id": "221994672"
+        },
+        {
+          "id": "246372773"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Client Satisfaction is my First Priority",
+    "description": "Greetings! I thrive on the online frontier with a passion for precision. Equipped with a degree in computer system engineering, I'm here to guide your projects to perfection. With over 3 years in web development, I'm your go-to for all things website-related. Let's collaborate and craft digital excellence together. Your \"Saves\" and \"Shares\" are greatly appreciated.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Maximilian Schwarzmüller",
+        "certificationName": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer system engineering",
+        "toYear": 2022,
+        "countryCode": "PK",
+        "school": "university of Engineering And Technalogy Peshawar",
+        "degreeTitle": "BSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Front-end web developer"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bootstrap expert"
+      },
+      {
+        "id": "617fa6360565f07789005829",
+        "name": "Ajax programming",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Ajax programmer"
+      },
+      {
+        "id": "617fa66a0565f0778900675b",
+        "name": "PHP 7",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "PHP 7 developer"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "jQuery expert"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "React expert"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html5 expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Node.js expert"
+      },
+      {
+        "id": "617fa63a0565f07789005981",
+        "name": "AWS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "AWS expert"
+      },
+      {
+        "id": "617fa6600565f07789006497",
+        "name": "Laravel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Laravel expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "61a4d8a8758d756a25307ba4",
+        "name": "Bootstrap 5",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Bootstrap 5 developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c7e",
+        "name": "Website cloning",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website cloning expert"
+      },
+      {
+        "id": "617fa6510565f07789006035",
+        "name": "Flutter",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter expert"
+      },
+      {
+        "id": "617fa6500565f07789005fff",
+        "name": "Firebase",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Firebase expert"
+      },
+      {
+        "id": "617fa6510565f07789006036",
+        "name": "Flutter development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Flutter developer"
+      },
+      {
+        "id": "617fa65b0565f07789006348",
+        "name": "Install WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress instalation expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 140,
+        "nestedCategoryId": 2044
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 141,
+        "nestedCategoryId": 1070
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "64b50f0ca424dd000179d547",
+          "title": "Dynamic, Creative Hub for Artist",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "64b50f0ca424dd000179d548",
+                "attachment": {
+                  "metadata": {
+                    "height": 16384,
+                    "width": 2858
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/44935fbdabaaaf2cc44cdda0b76a3971-1689587209991/katzubar.com_onlineconference.html.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64b54049c246a600015338da",
+          "title": "Empowering Hosting for Gamers ",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "64b54049c246a600015338db",
+                "attachment": {
+                  "metadata": {
+                    "height": 3151,
+                    "width": 1440
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d8ec41032b016228313547907d7d7327-1689599959136/Homepage.jpg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64eefea3c5c848000125bada",
+          "title": "Empowering Hosting for Gamers",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "64eefea3c5c848000125badb",
+                "attachment": {
+                  "metadata": {
+                    "height": 3014,
+                    "width": 1440
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/a579aae54c340b5db8b2ac631701efee-1693384333279/Home%20-Brisk%20Server.svg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64eefff214774e0001ca63c6",
+          "title": "Ultimate Poker Showdown",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "64eefff214774e0001ca63c7",
+                "attachment": {
+                  "metadata": {
+                    "height": 1231,
+                    "width": 1440
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/04bb491a0bf39ce34c1ad201c2590efa-1693384676049/Adi%20Marwat%20CLient%20-UMD%20Poker%20Games%20(2).svg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "64ef0bf7c5c848000125c0e9",
+          "title": "Empowering E-Commerce Solutions",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "64ef0bf7c5c848000125c0ea",
+                "attachment": {
+                  "metadata": {
+                    "height": 3969,
+                    "width": 1920
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/b820f663f414b9a16b44200aa93fabeb-1693387428080/Privilage%20page.svg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 5
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1693689462
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 114
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.918560656,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "657d96badbf8680001007938",
+          "comment": "Adii has made the impossible possible. Making our 7 year old platform responsive from old HTML and CSS in a record time of 10 days, although 30 days were scheduled. There must have been around 50 pages that had to be customised.\n\nAdii worked independently and quickly in every respect and gave us a price for the project that was just right. We are more than satisfied and wish Adii all the best. Hopefully we will work together again in the future.",
+          "comment_language": "en",
+          "username": "thorb_",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d1ad46791fea6a020f25360a006e40c0-1580203465688/6a4100e8-485b-4aed-918c-12e7f0726320.jpeg",
+          "created_at": "2023-12-16T12:25:35",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO617B50C4382",
+          "score": 0.7180806,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 191539176,
+          "gig_slug": "be-your-front-end-web-developer",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2044,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65c55a494f8eaf753b0b74a8",
+          "comment": "Adii is smart, and professional and has a good working ethic that makes him trustworthy.  This is my first project with him and I trust he will continue to excel in other projects I am planning to assign to him. Great work!  Truly appreciated.",
+          "comment_language": "en",
+          "username": "mssheena",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5aff00df1d61bce0925386eebc576540-1006384621637986117.10085/9D54E71F-F223-4629-BBBB-DC60E0A2EF64",
+          "created_at": "2024-02-08T22:49:05",
+          "value": 4.7,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO62A126119C8",
+          "score": 0.5171119,
+          "reviewer_industry": [
+            "medical_or_pharmaceutical"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 191539176,
+          "gig_slug": "be-your-front-end-web-developer",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2044,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 115,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ca88a1cef38f741c582bb3",
+          "comment": "He help me very much and work faster than the deliver time.",
+          "comment_language": "en",
+          "username": "pedrodiaz123",
+          "reviewer_country_code": "AR",
+          "created_at": "2024-02-12T21:08:25",
+          "value": 5,
+          "reviewer_country": "Argentina",
+          "encrypted_order_id": "FO62A289917C8",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 221994672,
+          "gig_slug": "convert-psd-xd-and-figma-to-html5-css3-and-bootstrap",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2044,
+          "relevancy_score": 0,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 2,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "659f2fe32ffdc500015e0847",
+          "comment": "great job, will work with again.",
+          "comment_language": "en",
+          "username": "bmwkelly",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/69b64587ce21edb4126f177150d0e276-1616000614357/c9c0a570-c23d-40e4-8c41-dd51793a1cee.jpg",
+          "created_at": "2024-01-11T00:02:23",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO729CE6CD0C7",
+          "score": 0,
+          "reviewer_industry": [
+            "art_and_design"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 191539176,
+          "gig_slug": "be-your-front-end-web-developer",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2044,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 180,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "659b09e7369cc900012136f6",
+          "comment": "He is sharp, fast and tries very hard to make your project happen exactly as you want it.",
+          "comment_language": "en",
+          "username": "gcacdev",
+          "reviewer_country_code": "CA",
+          "created_at": "2024-01-07T21:32:31",
+          "value": 5,
+          "reviewer_country": "Canada",
+          "encrypted_order_id": "FO517DB6C3383",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 191539176,
+          "gig_slug": "be-your-front-end-web-developer",
+          "gig_category": 10,
+          "gig_sub_category": 140,
+          "gig_nested_sub_category": 2044,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 114,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 10,
+        "business": 1
+      },
+      "user_id": 88457660,
+      "seller_username": "adiikhan7",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 111
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+        "art_and_design": "Art & Design"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 88457660,
+      "reviews": [
+        {
+          "id": "62cd7f1c28fb440001dc3fb0",
+          "comment": "The one clean and clear requirements ",
+          "comment_language": "en-US",
+          "username": "awaismehmood255",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/91807c6a8a04cff2780d67b2bcac9902-1688881263520/efc62959-750c-4f04-84df-cc7f8febeab1.png",
+          "created_at": "2022-07-12T14:03:08",
+          "value": 5
+        },
+        {
+          "id": "62cc24aac85bb6000198f3ef",
+          "comment": "Very Great Buyyer, Awesome Experience with him.",
+          "comment_language": "en-US",
+          "username": "xeeshan_salam",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/332030869e0b557bdaf2565b6b2d7455-1657358234578/89993f90-f18a-4fa2-9044-3bcc51a484f1.png",
+          "created_at": "2022-07-11T13:24:58",
+          "value": 5
+        },
+        {
+          "id": "62c001150a4ec10001081c3e",
+          "comment": "Nice Person, Want to work again ",
+          "comment_language": "en-US",
+          "username": "rapidev_tech",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/11b7a9f4d5f74cd6a7332af601f81159-1654855372711/45bd3f1c-6e51-4052-ba8b-444038546c24.jpg",
+          "created_at": "2022-07-02T08:25:57",
+          "value": 5
+        },
+        {
+          "id": "620f9549d43fc3000163a5d1",
+          "comment": "Looking forward to work with him again",
+          "comment_language": "en-US",
+          "username": "webit_791",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/55ef4fd4fbcfa012f310a856ffb6ea0b-1599041129865/78685ff7-1f5f-40c4-a8ea-7ffc120ab52b.jpg",
+          "created_at": "2022-02-18T12:47:05",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 88457660,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 191539176,
+      "category_id": 10,
+      "sub_category_id": 140,
+      "nested_sub_category_id": 2044,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "be-your-front-end-web-developer",
+      "title": "be your front end web developer, HTML CSS and bootstrap",
+      "seller_name": "adiikhan7",
+      "seller_id": 88457660,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5b2fd8fb830e2b61dd8b099e2a04e19a-1640198498875/f740f489-95b1-49d2-9b7c-c52510b40004.png",
+      "seller_display_name": "Adii Khan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/191539176/original/0ff5a657549f5b2b43b5e72f170c0615ffff0e71.jpg",
+          "type": "ImageAsset",
+          "id": "191539176_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/191539176/original/fc6b6dd7d70d1235fd38eade8158b6956c65fc43.jpg",
+          "type": "ImageAsset",
+          "id": "191539176_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/191539176/original/e358131cda1d29edc9aa96946381247592733a47.jpg",
+          "type": "ImageAsset",
+          "id": "191539176_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 3
+        },
+        {
+          "code": "ps",
+          "level": 3
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "64c8810e99e0c70001b1e1e0",
+          "discount_percentage": 10
+        },
+        {
+          "id": "64c8810e99e0c70001b1e1e1",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "from_psd_file",
+            "w3c_validation",
+            "design"
+          ]
+        },
+        {
+          "type": "frontend_framework",
+          "value": [
+            "react_js",
+            "jquery",
+            "bootstrap",
+            "tailwind_css",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 90,
+      "buying_review_rating": 5,
+      "seller_url": "/adiikhan7",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 114,
+        "score": 4.9590645
+      },
+      "gig_url": "/adiikhan7/be-your-front-end-web-developer",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 221994672,
+      "category_id": 10,
+      "sub_category_id": 140,
+      "nested_sub_category_id": 2044,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "convert-psd-xd-and-figma-to-html5-css3-and-bootstrap",
+      "title": "convert psd, xd and figma to html5,css3 and bootstrap",
+      "seller_name": "adiikhan7",
+      "seller_id": 88457660,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5b2fd8fb830e2b61dd8b099e2a04e19a-1640198498875/f740f489-95b1-49d2-9b7c-c52510b40004.png",
+      "seller_display_name": "Adii Khan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/221994672/original/147b8eb127ae58d5f579e8a66e0ac9af85a9e1d7.jpg",
+          "type": "ImageAsset",
+          "id": "221994672_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/221994672/original/efd4ce7c24362d9d3a63fc30f0f9853285845fc5.jpg",
+          "type": "ImageAsset",
+          "id": "221994672_3"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/221994672/original/221febb5852c7fb20b598adb05ce9165dd82d26d.jpg",
+          "type": "ImageAsset",
+          "id": "221994672_2"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "167519692",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/072f3bcb000967f2b995a620e1fcd3ed-1688831190/Homepage.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 3
+        },
+        {
+          "code": "ps",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "programming_language",
+          "value": [
+            "html_css"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "localization",
+            "performance",
+            "w3c_validation",
+            "design",
+            "databases"
+          ]
+        },
+        {
+          "type": "frontend_framework",
+          "value": [
+            "react_js",
+            "angularjs",
+            "bootstrap",
+            "tailwind_css",
+            "other"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 16,
+      "buying_review_rating": 5,
+      "seller_url": "/adiikhan7",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 114,
+        "score": 4.9590645
+      },
+      "gig_url": "/adiikhan7/convert-psd-xd-and-figma-to-html5-css3-and-bootstrap",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 246372773,
+      "category_id": 10,
+      "sub_category_id": 141,
+      "nested_sub_category_id": 1070,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "develop-android-and-ios-app-using-flutter",
+      "title": "develop android and IOS app using flutter",
+      "seller_name": "adiikhan7",
+      "seller_id": 88457660,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/5b2fd8fb830e2b61dd8b099e2a04e19a-1640198498875/f740f489-95b1-49d2-9b7c-c52510b40004.png",
+      "seller_display_name": "Adii Khan",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/246372773/original/1111b19c7af16f376ba4105e898a4acaa52bdf4d.jpg",
+          "type": "ImageAsset",
+          "id": "246372773_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/246372773/original/bf01fac8231219ee77c60ca286601cf2877014a1.jpg",
+          "type": "ImageAsset",
+          "id": "246372773_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/246372773/original/fba7dc468b9549aa11e06398a29a7e3e353e60a1.jpg",
+          "type": "ImageAsset",
+          "id": "246372773_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "ur",
+          "level": 3
+        },
+        {
+          "code": "ps",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "app_type",
+          "value": [
+            "hybrid"
+          ]
+        },
+        {
+          "type": "programming_language",
+          "value": [
+            "dart",
+            "swift",
+            "objective_c"
+          ]
+        },
+        {
+          "type": "frameworks",
+          "value": [
+            "flutter",
+            "ionic",
+            "swiftui",
+            "node_js"
+          ]
+        },
+        {
+          "type": "tools",
+          "value": [
+            "flutterflow",
+            "android_studio",
+            "firebase"
+          ]
+        },
+        {
+          "type": "purpose",
+          "value": [
+            "dating",
+            "delivery",
+            "streaming",
+            "restaurant",
+            "shopping",
+            "entertainment",
+            "medical",
+            "health_fitness",
+            "education",
+            "news"
+          ]
+        },
+        {
+          "type": "expertise",
+          "value": [
+            "cross_browser_device_compatibility",
+            "performance",
+            "design",
+            "data_storage",
+            "firebase",
+            "widgets"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 8,
+      "buying_review_rating": 4.9,
+      "seller_url": "/adiikhan7",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 114,
+        "score": 4.9590645
+      },
+      "gig_url": "/adiikhan7/develop-android-and-ios-app-using-flutter",
+      "is_seller_unavailable": false,
+      "price_i": 310,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

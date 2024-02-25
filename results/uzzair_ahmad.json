@@ -1,0 +1,483 @@
+{
+  "seller": {
+    "user": {
+      "id": "165338761",
+      "name": "uzzair_ahmad",
+      "isActivationCompleted": true,
+      "joinedAt": 1702015340,
+      "profile": {
+        "displayName": "Uzair"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/2f8a764cecc6ffef6b4f00bcaf24e1fd-1702062388782/4f99f393-1683-43ce-afcd-3a2a023145c8.jpeg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "354050236"
+        },
+        {
+          "id": "354152039"
+        },
+        {
+          "id": "361985508"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "For over 8 years, I have been assisting entrepreneurs in driving their business ideas into success. I'm Uzair Ahmad, a funding consultant and business analyst at Ahmad Consult, with the goal of using effective business strategies to move your business or enterprise closer to its financial goals. Join our community of 150+ happy customers from different parts of the world.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Oxford university",
+        "certificationName": "Goal Achiever",
+        "year": 2016
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "businessmarketing",
+        "toYear": 2016,
+        "countryCode": "PK",
+        "school": "Oxford Universty",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63e0565f07789005aa4",
+        "name": "Business startup",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business startup expert"
+      },
+      {
+        "id": "617fa63e0565f07789005aa2",
+        "name": "Business reports",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Business reports expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 7,
+        "subCategoryId": 77,
+        "nestedCategoryId": 2430
+      },
+      {
+        "categoryId": 7,
+        "subCategoryId": 123,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 7
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.9524782706,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c24522cf541d2cf760fe33",
+          "comment": "Very quick response and delivery is definitely above expectations. Highly recommended....no hesitation to appreciating with 5star.",
+          "comment_language": "en",
+          "username": "edward900c",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-06T14:52:57",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/95e6023e57127ed34521d2863358c9a1-1707101710/IMG-20240205-WA0000.jpg",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/95e6023e57127ed34521d2863358c9a1-1707101710/IMG-20240205-WA0000.jpg",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO7180A35E781",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 361985508,
+          "gig_slug": "do-chemistry-analytical-organic-general-physical-and-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 4,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65bcbc8aa37a1c2e1d4f1ec4",
+          "comment": "Outstanding experience! The seller was incredibly responsive, delivered high-quality work ahead of schedule, and exceeded my expectations. Clear communication and a true professional. Will definitely work with him again! Thank you",
+          "comment_language": "en",
+          "username": "harry_ac",
+          "reviewer_country_code": "GB",
+          "created_at": "2024-02-02T09:57:45",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO51204394AC1",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 361985508,
+          "gig_slug": "do-chemistry-analytical-organic-general-physical-and-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 9,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65bcbc17a37a1c2e1d4f1ebb",
+          "comment": "Great work, easy to work with, great explanations. Will be a returning customer!",
+          "comment_language": "en",
+          "username": "jackson_carter3",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-02T09:56:07",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41E070AAF86",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 361985508,
+          "gig_slug": "do-chemistry-analytical-organic-general-physical-and-assignments",
+          "gig_category": 7,
+          "gig_sub_category": 123,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 15,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65a695d28fefc71572d7d009",
+          "comment": "My order exceeded my expectations, everything was perfectly laid out and all the requirements were met. I would 100% recommend this seller above all other options.",
+          "comment_language": "en",
+          "username": "johaniarrobino",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-16T14:45:44",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO71DE48F3983",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354152039,
+          "gig_slug": "help-you-with-your-math-algebra-calculus-and-statistics-work",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 26,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "6589b62e08c715219260c6a3",
+          "comment": "Very impressed with the results. Thank you!",
+          "comment_language": "en",
+          "username": "jamiemarker",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-26T01:15:05",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO829A91A0C46",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354152039,
+          "gig_slug": "help-you-with-your-math-algebra-calculus-and-statistics-work",
+          "gig_category": 7,
+          "gig_sub_category": 77,
+          "gig_nested_sub_category": 2430,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 52,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 7,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1,
+        "business": 4
+      },
+      "user_id": 165338761,
+      "seller_username": "uzzair_ahmad",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 7
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 165338761,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 165338761,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 354152039,
+      "category_id": 7,
+      "sub_category_id": 77,
+      "nested_sub_category_id": 2430,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "help-you-with-your-math-algebra-calculus-and-statistics-work",
+      "title": "help you with your math,algebra,calculus and statistics work",
+      "seller_name": "uzzair_ahmad",
+      "seller_id": 165338761,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2f8a764cecc6ffef6b4f00bcaf24e1fd-1702062388782/4f99f393-1683-43ce-afcd-3a2a023145c8.jpeg",
+      "seller_display_name": "Uzair",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354152039/original/56cbc22f34f0f168db4a05d15b1a1fab2ef43b16.jpeg",
+          "type": "ImageAsset",
+          "id": "354152039_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "subject",
+          "value": [
+            "algebra_i",
+            "calculus_bc",
+            "statistics"
+          ]
+        },
+        {
+          "type": "grade_level",
+          "value": [
+            "college"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 4,
+      "buying_review_rating": 5,
+      "seller_url": "/uzzair_ahmad",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 7,
+        "score": 5
+      },
+      "gig_url": "/uzzair_ahmad/help-you-with-your-math-algebra-calculus-and-statistics-work",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 361985508,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-chemistry-analytical-organic-general-physical-and-assignments",
+      "title": "do chemistry,analytical,organic,general,physical and assignments",
+      "seller_name": "uzzair_ahmad",
+      "seller_id": 165338761,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2f8a764cecc6ffef6b4f00bcaf24e1fd-1702062388782/4f99f393-1683-43ce-afcd-3a2a023145c8.jpeg",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/361985508/original/eae727a3c3bddc9e165e475de8b3a15520bbe7f8.jpeg",
+          "type": "ImageAsset",
+          "id": "361985508_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 3,
+      "buying_review_rating": 5,
+      "seller_url": "/uzzair_ahmad",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 7,
+        "score": 5
+      },
+      "gig_url": "/uzzair_ahmad/do-chemistry-analytical-organic-general-physical-and-assignments",
+      "is_seller_unavailable": false,
+      "price_i": 20,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 354050236,
+      "category_id": 7,
+      "sub_category_id": 123,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "develop-a-ready-business-plan-for-business-startup-proposal-grants",
+      "title": "develop a ready business plan for business startup, proposal, grants",
+      "seller_name": "uzzair_ahmad",
+      "seller_id": 165338761,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2f8a764cecc6ffef6b4f00bcaf24e1fd-1702062388782/4f99f393-1683-43ce-afcd-3a2a023145c8.jpeg",
+      "seller_display_name": "Uzair",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354050236/original/1416ee87b365666dde341cacfe31196531a714bd.jpeg",
+          "type": "ImageAsset",
+          "id": "354050236_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": null,
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/uzzair_ahmad",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 7,
+        "score": 5
+      },
+      "gig_url": "/uzzair_ahmad/develop-a-ready-business-plan-for-business-startup-proposal-grants",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 1,
+      "gigQueryParams": {}
+    }
+  ]
+}

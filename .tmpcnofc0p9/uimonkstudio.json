@@ -1,0 +1,757 @@
+{
+  "seller": {
+    "user": {
+      "id": "136609818",
+      "name": "uimonkstudio",
+      "isActivationCompleted": true,
+      "joinedAt": 1666434748,
+      "profile": {
+        "displayName": "Uiux Monks"
+      },
+      "address": {
+        "countryName": "Bangladesh",
+        "countryCode": "BD"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "DE",
+          "level": "BASIC"
+        },
+        {
+          "code": "ES",
+          "level": "BASIC"
+        },
+        {
+          "code": "HI",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/8abb86d56160be84ebb9cc45fbb09820-1690195224466/45eff4bc-afd5-4a95-96f6-8edb1e66653e.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "334183072"
+        },
+        {
+          "id": "341543979"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Creating digital experiences that are as unique as your brand",
+    "description": "Need creative help to create digital products that are both functional and engaging? \r\n\r\nUI Monks is a team of experts with a proven track record of success, working with startups to big companies. We believe that branding & user experience are two sides of the same coin, so we take a holistic approach to design, considering both aesthetics and ease of use.\r\n\r\nWe are dedicated to creating customized, user-friendly design solutions that meet your unique needs and objectives.\r\n\r\nTo discuss your project and explore potential collaboration for impressive results, don't hesitate to get in touch with us.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "SkillShare",
+        "certificationName": "Figma UI UX Design Essentials",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "coursera",
+        "certificationName": "Foundations of User Experience (UX) Design",
+        "year": 2019
+      },
+      {
+        "receivedFrom": "Pixency Academy",
+        "certificationName": "Professional UI UX Design",
+        "year": 2022
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "english literature",
+        "toYear": 2019,
+        "countryCode": "BD",
+        "school": "Stamford University Bangladesh",
+        "degreeTitle": "MA"
+      },
+      {
+        "degree": "diploma in graphic design",
+        "toYear": 2021,
+        "countryCode": "BD",
+        "school": "Govt. Graphic Arts Institute, Bangladesh",
+        "degreeTitle": "OTHER"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6770565f07789006b5a",
+        "name": "UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI designer"
+      },
+      {
+        "id": "617fa6650565f07789006607",
+        "name": "Mobile UI design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UI designer"
+      },
+      {
+        "id": "617fa6770565f07789006b58",
+        "name": "UI & UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "UI & UX designer"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Photoshop expert"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Adobe Illustrator expert"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Figma designer"
+      },
+      {
+        "id": "617fa6350565f077890057fc",
+        "name": "Adobe XD",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe XD expert"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Graphic designer"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website designer"
+      },
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Responsive designer"
+      },
+      {
+        "id": "617fa6650565f07789006608",
+        "name": "Mobile UX design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile UX designer"
+      },
+      {
+        "id": "617fa66d0565f07789006837",
+        "name": "Prototype design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Prototype designer"
+      },
+      {
+        "id": "617fa6780565f07789006b76",
+        "name": "User experience design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "User experience designer"
+      },
+      {
+        "id": "617fa6650565f077890065fd",
+        "name": "Mobile apps design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mobile apps designer"
+      },
+      {
+        "id": "617fa6380565f077890058c2",
+        "name": "App design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "App designer"
+      },
+      {
+        "id": "617fa66a0565f07789006756",
+        "name": "Photoshop design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Photoshop designer"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Logo designer"
+      },
+      {
+        "id": "617fa6650565f0778900660c",
+        "name": "Mockup design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Mockup designer"
+      },
+      {
+        "id": "617fa6720565f077890069be",
+        "name": "Social media branding",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Social media branding expert"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Customer service representative"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 151,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 3,
+        "subCategoryId": 468,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65169d361977650001ecd593",
+          "title": "Coffee shop website UI design",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "65169d361977650001ecd594",
+                "attachment": {
+                  "metadata": {
+                    "height": 2400,
+                    "width": 3200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/572dcd8df5453e89299c78d93fce866a-1695980796122/Travel%20mockup.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6516a33e3facd3000126078e",
+          "title": "Traveling website UI design",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "6516a6ff3facd300012608cf",
+                "attachment": {
+                  "metadata": {
+                    "height": 2400,
+                    "width": 3200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/8fab8757dd80b1575facef2ffe50ef3f-1695983325289/Travel%20mockup.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6516a5488befb700018d1b65",
+          "title": "Dance training website UI design",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "6516a5c93facd3000126086a",
+                "attachment": {
+                  "metadata": {
+                    "height": 2400,
+                    "width": 3200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d5b61ad2baba6bd89c9abe87da4f0b3e-1695983028950/Fiver.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6528ebfda945570001c82f23",
+          "title": "Future City Landing page Design",
+          "items": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "id": "6528ebfda945570001c82f24",
+                "attachment": {
+                  "metadata": {
+                    "height": 2400,
+                    "width": 3200
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/2b4125bb452af96b699675df3919766d-1697180638643/Future%20City%20Landing%20page-1.png"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 4
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1690192043
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 40
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1821263881,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6560ed3c0648f70001b7065a",
+          "comment": "I got what I wanted and more. I asked him for a challenge, he had to keep the humoristic (meme) concept I gave, but also the seriousness of a project.",
+          "comment_language": "en",
+          "username": "henrir67",
+          "reviewer_country_code": "VE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/eaefe2026a5366c56a6902dfdb986427-1676580635360/a4c1f854-a92f-497e-be51-c7e0a7aa6bda.png",
+          "created_at": "2023-11-24T18:39:23",
+          "value": 5,
+          "reviewer_country": "Venezuela",
+          "encrypted_order_id": "FO2BCF218642",
+          "score": 0.4901007,
+          "reviewer_industry": [
+            "technology",
+            "utilities_or_energy"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 341543979,
+          "gig_slug": "do-figma-website-design-website-ui-design-website-mockup-website-template",
+          "gig_category": 3,
+          "gig_sub_category": 151,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65662eadf40cc90001674726",
+          "comment": "He delivered what I wanted and more. I am very thankful of his patience because this was an exploratory experience for me, so I made tons of mistakes with the ideas for the design.\n\nI recommend him a 100% \n\nThank you.",
+          "comment_language": "en",
+          "username": "henrir67",
+          "reviewer_country_code": "VE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/eaefe2026a5366c56a6902dfdb986427-1676580635360/a4c1f854-a92f-497e-be51-c7e0a7aa6bda.png",
+          "created_at": "2023-11-28T18:42:45",
+          "value": 5,
+          "reviewer_country": "Venezuela",
+          "encrypted_order_id": "FO4236D905DC8",
+          "score": 0.41967016,
+          "reviewer_industry": [
+            "technology",
+            "utilities_or_energy"
+          ],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 334183072,
+          "gig_slug": "ui-ux-design-for-landing-page-design-website-using-figma",
+          "gig_category": 3,
+          "gig_sub_category": 468,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 7,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b7e265da9df3104e857476",
+          "comment": "great to work with!",
+          "comment_language": "en",
+          "username": "maincrypto",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/85af0e13ecaf8ab2753b5e0a16db8bc7-1692799275957/1b8ea9dc-721e-4e6c-bcdf-6836e742204e.jpeg",
+          "created_at": "2024-01-29T18:22:43",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO61800C1A382",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 334183072,
+          "gig_slug": "ui-ux-design-for-landing-page-design-website-using-figma",
+          "gig_category": 3,
+          "gig_sub_category": 468,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 147,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b74f6041e5c52d8c23469b",
+          "comment": "Good sense of project direction, fast and efficient. Highly recommended.",
+          "comment_language": "en",
+          "username": "glenn_b_harris",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-29T07:24:46",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO211FECD0DC4",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 334183072,
+          "gig_slug": "ui-ux-design-for-landing-page-design-website-using-figma",
+          "gig_category": 3,
+          "gig_sub_category": 468,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 19,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "65b3376b860ab3469ec06550",
+          "comment": "Went above and beyond and exceeded any expectations.",
+          "comment_language": "en",
+          "username": "quintonocorrea",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-26T04:41:58",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO81DF817DE82",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 334183072,
+          "gig_slug": "ui-ux-design-for-landing-page-design-website-using-figma",
+          "gig_category": 3,
+          "gig_sub_category": 468,
+          "relevancy_score": 0,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 26,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 40,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 1,
+        "business": 0
+      },
+      "user_id": 136609818,
+      "seller_username": "uimonkstudio",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 39
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "technology": "Technology",
+        "utilities_or_energy": "Energy & Utilities"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 136609818,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 136609818,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Dhaka",
+    "recent_utc_offset": -360
+  },
+  "gigsData": [
+    {
+      "gig_id": 334183072,
+      "category_id": 3,
+      "sub_category_id": 468,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "ui-ux-design-for-landing-page-design-website-using-figma",
+      "title": "design figma landing page, figma website, figma design website or website mockup",
+      "seller_name": "uimonkstudio",
+      "seller_id": 136609818,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/8abb86d56160be84ebb9cc45fbb09820-1690195224466/45eff4bc-afd5-4a95-96f6-8edb1e66653e.jpg",
+      "seller_display_name": "Uiux Monks",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/334183072/original/6faedb218482236ac9e5817d97302fdaa025e4fc.jpg",
+          "type": "ImageAsset",
+          "id": "334183072_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/334183072/original/405f41d30c309656df80ba15795669b9280bbf93.jpg",
+          "type": "ImageAsset",
+          "id": "334183072_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/334183072/original/b5a9b9dc7aea3ab654a1979144718396431c702e.jpg",
+          "type": "ImageAsset",
+          "id": "334183072_3"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 1
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "hi",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "650552d21b018100010cc4e6",
+          "discount_percentage": 5
+        },
+        {
+          "id": "650552d21b018100010cc4e7",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "platform_and_tool",
+          "value": [
+            "figma",
+            "wordpress"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 38,
+      "buying_review_rating": 5,
+      "seller_url": "/uimonkstudio",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 40,
+        "score": 4.983333
+      },
+      "gig_url": "/uimonkstudio/ui-ux-design-for-landing-page-design-website-using-figma",
+      "is_seller_unavailable": false,
+      "price_i": 70,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 341543979,
+      "category_id": 3,
+      "sub_category_id": 151,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-figma-website-design-website-ui-design-website-mockup-website-template",
+      "title": "do ui ux website design, website template, website ui, website design in figma",
+      "seller_name": "uimonkstudio",
+      "seller_id": 136609818,
+      "seller_country": "BD",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/8abb86d56160be84ebb9cc45fbb09820-1690195224466/45eff4bc-afd5-4a95-96f6-8edb1e66653e.jpg",
+      "seller_display_name": "Uiux Monks",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/341543979/original/489e1e1d0dec9fcb7c49cf3013c2df43f17cd865.jpg",
+          "type": "ImageAsset",
+          "id": "341543979_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/341543979/original/320f22139cf55ad18589c00a473e25853fa39165.jpg",
+          "type": "ImageAsset",
+          "id": "341543979_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/341543979/original/6543c4db4f037e2e65a2e3bc33ee6e8dad3822ee.jpg",
+          "type": "ImageAsset",
+          "id": "341543979_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "173958062",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/9217636a65f9804c482d49548858d1ae-1701553261/Preview-file_Shaunkolich.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "de",
+          "level": 1
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "hi",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "650fe09584a924000156ee91",
+          "discount_percentage": 5
+        },
+        {
+          "id": "650fe09584a924000156ee92",
+          "discount_percentage": 5
+        }
+      ],
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business_promotion",
+            "educational"
+          ]
+        },
+        {
+          "type": "platform_and_tool",
+          "value": [
+            "figma",
+            "wordpress",
+            "webflow"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/uimonkstudio",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 40,
+        "score": 4.983333
+      },
+      "gig_url": "/uimonkstudio/do-figma-website-design-website-ui-design-website-mockup-website-template",
+      "is_seller_unavailable": false,
+      "price_i": 95,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}
