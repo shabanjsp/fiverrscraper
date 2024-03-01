@@ -1,0 +1,523 @@
+{
+  "seller": {
+    "user": {
+      "id": "153056768",
+      "name": "lionelshiloh",
+      "isActivationCompleted": true,
+      "joinedAt": 1686074357,
+      "profile": {
+        "displayName": "Lionel S"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/4e90da6ee73c8aba4346a3ceb7c99776-1702203775207/0a99977c-5678-48aa-96ef-33c0eac2e099.jpg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "321933057"
+        },
+        {
+          "id": "322333020"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Welcome To My Profile",
+    "description": "Hi there, My name is Lionel. I am professional logo designer with 5 years of field experience. \r\n\r\nFeel free to contact me and lets get started.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "macroeconomics",
+        "toYear": 2015,
+        "countryCode": "US",
+        "school": "standford universti",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Video editor"
+      },
+      {
+        "id": "617fa6350565f077890057f7",
+        "name": "Adobe Premiere Pro",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe Premiere Pro expert"
+      },
+      {
+        "id": "617fa6350565f077890057e1",
+        "name": "Adobe After Effects",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Adobe After Effects expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 3,
+        "subCategoryId": 49,
+        "nestedCategoryId": null
+      },
+      {
+        "categoryId": 20,
+        "subCategoryId": 329,
+        "nestedCategoryId": null
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 180
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1962868411,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "6577cf8b152f1b00012f47d6",
+          "comment": "I feel like I asked for the same revisions multiple times and finally got a pretty plain logo with not a lot of thought put into it.  I think there could be a lot more personalization and skill involved with the work here. ",
+          "comment_language": "en",
+          "username": "tneideffer44",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-12T07:03:30",
+          "value": 3,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO417ACF0C184",
+          "score": 0.7919273,
+          "reviewer_industry": [
+            "medical_or_pharmaceutical"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 322333020,
+          "gig_slug": "do-professional-unique-and-modern-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "658ad5a36fc708262bc6a09b",
+          "comment": "Guys ,Believe me this guy a lot of patience and very talented . He makes things faster and unique designs it was totally worth getting it done from him. Everyone loved the design.",
+          "comment_language": "en",
+          "username": "josephrichar167",
+          "reviewer_country_code": "US",
+          "created_at": "2023-12-26T13:31:36",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO829AA65BA46",
+          "score": 0.6907395,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 322333020,
+          "gig_slug": "do-professional-unique-and-modern-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 78,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65b79d2741e5c52d8c234c9a",
+          "comment": "I literally can't say enough good!!! .the options I got back were all so fantastic I literally couldn't choose! I finally picked one . it was awesome! The communication was 10/10 & the work was too!!! RECOMMEND!!\n\n",
+          "comment_language": "en",
+          "username": "michaelpitma931",
+          "reviewer_country_code": "US",
+          "created_at": "2024-01-29T12:56:05",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO823FA4518C4",
+          "score": 0.6832351,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 322333020,
+          "gig_slug": "do-professional-unique-and-modern-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 97,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65cbae16cef38f741c584a81",
+          "comment": "This was a great experience. I provided literally the website page of our new business and they knocked it out of the park! I received 5 different types of logo and all reflected that they had reviewed our webpage. Highly recommend!\n\n",
+          "comment_language": "en",
+          "username": "shahidnasir269",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-13T18:00:03",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO51E1B23FD05",
+          "score": 0.6717812,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 322333020,
+          "gig_slug": "do-professional-unique-and-modern-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65ca87a03a97302a996c151f",
+          "comment": "Lionel created a very professional logo and social media kit for my business. I'm very satisfied, and I will definitely be back and to do more business.\n\n",
+          "comment_language": "en",
+          "username": "finleyhuntie",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-12T21:06:21",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41E1B0CF606",
+          "score": 0.6650196,
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 322333020,
+          "gig_slug": "do-professional-unique-and-modern-business-logo-design",
+          "gig_category": 3,
+          "gig_sub_category": 49,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 24,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 180,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 98,
+        "business": 4
+      },
+      "user_id": 153056768,
+      "seller_username": "lionelshiloh",
+      "star_summary": {
+        "communication_valuation": 4.8,
+        "recommend_valuation": 4.8,
+        "service_valuation": 4.8
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 2
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 9
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 165
+        }
+      ],
+      "average_valuation": 4.8,
+      "dynamicTranslations": {
+        "medical_or_pharmaceutical": "Medical & Pharmaceutical"
+      }
+    },
+    "selling_reviews": {
+      "user_id": 153056768,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 153056768,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": [
+    {
+      "gig_id": 322333020,
+      "category_id": 3,
+      "sub_category_id": 49,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-professional-unique-and-modern-business-logo-design",
+      "title": "do professional, unique and modern business logo design",
+      "seller_name": "lionelshiloh",
+      "seller_id": 153056768,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4e90da6ee73c8aba4346a3ceb7c99776-1702203775207/0a99977c-5678-48aa-96ef-33c0eac2e099.jpg",
+      "seller_display_name": "Lionel S",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/322333020/original/69c6720423683ad4ae3a91658f8625d61a1aa12a.jpeg",
+          "type": "ImageAsset",
+          "id": "322333020_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/322333020/original/09e9b350a2c42fb31758c5443aaf64af32c43ced.jpeg",
+          "type": "ImageAsset",
+          "id": "322333020_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/322333020/original/3da4a5312240a2b6aebd4aaf118eb51a76bf398a.jpeg",
+          "type": "ImageAsset",
+          "id": "322333020_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "177374754",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d98590298c8033092b991f3bc013ce16-1708869655/02%20(1).jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "177319187",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/167733b5141dd2f01fee7078b763d0bd-1708739083/IMG-20240223-WA0017.jpg",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "177222108",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/3f1562c55bb2b83bf1e668b0baa46cd8-1708553736/IMG-20240221-WA0081.jpg",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": [
+        {
+          "type": "ALGO_A"
+        }
+      ],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "style",
+          "value": [
+            "3d"
+          ]
+        },
+        {
+          "type": "logo_type",
+          "value": [
+            "monogram",
+            "wordmark",
+            "pictorial"
+          ]
+        },
+        {
+          "type": "file_format",
+          "value": [
+            "ai",
+            "jpg",
+            "pdf",
+            "png",
+            "psd",
+            "eps",
+            "cdr",
+            "svg"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 178,
+      "buying_review_rating": 4.8,
+      "seller_url": "/lionelshiloh",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 180,
+        "score": 4.8571253
+      },
+      "gig_url": "/lionelshiloh/do-professional-unique-and-modern-business-logo-design",
+      "is_seller_unavailable": false,
+      "price_i": 50,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 321933057,
+      "category_id": 20,
+      "sub_category_id": 329,
+      "nested_sub_category_id": 0,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "create-engaging-commercial-or-promotional-video-marketing-ad",
+      "title": "create engaging commercial or promotional video marketing ad",
+      "seller_name": "lionelshiloh",
+      "seller_id": 153056768,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/4e90da6ee73c8aba4346a3ceb7c99776-1702203775207/0a99977c-5678-48aa-96ef-33c0eac2e099.jpg",
+      "seller_display_name": "Lionel S",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6486130190ab6b001162cea0",
+          "id": 8522871
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/321933057/original/6c5cd2a07e77103ffc24836b59482551f78f3524.png",
+          "type": "ImageAsset",
+          "id": "321933057_1"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6486130190ab6b001162cea0",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/jevq6oxq1glxx2ksobo6",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/jevq6oxq1glxx2ksobo6.png"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "171815226",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/cpndjxaep96wqhcwlytn",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/PLACEHOLDER/cpndjxaep96wqhcwlytn.png",
+          "is_visible": true,
+          "type": "video"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "generic"
+          ]
+        },
+        {
+          "type": "video_type",
+          "value": [
+            "live_action"
+          ]
+        },
+        {
+          "type": "video_orientation",
+          "value": [
+            "any"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 2,
+      "buying_review_rating": 5,
+      "seller_url": "/lionelshiloh",
+      "seller_level": "level_two_seller",
+      "seller_rating": {
+        "count": 180,
+        "score": 4.8571253
+      },
+      "gig_url": "/lionelshiloh/create-engaging-commercial-or-promotional-video-marketing-ad",
+      "is_seller_unavailable": false,
+      "price_i": 35,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

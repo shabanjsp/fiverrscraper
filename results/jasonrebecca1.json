@@ -1,0 +1,166 @@
+{
+  "seller": {
+    "user": {
+      "id": "169089333",
+      "name": "jasonrebecca1",
+      "isActivationCompleted": true,
+      "joinedAt": 1706545715,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 293.1962868411,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 169089333,
+      "seller_username": "jasonrebecca1",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 169089333,
+      "reviews": [
+        {
+          "id": "65db93cc206a500001e3dff4",
+          "comment": "Great experience ",
+          "comment_language": "en",
+          "username": "lionelshiloh",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4e90da6ee73c8aba4346a3ceb7c99776-1702203775207/0a99977c-5678-48aa-96ef-33c0eac2e099.jpg",
+          "created_at": "2024-02-25T19:23:56",
+          "value": 5
+        },
+        {
+          "id": "65db92c799212c0001dbb6c1",
+          "comment": "great experience ",
+          "comment_language": "en",
+          "username": "jasiahblaze",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8cabc68dcb008e677c8d8bcb738c608f-1702132973819/773c6da9-4c69-4495-adce-a56747bdc980.jpg",
+          "created_at": "2024-02-25T19:19:35",
+          "value": 5
+        },
+        {
+          "id": "65db92af99212c0001dbb6b5",
+          "comment": "great experience ",
+          "comment_language": "en",
+          "username": "otiskhari712",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/317ce2b6bc275de209e2eded304383e0-1703881150528/4fc51ef3-33a0-45ad-a837-6bae0c1d685b.jpeg",
+          "created_at": "2024-02-25T19:19:11",
+          "value": 5
+        },
+        {
+          "id": "65d9fae099212c0001db155b",
+          "comment": "great experience ",
+          "comment_language": "en",
+          "username": "garymayson",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7c4965a5a4f1187e7040822986f6d9f7-1702121960099/f2e78964-1da0-4575-abf5-34ba0b6d6bf5.jpeg",
+          "created_at": "2024-02-24T14:19:12",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 169089333,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Chicago",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}
