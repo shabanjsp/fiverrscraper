@@ -1,0 +1,857 @@
+{
+  "seller": {
+    "user": {
+      "id": "160852918",
+      "name": "gull9876",
+      "isActivationCompleted": true,
+      "joinedAt": 1695864051,
+      "profile": {
+        "displayName": "Dr Gull"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "AR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ZH",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/8fbc4a2a410f810075b5d87756d199e6-1695864392249/a472a43a-391b-4c02-b473-756c9a5be923.jpeg"
+    },
+    "approvedGigsCount": 2,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "342493336"
+        },
+        {
+          "id": "356440299"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "Credibility, Quality, Service, Satisfaction",
+    "description": "Hi there! I'm a registered Medical Doctor currently pursuing my specialization at Mayo Hospital Lahore - one of the most prestigious institutions in Pakistan. Moreover, I'm an experienced and professional medical researcher and writer. Till now, my more than 40 research articles are published in high reputable journals. You can expect me to provide you with original and high-quality content, free of any kind of plagiarism. I believe in the clients' satisfaction. Try my services. You'll be glad and satisfied after hiring me. Thank you very much.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Pakistan Medical Research Council",
+        "certificationName": "Novel  researcher",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "human anatomy",
+        "toYear": 2017,
+        "countryCode": "PK",
+        "school": "Allama Iqbal Medical College",
+        "degreeTitle": "MD"
+      },
+      {
+        "degree": "healthcare management",
+        "toYear": 2023,
+        "countryCode": "PK",
+        "school": "Mayo Medical School",
+        "degreeTitle": "MD"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66d0565f07789006855",
+        "name": "Qualitative research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Qualitative researcher"
+      },
+      {
+        "id": "617fa66e0565f077890068ba",
+        "name": "Research analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Research analyst"
+      },
+      {
+        "id": "617fa6700565f0778900692c",
+        "name": "Scientific research",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Scientific researcher"
+      },
+      {
+        "id": "617fa6640565f077890065b0",
+        "name": "Medical writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Medical writer"
+      },
+      {
+        "id": "617fa6570565f07789006227",
+        "name": "Health writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Health writer"
+      },
+      {
+        "id": "617fa66d0565f07789006832",
+        "name": "Proposal writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Proposal writer"
+      },
+      {
+        "id": "617fa6710565f07789006951",
+        "name": "SEO writing",
+        "level": "INTERMEDIATE",
+        "verified": false,
+        "professionAlias": "SEO writer"
+      },
+      {
+        "id": "617fa6590565f077890062ba",
+        "name": "IBM SPSS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "IBM SPSS expert"
+      },
+      {
+        "id": "617fa66e0565f077890068a4",
+        "name": "Regression analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Regression analyst"
+      },
+      {
+        "id": "617fa63c0565f07789005a08",
+        "name": "Blog editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blog editing expert"
+      },
+      {
+        "id": "617fa64c0565f07789005ec0",
+        "name": "English proofreading",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "English proofreader"
+      },
+      {
+        "id": "617fa65e0565f07789006411",
+        "name": "Journalistic writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Journalistic writer"
+      },
+      {
+        "id": "617fa6390565f0778900591c",
+        "name": "Articles writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Articles writer"
+      },
+      {
+        "id": "617fa6390565f07789005918",
+        "name": "Article rewriting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Article rewriter"
+      },
+      {
+        "id": "617fa6390565f07789005917",
+        "name": "Article review",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Article reviewer"
+      },
+      {
+        "id": "617fa6620565f0778900653a",
+        "name": "Long form article writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Long form article article writer"
+      },
+      {
+        "id": "617fa63c0565f07789005a0e",
+        "name": "Blogspot",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Blogspot expert"
+      },
+      {
+        "id": "617fa64f0565f07789005f9f",
+        "name": "Fashion blogging",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Fashion blogger"
+      },
+      {
+        "id": "617fa64d0565f07789005efb",
+        "name": "Environmental resource management",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Environmental resource manager"
+      },
+      {
+        "id": "617fa6570565f07789006223",
+        "name": "Health advice",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Health advising"
+      },
+      {
+        "id": "617fa6570565f07789006225",
+        "name": "Health education",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Health education expert"
+      },
+      {
+        "id": "617fa63f0565f07789005afd",
+        "name": "Case studies writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Case studies writer"
+      },
+      {
+        "id": "617fa6620565f07789006518",
+        "name": "Literary analysis",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Literary analyst"
+      },
+      {
+        "id": "617fa6620565f0778900651a",
+        "name": "Literature review",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Literature review expert"
+      },
+      {
+        "id": "617fa6620565f0778900651c",
+        "name": "Literature writing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Literature writer"
+      },
+      {
+        "id": "617fa66a0565f0778900677d",
+        "name": "Plagiarism removal",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Plagiarism removal expert"
+      },
+      {
+        "id": "617fa6510565f0778900600c",
+        "name": "Fitness & nutrition",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Fitness & nutrition expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": 2767
+      },
+      {
+        "categoryId": 5,
+        "subCategoryId": 163,
+        "nestedCategoryId": 2771
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [
+        {
+          "id": "65887e2b1f9c5e000189e11f",
+          "title": "Dementia ",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "65887e2b1f9c5e000189e120",
+                "attachment": {
+                  "metadata": {
+                    "height": 978,
+                    "width": 720
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3f22a19c1bc694a9958258b167d158de-1703443888806/WhatsApp%20Image%202023-12-24%20at%2011.46.53%20PM.jpeg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "65887ff9eeb3e60001b82416",
+          "title": "Caring for caregivers ",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "65887ff9eeb3e60001b82417",
+                "attachment": {
+                  "metadata": {
+                    "height": 1053,
+                    "width": 720
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/1a636fe9edc815f242ca74af4334efd7-1703444475758/WhatsApp%20Image%202023-12-24%20at%2011.57.50%20PM.jpeg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "658881a45f96e600014b3230",
+          "title": "Forehead filler",
+          "items": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "id": "658881a45f96e600014b3231",
+                "attachment": {
+                  "metadata": {
+                    "height": 898,
+                    "width": 720
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/3d7dbefda036d759da0dec9782488973-1703444907773/WhatsApp%20Image%202023-12-25%20at%2012.05.21%20AM%20(2).jpeg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "658885015f96e600014b3313",
+          "title": "Sudden Cardiac Death ",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "658885015f96e600014b3314",
+                "attachment": {
+                  "metadata": {
+                    "height": 746,
+                    "width": 594
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/0a7e121fb8b75b87a85dad1b4111ce8d-1703445680755/WhatsApp%20Image%202023-12-25%20at%2012.18.18%20AM%20(1).jpeg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "658886ce5f96e600014b3387",
+          "title": "Traditional Chinese Medicine",
+          "items": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "id": "658886ce5f96e600014b3388",
+                "attachment": {
+                  "metadata": {
+                    "height": 1214,
+                    "width": 720
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/88255a6610a129749ca66ffccf997f69-1703446210668/WhatsApp%20Image%202023-12-25%20at%2012.26.03%20AM.jpeg"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "658888455f96e600014b33f6",
+          "title": "Confident and success",
+          "items": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "id": "658888455f96e600014b33f7",
+                "attachment": {
+                  "metadata": {
+                    "height": 893,
+                    "width": 720
+                  },
+                  "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/8e0e1dfed621fdc82ae506cbdb0d6468-1703446616770/WhatsApp%20Image%202023-12-25%20at%2012.34.43%20AM.jpeg"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "totalCount": 6
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 53
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_ONE",
+    "sellerLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.5904461879,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false,
+    "qualas_new_level_system_consumers_migration": true
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65c1136b7b1c502f9afe6309",
+          "comment": "I was blown away what I received. This is the first research paper i have received from Dr. Gull and its amazing. She wrote a concise paper with no error. Highly recommended",
+          "comment_language": "en",
+          "username": "morgan_bakerr",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/dbfd2faf7d799f460c7794b9f196905c-1708506901387/304ac05f-f1f1-4d3e-af32-0a0fa4ab5596.jpg",
+          "created_at": "2024-02-05T16:57:29",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO41804D9C384",
+          "score": 0.9061607,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 342493336,
+          "gig_slug": "write-medical-research-and-health-articles-as-a-doctor",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2771,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 164,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65fcd8a95b3dcb4fd865aef9",
+          "comment": "I was incredibly impressed with the article Dr gull wrote. It was eloquent, well researched and delivered at exactly the audience level I requested. My brief had clearly been taken on board, and I received a fantastic article in return. I would not hesitate to use Dr. gull again. Thank you Dr.",
+          "comment_language": "en",
+          "username": "morgan_bakerr",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/dbfd2faf7d799f460c7794b9f196905c-1708506901387/304ac05f-f1f1-4d3e-af32-0a0fa4ab5596.jpg",
+          "created_at": "2024-03-22T06:20:18",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO4184FA1AF84",
+          "score": 0.63490975,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 342493336,
+          "gig_slug": "write-medical-research-and-health-articles-as-a-doctor",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2771,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 164,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65fcd4da83457a6568eca181",
+          "comment": "A big thank you to the author of the texts I requested, which were very professional and really appealing from a health point of view. I am very enthusiastic and will hire  her again. The article was written with proper references and current information. The article is written in detail but concise facts. Highly recommended gig",
+          "comment_language": "en",
+          "username": "stendrajhony",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/69f278d5bc7e2408583254785f14be2f-1710850590873/0a884e02-ed6d-468e-83cb-b5d02f6e7d5e.jpg",
+          "created_at": "2024-03-22T06:20:38",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO4123BBE2642",
+          "score": 0.60218185,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342493336,
+          "gig_slug": "write-medical-research-and-health-articles-as-a-doctor",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2771,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 21,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65d5a8c61582281dd55f662b",
+          "comment": "A big thank you to the Dr. Gull, she is very professional and really appealing from a health point of view. I am very enthusiastic and will commission her again. I can only recommend it to others. Highly recommended and reliable",
+          "comment_language": "en",
+          "username": "morgan_bakerr",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/dbfd2faf7d799f460c7794b9f196905c-1708506901387/304ac05f-f1f1-4d3e-af32-0a0fa4ab5596.jpg",
+          "created_at": "2024-02-21T07:50:53",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO21E2BBD7388",
+          "score": 0.55864626,
+          "reviewer_industry": [],
+          "repeat_buyer": true,
+          "is_business": false,
+          "gig_id": 342493336,
+          "gig_slug": "write-medical-research-and-health-articles-as-a-doctor",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2771,
+          "relevancy_score": 0.5,
+          "price_range_start": 2500,
+          "price_range_end": 5000,
+          "reviews_count_as_buyer": 164,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "65f9c42b3f7ce84d0f127dfc",
+          "comment": "Dr Gull is contentious and communicative. She writes clearly and concisely. I will look forward to working with her again. Thank you for all your help!\n\n",
+          "comment_language": "en",
+          "username": "ralph_edwards",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7b909c963db456ac4af0fb504ec8faa9-1702328519838/1df94e0d-ea66-4836-9ada-c40319217b2a.jpeg",
+          "created_at": "2024-03-19T17:04:16",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO6246F6B07C6",
+          "score": 0.4832332,
+          "reviewer_industry": [
+            "financial_services_or_banking"
+          ],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 342493336,
+          "gig_slug": "write-medical-research-and-health-articles-as-a-doctor",
+          "gig_category": 5,
+          "gig_sub_category": 163,
+          "gig_nested_sub_category": 2771,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 95,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        }
+      ],
+      "has_next": true,
+      "total_count": 53,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 1
+      },
+      "user_id": 160852918,
+      "seller_username": "gull9876",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 52
+        }
+      ],
+      "average_valuation": 5,
+      "dynamicTranslations": {
+        "financial_services_or_banking": "Financial & Business Services "
+      }
+    },
+    "selling_reviews": {
+      "user_id": 160852918,
+      "reviews": [
+        {
+          "id": "655a50540ce8890001ac3384",
+          "comment": "At first we weren’t on the same page with the design but in the end I was able to complete the project.\nGood client overall!",
+          "comment_language": "en",
+          "username": "andreisfarc1",
+          "reviewer_country_code": "RO",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f58d241449ad309e255a4bccca7db655-1365457191713872136.204951/154372B7-1E9C-475C-A994-8E2B9BF29C04",
+          "created_at": "2023-11-19T18:13:40",
+          "value": 4
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 160852918,
+    "currency": "PKR",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 342493336,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2771,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "write-medical-research-and-health-articles-as-a-doctor",
+      "title": "write high quality health and medical articles as a doctor",
+      "seller_name": "gull9876",
+      "seller_id": 160852918,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/8fbc4a2a410f810075b5d87756d199e6-1695864392249/a472a43a-391b-4c02-b473-756c9a5be923.jpeg",
+      "seller_display_name": "Dr Gull",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/342493336/original/086093f2e4180798d1d7b707652c9dfac067a39b.jpg",
+          "type": "ImageAsset",
+          "id": "342493336_1"
+        },
+        {
+          "type": "VideoAsset",
+          "status": 0,
+          "attachment_id": "6522acf1bd6fe2001aad697d",
+          "id": 9252601
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/342493336/original/db7bf8f8f2fa067450d71ee62ff2789c15090295.jpg",
+          "type": "ImageAsset",
+          "id": "342493336_2"
+        }
+      ],
+      "attachments": [
+        {
+          "id": "6522acf1bd6fe2001aad697d",
+          "stream_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/wsss5yfg3ymwdorsjhoe",
+          "image_url": "https://fiverr-res.cloudinary.com/video/upload/so_3.137548,PLACEHOLDER/wsss5yfg3ymwdorsjhoe.png"
+        }
+      ],
+      "choice_eligibilities": [],
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        },
+        {
+          "code": "zh",
+          "level": 2
+        }
+      ],
+      "recurring_options": [
+        {
+          "id": "6582b21544fe5f00012a20af",
+          "discount_percentage": 10
+        }
+      ],
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "agriculture",
+            "environmental",
+            "lifestyle",
+            "medical_pharmaceutical",
+            "sports_fitness"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "professional_formal",
+            "informative",
+            "educational"
+          ]
+        },
+        {
+          "type": "article_type",
+          "value": [
+            "educational_articles",
+            "research_based_articles",
+            "comparative_reviews"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": true,
+      "buying_review_rating_count": 53,
+      "buying_review_rating": 5,
+      "seller_url": "/gull9876",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 53,
+        "score": 4.965409
+      },
+      "gig_url": "/gull9876/write-medical-research-and-health-articles-as-a-doctor",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 356440299,
+      "category_id": 5,
+      "sub_category_id": 163,
+      "nested_sub_category_id": 2767,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "provide-medical-and-health-articles-and-blog-posts-writing-service",
+      "title": "provide medical and health articles and blog posts writing service",
+      "seller_name": "gull9876",
+      "seller_id": 160852918,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/8fbc4a2a410f810075b5d87756d199e6-1695864392249/a472a43a-391b-4c02-b473-756c9a5be923.jpeg",
+      "seller_display_name": "Dr Gull",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/356440299/original/41fd7cc985863f9e3cc43c661db60b05321379f0.jpg",
+          "type": "ImageAsset",
+          "id": "356440299_1"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "es",
+          "level": 2
+        },
+        {
+          "code": "ar",
+          "level": 2
+        },
+        {
+          "code": "zh",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "language",
+          "value": [
+            "english"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "beauty_cosmetics",
+            "education",
+            "fashion_apparel",
+            "lifestyle",
+            "sports_fitness"
+          ]
+        },
+        {
+          "type": "tone",
+          "value": [
+            "professional_formal",
+            "informative",
+            "educational"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/gull9876",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 53,
+        "score": 4.965409
+      },
+      "gig_url": "/gull9876/provide-medical-and-health-articles-and-blog-posts-writing-service",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

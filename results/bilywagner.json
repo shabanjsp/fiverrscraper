@@ -1,0 +1,166 @@
+{
+  "seller": {
+    "user": {
+      "id": "164304649",
+      "name": "bilywagner",
+      "isActivationCompleted": true,
+      "joinedAt": 1700581179,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.7544274646,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 164304649,
+      "seller_username": "bilywagner",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 164304649,
+      "reviews": [
+        {
+          "id": "65bf3c8bb2f0e0000143d59b",
+          "comment": "I will be glad to always working with you,thank you so much.",
+          "comment_language": "en",
+          "username": "lizzy_fred1",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/31df94966bab9aad8d3997092bd662b1-1699731390970/ebc8d670-af53-4e06-9731-cf8b9b0ed0a3.jpg",
+          "created_at": "2024-02-04T07:28:11",
+          "value": 5
+        },
+        {
+          "id": "65a70bcdbe67470001eebc7e",
+          "comment": "Thanks for you order",
+          "comment_language": "en",
+          "username": "marilynvincent",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/883fa422b5bb5a4d114b1129200fba51-1690851689548/f0ab2775-b2e4-4378-91c3-3b565a536519.png",
+          "created_at": "2024-01-16T23:05:49",
+          "value": 5
+        },
+        {
+          "id": "659c2580369cc9000121e0b4",
+          "comment": "Good buyer",
+          "comment_language": "en",
+          "username": "alicia_writer2",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4bb24907f1595e8b2825951cb74d4405-1703932452315/1916911c-e831-45b9-9a31-583830cf391f.png",
+          "created_at": "2024-01-08T16:40:32",
+          "value": 5
+        },
+        {
+          "id": "6583f3cf5c478900012c04ea",
+          "comment": "Great buyer, we love to work with you again!",
+          "comment_language": "en",
+          "username": "carmelaparsons",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3458413e2a0e9c476103878e819ef285-1698432807806/5fe7477b-d1f6-421e-8454-4d825bb906b3.jpg",
+          "created_at": "2023-12-21T08:14:07",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 164304649,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

@@ -1,0 +1,176 @@
+{
+  "seller": {
+    "user": {
+      "id": "162688719",
+      "name": "paulahigdon",
+      "isActivationCompleted": true,
+      "joinedAt": 1698327223,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.7544274646,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 162688719,
+      "seller_username": "paulahigdon",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 162688719,
+      "reviews": [
+        {
+          "id": "65b730ef7b679300010e76cb",
+          "comment": "Good buyer.",
+          "comment_language": "en",
+          "username": "o_pro_writer",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/371753bcc6e5bb66814cb59da528a07c-1699099542754/623e67ce-ca1f-426f-8cae-5f18a7f8cc18.png",
+          "created_at": "2024-01-29T05:00:31",
+          "value": 5
+        },
+        {
+          "id": "65b249f6756b9d0001740580",
+          "comment": "Good buyer",
+          "comment_language": "en",
+          "username": "gracemarshalll",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6f1a210b4e2080a492c1936ab2cfcb69-1672143450984/dcba7931-fe51-4d13-be8e-68e24edeeece.jpg",
+          "created_at": "2024-01-25T11:45:58",
+          "value": 5
+        },
+        {
+          "id": "65ad9f48e7303e000182b129",
+          "comment": "Very pleasant experience.",
+          "comment_language": "en",
+          "username": "diana447",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/48d20628c0d40a0597f45b6ecaed0322-1691954267909/8af04816-3180-48a9-9b45-be138d007332.jpeg",
+          "created_at": "2024-01-21T22:48:40",
+          "value": 5
+        },
+        {
+          "id": "65ad9eeae7303e000182b0fc",
+          "comment": "Thank you, Paulahigdon",
+          "comment_language": "en",
+          "username": "diana447",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/48d20628c0d40a0597f45b6ecaed0322-1691954267909/8af04816-3180-48a9-9b45-be138d007332.jpeg",
+          "created_at": "2024-01-21T22:47:06",
+          "value": 5
+        },
+        {
+          "id": "65ad9e66e7303e000182b0a3",
+          "comment": "Awesome!",
+          "comment_language": "en",
+          "username": "diana447",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/48d20628c0d40a0597f45b6ecaed0322-1691954267909/8af04816-3180-48a9-9b45-be138d007332.jpeg",
+          "created_at": "2024-01-21T22:44:55",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 162688719,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": []
+}

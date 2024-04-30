@@ -1,0 +1,639 @@
+{
+  "seller": {
+    "user": {
+      "id": "163115631",
+      "name": "developerjaved",
+      "isActivationCompleted": true,
+      "joinedAt": 1698908178,
+      "profile": {
+        "displayName": "Javed Developer"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        },
+        {
+          "code": "FR",
+          "level": "CONVERSATIONAL"
+        },
+        {
+          "code": "ES",
+          "level": "BASIC"
+        },
+        {
+          "code": "PT",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/2e89ba28dc31714c829be00aeeef18ac-1631156311714238828698/JPEG_20240427_222707_3357387342537200032.jpg"
+    },
+    "approvedGigsCount": 1,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "354837772"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "👦 I'm Javed, a dedicated WordPress developer with a solid 3-year track record. I've helped 130+ businesses step into the online world successfully. \r\n\r\n\r\n🌐 My forte includes crafting WordPress sites, optimizing them for speed and search engines, and seamlessly integrating payment systems.\r\n\r\n✅ I'm well-versed in Elementor, Divi, WPBakery, and Bricks Page Builder. Whether you're in e-commerce, blogging, or showcasing your portfolio, I'll design a website that suits your needs and wows your audience.\r\n\r\n🔊 Ready to Elevate Your Online Game? Let's collaborate and bring your vision to life.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "SDLC",
+        "certificationName": "English Communication",
+        "year": 2016
+      },
+      {
+        "receivedFrom": "Peshawar Board",
+        "certificationName": "Diploma in Information Technology",
+        "year": 2018
+      },
+      {
+        "receivedFrom": "Udmey ",
+        "certificationName": "Website Security ",
+        "year": 2020
+      },
+      {
+        "receivedFrom": "Meta ( Coursera )",
+        "certificationName": "Front End Development",
+        "year": 2021
+      },
+      {
+        "receivedFrom": "ACADMIND (UDMEY)",
+        "certificationName": "MERN Stack Developer",
+        "year": 2022
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "toYear": 2019,
+        "countryCode": "PK",
+        "school": "University of Swabi",
+        "degreeTitle": "BSC"
+      },
+      {
+        "degree": "software engineer",
+        "toYear": 2022,
+        "countryCode": "PK",
+        "school": "University of Swabi",
+        "degreeTitle": "MSC"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": true,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c89",
+        "name": "Website migration",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website migration expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website developer"
+      },
+      {
+        "id": "617fa67b0565f07789006c86",
+        "name": "Website editing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website editor"
+      },
+      {
+        "id": "617fa67b0565f07789006c8f",
+        "name": "Website security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website security expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress clone expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress SEO expert"
+      },
+      {
+        "id": "617fa67d0565f07789006cf7",
+        "name": "Wordpress hosting",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress host"
+      },
+      {
+        "id": "617fa65b0565f07789006348",
+        "name": "Install WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress instalation expert"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress website developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress blog expert"
+      },
+      {
+        "id": "617fa6490565f07789005e07",
+        "name": "E-commerce development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "E-commerce developer"
+      },
+      {
+        "id": "61a4d8b4758d756a25307be9",
+        "name": "Shopify SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify SEO expert"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      },
+      {
+        "id": "617fa6710565f0778900696d",
+        "name": "Shopify dropshipping",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify dropshipping expert"
+      },
+      {
+        "id": "617fa6710565f07789006972",
+        "name": "Shopify templates",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify template expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c90",
+        "name": "Website testing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Website tester"
+      },
+      {
+        "id": "617fa67b0565f07789006c6c",
+        "name": "Webflow",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Webflow expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cd6",
+        "name": "Wix website design",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wix website designer"
+      },
+      {
+        "id": "617fa67c0565f07789006cd5",
+        "name": "Wix SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wix SEO expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "nestedCategoryId": 2609
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 9
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "sellerLevel": "LEVEL_ONE",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.5904461879,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false,
+    "qualas_new_level_system_consumers_migration": true
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "662931c0b5e8e60e4a1265e4",
+          "comment": "Working with Javed on my business website was an great experience from start to finish. His communication skills were exceptional, making it easy to discuss ideas and ensure nothing was too much trouble. Javed excelled at transforming my concepts into reality quickly and effectively. This was my first time using Fiverr for such a project, it was a great introduction and was a very smooth process. I fully recommend Javed to anyone in need of a professional and talented web developer. A+++++ Wordpress Website Services.",
+          "comment_language": "en",
+          "username": "darry_fundess",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/06207bb60ddbe5ea4d86c612f190eedd-1707852816411/f137e49d-726f-426c-8a42-ded4d227dc0b.jpg",
+          "created_at": "2024-04-24T16:24:19",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/a476d08eb3aa66f4de2c96567c2c9548-1713949156/revamp%20wordpress%20website_%20redesign%20wordpress%20website_%20elementor%20pro%20website_%20clone%20wordpress%20website_%20website%20design_%20landing%20page.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/a476d08eb3aa66f4de2c96567c2c9548-1713949156/revamp%20wordpress%20website_%20redesign%20wordpress%20website_%20elementor%20pro%20website_%20clone%20wordpress%20website_%20website%20design_%20landing%20page.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO72AE29B5847",
+          "score": 0.6446173,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354837772,
+          "gig_slug": "design-redesign-clone-duplicate-fix-customize-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 10000,
+          "reviews_count_as_buyer": 88,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "661dff7baec4c318f0e758a0",
+          "comment": "Extremely Satisfied, Javed was very responsive and knowledgeable. \nI gave him full design control and he delivered a great website more than I expected. \nHe paid attention to each and every section of my website and redesigned them in a very professional way. He's the true expert and he knows very well what a business needs. Communication with him was so easy, he was always available when I needed him. \nI would recommend him for any kind of redesign WordPress website work. He should be your top pick for your WordPress website.",
+          "comment_language": "en",
+          "username": "morgan_bakerr",
+          "reviewer_country_code": "US",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/dbfd2faf7d799f460c7794b9f196905c-1708506901387/304ac05f-f1f1-4d3e-af32-0a0fa4ab5596.jpg",
+          "created_at": "2024-04-16T04:34:54",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/57755d66cbd4e3d933152901a13498d3-1713200901/redesign%20revamp%20wordpress%20website_%20wordpress%20website_%20elementor%20pro%20website_%20wordpress%20website%20design.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/57755d66cbd4e3d933152901a13498d3-1713200901/redesign%20revamp%20wordpress%20website_%20wordpress%20website_%20elementor%20pro%20website_%20wordpress%20website%20design.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO512560E4941",
+          "score": 0.60822165,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354837772,
+          "gig_slug": "design-redesign-clone-duplicate-fix-customize-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 164,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "6603fe1b947a78661b2d336c",
+          "comment": "I can honestly say that Javed worked tirelessly for me. I appreciate him thinking outside the box to get the job completed. He is a true expert of WordPress website development. He fixed all the issues and transformed my website professionally. The delivery was super quick. I will definitely hire him again.",
+          "comment_language": "en",
+          "username": "sdiasalmeida",
+          "reviewer_country_code": "IE",
+          "created_at": "2024-03-27T11:09:12",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/7702280be3f32c25bfe98c5780b70511-1711511937/screencapture-danalto-2024-03-25-14_30_56.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/7702280be3f32c25bfe98c5780b70511-1711511937/screencapture-danalto-2024-03-25-14_30_56.png",
+          "reviewer_country": "Ireland",
+          "encrypted_order_id": "FO418588B5584",
+          "score": 0.56083095,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354837772,
+          "gig_slug": "design-redesign-clone-duplicate-fix-customize-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        },
+        {
+          "id": "662ccaed562e0e423b14f3be",
+          "comment": "Javed did a great job. My WordPress website design work was done well, timely and saved a lot of effort on my side.  He's very professional and works at a very fair Price. The seller went above and beyond to make the design perfect.  Quick Delivery, Great Work, Professional Communication and I would definitely hire him again. Top Quality WordPress website services, Recommended ✅",
+          "comment_language": "en",
+          "username": "dan_fersant",
+          "reviewer_country_code": "IE",
+          "created_at": "2024-04-27T10:10:02",
+          "value": 5,
+          "reviewer_country": "Ireland",
+          "encrypted_order_id": "FO424C872CAC8",
+          "score": 0.5063301,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354837772,
+          "gig_slug": "design-redesign-clone-duplicate-fix-customize-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 0.5,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 0.5
+        },
+        {
+          "id": "66028a544711607b3432903b",
+          "comment": "The Seller exceeded my expectations. He transformed my outdated WordPress website into a modern, professional masterpiece, demonstrating exceptional attention to detail. His work went above and beyond, addressing every aspect I needed and more. I wholeheartedly recommend him for any revamp WordPress website project. 10000% satisfaction guaranteed!",
+          "comment_language": "en",
+          "username": "cachaca_51",
+          "reviewer_country_code": "IE",
+          "created_at": "2024-03-26T08:49:25",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/fe5975ae727ed936eb2b7b99999bf5fc-1711433218/dutch%20data%20centre%20.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/fe5975ae727ed936eb2b7b99999bf5fc-1711433218/dutch%20data%20centre%20.png",
+          "reviewer_country": "Ireland",
+          "encrypted_order_id": "FO41241A00CC2",
+          "score": 0.43742228,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 354837772,
+          "gig_slug": "design-redesign-clone-duplicate-fix-customize-or-revamp-wordpress-website",
+          "gig_category": 10,
+          "gig_sub_category": 514,
+          "gig_nested_sub_category": 2609,
+          "relevancy_score": 1,
+          "price_range_start": 5000,
+          "price_range_end": 10000,
+          "reviews_count_as_buyer": 1,
+          "is_cancelled_order": false,
+          "original_relevancy_score": 1
+        }
+      ],
+      "has_next": true,
+      "total_count": 9,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 6,
+        "business": 0
+      },
+      "user_id": 163115631,
+      "seller_username": "developerjaved",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 9
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 163115631,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 163115631,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Asia/Karachi",
+    "recent_utc_offset": -300
+  },
+  "gigsData": [
+    {
+      "gig_id": 354837772,
+      "category_id": 10,
+      "sub_category_id": 514,
+      "nested_sub_category_id": 2609,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "design-redesign-clone-duplicate-fix-customize-or-revamp-wordpress-website",
+      "title": "design, redesign, clone, duplicate, fix, customize or revamp wordpress website",
+      "seller_name": "developerjaved",
+      "seller_id": 163115631,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/2e89ba28dc31714c829be00aeeef18ac-1631156311714238828698/JPEG_20240427_222707_3357387342537200032.jpg",
+      "seller_display_name": "Javed Developer",
+      "seller_online": true,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/354837772/original/88476e39a6718124b224941fff353ecc5c074213.png",
+          "type": "ImageAsset",
+          "id": "354837772_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/354837772/original/34aa9ffc45e7180e99be3fa6406674682a8faeb7.png",
+          "type": "ImageAsset",
+          "id": "354837772_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/354837772/original/421017a9a765ec2b74646925f0e8589de000c5f0.png",
+          "type": "ImageAsset",
+          "id": "354837772_3"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "179822100",
+          "image_url": "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/a476d08eb3aa66f4de2c96567c2c9548-1713949156/revamp%20wordpress%20website_%20redesign%20wordpress%20website_%20elementor%20pro%20website_%20clone%20wordpress%20website_%20website%20design_%20landing%20page.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "179540887",
+          "image_url": "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/923fd2d133e563256c8519916975af2b-1713353129/revamp%20wordpress%20website_%20redesign%20wordpress%20website.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "179468414",
+          "image_url": "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/57755d66cbd4e3d933152901a13498d3-1713200901/redesign%20revamp%20wordpress%20website_%20wordpress%20website_%20elementor%20pro%20website_%20wordpress%20website%20design.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "178700907",
+          "image_url": "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/7702280be3f32c25bfe98c5780b70511-1711511937/screencapture-danalto-2024-03-25-14_30_56.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "178658720",
+          "image_url": "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/fe5975ae727ed936eb2b7b99999bf5fc-1711433218/dutch%20data%20centre%20.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 3
+        },
+        {
+          "code": "fr",
+          "level": 2
+        },
+        {
+          "code": "es",
+          "level": 1
+        },
+        {
+          "code": "pt",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "website_type",
+          "value": [
+            "business"
+          ]
+        },
+        {
+          "type": "website_features",
+          "value": [
+            "marketing",
+            "payment",
+            "video",
+            "form",
+            "events",
+            "chat",
+            "membership",
+            "map",
+            "faq",
+            "booking"
+          ]
+        },
+        {
+          "type": "plugins",
+          "value": [
+            "adsense",
+            "akismet",
+            "all_in_one_seo_pack",
+            "amazon",
+            "aweber",
+            "clickbank",
+            "contact_form_7",
+            "facebook",
+            "getresponse",
+            "gravity_forms",
+            "instagram",
+            "linkedin",
+            "mailchimp",
+            "opencart",
+            "paypal",
+            "twitter",
+            "vimeo",
+            "w3_total_cache",
+            "woocommerce",
+            "wordpress_seo_by_yoast",
+            "youtube",
+            "elementor"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 9,
+      "buying_review_rating": 5,
+      "seller_url": "/developerjaved",
+      "seller_level": "level_one_seller",
+      "seller_rating": {
+        "count": 9,
+        "score": 5
+      },
+      "gig_url": "/developerjaved/design-redesign-clone-duplicate-fix-customize-or-revamp-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

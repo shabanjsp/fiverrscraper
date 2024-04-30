@@ -1,0 +1,458 @@
+{
+  "seller": {
+    "user": {
+      "id": "169559341",
+      "name": "smith_anna1",
+      "isActivationCompleted": true,
+      "joinedAt": 1707079930,
+      "profile": {
+        "displayName": "Smith A"
+      },
+      "address": {
+        "countryName": "United States",
+        "countryCode": "US"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "code": "ES",
+          "level": "CONVERSATIONAL"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/9e4c6b3386c9621b087a4aea44cba973-1707080880224/4f8b9ea4-e711-4b2d-95c8-53f8a06dff72.jpg"
+    },
+    "approvedGigsCount": 3,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "363446833"
+        },
+        {
+          "id": "364732657"
+        },
+        {
+          "id": "364740567"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": "Welcome to my profile, I'm a professional ecommerce expert with many years of experience in the field. I can professionally help you build a strong and reliable ecommerce website whether is Shopify store, Etsy shop, eBay listing, Amazon drop shipping store and so on. Kindly contact me now to know more information.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6710565f0778900696f",
+        "name": "Shopify marketing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify marketing expert"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Shopify developer"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 2,
+        "subCategoryId": 325,
+        "nestedCategoryId": 2405
+      },
+      {
+        "categoryId": 2,
+        "subCategoryId": 352,
+        "nestedCategoryId": 2200
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2620
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 1
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 290.7544274646,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "65d5e0c81582281dd55f6bba",
+          "comment": "I was scared to hire anna at first when I'm about to start this campaign, But i tried to give her a trial to check her Professionalism, and to my surprise ,she is one of the best I've ever met here to complete my project and make it a successful one. highly recommended",
+          "comment_language": "en",
+          "username": "juan_elcantra",
+          "reviewer_country_code": "US",
+          "created_at": "2024-02-21T13:03:03",
+          "value": 5,
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO16080E6C01",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": true,
+          "gig_id": 364732657,
+          "gig_slug": "do-crowdfunding-campaign-creation-promotion-on-gofundme-kickstarter-indiegogo",
+          "gig_category": 2,
+          "gig_sub_category": 352,
+          "gig_nested_sub_category": 2200,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 28,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": false,
+      "total_count": 1,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 0,
+        "business": 1
+      },
+      "user_id": 169559341,
+      "seller_username": "smith_anna1",
+      "star_summary": {
+        "communication_valuation": 5,
+        "quality_of_delivery_valuation": 5,
+        "value_for_money_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 1
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 169559341,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 169559341,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/New_York",
+    "recent_utc_offset": 300
+  },
+  "gigsData": [
+    {
+      "gig_id": 364732657,
+      "category_id": 2,
+      "sub_category_id": 352,
+      "nested_sub_category_id": 2200,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-crowdfunding-campaign-creation-promotion-on-gofundme-kickstarter-indiegogo",
+      "title": "do crowdfunding campaign promotion gofundme promotion, kickstarter, indiegogo",
+      "seller_name": "smith_anna1",
+      "seller_id": 169559341,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9e4c6b3386c9621b087a4aea44cba973-1707080880224/4f8b9ea4-e711-4b2d-95c8-53f8a06dff72.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/364732657/original/d5b73736c93bb6599b79cde63ffa288981a81f10.png",
+          "type": "ImageAsset",
+          "id": "364732657_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/364732657/original/991d1ac4afc4a47002b128d640742820f3c68617.png",
+          "type": "ImageAsset",
+          "id": "364732657_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/364732657/original/2bf7e3b1b63a4f50c13179b82fbf8c946f5a38c2.png",
+          "type": "ImageAsset",
+          "id": "364732657_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "k",
+            "gofundme"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 1,
+      "buying_review_rating": 5,
+      "seller_url": "/smith_anna1",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/smith_anna1/do-crowdfunding-campaign-creation-promotion-on-gofundme-kickstarter-indiegogo",
+      "is_seller_unavailable": false,
+      "price_i": 5,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 363446833,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2620,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "migrate-woocommerce-to-shopify-or-any-website-with-similar-design",
+      "title": "migrate woocommerce to shopify, etsy, ebay, wix, woocomerce to shopify store",
+      "seller_name": "smith_anna1",
+      "seller_id": 169559341,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9e4c6b3386c9621b087a4aea44cba973-1707080880224/4f8b9ea4-e711-4b2d-95c8-53f8a06dff72.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/363446833/original/c16fd6aab85bcaa6cb6d35b07aaea4d7d4a52293.png",
+          "type": "ImageAsset",
+          "id": "363446833_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/363446833/original/29ff99ae0d5fef82978b358befdec7f5217d55e4.png",
+          "type": "ImageAsset",
+          "id": "363446833_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/363446833/original/a95d57c432217b9fac439fca52debeeaad2bbb7a.png",
+          "type": "ImageAsset",
+          "id": "363446833_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "shopify"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business",
+            "landing_page",
+            "education",
+            "dropshipping"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/smith_anna1",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/smith_anna1/migrate-woocommerce-to-shopify-or-any-website-with-similar-design",
+      "is_seller_unavailable": false,
+      "price_i": 80,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 364740567,
+      "category_id": 2,
+      "sub_category_id": 325,
+      "nested_sub_category_id": 2405,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "promote-shopify-dropshipping-shopify-marketing-sales-funnel-shopify-promotion",
+      "title": "promote shopify dropshipping, shopify marketing sales funnel, shopify promotion",
+      "seller_name": "smith_anna1",
+      "seller_id": 169559341,
+      "seller_country": "US",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9e4c6b3386c9621b087a4aea44cba973-1707080880224/4f8b9ea4-e711-4b2d-95c8-53f8a06dff72.jpg",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/364740567/original/bfa3fdc082af429af2fd07c8778772ca155b2e02.png",
+          "type": "ImageAsset",
+          "id": "364740567_1"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs2/364740567/original/fff2149a25d09a157b255f821f323b100113494e.png",
+          "type": "ImageAsset",
+          "id": "364740567_2"
+        },
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs3/364740567/original/4e060cfda94e71fd0b9ab76a77d905550de4b4b4.png",
+          "type": "ImageAsset",
+          "id": "364740567_3"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 4
+        },
+        {
+          "code": "es",
+          "level": 2
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform_type",
+          "value": [
+            "aliexpress",
+            "shopify",
+            "instagram"
+          ]
+        },
+        {
+          "type": "industry",
+          "value": [
+            "animals_pets",
+            "art_design",
+            "beauty_cosmetics",
+            "fashion_apparel",
+            "sports_fitness"
+          ]
+        },
+        {
+          "type": "promotion_method",
+          "value": [
+            "marketing_funnel",
+            "sales_funnel"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 0,
+      "buying_review_rating": 0,
+      "seller_url": "/smith_anna1",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 1,
+        "score": 5
+      },
+      "gig_url": "/smith_anna1/promote-shopify-dropshipping-shopify-marketing-sales-funnel-shopify-promotion",
+      "is_seller_unavailable": false,
+      "price_i": 10,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

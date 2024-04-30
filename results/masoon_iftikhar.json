@@ -1,0 +1,793 @@
+{
+  "seller": {
+    "user": {
+      "id": "66602051",
+      "name": "masoon_iftikhar",
+      "isActivationCompleted": true,
+      "joinedAt": 1513553160,
+      "profile": {
+        "displayName": "Muhammad R"
+      },
+      "address": {
+        "countryName": "Pakistan",
+        "countryCode": "PK"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "BASIC"
+        }
+      ],
+      "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/98674d1deb59bcd39802c2a973f51254-1513557954041/2dd57598-4828-49d1-af33-b4e5eca49014.JPG"
+    },
+    "approvedGigsCount": 4,
+    "gigs": {
+      "nodes": [
+        {
+          "id": "105611896"
+        },
+        {
+          "id": "106420987"
+        },
+        {
+          "id": "109771940"
+        },
+        {
+          "id": "109640764"
+        }
+      ]
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": "WordPress Multisite, Designer, Speed and Development",
+    "description": "I am a WordPress Professional with more than 5+ years Experience working on multiple WordPress Sites. I can help you on WordPress Transfer, Customization, Bug fixing, Woo Commerce and also make your personal or business WordPress Websites more efficient and presentable.",
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": true,
+    "profileBackgroundImage": null,
+    "certifications": [
+      {
+        "receivedFrom": "Corvit",
+        "certificationName": "SEO Optimization",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "human resources",
+        "toYear": 2014,
+        "countryCode": "PK",
+        "school": "institute of management sciences",
+        "degreeTitle": "MBA"
+      }
+    ],
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6760565f07789006aeb",
+        "name": "Theme development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Theme developer"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress expert"
+      },
+      {
+        "id": "617fa6440565f07789005c89",
+        "name": "cPanel",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "cPanel expert"
+      },
+      {
+        "id": "617fa67c0565f07789006cb3",
+        "name": "WHMCS",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WHMCS expert"
+      },
+      {
+        "id": "617fa6590565f07789006290",
+        "name": "HTML",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Html expert"
+      },
+      {
+        "id": "617fa6450565f07789005cd6",
+        "name": "Customer support",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Customer support agent"
+      },
+      {
+        "id": "617fa67d0565f07789006cfb",
+        "name": "WordPress security",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "WordPress security expert"
+      },
+      {
+        "id": "617fa6720565f077890069db",
+        "name": "Software testing",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Software tester"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Wordpress SEO expert"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "CSS3 expert"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "Web developer"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "verified": false,
+        "professionAlias": "SEO expert"
+      }
+    ],
+    "gigCategories": [
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2619
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2620
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2625
+      },
+      {
+        "categoryId": 10,
+        "subCategoryId": 515,
+        "nestedCategoryId": 2626
+      }
+    ],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1647181436
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 781
+    },
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": "LEVEL_TWO",
+    "sellerLevel": "LOW_QUALITY",
+    "responseTime": {
+      "inHours": 1
+    },
+    "testimonials": [],
+    "agency": null
+  },
+  "currency": {
+    "name": "PKR",
+    "rate": 292.5904461879,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false,
+    "qualas_new_level_system_consumers_migration": true
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [
+        {
+          "id": "661757ba8f7d0b48c8d1f754",
+          "comment": "Everything was perfect thanks",
+          "comment_language": "en",
+          "username": "phillip_aqui",
+          "reviewer_country_code": "US",
+          "created_at": "2024-04-12T09:21:39",
+          "value": 5,
+          "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/5b087982e940a01f983633b227dd1ca1-1712611550/Screenshot%20Capture%20-%202024-03-11%20-%2010-42-03.png",
+          "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/5b087982e940a01f983633b227dd1ca1-1712611550/Screenshot%20Capture%20-%202024-03-11%20-%2010-42-03.png",
+          "reviewer_country": "United States",
+          "encrypted_order_id": "FO82ABBFD1A46",
+          "score": 0,
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 109640764,
+          "gig_slug": "do-wordpress-speed-optimization-by-amazon-s3-and-cloudflare",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2625,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 5,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "660e599272fa154417983df4",
+          "comment": "He fulfilled his commitment and addressed my concerns with respect and kindness. The website's speed has significantly improved, and I'm confident it will lead to better rankings. Thank you once again! I highly recommend his services!",
+          "comment_language": "en",
+          "username": "methenymonds",
+          "reviewer_country_code": "GB",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/77cfe8627ad6e8146c9fdfe25e557aa9-1711607370222/0140b300-2172-4734-8edd-f62bffd55b88.jpg",
+          "created_at": "2024-04-04T08:23:53",
+          "value": 5,
+          "reviewer_country": "United Kingdom",
+          "encrypted_order_id": "FO72493DC4AC5",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 109640764,
+          "gig_slug": "do-wordpress-speed-optimization-by-amazon-s3-and-cloudflare",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2625,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 34,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "660e58e972fa154417983de1",
+          "comment": "Excellent performance, fantastic work, and superb communication.",
+          "comment_language": "en",
+          "username": "enigmamoe",
+          "reviewer_country_code": "DE",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/861e45d10ac6ad8df4d7660cd4004316-1711619229750/41722517-d555-4d42-abcf-69d2811b6849.jpg",
+          "created_at": "2024-04-04T08:23:47",
+          "value": 5,
+          "reviewer_country": "Germany",
+          "encrypted_order_id": "FO51E7B3BD785",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 109640764,
+          "gig_slug": "do-wordpress-speed-optimization-by-amazon-s3-and-cloudflare",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2625,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 8,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "660e582472fa154417983dcc",
+          "comment": "Very cooperative and efficient! He improved our performance from the low 50s to the high 90s in less than 24 hours. I'll definitely engage him again for other clients! Thanks!",
+          "comment_language": "en",
+          "username": "hallen_jessica",
+          "reviewer_country_code": "AU",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5cf71c187aa486487ae8b43fdc9f7fb1-1711892298277/160da3fe-6b29-4579-be35-22c72a6aee1a.jpg",
+          "created_at": "2024-04-04T08:23:42",
+          "value": 5,
+          "reviewer_country": "Australia",
+          "encrypted_order_id": "FO31249F383C3",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 109640764,
+          "gig_slug": "do-wordpress-speed-optimization-by-amazon-s3-and-cloudflare",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2625,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 11,
+          "is_cancelled_order": false
+        },
+        {
+          "id": "660e56e87d627d04261cd1b2",
+          "comment": "Seller was highly responsive and well-informed. Communication and collaboration were effortless.",
+          "comment_language": "en",
+          "username": "jacksonmason244",
+          "reviewer_country_code": "NL",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4504945f3971eb4d0544b02e1f816adc-1711911606152/a14369b7-687d-4155-bb79-0629b5e905ab.jpg",
+          "created_at": "2024-04-04T08:23:18",
+          "value": 5,
+          "reviewer_country": "The Netherlands",
+          "encrypted_order_id": "FO82493EACCC4",
+          "score": 0,
+          "reviewer_industry": [],
+          "repeat_buyer": false,
+          "is_business": false,
+          "gig_id": 109640764,
+          "gig_slug": "do-wordpress-speed-optimization-by-amazon-s3-and-cloudflare",
+          "gig_category": 10,
+          "gig_sub_category": 515,
+          "gig_nested_sub_category": 2625,
+          "relevancy_score": 0,
+          "price_range_start": 1000,
+          "price_range_end": 2500,
+          "reviews_count_as_buyer": 3,
+          "is_cancelled_order": false
+        }
+      ],
+      "has_next": true,
+      "total_count": 781,
+      "reviews_as_seller": true,
+      "filters_counters": {
+        "work_sample": 174,
+        "business": 62
+      },
+      "user_id": 66602051,
+      "seller_username": "masoon_iftikhar",
+      "star_summary": {
+        "communication_valuation": 5,
+        "recommend_valuation": 5,
+        "service_valuation": 5
+      },
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 1
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 3
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 10
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 767
+        }
+      ],
+      "average_valuation": 5
+    },
+    "selling_reviews": {
+      "user_id": 66602051,
+      "reviews": [],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 66602051,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "Europe/Berlin",
+    "recent_utc_offset": -120
+  },
+  "gigsData": [
+    {
+      "gig_id": 106420987,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2620,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "move-single-or-multisite-wordpress-migration-in-1-hour",
+      "title": "move, migrate, transfer multisite wordpress migration 1 hour",
+      "seller_name": "masoon_iftikhar",
+      "seller_id": 66602051,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/98674d1deb59bcd39802c2a973f51254-1513557954041/2dd57598-4828-49d1-af33-b4e5eca49014.JPG",
+      "seller_display_name": "Muhammad R",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/106420987/original/04b0894a61606ac3a7fb099b8b4b6e5381d5dc26.png",
+          "type": "ImageAsset",
+          "id": "106420987_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "170289908",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4b95af27e4e7c7cf63bd80d5adfe1bb5-1694252278/screencapture-whatsmydns-me-2023-09-03-20_57_49.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170058726",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b75a1d76d06ca8401ec71b9f0fdd7543-1693814743/screencapture-whatsmydns-me-2023-09-03-00_45_13.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170042545",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/caa713228f1cf2d60d41b944f1144d87-1693767503/screencapture-whatsmydns-me-2023-09-03-20_57_49.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "170013748",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/33330646855ba3fb67b4535110375fb8-1693694742/screencapture-whatsmydns-me-2023-09-03-00_45_13.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "169970573",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/8f0a9ce2a5b7dd8f678b1510be00fc1b-1693600815/screencapture-whatsmydns-me-2023-09-01-22_38_51.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "wordpress"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business",
+            "landing_page",
+            "blog",
+            "education"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 442,
+      "buying_review_rating": 5,
+      "seller_url": "/masoon_iftikhar",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 781,
+        "score": 4.9735384
+      },
+      "gig_url": "/masoon_iftikhar/move-single-or-multisite-wordpress-migration-in-1-hour",
+      "is_seller_unavailable": false,
+      "price_i": 25,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 109771940,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2619,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "fix-wordpress-standalone-multisite-website-issues-or-errors",
+      "title": "fix wordpress standalone, multisite website issues or errors",
+      "seller_name": "masoon_iftikhar",
+      "seller_id": 66602051,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/98674d1deb59bcd39802c2a973f51254-1513557954041/2dd57598-4828-49d1-af33-b4e5eca49014.JPG",
+      "seller_display_name": "Muhammad R",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/109771940/original/eaac4b73bbf9c8a42bf92558dbdfe3f5ad2e08f3.png",
+          "type": "ImageAsset",
+          "id": "109771940_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "149739957",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/f80433dd032361347d58ad6503a0cf3a-1656619885/done.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "138717944",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4d393953b1f0d71aff37663c4c795dcf-1636407809/screencapture-test-tmtools-de-wp-login-php-2021-11-08-22_42_45.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "123360003",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/e0de2158647d28c14df3d303c62f7da0-1608243234/screencapture-comprehensivebehavioralservices-play-therapy-2020-12-17-23_13_05.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "116542352",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/486c608ba406f661b91c8a1fb091d20d-1594819797/login.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "113573760",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/4ae73586b496ef4a617a4d5e5c927eda-1588855334/screencapture-lifeinsaudiarabia-hello-world-2020-05-07-14_40_48.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "wordpress"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business",
+            "landing_page",
+            "blog",
+            "education"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 121,
+      "buying_review_rating": 5,
+      "seller_url": "/masoon_iftikhar",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 781,
+        "score": 4.9735384
+      },
+      "gig_url": "/masoon_iftikhar/fix-wordpress-standalone-multisite-website-issues-or-errors",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 105611896,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2626,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "remove-malware-and-secure-wordpress-website",
+      "title": "do wordpress malware removal, fix and secure hacked website",
+      "seller_name": "masoon_iftikhar",
+      "seller_id": 66602051,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/98674d1deb59bcd39802c2a973f51254-1513557954041/2dd57598-4828-49d1-af33-b4e5eca49014.JPG",
+      "seller_display_name": "Muhammad R",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/105611896/original/39b42af1b9b2023a6e17367f34fd626398bdfb4d.jpg",
+          "type": "ImageAsset",
+          "id": "105611896_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "114755479",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/d17f80252cbef47ed5d86e282f42ed3b-1591200115/all%20clean.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "113564580",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/35bffaf9cba7608ce37dd38abb71d316-1588837753/up.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "113551416",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/b06ff1c3f9094bc45689403777fe66b8-1588803633/up.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "113473635",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/c396a09fc23e2a65fef43a2ab492f334-1588665734/up.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "113455899",
+          "image_url": "https://fiverr-res.cloudinary.com/PLACEHOLDER,q_auto,f_auto/attachments/delivery/asset/57296aa066634752d29efc48eea18c0e-1588622088/up.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "wordpress"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business",
+            "landing_page",
+            "blog",
+            "education"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 109,
+      "buying_review_rating": 5,
+      "seller_url": "/masoon_iftikhar",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 781,
+        "score": 4.9735384
+      },
+      "gig_url": "/masoon_iftikhar/remove-malware-and-secure-wordpress-website",
+      "is_seller_unavailable": false,
+      "price_i": 15,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    },
+    {
+      "gig_id": 109640764,
+      "category_id": 10,
+      "sub_category_id": 515,
+      "nested_sub_category_id": 2625,
+      "is_pro": false,
+      "is_featured": false,
+      "cached_slug": "do-wordpress-speed-optimization-by-amazon-s3-and-cloudflare",
+      "title": "do wordpress website google page speed optimization and fix core web vitals",
+      "seller_name": "masoon_iftikhar",
+      "seller_id": 66602051,
+      "seller_country": "PK",
+      "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/98674d1deb59bcd39802c2a973f51254-1513557954041/2dd57598-4828-49d1-af33-b4e5eca49014.JPG",
+      "seller_display_name": "Muhammad R",
+      "seller_online": false,
+      "status": "APPROVED",
+      "offer_consultation": false,
+      "assets": [
+        {
+          "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/109640764/original/3faff61ea9edaa7a18808bc6f895e27ee5f8e818.jpg",
+          "type": "ImageAsset",
+          "id": "109640764_1"
+        }
+      ],
+      "filtered_delivery_attachments": [
+        {
+          "id": "179211862",
+          "image_url": "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/5b087982e940a01f983633b227dd1ca1-1712611550/Screenshot%20Capture%20-%202024-03-11%20-%2010-42-03.png",
+          "is_visible": true,
+          "type": "image"
+        },
+        {
+          "id": "178949700",
+          "image_url": "https://fiverr-res.cloudinary.com/image/upload/PLACEHOLDER,q_auto,f_auto/v1/attachments/delivery/asset/01e2d9e8e38b8cb0eb9b101fd82f7f7e-1712056719/Screenshot%20Capture%20-%202024-03-02%20-%2018-41-57%20%281%29.png",
+          "is_visible": true,
+          "type": "image"
+        }
+      ],
+      "choice_eligibilities": null,
+      "seller_languages": [
+        {
+          "code": "en",
+          "level": 1
+        }
+      ],
+      "recurring_options": null,
+      "metadata": [
+        {
+          "type": "platform",
+          "value": [
+            "wordpress"
+          ]
+        },
+        {
+          "type": "website_type",
+          "value": [
+            "e_commerce",
+            "business",
+            "landing_page",
+            "blog",
+            "education"
+          ]
+        }
+      ],
+      "personalized_pricing_fail": false,
+      "has_recurring_option": false,
+      "buying_review_rating_count": 74,
+      "buying_review_rating": 5,
+      "seller_url": "/masoon_iftikhar",
+      "seller_level": "",
+      "seller_rating": {
+        "count": 781,
+        "score": 4.9735384
+      },
+      "gig_url": "/masoon_iftikhar/do-wordpress-speed-optimization-by-amazon-s3-and-cloudflare",
+      "is_seller_unavailable": false,
+      "price_i": 45,
+      "package_i": 1,
+      "extra_fast": false,
+      "num_of_packages": 3,
+      "gigQueryParams": {}
+    }
+  ]
+}

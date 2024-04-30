@@ -1,0 +1,150 @@
+{
+  "seller": {
+    "user": {
+      "id": "71291624",
+      "name": "ianshemesh712",
+      "isActivationCompleted": true,
+      "joinedAt": 1535212611,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Canada",
+        "countryCode": "CA"
+      },
+      "languages": [],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "sellerLevel": null,
+    "responseTime": {
+      "inHours": 0
+    },
+    "testimonials": [],
+    "consultations": {
+      "freeConsultationsEligible": false
+    },
+    "schedulingSettings": null,
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false,
+    "qualas_new_level_system_consumers_migration": true
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 71291624,
+      "seller_username": "ianshemesh712",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 71291624,
+      "reviews": [
+        {
+          "id": "65feb183f9db280001d909da",
+          "comment": "A pleasure to work with you. Thank you so much :)",
+          "comment_language": "en",
+          "username": "dev_xpress",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6682285e99340853f090a4a4fc66ad16-1701342318110/6b8ccccd-1c40-4f77-a6ef-05da7651ba2b.jpg",
+          "created_at": "2024-03-23T10:40:04",
+          "value": 5
+        },
+        {
+          "id": "659d6ea56020550001b5c304",
+          "comment": "Order Automatically completed by Fiverr he thought I did this and I also mentioned him I will send you the revision in the chat but he didn't check my message and get so rude and put a bad review I better know but still I sent all the final files whatever he ordered for. Some misconceptions from the client side other than that good experience!",
+          "comment_language": "en",
+          "username": "jin_designer",
+          "reviewer_country_code": "PK",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/458511c5f8680451d5134db19d5b9ec7-1691330640888/1ba8a533-9e48-4c68-a3bd-6ba358d104f5.jpg",
+          "created_at": "2024-01-09T16:04:55",
+          "value": 3
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": false
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 71291624,
+    "currency": "CAD",
+    "locale": "en-US",
+    "timezone": "America/Toronto",
+    "recent_utc_offset": 240
+  },
+  "gigsData": []
+}

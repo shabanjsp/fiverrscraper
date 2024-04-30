@@ -1,0 +1,179 @@
+{
+  "seller": {
+    "user": {
+      "id": "150190011",
+      "name": "kaneeking",
+      "isActivationCompleted": true,
+      "joinedAt": 1682594092,
+      "profile": {
+        "displayName": null
+      },
+      "address": {
+        "countryName": "Turkey",
+        "countryCode": "TR"
+      },
+      "languages": [
+        {
+          "code": "EN",
+          "level": "FLUENT"
+        }
+      ],
+      "profileImageUrl": null
+    },
+    "approvedGigsCount": 0,
+    "gigs": {
+      "nodes": []
+    },
+    "notableClients": [],
+    "isActive": true,
+    "introVideo": {
+      "url": null
+    },
+    "oneLinerTitle": null,
+    "description": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "isHighlyResponsive": false,
+    "profileBackgroundImage": null,
+    "certifications": [],
+    "activeEducations": [],
+    "activeStructuredSkills": [],
+    "gigCategories": [],
+    "isPro": false,
+    "proSubCategories": [],
+    "portfolios": {
+      "nodes": [],
+      "totalCount": 0
+    },
+    "workExperiences": {
+      "nodes": []
+    },
+    "onlinePresences": [],
+    "professionalPresences": [],
+    "courses": {
+      "nodes": []
+    },
+    "rating": null,
+    "isOnVacation": false,
+    "vacation": null,
+    "achievementLevel": null,
+    "sellerLevel": null,
+    "responseTime": null,
+    "testimonials": [],
+    "agency": null
+  },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "grizzlies_trader_details_displaying": false,
+    "qualas_new_level_system_consumers_migration": true
+  },
+  "reviewsData": {
+    "buying_reviews": {
+      "reviews": [],
+      "has_next": false,
+      "total_count": 0,
+      "reviews_as_seller": true,
+      "filters_counters": {},
+      "user_id": 150190011,
+      "seller_username": "kaneeking",
+      "star_summary": {},
+      "breakdown": [
+        {
+          "average_valuation_value": 1,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 2,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 3,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 4,
+          "count": 0
+        },
+        {
+          "average_valuation_value": 5,
+          "count": 0
+        }
+      ]
+    },
+    "selling_reviews": {
+      "user_id": 150190011,
+      "reviews": [
+        {
+          "id": "6614ea3e19e2d6000124c39e",
+          "comment": "Outstanding Experience! Thank you so much.",
+          "comment_language": "en",
+          "username": "dotweb01",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/24cfb0dd7d4e2ede4f5f20afaeba2cdd-1696238903476/ac9b5d1c-14d5-4676-a607-038a35f57f45.png",
+          "created_at": "2024-04-09T07:11:58",
+          "value": 5
+        },
+        {
+          "id": "660f8b5fe0dffd0001dfd025",
+          "comment": "Great buyer, Amazing Experience! Thanks so much.",
+          "comment_language": "en",
+          "username": "sm_techno",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/94e3269d77bf6f72418281f021012757-1696498553804/3c10a677-b0fc-4535-801f-975400dab012.jpg",
+          "created_at": "2024-04-05T05:25:51",
+          "value": 5
+        },
+        {
+          "id": "65e1b1ba45b1dd0001b7e5bb",
+          "comment": "Kane is a great buyer. I am so happy to work with him. Thank you, Kane.",
+          "comment_language": "en",
+          "username": "app_cake",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/18fabe32daebf4a59d25157fa513c203-1712957624477/04e2f6a1-2558-412b-8e70-0f0d1a343162.png",
+          "created_at": "2024-03-01T10:45:14",
+          "value": 5
+        },
+        {
+          "id": "65b7c1157b679300010ec6b8",
+          "comment": "Thank you for the kind words; they motivate me to work even harder.",
+          "comment_language": "en",
+          "username": "tanvir7225",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/fc1f536650f8743a4967a93a8fb56ad0-1681894379546/e70dc76b-5178-4223-bece-632bf4b595c2.jpg",
+          "created_at": "2024-01-29T15:15:33",
+          "value": 5
+        },
+        {
+          "id": "65b282eb756b9d0001743122",
+          "comment": "Great Buyer.",
+          "comment_language": "en",
+          "username": "webtanzila",
+          "reviewer_country_code": "BD",
+          "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7069942c823f66a193155e772e879573-1688812039855/5a969119-e2d2-49e8-a693-feaaa1c5c9d5.jpg",
+          "created_at": "2024-01-25T15:48:59",
+          "value": 5
+        }
+      ],
+      "total_count": null,
+      "average_valuation": null,
+      "reviews_as_seller": false,
+      "has_next": true
+    }
+  },
+  "consultationData": {},
+  "localizationData": {
+    "user_id": 150190011,
+    "currency": "USD",
+    "locale": "en-US",
+    "timezone": "America/Denver",
+    "recent_utc_offset": 360
+  },
+  "gigsData": []
+}
